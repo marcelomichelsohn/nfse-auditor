@@ -1,0 +1,39 @@
+        Art. 62. The Union, the States, the Federal District, and the Municipalities are required to:       Effects to take place
+        I - adapt the current authorizing systems and applications for simplified issuance of electronic tax documents for use of a standardized layout,
+  that allows taxpayers to provide the data relating to the IBS and the CBS necessary for the assessment of these taxes; and
+
+        II - share the electronic tax documents, after receipt, validation, and authorization, with the national common-use environment of the IBS Management
+  Committee and the tax administrations of the Union, the States, the Federal District, and the Municipalities.
+
+        § 1º For purposes of the caput of this article, the Municipalities and the Federal District are required, as of January 1, 2026, to:
+
+        I - authorize their taxpayers to issue the national-standard Nota Fiscal de Serviços Eletrônica (NFS-e) in the national environment or, in the case of
+  having their own issuing system, share the electronic tax documents generated, in accordance with a standardized layout, with the national data environment of the NFS-e; and
+
+        II - share the content of other forms of electronic declaration, in accordance with a standardized layout defined in the regulation, with the national data
+  environment of the NFS-e.
+
+        § 2º The provisions of § 1º of this article apply until December 31, 2032.
+
+        § 3º The data of the national centralizing environment of the NFS-e must be immediately shared in the national environment under the terms of item II of § 1º
+  of this article.
+
+        § 4º The standard and layout referred to in items I and II of § 1º of this article are those defined in an agreement entered into between the tax administration of the
+  Union, the Federal District, and the Municipalities that established the NFS-e, developed and managed by the Comitê Gestor da Nota Fiscal de Serviços Eletrônica de padrão
+  nacional (CGNFS-e - National Standard Electronic Service Invoice Management Committee).
+
+          § 5º The national data environment of the NFS-e is the repository that ensures the integrity and availability of the information contained in the shared
+  tax documents.
+
+         § 6º The IBS Management Committee and the RFB may define alternative solutions to the NFS-e platform, subject to adoption of the national standard NFS-e layout
+  for purposes of sharing in the national environment.
+
+        § 7º Failure to comply with the provisions of the caput of this article shall result in the temporary suspension of voluntary transfers.
+
+                                                                                   CHAPTER IV
+
+                                                                    OF THE IBS AND THE CBS ON IMPORTS
+
+                                                                                      Section I
+
+                                                                            Of the Taxable Event

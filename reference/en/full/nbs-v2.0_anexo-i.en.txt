@@ -1,0 +1,2983 @@
+(Fl. 1 of Annex I of Joint Ordinance RFB/SCS No.     , of December, 2018.)
+
+
+
+
+                                                    ANNEX I
+
+
+
+
+   Brazilian Nomenclature of Services, Intangibles and Other Operations that Produce Variations in
+                                          Net Worth (NBS)
+                                             Version 2.0
+(Fl. 2 of Annex I of Joint Ordinance RFB/SCS No.     , of December, 2018.)
+
+
+                                                    SUMMARY
+
+
+FORMATION OF THE NBS CODE
+GENERAL RULES FOR THE INTERPRETATION OF THE NBS (RGS)
+
+
+SECTION I - CONSTRUCTION SERVICES
+Chapter 1 - Construction services
+
+SECTION II - INTERMEDIATION SERVICES IN THE DISTRIBUTION OF GOODS; CUSTOMS CLEARANCE
+SERVICES; PROVISION OF FOOD AND BEVERAGES AND ACCOMMODATION SERVICES; TRANSPORT
+SERVICES AND PUBLIC UTILITY DISTRIBUTION SERVICES
+Chapter 2 - Intermediation services in the distribution of goods; customs clearance services;
+trade
+Chapter 3 - Provision of food and beverages and accommodation services
+Chapter 4 - Passenger transport services
+Chapter 5 - Freight transport services
+Chapter 6 - Transport support services
+Chapter 7 - Postal services; document or parcel collection, dispatch or delivery services;
+courier services
+Chapter 8 - Electricity transmission and distribution services; gas and water distribution services
+
+SECTION III - FINANCIAL SERVICES AND RELATED SERVICES; REAL ESTATE SERVICES;
+OPERATING LEASING AND INTELLECTUAL PROPERTY
+Chapter 9 - Financial services and related services
+Chapter 10 - Real estate services
+Chapter 11 - Operating leasing, intellectual property, franchises and other rights
+
+SECTION IV - BUSINESS AND PRODUCTION SERVICES
+Chapter 12 - Research and development services
+Chapter 13 - Legal and accounting services
+Chapter 14 - Professional, technical and business services (except research and development,
+information technology and legal and accounting services)
+Chapter 15 - Information technology services
+Chapter 16 - Reserved for possible future use
+Chapter 17 - Telecommunications, broadcasting and information supply services
+Chapter 18 - Business support activities services
+Chapter 19 - Support services to agriculture, livestock farming, forestry, fishing, aquaculture, mineral extraction and
+to electricity, gas and water transmission and distribution
+(Fl. 3 of Annex I of Joint Ordinance RFB/SCS No.   , of December, 2018.)
+
+
+Chapter 20 - Maintenance, repair and installation services (except construction)
+Chapter 21 - Publishing, printing and reproduction services
+
+SECTION V - COMMUNITY, SOCIAL, ENVIRONMENTAL AND PERSONAL SERVICES
+Chapter 22 - Educational services
+Chapter 23 - Services related to human health and social work
+Chapter 24 - Sewage and waste collection, treatment and disposal and other environmental
+protection services
+Chapter 25 - Recreational, cultural and sporting services
+Chapter 26 - Personal services
+(Fl. 4 of Annex I of Joint Ordinance RFB/SCS No.   , of December, 2018.)
+
+
+             FORMATION OF THE CODE OF THE BRAZILIAN NOMENCLATURE OF SERVICES,
+      INTANGIBLES AND OTHER OPERATIONS THAT PRODUCE VARIATIONS IN NET WORTH (NBS)
+
+
+The code in the Brazilian Nomenclature of Services, Intangibles and Other Operations that Produce Variations
+in Net Worth (NBS) is composed of nine digits, whose meaning, from left to right, is:
+a) The first digit is the numeral 1 and indicates that the code refers to a service, intangible or other
+operation that produces a variation in net worth;
+b) the second and third digits, together with the first, indicate a chapter of the NBS;
+c) the fourth and fifth digits, together with the digits representing a chapter, indicate a heading
+within that chapter;
+d) the sixth and seventh digits, together with the digits representing a heading, indicate,
+respectively, the first- and second-level subheadings of that heading;
+e) the eighth digit is the item; and
+f) the ninth digit is the sub-item.
+(Fl. 5 of Annex I of Joint Ordinance RFB/SCS No.     , of December, 2018.)
+
+
+ GENERAL RULES FOR THE INTERPRETATION OF THE BRAZILIAN NOMENCLATURE OF SERVICES, INTANGIBLES AND
+            OTHER OPERATIONS THAT PRODUCE VARIATIONS IN NET WORTH (RGS)
+
+
+The classification of services in the Brazilian Nomenclature of Services, Intangibles and Other Operations that
+Produce Variations in Net Worth (NBS) is governed by the following Rules:
+
+
+Rule 1. The titles of Sections and Chapters are provided for ease of reference only. For legal purposes,
+classification is determined by the texts of the headings and of the Section and Chapter Notes and, provided
+they are not contrary to the texts of said headings and Notes, by the following Rules.
+
+
+Rule 2. When it appears that the service, intangible or other operation that produces variations in net worth
+could be classified under two or more headings, classification shall be carried out as follows:
+ a) The heading providing the most specific description is to be preferred to headings providing a more
+ general description. However, when two or more headings each refer to only one of the services, intangibles
+ and other operations that produce variations in net worth that constitute the object to be classified, such
+ headings are to be regarded as equally specific in relation to that object, even if one of them gives a more
+ complete or precise description of it than the others.
+ b) When Rule 2a) does not permit classification to be made, the service, intangible or other operation that
+ produces variations in net worth shall be classified under the heading which occurs last in numerical order,
+ among those which equally merit consideration.
+
+Rule 3. The classification of a service, intangible or other operation that produces variations in net worth in the
+subheadings of a single heading is determined, for legal purposes, by the texts of those subheadings and of
+the relative Subheading Notes and, mutatis mutandis, by the preceding Rules, on the understanding that only
+subheadings at the same level are comparable. For the purposes of this Rule, the Section and Chapter Notes
+also apply, unless otherwise provided.
+
+Rule 4. The foregoing rules shall apply, mutatis mutandis, to determine, within each subheading, the
+applicable item and, within the latter, the corresponding sub-item, on the understanding that only
+breakdowns (items and sub-items) at the same level are comparable.
+(Fl. 6 of Annex I of Joint Ordinance RFB/SCS No.      , of December, 2018.)
+
+
+                                    SECTION I - CONSTRUCTION SERVICES
+
+                                     Chapter 1 - Construction services
+
+
+Notes
+
+1) Heading 1.0101 does not cover services related to the construction of concrete structures for
+buildings, which are classified in subheading 1.0105.40.
+2) Headings 1.0101 and 1.0102 include, in addition to construction services, repair services.
+3) Heading 1.0101 includes real estate development services.
+4) In heading 1.0102, the expression "elevated highways" refers to viaducts and other engineering
+structures that serve, for example, to cross other routes (roads or railways), valleys, rivers
+and depressions in the terrain, among other obstacles to the movement of vehicles.
+5) In subheading 1.0105.70, "scaffolding services" include assembly and disassembly
+services thereof.
+
+        NBS 2.0                                                 DESCRIPTION
+  1.0101                Construction services of buildings
+   1.0101.1             Construction services of residential buildings
+    1.0101.11.00        Construction services of one- and two-story residential buildings
+    1.0101.12.00        Construction services of residential buildings with more than two stories
+   1.0101.2             Construction services of non-residential buildings
+    1.0101.21.00        Construction services of industrial buildings
+    1.0101.22.00        Construction services of commercial buildings
+    1.0101.29.00        Construction services of non-residential buildings not classified in previous
+                        subheadings
+   1.0101.30.00         Construction services of mixed-use buildings (residential and non-residential)
+
+
+  1.0102                Construction services of civil engineering works
+   1.0102.1             Construction services of highways (except elevated highways), streets, roads,
+                        railroads, airport runways and taxiways and airport
+                        infrastructure
+    1.0102.11.00        Construction services of highways (except elevated highways), streets and roads
+    1.0102.12.00        Construction services of railways
+    1.0102.13.00        Construction services of airport runways and taxiways and
+                        airport infrastructure
+   1.0102.20.00         Construction services of bridges, elevated highways and tunnels
+   1.0102.3             Construction services of ports, waterways, dams, irrigation and other
+                        hydraulic works
+(Fl. 7 of Annex I of Joint Ordinance RFB/SCS No.      , of December, 2018.)
+
+
+
+    1.0102.31.00        Construction services of waterway protection and access infrastructure
+    1.0102.32.00        Construction services of waterway berthing infrastructure
+    1.0102.33.00        Construction services of onshore infrastructure and related engineering works in
+                        ports
+    1.0102.34.00        Construction services of dams
+    1.0102.35           Construction services of open-channel aqueducts, irrigation systems and
+                        services related to watercourse control
+     1.0102.35.10       Construction services of open-channel aqueducts
+     1.0102.35.20       Construction services of irrigation systems
+     1.0102.35.30       Construction services related to watercourse control, including
+                        channeling
+   1.0102.4             Construction services of long-distance pipelines and communication lines, and
+                        of high-voltage transmission lines
+    1.0102.41           Construction services of long-distance pipelines
+     1.0102.41.10       Construction services of long-distance pipelines for the transport of petroleum,
+                        its derivatives, and gas
+     1.0102.41.20       Construction services of long-distance pipelines for the transport and drainage of
+                        water
+     1.0102.41.90       Construction services of long-distance pipelines not classified in previous
+                        subheadings
+    1.0102.42           Construction services of long-distance communication lines and high-voltage
+                        transmission lines
+     1.0102.42.10       Construction services of long-distance communication lines
+     1.0102.42.20       Construction services of high-voltage transmission lines
+   1.0102.5             Construction services of local pipelines and local communication lines and
+                        low- and medium-voltage transmission lines and other related construction services
+    1.0102.51.00        Construction services of local pipelines
+    1.0102.52           Construction services of local communication lines and low- and
+                        medium-voltage transmission lines and other related construction services
+     1.0102.52.10       Construction services of local communication lines
+     1.0102.52.20       Construction services of local low- and medium-voltage transmission lines
+    1.0102.53           Construction services of sewage systems and of pumping, treatment and water
+                        purification station systems
+     1.0102.53.10       Construction services of sewage systems
+     1.0102.53.20       Construction services of pumping, treatment and water purification
+                        station systems
+   1.0102.6             Construction services of industrial facilities
+    1.0102.61.00        Construction services of power generation plants
+(Fl. 8 of Annex I of Joint Ordinance RFB/SCS No.         , of December, 2018.)
+
+
+
+    1.0102.69.00        Construction services of industrial facilities not classified in previous
+                        subheadings
+   1.0102.70.00         Construction services of mines and their industrial units
+   1.0102.80.00         Construction services of outdoor recreation and sports facilities
+   1.0102.90.00         Construction services of civil engineering works not classified in previous
+                        subheadings
+
+
+  1.0103                Site preparation services
+   1.0103.10.00         Demolition services
+   1.0103.20.00         Land preparation and construction site preparation services
+   1.0103.30.00         Excavation and earth-moving services
+   1.0103.4             Water well drilling services and septic system installation services
+    1.0103.41.00        Water well drilling services
+    1.0103.42.00        Septic system installation services
+
+
+  1.0104.00.00          Assembly and erection services of prefabricated constructions
+
+
+  1.0105                Specialized construction services
+   1.0105.1             Pile driving and foundation services
+    1.0105.11.00        Pile driving services
+    1.0105.12.00        Foundation services
+   1.0105.2             Structural construction services
+    1.0105.21.00        Structural construction services of buildings
+    1.0105.22.00        Structural construction services of roofs and coverings
+   1.0105.30.00         Roofing and covering construction services and waterproofing services
+   1.0105.40.00         Concreting services
+   1.0105.50.00         Steel structure assembly services
+   1.0105.60.00         Masonry services
+   1.0105.70.00         Scaffolding services
+   1.0105.90.00         Specialized construction services not classified in previous subheadings
+
+
+  1.0106                Installation services
+   1.0106.1             Electrical installation services
+    1.0106.11.00        Electrical wiring and component installation services
+    1.0106.12.00        Fire alarm installation services
+    1.0106.13.00        Burglar alarm system installation services
+    1.0106.14.00        Residential antenna installation services
+(Fl. 9 of Annex I of Joint Ordinance RFB/SCS No.        , of December, 2018.)
+
+
+
+    1.0106.19.00        Electrical installation services not classified in previous subheadings
+   1.0106.2             Water supply and drainage pipe installation services
+    1.0106.21.00        Water supply pipe installation services
+    1.0106.22.00        Water drainage pipe installation services
+   1.0106.3             Heating, ventilation and air conditioning equipment
+                        installation services
+    1.0106.31.00        Heating equipment installation services
+    1.0106.32.00        Ventilation and air conditioning equipment installation services
+   1.0106.40.00         Gas installation services
+   1.0106.50.00         Insulation installation services
+   1.0106.60.00         Elevator, moving walkway and escalator installation services
+   1.0106.90.00         Installation services not classified in previous subheadings
+
+
+  1.0107                Finishing services
+   1.0107.10.00         Glazing services
+   1.0107.20.00         Plastering and stucco services
+   1.0107.30.00         Painting services
+   1.0107.40.00         Floor and wall covering services
+   1.0107.50.00         Carpentry and locksmith services
+   1.0107.60.00         Fence and gate installation services
+   1.0107.90.00         Finishing services not classified in previous subheadings
+
+
+
+
+    SECTION II - INTERMEDIATION SERVICES IN THE DISTRIBUTION OF GOODS;
+CUSTOMS CLEARANCE SERVICES; PROVISION OF FOOD AND BEVERAGES AND ACCOMMODATION SERVICES;
+        TRANSPORT SERVICES AND PUBLIC UTILITY DISTRIBUTION SERVICES
+
+Notes
+
+1) In this section:
+  a) Inland navigation is waterborne transport carried out in areas sheltered or partially sheltered
+  from bad weather, where storms occurring on the open sea do not affect or barely affect it,
+  such as bays, coves, lagoons, rivers, lakes, canals etc., on domestic or international routes.
+  b) Coastal navigation is waterborne transport carried out in open-sea regions where it is still possible
+  to sight the coast, limited to a maximum of 20 (twenty) nautical miles from the coast and, in principle, does not
+  require the use of orientation instruments, since navigation is carried out by observing land.
+(Fl. 10 of Annex I of Joint Ordinance RFB/SCS No.    , of December, 2018.)
+
+
+ c) Transoceanic navigation is waterborne transport carried out between domestic and foreign
+ ports, beyond the limits of visibility of the coast and without other established limits. It requires the use of
+ analog or digital location and orientation instruments.
+ d) Multimodal freight transport is that which uses two or more modes of transport, from
+ origin to destination, and is governed by a single contract, being carried out under the responsibility of
+ a single multimodal transport operator.
+ e) Multimodal transport operator is a legal entity engaged as the principal party responsible for
+ carrying out the multimodal transport of goods from origin to destination, by its own means (the
+ operator's own) or through third parties, and may or may not be the carrier of the goods.
+
+
+
+
+     Chapter 2 - Intermediation services in the distribution of goods; customs clearance
+                                         services; trade
+
+
+Notes
+
+1) "Intermediation services in the distribution of goods" cover, exclusively, the
+activities of intermediating third-party goods in wholesale and retail trade and the services
+provided by commissioned agents. Thus, the purchases and sales of the goods that are the object of such
+intermediation are not included in the Brazilian Nomenclature of Services (NBS).
+2) Trade, both wholesale and retail, is taken, exclusively, within the scope of this
+Nomenclature as a mixed operation because it involves a set of services with delivery of
+goods, ownership of which belongs to the party carrying out those commercial activities.
+3) "Customs clearance services" are those related to the clearance of goods or
+merchandise, including travelers' baggage, on import or export, transported by any
+means.
+4) In the context of heading 1.0205, with respect to operations carried out under the jurisdiction and in accordance with the
+Brazilian regulations, the trading of electricity as a good, classified as a good in the
+Mercosur Common Nomenclature (NCM), may only be carried out within the scope of the Electric Energy
+Trading Chamber (CCEE).
+
+        NBS 2.0                                             DESCRIPTION
+  1.0201.00.00          Intermediation services in the distribution of goods
+
+
+  1.0202.00.00          Wholesale trade
+
+
+  1.0203.00.00          Retail trade
+
+
+  1.0204.00.00          Customs clearance services
+(Fl. 11 of Annex I of Joint Ordinance RFB/SCS No.      , of December, 2018.)
+
+
+
+  1.0205.00.00          Intermediation services in the trading of electricity
+
+
+
+
+              Chapter 3 - Provision of food and beverages and accommodation services
+Notes
+
+1) The provision of food and beverages, although involving the rendering of services and the delivery of
+goods, thereby constituting a mixed operation, is classified in this chapter.
+2) "Food" (Alimentação) encompasses the supply of food and meals, with or without the offer of beverages. The term
+"meal" refers to the portion of food generally consumed at regular times, such as breakfast,
+lunch and dinner.
+3) The supply of beverages under heading 1.0302 is limited to the offer of beverages.
+4) "Accommodation" (Hospedagem) consists of receiving persons who are away from their residences
+for the purpose of work, study or leisure, by offering lodging with the services
+necessary for the individual's well-being, such as sanitary facilities. It may be understood as what
+is conventionally called hotel services (hotelaria), as well as the offer of other types of lodging, for
+set periods of time.
+5) The services under subheadings 1.0301.1 and 1.0301.2 occur even when provided on trains (dining
+cars) or on board ships, and are not to be confused with services provided under contract with a
+transport company (catering or provisioning) under subheading 1.0301.32.
+
+        NBS 2.0                                               DESCRIPTION
+  1.0301                Provision of food, including meals
+   1.0301.10.00         Provision of meals accompanied by restaurant services
+   1.0301.2             Provision of meals with limited restaurant services
+    1.0301.21.00        Provision of meals through the self-service system
+    1.0301.22.00        Provision of fast food
+    1.0301.29.00        Provision of meals with limited restaurant services not classified in
+                        previous subheadings
+   1.0301.3             Provision of food, including meals, under contract
+    1.0301.31.00        Provision of food for events
+    1.0301.32.00        Provision of food for transport operators (catering or provisioning)
+    1.0301.39.00        Provision of food, including meals, under contract not classified in
+                        previous subheadings
+   1.0301.90.00         Provision of food not classified in previous subheadings
+
+
+  1.0302.00.00          Provision of beverages in bars, breweries and others
+(Fl. 12 of Annex I of Joint Ordinance RFB/SCS No.     , of December, 2018.)
+
+
+
+  1.0303                Accommodation services for visitors
+   1.0303.1             Accommodation services in rooms or units for visitors
+    1.0303.11.00        Accommodation services in rooms or units for visitors, with
+                        daily housekeeping services
+    1.0303.12.00        Accommodation services in rooms or units for visitors, without
+                        daily housekeeping services
+    1.0303.13.00        Accommodation services in rooms or units for visitors, in
+                        shared properties
+    1.0303.14.00        Accommodation services in rooms or units for visitors, in
+                        multiple-occupancy rooms
+   1.0303.20.00         Camping services
+   1.0303.90.00         Accommodation services for visitors not classified in previous subheadings
+
+
+  1.0304                Accommodation services, other than for visitors
+   1.0304.10.00         Accommodation services in rooms or units for students in
+                        student residences
+   1.0304.20.00         Accommodation services in rooms or units for workers
+                        in hotels or camps
+   1.0304.90.00         Accommodation services, other than for visitors, not classified in previous
+                        subheadings
+
+
+
+
+                             Chapter 4 - Passenger transport services
+Notes
+
+1) Within the scope of this Chapter, the following meanings apply:
+  a) Local: the region comprising the urban and rural areas of a municipality and, also, the
+  metropolitan region.
+  b) Metropolitan area or metropolitan region: the population center resulting from the grouping of two or
+  more municipalities integrated economically as well as politically and culturally.
+  c) Bus: the collective-transport motor vehicle with seating capacity for more than twenty passengers,
+  even if, due to adaptations aimed at greater comfort for such passengers, it may
+  carry a smaller number of passengers.
+  d) Integrated transport service: one that makes use of more than one vehicle, in one or more
+  transport modes.
+  e) Waterborne passenger transport services: the mode of transport carried out by
+  maritime, lake or river routes.
+  f) Sightseeing tours: short-distance tours in urban or rural areas, including
+  in the metropolitan area, passing through places of interest for their cultural value, historical
+(Fl. 13 of Annex I of Joint Ordinance RFB/SCS No.   , of December, 2018.)
+
+
+  importance, natural or artificial beauty, unique, rare or mysterious characteristics, and/or also passing
+  through places for recreation or entertainment.
+  g) Inland navigation: waterborne transport carried out in areas sheltered or partially sheltered from
+  bad weather, where storms occurring on the open sea do not affect or barely affect it,
+  such as bays, coves, lagoons, rivers, lakes, canals, etc., on domestic or international routes.
+  h) Coastal navigation: waterborne transport carried out in open-sea regions where it is still possible
+  to sight the coast, limited to a maximum of 20 (twenty) nautical miles from the coast and, in principle, does not
+  require the use of orientation instruments, since navigation is carried out by observing land.
+  i) Transoceanic navigation: waterborne transport carried out between domestic and foreign ports,
+  beyond the limits of visibility of the coast and without other established limits. It requires the use of
+  analog or digital location and orientation instruments.
+  j) Chartering (Fretamento): the transport service provided by an owner (charterer/lessor) of a vehicle to a third
+  party (charterer/lessee), to carry out one or more pre-established trips, with the lessor retaining control
+  over the crew and the technical operation of the vehicle involved. The trip-based contract is distinct from the
+  time-based contract (heading 1.0405) and from the leasing of a vehicle with operator (heading 1.0404).
+  k) Continuous chartering (Fretamento contínuo): the transport service provided by a vehicle owner to legal
+  entities for the transport of their employees, to educational institutions or student associations for
+  the transport of their students, teachers or members, or to government entities and other
+  institutions for the transport of their public servants and staff, with frequency and schedules
+  established under contract, for a fixed term, with the lessor retaining control over the
+  operator and the technical operation of the vehicle.
+  l) Occasional or tourist chartering (Fretamento eventual ou turístico): the service provided by a vehicle owner
+  to a third party, which may be a person or group of persons, of an occasional nature and for
+  tourist purposes, on a closed circuit, per trip, with the lessor retaining control over the crew/operator and the
+  technical operation of the vehicle.
+  m) Leasing of passenger transport vehicles with operator: the operation in which the vehicle
+  intended for passenger transport is placed at the lessee's disposal for a determined
+  period, with the lessor being remunerated according to that time interval. The lessee holds
+  control of the vehicle and of the operator's activities.
+  n) Time charter party (TCP): a sui generis contract, which does not fall under
+  either transport service or leasing, and is characterized by the placing of the vessel and its
+  services under the nautical management of the charterer/lessor, that is, manned, equipped and in seaworthy
+  condition, at the disposal of the charterer/lessee, so that the latter assumes the commercial management of the naval
+  space for a determined period, in exchange for financial remuneration.
+2) Passenger transport services include the transport of luggage and animals, among other
+items, when transported together with their owners.
+3) The following operations are excluded from this Chapter:
+  a) "Time chartering" of vessels designed for the transport of cargo, which are classified
+  under heading 1.0506 (Chapter 5).
+  b) "Bareboat chartering," in which the charterer acquires the possession, use and control of the
+  vessel, for a determined period, including the right to designate the master and
+  crew, which are classified under subheading 1.1101.15 (Chapter 11).
+(Fl. 14 of Annex I of Joint Ordinance RFB/SCS No.       , of December, 2018.)
+
+
+
+        NBS 2.0                                                DESCRIPTION
+  1.0401                Local passenger transport services
+   1.0401.1             Local land passenger transport services
+    1.0401.11           Local regular road passenger transport services
+     1.0401.11.1        Local regular road passenger transport services, except in
+                        metropolitan areas
+      1.0401.11.11      Local road transport services provided exclusively by bus
+      1.0401.11.19      Local regular road passenger transport services, except in
+                        metropolitan areas, not classified in previous sub-items
+     1.0401.11.20       Local regular road passenger transport services, in metropolitan areas
+    1.0401.12           Special local regular road passenger transport services
+     1.0401.12.10       School transport services
+     1.0401.12.20       Airport transport services (shuttle)
+     1.0401.12.90       Special local regular road passenger transport services not classified
+                        in previous items
+    1.0401.13.00        Taxi services
+    1.0401.14.00        Chauffeur-driven car services, except taxi
+    1.0401.15           Local road passenger transport services by chartering
+     1.0401.15.10       Local continuous chartering services
+     1.0401.15.20       Local occasional or tourist chartering services
+    1.0401.16           Local passenger transport services by rail vehicles
+     1.0401.16.10       Local railway passenger transport services
+     1.0401.16.20       Local subway (metro) passenger transport services
+     1.0401.16.90       Local passenger transport services by rail vehicles not classified
+                        in previous items
+    1.0401.17           Land transport services for sightseeing tours
+     1.0401.17.10       Road transport services for sightseeing tours
+     1.0401.17.20       Railway transport services for sightseeing tours
+     1.0401.17.90       Land transport services for sightseeing tours not classified
+                        in previous items
+    1.0401.19.00        Local land passenger transport services not classified in previous
+                        subheadings
+   1.0401.2             Local waterborne passenger transport services
+    1.0401.21           Local waterborne passenger transport services, by inland navigation
+     1.0401.21.10       Local waterborne passenger transport services, by inland navigation, in
+                        ferry vessels
+     1.0401.21.20       Local waterborne passenger transport services, by inland navigation, in
+                        cruise vessels
+     1.0401.21.90       Local waterborne passenger transport services, by inland navigation, not
+                        classified in previous items
+    1.0401.22.00        Local waterborne passenger transport services by chartering
+(Fl. 15 of Annex I of Joint Ordinance RFB/SCS No.       , of December, 2018.)
+
+
+
+    1.0401.23.00        Waterborne transport services for sightseeing tours
+    1.0401.29.00        Local waterborne passenger transport services not classified in previous
+                        subheadings
+   1.0401.30.00         Local integrated passenger transport services
+   1.0401.4             Local air passenger transport services
+    1.0401.41.00        Local air taxi services
+    1.0401.42.00        Local air passenger transport services by chartering
+    1.0401.43.00        Air transport services for sightseeing tours
+    1.0401.49.00        Local air passenger transport services not classified in previous
+                        subheadings
+   1.0401.90.00         Local passenger transport services not classified in previous
+                        subheadings
+
+
+  1.0402                National, except local, passenger transport services
+   1.0402.1             National, except local, land passenger transport services
+    1.0402.11           National, except local, regular road passenger transport services
+      1.0402.11.10      National, except local, road transport services provided exclusively by
+                        bus
+      1.0402.11.90      National, except local, road passenger transport services not
+                        classified in previous sub-items
+    1.0402.12.00        National, except local, special regular road passenger transport
+                        services
+    1.0402.13           National, except local, road passenger transport services, by chartering
+     1.0402.13.10       Continuous chartering services, national, except local
+     1.0402.13.20       Occasional or tourist chartering services, national, except local
+    1.0402.14.00        National, except local, railway passenger transport services
+    1.0402.19.00        National, except local, land passenger transport services not classified
+                        in previous subheadings
+   1.0402.2             National, except local, waterborne passenger transport services
+    1.0402.21           National, except local, waterborne passenger transport services, by inland
+                        navigation
+     1.0402.21.10       Waterborne passenger transport services, by inland navigation, in
+                        ferry vessels
+     1.0402.21.20       Waterborne passenger transport services, by inland navigation, in
+                        cruise vessels
+     1.0402.21.90       National, except local, waterborne passenger transport services, by inland
+                        navigation, not classified in previous items
+    1.0402.22.00        National coastal waterborne passenger transport services
+    1.0402.23.00        National, except local, waterborne passenger transport services by chartering
+    1.0402.29.00        National, except local, waterborne passenger transport services not classified
+                        in previous subheadings
+   1.0402.3             National, except local, air passenger transport services
+(Fl. 16 of Annex I of Joint Ordinance RFB/SCS No.       , of December, 2018.)
+
+
+
+    1.0402.31.00        National, except local, regular air passenger transport services
+    1.0402.32.00        National, except local, air taxi services
+    1.0402.33.00        National, except local, air passenger transport services, by chartering
+    1.0402.39.00        National, except local, air passenger transport services not classified in
+                        previous subheadings
+   1.0402.90.00         National, except local, passenger transport services not classified in
+                        previous subheadings
+
+
+  1.0403                International passenger transport services
+   1.0403.1             Regular international land passenger transport services
+    1.0403.11           International regular road passenger transport services
+     1.0403.11.10       Passenger transport services provided exclusively by bus
+     1.0403.11.90       International road passenger transport services not classified in
+                        previous items
+    1.0403.12.00        International road passenger transport services by chartering
+    1.0403.13           International passenger transport services by rail vehicles
+     1.0403.13.10       International railway passenger transport services
+     1.0403.13.90       International passenger transport services by rail vehicles not
+                        classified in previous items
+    1.0403.19.00        International land passenger transport services not classified in
+                        previous subheadings
+   1.0403.2             International waterborne passenger transport services
+    1.0403.21           International waterborne passenger transport services, by inland navigation
+     1.0403.21.10       International waterborne passenger transport services, by inland navigation,
+                        in ferry vessels
+     1.0403.21.20       International waterborne passenger transport services, by inland navigation,
+                        in cruise vessels
+     1.0403.21.90       International waterborne passenger transport services, by inland navigation,
+                        not classified in previous items
+    1.0403.22.00        International coastal waterborne passenger transport services
+    1.0403.23.00        International transoceanic waterborne passenger transport services
+    1.0403.24.00        International waterborne passenger transport services by chartering
+    1.0403.29.00        International waterborne passenger transport services not classified in
+                        previous subheadings
+   1.0403.3             International air passenger transport services
+    1.0403.31.00        International regular air passenger transport services
+    1.0403.32.00        International air taxi services
+    1.0403.33.00        International air passenger transport services by chartering
+    1.0403.39.00        International air passenger transport services not classified in
+                        previous subheadings
+(Fl. 17 of Annex I of Joint Ordinance RFB/SCS No.      , of December, 2018.)
+
+
+
+   1.0403.90.00         International passenger transport services not classified in previous
+                        subheadings
+
+
+  1.0404                Leasing of passenger vehicles with operator
+   1.0404.10.00         Leasing of road passenger vehicles with driver
+   1.0404.20.00         Leasing of passenger vessels with crew
+   1.0404.30.00         Leasing of passenger aircraft with crew
+
+
+  1.0405.00.00          Time chartering of passenger vessels
+
+
+
+
+                                Chapter 5 - Freight transport services
+Notes
+
+
+1) Within the scope of this Chapter, the following meanings apply:
+  a) Bulk cargo: unpackaged cargo, almost always homogeneous, which is loaded directly onto
+  suitable means of transport, without packaging and in large quantities. This type of cargo has
+  three kinds: i) solid bulk, consisting of fragmented solid or plant grain, such as coal, salt,
+  wheat grain and iron ore; ii) liquid or liquefied bulk, which includes petroleum and its derivatives,
+  such as gasoline and diesel oil, in addition to fuel alcohol, soybean oil and molasses, and liquefied
+  bulk, except "liquefied petroleum gas" (LPG).
+  b) Live cargo: live animals, vertebrate and invertebrate, planted vegetables, as well as
+  microorganisms.
+  c) Special cargo: cargo which, due to its shape, safety requirements or compliance with
+  parameters, requires special measures to be transported, such as oversized cargo –
+  examples of which are large parts for industrial units or power plants – and
+  dangerous cargo – understood as any substance or article found in nature or produced by
+  any process which, due to its physical-chemical characteristics, poses a risk to human
+  health, public safety or the environment.
+  d) Non-unitized general cargo: cargo transported loose, in which the goods are presented separately
+  and are loaded individually, such as, for example, in bundles, bales, packages, sacks, boxes or
+  drums, bearing identification marks and in counted units.
+  e) Unitized general cargo: cargo grouped into larger volumes, as occurs, for example, in
+  palletized cargo, cargo placed in big boxes or placed in containers.
+  f) Container: a structure, generally in the shape of a box fitted with doors, built in carbon
+  steel, although it may also be made of aluminum, plastic or fiberglass, among other materials,
+  created for the purpose of facilitating the transport of small-sized goods.
+  g) Dangerous product: any substance or article found in nature or produced by any
+  process which, due to its physical-chemical characteristics, poses a risk to human health, public
+  safety or the environment.
+(Fl. 18 of Annex I of Joint Ordinance RFB/SCS No.     , of December, 2018.)
+
+
+  h) Liquefied petroleum gas (LPG): the following liquefied gases: propane, butane, ethylene, propylene,
+  butylene, butadiene and other gases covered by subheading 2711.1 of the Mercosur Common
+  Nomenclature (NCM), except natural gas (NCM 2711.11.00), and/or mixtures thereof.
+  i) Inland navigation: waterborne transport carried out in areas sheltered or partially sheltered from
+  bad weather, where storms occurring on the open sea do not affect or barely affect it,
+  such as bays, coves, lagoons, rivers, lakes, canals, etc., on domestic or international routes.
+  j) Coastal navigation: waterborne transport carried out in open-sea regions where it is still possible
+  to sight the coast, limited to a maximum of 20 (twenty) nautical miles from the coast and, in principle, does not
+  require the use of orientation instruments, since navigation is carried out by observing land.
+  k) Transoceanic navigation: waterborne transport carried out between domestic and foreign
+  ports, beyond the limits of visibility of the coast and without other established limits. It requires the use of
+  analog or digital location and orientation instruments.
+  l) Multimodal freight transport: that which, governed by a single contract, uses two or more
+  transport modes, from origin to destination, and is carried out under the responsibility of a
+  single multimodal transport operator.
+  m) Leasing of freight transport vehicles with operator: the operation in which the vehicle intended
+  for freight transport is placed at the lessee's disposal for a determined period, being
+  remunerated according to that period. The lessee holds control of the vehicle and of the operator's
+  activities.
+  n) Time charter party (TCP): a sui generis operation, which does not fall under
+  either transport service or leasing, and is characterized by the placing of the vessel and its services
+  under the nautical management of the charterer/lessor, that is, manned, equipped and in seaworthy
+  condition, at the disposal of the charterer/lessee, so that the latter assumes the commercial management of the naval
+  space for a determined period, in exchange for financial remuneration.
+2) Waterborne freight transport services (heading 1.0502) are provided by shipping
+companies which, with their crews, operate ships and other types of vessels.
+3) The following services are excluded from this Chapter:
+  a) Cargo handling, which is classified under heading 1.0601.
+  b) Warehousing in warehouses or storage units, which is classified under heading 1.0602.
+  c) Support navigation, whether port or maritime, which is classified under subheading 1.0605.40.
+  d) Transport of water by trucks and other vehicles, which is classified under subheading
+  1.0802.30.
+  e) Armored car services, which are classified among security services, under subheading 1.1802.40.
+4) The following operations are also excluded from this Chapter:
+  a) "Time chartering" of vessels designed for the transport of passengers, which are
+  classified under heading 1.0405 (Chapter 4).
+  b) Leasing of ships and other vessels, without crew ("bareboat chartering"), in which the charterer
+  acquires the possession, use and control of the vessel, for a determined period, including the right to
+  designate the master and crew, which are classified under subheading 1.1101.15 (Chapter 11).
+
+        NBS 2.0                                              DESCRIPTION
+  1.0501                Land freight transport services
+(Fl. 19 of Annex I of Joint Ordinance RFB/SCS No.       , of December, 2018.)
+
+
+
+   1.0501.1             Road freight transport services
+    1.0501.11           Road transport services of bulk cargo
+     1.0501.11.10       Road transport services of solid bulk cargo
+     1.0501.11.20       Road transport services of liquid, or liquefied, bulk cargo
+     1.0501.11.30       Road transport services of gaseous bulk cargo
+    1.0501.12           Road transport services of general cargo, except in containers
+     1.0501.12.10       Road transport services of loose, non-unitized cargo
+     1.0501.12.20       Road transport services of unitized cargo
+     1.0501.12.30       Road transport services of refrigerated or climate-controlled cargo
+    1.0501.13           Road transport services of cargo in containers
+     1.0501.13.10       Road transport services of cargo in refrigerated or
+                        climate-controlled containers
+     1.0501.13.20       Road transport services of cargo in non-refrigerated or
+                        non-climate-controlled containers
+    1.0501.14           Road transport services of special cargo
+     1.0501.14.10       Road transport services of live cargo
+     1.0501.14.20       Road transport services of household removals and of furniture and other
+                        office items
+     1.0501.14.30       Road transport services of oversized cargo
+     1.0501.14.40       Road transport services of vehicles
+     1.0501.14.5        Road transport services of dangerous products
+      1.0501.14.51      Road transport services of fuels, lubricants and LPG, including
+                        when presented in metal cylinders
+      1.0501.14.52      Road transport services of dangerous chemical products, except lubricants
+                        and LPG
+      1.0501.14.59      Road transport services of dangerous products not classified in previous
+                        sub-items
+    1.0501.15.00        Road transport services of mail cargo and pouches
+    1.0501.19.00        Road transport services of cargo not classified in previous subheadings
+   1.0501.2             Railway freight transport services
+    1.0501.21           Railway transport services of bulk cargo
+     1.0501.21.10       Railway transport services of solid bulk cargo
+     1.0501.21.20       Railway transport services of liquid, or liquefied, bulk cargo
+     1.0501.21.30       Railway transport services of gaseous bulk cargo
+    1.0501.22           Railway transport services of general cargo, except in containers
+     1.0501.22.10       Railway transport services of loose, non-unitized cargo
+     1.0501.22.20       Railway transport services of unitized cargo
+     1.0501.22.30       Railway transport services of refrigerated or climate-controlled cargo
+    1.0501.23           Railway transport services of cargo in containers
+     1.0501.23.10       Railway transport services of cargo in refrigerated or
+                        climate-controlled containers
+(Fl. 20 of Annex I of Joint Ordinance RFB/SCS No.       , of December, 2018.)
+
+
+
+     1.0501.23.20       Railway transport services of cargo in non-refrigerated or
+                        non-climate-controlled containers
+    1.0501.24           Railway transport services of special cargo
+     1.0501.24.10       Railway transport services of live cargo
+     1.0501.24.2        Railway transport services of dangerous products
+      1.0501.24.21      Railway transport services of fuels, lubricants and LPG, including
+                        when presented in metal cylinders
+      1.0501.24.22      Railway transport services of dangerous chemical products, except lubricants
+                        and LPG
+      1.0501.24.29      Railway transport services of dangerous products not classified in
+                        previous subheadings
+    1.0501.25.00        Railway transport services of goods and valuables
+    1.0501.29.00        Railway transport services of cargo not classified in previous subheadings
+   1.0501.3             Pipeline freight transport services
+    1.0501.31.00        Transport services of petroleum, natural gas and fuel by pipeline
+    1.0501.32.00        Transport services of ores by pipeline
+    1.0501.39.00        Pipeline freight transport services not classified in previous
+                        subheadings
+
+
+  1.0502                Waterborne freight transport services
+   1.0502.1             Freight transport services by inland navigation
+    1.0502.11           Freight transport services by inland navigation of bulk cargo
+     1.0502.11.10       Freight transport services by inland navigation of solid bulk cargo
+     1.0502.11.20       Freight transport services by inland navigation of liquid, or
+                        liquefied, bulk cargo
+     1.0502.11.30       Freight transport services by inland navigation of gaseous bulk cargo
+    1.0502.12           Freight transport services by inland navigation of general cargo, except in
+                        containers
+     1.0502.12.10       Freight transport services by inland navigation of loose, non-unitized cargo
+     1.0502.12.20       Freight transport services by inland navigation of unitized cargo
+     1.0502.12.30       Freight transport services by inland navigation of refrigerated or
+                        climate-controlled cargo
+    1.0502.13           Freight transport services by inland navigation of cargo in containers
+     1.0502.13.10       Freight transport services by inland navigation of cargo in containers
+                        that are refrigerated or climate-controlled
+     1.0502.13.20       Freight transport services by inland navigation of cargo in containers that are non-
+                        refrigerated or non-climate-controlled
+    1.0502.14           Freight transport services by inland navigation of special cargo
+     1.0502.14.10       Freight transport services by inland navigation of live cargo
+     1.0502.14.20       Freight transport services by inland navigation of household removals and of
+                        furniture and other office items
+(Fl. 21 of Annex I of Joint Ordinance RFB/SCS No.       , of December, 2018.)
+
+
+
+     1.0502.14.30       Freight transport services by inland navigation of oversized cargo
+     1.0502.14.40       Freight transport services by inland navigation of vehicles
+     1.0502.14.5        Freight transport services by inland navigation of dangerous products
+      1.0502.14.51      Freight transport services by inland navigation of fuels, lubricants
+                        and LPG, including when presented in metal cylinders
+      1.0502.14.52      Freight transport services by inland navigation of dangerous chemical
+                        products, except lubricants and LPG
+      1.0502.14.59      Freight transport services by inland navigation of dangerous products not
+                        classified in previous subheadings
+     1.0502.14.90       Freight transport services by inland navigation of special cargo not
+                        classified in previous subheadings
+    1.0502.19.00        Freight transport services by inland navigation not classified in
+                        previous subheadings
+   1.0502.2             Coastal waterborne freight transport services
+    1.0502.21           Coastal waterborne transport services of bulk cargo
+     1.0502.21.10       Coastal waterborne transport services of solid bulk cargo
+     1.0502.21.20       Coastal waterborne transport services of liquid or liquefied bulk cargo
+     1.0502.21.30       Coastal waterborne transport services of gaseous bulk cargo
+    1.0502.22           Coastal waterborne transport services of general cargo, except in containers
+     1.0502.22.10       Coastal waterborne transport services of loose, non-unitized cargo
+     1.0502.22.20       Coastal waterborne transport services of unitized cargo
+     1.0502.22.30       Coastal waterborne transport services of refrigerated or climate-controlled cargo
+    1.0502.23           Coastal waterborne transport services of cargo in containers
+     1.0502.23.10       Coastal waterborne transport services of cargo in refrigerated or
+                        climate-controlled containers
+     1.0502.23.20       Coastal waterborne transport services of cargo in containers not classified
+                        in previous subheadings
+    1.0502.24           Coastal waterborne transport services of special cargo
+     1.0502.24.10       Coastal waterborne transport services of live cargo
+     1.0502.24.20       Coastal waterborne transport services of household removals and of furniture and
+                        other office items
+     1.0502.24.30       Coastal waterborne transport services of oversized cargo
+     1.0502.24.40       Coastal waterborne transport services of vehicles
+     1.0502.24.5        Coastal waterborne transport services of dangerous products
+      1.0502.24.51      Coastal waterborne transport services of fuels, lubricants and LPG,
+                        including when presented in metal cylinders
+      1.0502.24.52      Coastal waterborne transport services of dangerous chemical products, except
+                        lubricants and LPG
+      1.0502.24.59      Coastal waterborne transport services of dangerous products not classified in
+                        previous subheadings
+    1.0502.29.00        Coastal waterborne freight transport services not classified in previous
+                        subheadings
+(Fl. 22 of Annex I of Joint Ordinance RFB/SCS No.       , of December, 2018.)
+
+
+
+   1.0502.3             Transoceanic waterborne freight transport services
+    1.0502.31           Transoceanic waterborne transport services of bulk cargo
+     1.0502.31.10       Transoceanic waterborne transport services of solid bulk cargo
+     1.0502.31.20       Transoceanic waterborne transport services of liquid, or liquefied, bulk
+                        cargo
+     1.0502.31.30       Transoceanic waterborne transport services of gaseous bulk cargo
+    1.0502.32           Transoceanic waterborne transport services of general cargo, except in containers
+     1.0502.32.10       Transoceanic waterborne transport services of loose, non-unitized cargo
+     1.0502.32.20       Transoceanic waterborne transport services of unitized cargo
+     1.0502.32.30       Transoceanic waterborne transport services of refrigerated or climate-controlled cargo
+    1.0502.33           Transoceanic waterborne transport services of cargo in containers
+     1.0502.33.10       Transoceanic waterborne transport services of cargo in refrigerated containers
+                        or climate-controlled containers
+     1.0502.33.20       Transoceanic waterborne transport services of cargo in
+                        non-refrigerated or non-climate-controlled containers
+    1.0502.34           Transoceanic waterborne transport services of special cargo
+     1.0502.34.10       Transoceanic waterborne transport services of live cargo
+     1.0502.34.20       Transoceanic waterborne transport services of household removals and of furniture
+                        and other office items
+     1.0502.34.30       Transoceanic waterborne transport services of oversized cargo
+     1.0502.34.40       Transoceanic waterborne transport services of vehicles
+     1.0502.34.5        Transoceanic waterborne transport services of dangerous products
+      1.0502.34.51      Transoceanic waterborne transport services of fuels, lubricants and LPG,
+                        including when presented in metal cylinders
+      1.0502.34.52      Transoceanic waterborne transport services of dangerous chemical products,
+                        except lubricants and LPG
+      1.0502.34.59      Transoceanic waterborne transport services of dangerous products not classified
+                        in previous subheadings
+    1.0502.39.00        Transoceanic waterborne transport services of cargo not classified in
+                        previous subheadings
+
+
+  1.0503                Air freight transport services
+   1.0503.1             Air transport services of cargo in containers
+    1.0503.11.00        Air transport services of cargo in refrigerated or climate-controlled containers
+    1.0503.12.00        Air transport services of cargo in non-refrigerated or
+                        non-climate-controlled containers
+   1.0503.2             Air transport services of special cargo
+    1.0503.21.00        Air transport services of dangerous products
+    1.0503.22.00        Air transport services of live cargo
+    1.0503.23.00        Air transport services of machinery and vehicles
+    1.0503.24.00        Air transport services of perishable products
+(Fl. 23 of Annex I of Joint Ordinance RFB/SCS No.       , of December, 2018.)
+
+
+
+    1.0503.25.00        Air transport services of fragile cargo
+    1.0503.26.00        Air transport services of controlled cargo
+    1.0503.27.00        Air transport services of valuables
+    1.0503.28.00        Air transport services of mail cargo, courier shipments and similar cargo
+    1.0503.29.00        Air transport services of special cargo not classified in previous
+                        subheadings
+   1.0503.90.00         Air freight transport services not classified in previous subheadings
+
+
+  1.0504                Multimodal freight transport services
+   1.0504.1             Multimodal transport services of bulk cargo
+    1.0504.11.00        Multimodal transport services of solid bulk cargo
+    1.0504.12.00        Multimodal transport services of liquid, or liquefied, bulk cargo
+    1.0504.13.00        Multimodal transport services of gaseous bulk cargo
+   1.0504.2             Multimodal transport services of general cargo, except in containers
+    1.0504.21.00        Multimodal transport services of loose, non-unitized cargo
+    1.0504.22.00        Multimodal transport services of unitized cargo
+    1.0504.23.00        Multimodal transport services of refrigerated or climate-controlled cargo
+   1.0504.3             Multimodal transport services of cargo in containers
+    1.0504.31.00        Multimodal transport services of cargo in refrigerated or
+                        climate-controlled containers
+    1.0504.32.00        Multimodal transport services of cargo in non-refrigerated or
+                        non-climate-controlled containers
+   1.0504.4             Multimodal transport services of special cargo
+    1.0504.41.00        Multimodal transport services of live cargo
+    1.0504.42.00        Multimodal transport services of household removals and of furniture and other
+                        office items
+    1.0504.43.00        Multimodal transport services of oversized cargo
+    1.0504.44.00        Multimodal transport services of vehicles
+    1.0504.45           Multimodal transport services of dangerous products
+     1.0504.45.10       Multimodal transport services of fuels, lubricants and LPG, including
+                        when presented in metal cylinders
+     1.0504.45.20       Multimodal transport services of dangerous chemical products, except lubricants
+                        and LPG
+     1.0504.45.90       Multimodal transport services of dangerous products not classified in
+                        previous subheadings
+    1.0504.49.00        Multimodal transport services of special cargo not classified in previous
+                        subheadings
+   1.0504.90.00         Multimodal freight transport services not classified in previous
+                        subheadings
+
+
+  1.0505                Leasing of freight vehicles with operator
+(Fl. 24 of Annex I of Joint Ordinance RFB/SCS No.       , of December, 2018.)
+
+
+
+   1.0505.10.00         Leasing of road freight vehicles with operator
+   1.0505.20.00         Leasing of freight vessels with crew
+   1.0505.30.00         Leasing of freight aircraft with crew
+
+
+  1.0506.00.00          Time chartering of freight vessels
+
+
+
+
+                               Chapter 6 - Transport support services
+Notes
+
+1) Warehousing in warehouses is carried out in general warehouses, which are establishments whose
+purpose is to keep and preserve goods and to issue special certificates in bonded general
+warehouses.
+2) Transport support services include, among others, towing services, sales and reservation
+of tickets carried out at passenger terminals, baggage services and "lost and found."
+3) "Pilotage services" (serviços de praticagem), classified under heading 1.0605, are:
+  a) Carried out by the pilot, a non-crew waterborne professional, who boards the vessel to provide this
+  service.
+  b) The set of professional advisory activities to the Master (the crew member responsible for
+  the operation and maintenance of a vessel, in safe conditions, extending to the cargo, the crew
+  and other persons on board) required due to local peculiarities that make the free and safe
+  movement of the vessel difficult.
+4) In heading 1.0605, "vessel salvage services" include, for example, refloating,
+salvage-recovery, and cargo and vessel recovery services.
+5) Support navigation services, comprising maritime and port support, are classified under
+subheading 1.0605.40.
+6) Ancillary services to removal transport, such as
+packing and loading of household furniture and office items, which are classified under
+Chapter 5 according to the mode of transport, are excluded from this Chapter.
+
+        NBS 2.0                                               DESCRIPTION
+  1.0601                Cargo handling services
+   1.0601.10.00         Container handling services
+   1.0601.90.00         Cargo handling services not classified in previous subheadings
+
+
+  1.0602                Warehousing services
+   1.0602.10.00         Refrigerated warehousing services
+   1.0602.2             Warehousing services for dangerous products
+    1.0602.21.00        Warehousing services for petroleum and its derivatives
+(Fl. 25 of Annex I of Joint Ordinance RFB/SCS No.         , of December, 2018.)
+
+
+
+    1.0602.22.00        Warehousing services for fuels, lubricants and LPG, including when presented
+                        in metal cylinders
+    1.0602.23.00        Warehousing services for dangerous chemical products
+    1.0602.29.00        Warehousing services for dangerous products not classified in previous
+                        subheadings
+   1.0602.3             Warehousing services for solid, liquid or liquefied and gaseous bulk
+    1.0602.31.00        Warehousing services for solid bulk
+    1.0602.32.00        Warehousing services for liquid or liquefied bulk
+    1.0602.33.00        Warehousing services for gaseous bulk
+   1.0602.90.00         Warehousing services not classified in previous subheadings
+
+
+  1.0603.00.00          Railway transport support services
+
+
+  1.0604                Road transport support services
+   1.0604.10.00         Bus station services
+   1.0604.2             Highway, bridge and tunnel operation services
+    1.0604.21.00        Highway operation services
+    1.0604.22.00        Bridge and tunnel operation services
+   1.0604.30.00         Parking services
+   1.0604.40.00         Towing services for private and commercial vehicles
+   1.0604.90.00         Road transport support services not classified in previous subheadings
+
+
+  1.0605                Waterborne transport support services
+   1.0605.10.00         Port and canal operation services, except cargo handling
+   1.0605.20.00         Pilotage and berthing services
+   1.0605.30.00         Vessel salvage services
+   1.0605.40.00         Support navigation services
+   1.0605.90.00         Waterborne transport support services not classified in previous subheadings
+
+
+  1.0606                Air and aerospace transport support services
+   1.0606.1             Air transport support services
+    1.0606.11.00        Airport operation services, except cargo handling
+    1.0606.12.00        Air traffic control services
+    1.0606.19.00        Air transport support services not classified in previous subheadings
+   1.0606.20.00         Aerospace transport support services
+
+
+  1.0607.00.00          Freight forwarding services
+
+
+  1.0608                Multimodal freight transport support services
+   1.0608.10.00         Cargo pickup and delivery services in multimodal transport
+(Fl. 26 of Annex I of Joint Ordinance RFB/SCS No.     , of December, 2018.)
+
+
+
+   1.0608.20.00         Cargo unitization or de-unitization services in multimodal transport
+   1.0608.30.00         Cargo handling services in multimodal transport
+   1.0608.40.00         Cargo documentary consolidation or deconsolidation services in multimodal
+                        transport
+   1.0608.90.00         Multimodal freight transport support services not classified in previous
+                        subheadings
+
+
+  1.0609.00.00          Transport support services not classified in previous headings
+
+
+
+
+Chapter 7 - Postal services; document or parcel collection, dispatch or delivery services;
+                                     courier services
+Notes
+
+1) In heading 1.0701:
+  a) "Postal service" is the service of receiving, dispatching, transporting and delivering
+  correspondence items, valuables and parcels, provided within the scope of a universal service
+  obligation.
+  b) "Postal item" comprises any correspondence, valuable or parcel sent by
+  post.
+  c) "Correspondence items" are: a) letters; b) postcards; c) printed matter; d) items for the blind (cecogram); e) small
+  parcels.
+  d) "Grouped correspondence" is the combination, in a single volume, of items of the same or
+  different natures, when at least one of them is subject to the postal monopoly, sent to
+  legal entities under public or private law and/or their agencies, branches or representatives.
+  e) "Postal service related to valuables" corresponds to: a) sending money by letter with declared
+  value; b) sending a payment order by postal money order; c) collection of taxes,
+  installments, contributions and obligations payable on sight, by post.
+  f) "Postal service related to parcels" corresponds to sending and delivering items, with or without
+  commercial value, by post.
+  g) "Telegram" corresponds to urgent and confidential messages transmitted over the internet or by
+  another electronic means to the location where the message will be printed and self-enveloped for delivery
+  at the recipient's address. The telegram service is provided within the scope of a universal service
+  obligation.
+2) Heading 1.0702 classifies collection, transport, dispatch or delivery services for documents
+or parcels, except postal services provided as a universal service obligation and courier
+services.
+3) In heading 1.0703, "courier" (remessa expressa) is understood as the parcel, transported under expedited
+service conditions and delivered door-to-door, consisting of documents or goods transported in one or
+more volumes covered by a bill of lading.
+(Fl. 27 of Annex I of Joint Ordinance RFB/SCS No.        , of December, 2018.)
+
+
+
+        NBS 2.0                                                DESCRIPTION
+  1.0701.00.00          Postal and telegram services
+
+
+  1.0702.00.00          Collection, transport, dispatch or delivery services for documents or parcels,
+                        except courier services
+
+
+  1.0703.00.00          Courier services
+
+
+
+
+  Chapter 8 - Electricity transmission and distribution services; gas and
+                                                   water distribution services
+Notes
+
+1) Subheading 1.0801.20 includes the maintenance of electricity meters.
+2) Subheading 1.0802.10 includes the maintenance of water meters.
+3) Heading 1.0803 includes the distribution of any gaseous fuel by pipeline and the
+maintenance of gas meters.
+
+       NBS 2.0                                                  DESCRIPTION
+  1.0801                Electricity transmission and distribution services
+   1.0801.10.00         Electricity transmission services
+   1.0801.20.00         Electricity distribution services
+
+  1.0802                Water distribution services
+   1.0802.10.00         Water distribution services by pipeline, except water vapor and hot
+                        water
+   1.0802.20.00         Distribution services of water vapor, hot water and air conditioning by
+                        pipeline
+   1.0802.30.00         Water distribution services, other than by pipeline
+
+  1.0803.00.00          Piped gas distribution services
+
+
+ SECTION III - FINANCIAL AND RELATED SERVICES; SECURITIZATION OF RECEIVABLES AND FACTORING;
+REAL ESTATE SERVICES; OPERATING LEASING AND INTELLECTUAL
+                                        PROPERTY
+Notes
+
+
+1) Financial leasing operations are classified under Chapter 9 and operating
+leasing operations are classified under Chapter 11.
+(Fl. 28 of Annex I of Joint Ordinance RFB/SCS No.    , of December, 2018.)
+
+
+
+
+                          Chapter 9 - Financial services and related services
+Notes
+
+1) "Investment bank" is a private financial institution, specialized in
+temporary equity participation operations, in financing productive activity through the
+supply of fixed and working capital and in managing third-party assets.
+2) "Supplementary pension services" (previdência complementar) are those offered by supplementary
+pension entities, whose main purpose is the administration and execution of pension
+benefit plans. These plans are voluntary, of a supplementary nature and organized
+autonomously in relation to the general social security regime, and are based on the constitution of reserves
+that guarantee the benefit.
+ 3) "Supplementary pension entities" are classified as closed supplementary pension
+entities (EFPCs) and open supplementary pension entities (EAPCs):
+  a) EFPCs, commonly called pension funds, are non-profit entities organized
+  as foundations or civil associations. They are established exclusively for
+  employees of a company or group of companies, for public servants of the Union, the states, the
+  Federal District and the municipalities, as well as for members of legal entities of a
+  professional, class or sectoral nature, called sponsors.
+  b) EAPCs are for-profit entities, established solely as corporations
+  (sociedades anônimas), whose purpose is to establish and operate pension benefit plans granted
+  in the form of continuous income or a lump-sum payment, accessible to any interested individuals.
+4) For the purposes of this Chapter, "financial leasing" corresponds to an operation in which:
+  a) The consideration payments and other payments provided for in the contract, owed by the lessee, are
+  normally sufficient for the lessor to recover the cost of the leased asset during the
+  contractual term of the operation and, additionally, obtain a return on the funds invested.
+  b) Maintenance, technical assistance and related services expenses relating to the operability of the leased
+  asset are the responsibility of the lessee.
+  c) The price for exercising the purchase option is freely agreed, and may even be the
+  market value of the leased asset, when the operation is carried out in accordance with Brazilian
+  legislation.
+5) For the purposes of this Chapter, the following meanings apply:
+  a) Reinsurance: the operation of transferring risks from a ceding company (the insurance
+  company that enters into a reinsurance operation) to a reinsurer, while the term retrocession designates the
+  operation of transferring reinsurance risks from reinsurers to reinsurers, or from
+  reinsurers to local insurance companies.
+  b) Retrocession: the operation of transferring reinsurance risks from reinsurers, for
+  their own protection, to reinsurers or local insurance companies, through
+  automatic or facultative contracts, that is, it is the reinsurance of a reinsurance.
+  c) Commodity: used in commercial transactions to designate a given good, in raw
+  or minimally processed form, produced on a global scale and with homogeneous physical
+(Fl. 29 of Annex I of Joint Ordinance RFB/SCS No.      , of December, 2018.)
+
+
+  characteristics. As a rule, these goods are of agricultural or mineral origin, traded through
+  contracts.
+  d) Receivables securitization: the operation in which a financial institution holding
+  credits ("receivables") assigns those credits to a non-financial institution, established as
+  a corporation (sociedade por ações), whose corporate purpose is, exclusively, the acquisition of receivables
+  (securitization company).
+  e) Factoring (Fomento comercial): the cumulative and continuous provision of credit,
+  market and credit-management advisory services, risk selection, management of accounts payable and receivable,
+  and the purchase of credit rights arising from term commercial sales or from the provision
+  of services.
+  f) Trust: legal relationships created, during life or after death, by a given person (the
+  settlor or grantor), for the purpose of placing their assets under the control of another person (the
+  trustee), who will administer them for the benefit of the beneficiary or for a specific
+  purpose.
+6) Heading 1.0910 classifies, exclusively, private health care plan services,
+which do not provide for the option of free choice of service provider with reimbursement, unlike
+health insurance services, which provide for that option and are classified under subheading 1.0903.21.
+
+        NBS 2.0                                               DESCRIPTION
+  1.0901                Financial services, except investment banks, insurance and supplementary
+                        pension services
+   1.0901.10.00         Central bank services
+   1.0901.2             Deposit services
+    1.0901.21.00        Deposit services for legal entities
+    1.0901.22.00        Deposit services for individuals
+    1.0901.29.00        Deposit services for other depositors
+   1.0901.3             Credit granting services
+    1.0901.31.00        Residential mortgage financing services
+    1.0901.32.00        Non-residential real estate financing services
+    1.0901.33.00        Personal loan and financing services
+    1.0901.34.00        Commercial loan and financing services
+    1.0901.35.00        Industrial loan and financing services
+    1.0901.36.00        Agricultural and livestock loan and financing services
+    1.0901.39.00        Credit granting services not classified in previous subheadings
+   1.0901.40.00         Credit card services
+   1.0901.5             Financial leasing operations
+    1.0901.51           Financial leasing of machinery and equipment
+     1.0901.51.1        Financial leasing of transport equipment
+      1.0901.51.11      Financial leasing of road motor vehicles for the
+                        transport of passengers
+      1.0901.51.12      Financial leasing of road motor vehicles for the
+                        transport of goods
+      1.0901.51.13      Financial leasing of railway vehicles and equipment
+(Fl. 30 of Annex I of Joint Ordinance RFB/SCS No.        , of December, 2018.)
+
+
+
+      1.0901.51.14      Financial leasing of other land transport equipment,
+                        including mixed-use vehicles
+      1.0901.51.15      Financial leasing of ships and other vessels
+      1.0901.51.16      Financial leasing of aircraft
+      1.0901.51.17      Financial leasing of containers
+     1.0901.51.2        Financial leasing of other machinery and equipment
+      1.0901.51.21      Financial leasing of agricultural machinery and equipment
+      1.0901.51.22      Financial leasing of construction machinery and equipment
+      1.0901.51.23      Financial leasing of office machinery and equipment,
+                        except computers
+      1.0901.51.24      Financial leasing of computers
+      1.0901.51.25      Financial leasing of telecommunications equipment
+      1.0901.51.29      Financial leasing of other machinery and equipment not
+                        classified in previous subheadings
+    1.0901.52           Financial leasing of other goods
+     1.0901.52.10       Financial leasing of televisions and other domestic electronic devices,
+                        as well as their accessories
+     1.0901.52.20       Financial leasing of recorded media
+     1.0901.52.30       Financial leasing of furniture and household appliances
+     1.0901.52.40       Financial leasing of entertainment and leisure equipment
+     1.0901.52.50       Financial leasing of bed, table and bath linens
+     1.0901.52.90       Financial leasing of other goods not classified in
+                        previous subheadings
+   1.0901.90.00         Financial services, except investment banks, insurance and supplementary
+                        pension services, not classified in previous subheadings
+
+
+  1.0902                Investment bank services
+   1.0902.10.00         Asset valuation services
+   1.0902.20.00         Securities underwriting services
+   1.0902.30.00         Mergers and acquisitions services
+   1.0902.40.00         Venture capital and corporate finance services
+   1.0902.90.00         Investment bank services not classified in previous subheadings
+
+
+  1.0903                Insurance and supplementary pension services (excluding reinsurance
+                        services), except compulsory social security services
+   1.0903.1             Life insurance and supplementary pension services, excluding
+                        reinsurance services
+    1.0903.11.00        Life insurance services
+    1.0903.12.00        Open supplementary pension services
+    1.0903.13.00        Closed supplementary pension services
+(Fl. 31 of Annex I of Joint Ordinance RFB/SCS No.        , of December, 2018.)
+
+
+
+   1.0903.2             Health and accident insurance services
+    1.0903.21.00        Health insurance services
+    1.0903.22.00        Accident insurance services
+   1.0903.3             Other insurance services, excluding reinsurance services
+    1.0903.31.00        Road vehicle insurance services
+    1.0903.32.00        Insurance services for vehicles and equipment for railway, waterborne and
+                        air transport
+    1.0903.33.00        Cargo insurance services
+    1.0903.34.00        Insurance services for other property
+    1.0903.35.00        Liability insurance services
+    1.0903.36.00        Credit and surety insurance services
+    1.0903.37.00        Travel insurance services
+    1.0903.38.00        Agricultural (rural) insurance services
+    1.0903.39.00        Other insurance services, excluding reinsurance services, not classified in
+                        previous subheadings
+
+
+  1.0904                Reinsurance and retrocession services
+   1.0904.10.00         Life reinsurance services
+   1.0904.2             Health and accident reinsurance services
+    1.0904.21.00        Health reinsurance services
+    1.0904.22.00        Accident reinsurance services
+   1.0904.3             Other reinsurance services
+    1.0904.31.00        Road vehicle reinsurance services
+    1.0904.32.00        Reinsurance services for vehicles and equipment for railway,
+                        waterborne and air transport
+    1.0904.33.00        Cargo reinsurance services
+    1.0904.34.00        Reinsurance services for other property
+    1.0904.35.00        Liability reinsurance services
+    1.0904.36.00        Credit and surety reinsurance services
+    1.0904.37.00        Agricultural (rural) reinsurance services
+    1.0904.39.00        Other reinsurance services not classified in previous subheadings
+   1.0904.40.00         Retrocession services
+
+
+  1.0905                Auxiliary services to financial services, except those related to insurance and
+                        supplementary pension
+   1.0905.1             Brokerage services for securities, derivatives and commodities
+    1.0905.11.00        Securities brokerage services
+    1.0905.12.00        Derivatives and commodities brokerage services
+    1.0905.13.00        Clearing services for financial transactions, including financial assets
+                        (clearinghouse)
+(Fl. 32 of Annex I of Joint Ordinance RFB/SCS No.        , of December, 2018.)
+
+
+
+   1.0905.2             Asset portfolio, fund and trust management and administration services
+    1.0905.21.00        Asset portfolio management and administration services, except pension funds
+    1.0905.22.00        Administration services for investment funds and pension funds
+    1.0905.23.00        Trust management and administration services
+   1.0905.30.00         Custody and safekeeping services
+   1.0905.40.00         Services related to the administration of financial markets
+   1.0905.50.00         Financial consulting services
+   1.0905.60.00         Foreign exchange services
+   1.0905.70.00         Credit rating services
+   1.0905.80.00         Fiduciary services
+   1.0905.90.00         Auxiliary services to financial services not classified in previous subheadings
+
+
+  1.0906                Auxiliary services to insurance, reinsurance and supplementary pension
+   1.0906.1             Brokerage and agency services for insurance, reinsurance and supplementary
+                        pension
+    1.0906.11.00        Agency and brokerage services for insurance, reinsurance and supplementary
+                        pension, except health insurance
+    1.0906.12.00        Health insurance brokerage services
+   1.0906.20.00         Loss adjustment and valuation services for insurance and reinsurance
+   1.0906.30.00         Actuarial services
+   1.0906.40.00         Supplementary pension fund management services
+   1.0906.90.00         Auxiliary services to insurance, reinsurance and supplementary pension not
+                        classified in previous subheadings
+
+
+  1.0907.00.00          Receivables securitization services
+
+
+  1.0908.00.00          Factoring (fomento comercial)
+
+
+  1.0909                Financial asset holding company services
+   1.0909.10.00         Holding company services over the equity of subsidiary companies
+   1.0909.20.00         Holding company services over securities and other financial assets and over
+                        similar financial funds and entities
+
+
+  1.0910                Private health care plan services and related services
+   1.0910.10.00         Private health care plan services
+   1.0910.20.00         Brokerage services for private health care plans
+   1.0910.90.00         Private health care plan services and related services not
+                        classified in previous subheadings
+
+
+  1.0911.00.00          Financial services and related services not classified in previous headings
+(Fl. 33 of Annex I of Joint Ordinance RFB/SCS No.         , of December, 2018.)
+
+
+
+
+                                      Chapter 10 - Real estate services
+Notes
+
+1) Real estate development is not included in this Chapter, and is classified under heading
+1.0101.
+2) Real property (Imóvel) is the good consisting of land and any improvements incorporated
+into it. Real property may be classified according to:
+ a) Ownership, as own or third-party property.
+ b) Use, as residential or non-residential.
+ c) Location, as urban or rural.
+3) In the case of mixed-use property, the predominant use will determine its classification as residential
+or non-residential property.
+4) There are three distinct categories of non-residential property, namely:
+  a) Commercial property, such as offices and stores.
+  b) Industrial property, such as, for example, sheds and building facilities intended for factories.
+  c) Property whose nature differs from the previous categories, such as commercial-industrial
+  property, religious temples, public property and urban or rural land.
+5) Heading 1.1001 refers to third-party property.
+6) Heading 1.1002 comprises the operation in which the property is placed at the lessee's
+disposal, who holds possession for a determined period, with the lessor or sublessor being remunerated
+according to that period. In this case, it is not to be confused with property-management
+services in leasing.
+
+        NBS 2.0                                                 DESCRIPTION
+  1.1001                Real estate services on commission or under contract
+   1.1001.1             Property management and leasing services
+    1.1001.11.00        Management and leasing services for residential property
+    1.1001.12           Management and leasing services for non-residential property
+     1.1001.12.10       Management and leasing, subleasing, letting, right-of-way
+                        or use permission services, shared or not, for railway, roadway, poles, cables, pipelines and
+                        conduits of any nature
+     1.1001.12.90       Management and leasing services for other non-residential property
+   1.1001.2             Intermediation services in the purchase and sale of real estate
+    1.1001.21.00        Intermediation services in the purchase and sale of residential property
+    1.1001.22.00        Intermediation services in the purchase and sale of non-residential property
+   1.1001.30.00         Real estate appraisal services
+   1.1001.40.00         Real estate consulting services
+   1.1001.50.00         Condominium management advisory services
+(Fl. 34 of Annex I of Joint Ordinance RFB/SCS No.        , of December, 2018.)
+
+
+
+   1.1001.90.00         Real estate services not classified in previous subheadings
+
+
+  1.1002                Leasing of real estate
+   1.1002.10.00         Leasing of residential property
+   1.1002.20.00         Leasing of non-residential property
+
+
+
+
+    Chapter 11 - Operating leasing, intellectual property, franchises and other
+                                             rights
+Notes
+
+1) Only operating leasing operations are classified under this chapter.
+Financial leasing operations are classified under Chapter 9.
+2) "Operating leasing" is understood as the leasing arrangement in
+which:
+  a) The consideration payments to be made by the lessee cover the cost of leasing the
+  asset and the services inherent in placing it at the lessee's disposal, and the total
+  payments of this kind may not exceed 90% of the cost of the leased asset.
+  b) Maintenance, technical assistance and related services expenses relating to the operability of the leased
+  asset are the responsibility of the lessor or the lessee.
+  c) The price for exercising the purchase option is the market value of the leased asset.
+3) Only vehicle-leasing operations without operator are classified under this Chapter.
+Vehicle-leasing operations with operator are classified under Chapter 4, when the vehicles are
+intended for passenger transport, or under Chapter 5, when the vehicles are intended for
+freight transport.
+4) "Operator" is understood as the person who operates machinery or drives vehicles, also
+applying to crews that operate ships and other types of vessels or aircraft.
+5) The duration of the lease is irrelevant to its classification.
+6) For the purposes of this Chapter, the following meanings apply:
+  a) Licensing of rights: authorization to use or commercially exploit a property
+  right of any category of intellectual property.
+  b) Temporary assignment of rights: the transfer, in whole or in part, of ownership for a period stipulated
+  in a contract or, in the absence of a written contractual stipulation, for a maximum term of five years,
+  applicable only to copyright and related rights.
+  c) Definitive assignment of rights: the transfer, in whole or in part, of ownership, on a definitive
+  basis, of any category of intellectual property.
+  d) Intellectual property: the sum of copyright and related rights, relating to literary,
+  artistic and scientific works, to the interpretations of performing artists and the performances
+  of performing artists, to phonograms and broadcasting emissions; industrial property
+  rights, relating to trademarks, patents and industrial designs, in addition to other rights subject to sui generis
+  protection,
+(Fl. 35 of Annex I of Joint Ordinance RFB/SCS No.    , of December, 2018.)
+
+
+ relating to plant varieties, integrated circuit topographies, confidential information, including
+ undisclosed information, and traditional knowledge associated with genetic heritage.
+ e) Computer programs (software): the expression of an organized set of instructions in
+ natural or coded language, contained in a physical medium of any nature, necessary for use
+ in automatic data-processing machines, devices, instruments or
+ peripheral equipment, based on digital or analogous technique, to make them function in a manner and
+ for determined purposes;
+ f) Audiovisual work: that resulting from the fixation of images with or without sound, which has
+ the purpose of creating, through its reproduction, the impression of movement, regardless of the
+ processes of its capture, the medium initially or subsequently used to fix it, as well as of the means used for
+ its distribution.
+ g) Franchise or franchising: the system by which a franchisor grants the franchisee the right to use a
+ trademark or patent, together with the right of exclusive or semi-exclusive distribution of products or
+ services and, possibly, also the right to use business-implementation and -administration
+ technology or an operating system developed or held by the franchisor, in exchange for
+ direct or indirect remuneration, without, however, an employment relationship being characterized.
+
+        NBS 2.0                                             DESCRIPTION
+  1.1101                Operating leasing or leasing of machinery and equipment, without
+                        operator
+   1.1101.1             Operating leasing or leasing of transport equipment, without
+                        operator
+    1.1101.11.00        Operating leasing or leasing of road motor vehicles
+                        for the transport of up to eight passengers, without operator
+    1.1101.12.00        Operating leasing or leasing of road motor vehicles
+                        for the transport of goods, without operator
+    1.1101.13.00        Operating leasing or leasing of railway vehicles and
+                        equipment, without operator
+    1.1101.14.00        Operating leasing or leasing of other land transport equipment,
+                        including mixed-use vehicles, without operator
+    1.1101.15.00        Operating leasing or leasing of ships and other vessels, without
+                        crew
+    1.1101.16.00        Operating leasing or leasing of aircraft, without crew
+    1.1101.17.00        Operating leasing or leasing of containers
+   1.1101.20.00         Operating leasing or leasing of agricultural machinery
+                        and equipment, without operator
+   1.1101.30.00         Operating leasing or leasing of construction machinery and
+                        equipment, without operator
+   1.1101.40.00         Operating leasing or leasing of office machinery and
+                        equipment, except computers, without operator
+   1.1101.50.00         Operating leasing or leasing of computers, without operator
+   1.1101.60.00         Operating leasing or leasing of telecommunications equipment,
+                        without operator
+(Fl. 36 of Annex I of Joint Ordinance RFB/SCS No.      , of December, 2018.)
+</content>
+
+
+
+   1.1101.90.00         Operating lease or rental of machinery and equipment, without
+                        operator, not classified in previous subpositions
+
+
+  1.1102                Operating lease or rental of other goods
+   1.1102.10.00         Operating lease or rental of televisions and other electronic devices,
+                        as well as their accessories
+   1.1102.20.00         Operating lease or rental of recorded media
+   1.1102.30.00         Operating lease or rental of furniture and household appliances
+   1.1102.40.00         Operating lease or rental of equipment for amusement and leisure
+   1.1102.50.00         Operating lease or rental of bed, table, and bath linens
+   1.1102.60.00         Operating lease or rental of clothing and footwear
+   1.1102.90.00         Operating lease or rental of other goods not classified
+                        in previous subpositions
+
+
+  1.1103                Licensing of copyright and related rights
+   1.1103.10.00         Licensing of rights to literary works
+   1.1103.2             Licensing of rights to computer programs (software) and
+                        databases
+    1.1103.21.00        Licensing of rights to production, distribution, or commercialization of computer
+                        programs (software)
+    1.1103.22.00        Licensing of rights to use computer programs (software)
+    1.1103.23.00        Licensing of rights to databases
+    1.1103.29.00        Licensing of rights to computer programs (software) and
+                        databases not classified in previous subpositions
+   1.1103.3             Licensing of rights to audiovisual works
+    1.1103.31.00        Licensing of copyright of cinematographic works
+    1.1103.32.00        Licensing of copyright of journalistic works
+    1.1103.33.00        Licensing of copyright of advertising works
+    1.1103.34.00        Licensing of related rights of performing artists in audiovisual
+                        works
+    1.1103.35.00        Licensing of related rights of producers of audiovisual works
+    1.1103.36           Licensing of rights to audiovisual works intended for television
+     1.1103.36.10       Licensing of rights to audiovisual works on broadcasts of sporting
+                        events
+     1.1103.36.20       Licensing of rights to audiovisual works on broadcasts of television
+                        programs
+     1.1103.36.90       Licensing of rights to audiovisual works on other television broadcasts
+    1.1103.39.00        Licensing of rights to audiovisual works not classified in previous
+                        subpositions
+   1.1103.4             Licensing of rights to musical works and phonograms
+    1.1103.41.00        Licensing of copyright of musical or literary-musical works
+(Fl. 37 do Anexo I da Portaria Conjunta RFB/SCS nº        , de de dezembro de 2018.)
+
+
+
+    1.1103.42.00        Licensing of related rights of performing artists
+    1.1103.43.00        Licensing of related rights of phonogram producers
+   1.1103.50.00         Licensing of rights related to broadcasting
+   1.1103.90.00         Licensing of copyright and related rights not classified in
+                        previous subpositions
+
+
+  1.1104                Licensing of industrial property rights
+   1.1104.10.00         Licensing of patent rights
+   1.1104.20.00         Licensing of trademark rights
+   1.1104.30.00         Licensing of industrial design rights
+   1.1104.90.00         Licensing of industrial property rights not classified in
+                        previous subpositions
+
+
+  1.1105                Licensing of other rights
+   1.1105.10.00         Licensing of rights to plant varieties
+   1.1105.20.00         Licensing of rights to integrated circuit topographies
+   1.1105.30.00         Licensing of rights related to undisclosed information
+   1.1105.4             Exploitation of natural resources
+    1.1105.41.00        Exploitation of plant resources, including forestry
+    1.1105.42.00        Exploitation of mineral resources
+   1.1105.5             Licensing of rights to traditional knowledge
+    1.1105.51.00        Licensing of rights to traditional knowledge associated with
+                        genetic resources
+    1.1105.59.00        Licensing of rights to traditional knowledge not classified in
+                        previous subpositions
+   1.1105.60.00         Licensing of rights related to access to genetic resources, except those
+                        arising from traditional knowledge
+   1.1105.70.00         Licensing of rights to information related to experience acquired in the
+                        industrial, commercial, or scientific sector (know-how)
+   1.1105.90.00         Licensing of other rights not classified in previous subpositions
+
+
+  1.1106                Temporary assignment of copyright and related rights
+   1.1106.10.00         Temporary assignment of rights to literary works
+   1.1106.20.00         Temporary assignment of rights to computer programs (software)
+   1.1106.3             Temporary assignment of rights to audiovisual works
+    1.1106.31.00        Temporary assignment of copyright of cinematographic works
+    1.1106.32.00        Temporary assignment of copyright of journalistic works
+    1.1106.33.00        Temporary assignment of copyright of advertising works
+    1.1106.34.00        Temporary assignment of related rights of performing artists in audiovisual
+                        works
+    1.1106.35.00        Temporary assignment of related rights of producers of audiovisual works
+(Fl. 38 do Anexo I da Portaria Conjunta RFB/SCS nº        , de de dezembro de 2018.)
+
+
+
+    1.1106.36           Temporary assignment of rights to audiovisual works intended for television
+     1.1106.36.10       Temporary assignment of rights to audiovisual works on broadcasts of sporting
+                        events
+     1.1106.36.20       Temporary assignment of rights to audiovisual works on broadcasts of television
+                        programs
+     1.1106.36.90       Temporary assignment of rights to audiovisual works on other television
+                        broadcasts
+    1.1106.39.00        Temporary assignment of rights to audiovisual works not classified in previous
+                        subpositions
+   1.1106.4             Temporary assignment of rights to musical works and phonograms
+    1.1106.41.00        Temporary assignment of copyright of musical and literary-musical works
+    1.1106.42.00        Temporary assignment of related rights of performing artists
+    1.1106.43.00        Temporary assignment of related rights of phonogram producers
+   1.1106.50.00         Temporary assignment of rights related to broadcasting
+   1.1106.90.00         Temporary assignment of copyright and related rights not classified in
+                        previous subpositions
+
+
+  1.1107                Permanent assignment of copyright and related rights
+   1.1107.10.00         Permanent assignment of rights to literary works
+   1.1107.20.00         Permanent assignment of rights to computer programs (software)
+   1.1107.3             Permanent assignment of rights to audiovisual works
+    1.1107.31.00        Permanent assignment of rights to cinematographic works
+    1.1107.32.00        Permanent assignment of rights to journalistic works
+    1.1107.33.00        Permanent assignment of rights to advertising works
+    1.1107.39.00        Permanent assignment of rights to audiovisual works not classified in previous
+                        subpositions
+   1.1107.40.00         Permanent assignment of rights to musical works and phonograms
+   1.1107.50.00         Permanent assignment of rights related to broadcasting
+   1.1107.90.00         Permanent assignment of copyright and related rights not classified in
+                        previous subpositions
+
+
+  1.1108                Permanent assignment of industrial property rights
+   1.1108.10.00         Permanent assignment of patent rights
+   1.1108.20.00         Permanent assignment of trademark rights
+   1.1108.30.00         Permanent assignment of industrial design rights
+   1.1108.90.00         Permanent assignment of industrial property rights not classified in
+                        previous subpositions
+
+
+  1.1109                Permanent assignment of other rights
+   1.1109.10.00         Permanent assignment of rights to plant varieties
+   1.1109.20.00         Permanent assignment of rights to integrated circuit topographies
+(Fl. 39 do Anexo I da Portaria Conjunta RFB/SCS nº      , de de dezembro de 2018.)
+
+
+
+   1.1109.30.00         Permanent assignment of rights related to undisclosed information
+   1.1109.90.00         Permanent assignment of other rights not classified in previous subpositions
+
+
+  1.1110.00.00          Franchise
+
+
+
+
+                           SECTION IV - BUSINESS AND PRODUCTION SERVICES
+
+
+                           Chapter 12 - Research and development services
+
+Notes
+
+1) In this Chapter, the following definitions apply:
+  a) Research: the process aimed at generating, corroborating, or refuting knowledge, which may take
+  the form of basic research or applied research.
+  b) Basic Research: research in which experimental or theoretical work is developed with the
+  aim of obtaining new knowledge about observable phenomena and facts not yet elucidated.
+  c) Applied research: research in which original investigative work aims at obtaining new
+  knowledge oriented toward specific applications.
+  d) Development: the systematic use of scientific or technological knowledge, with the aim of
+  obtaining new products or processes or improving and/or perfecting existing ones.
+  e) Research and development: the set of creative works, carried out systematically with
+  the aim of expanding the base of scientific and technological knowledge, and the use of such knowledge
+  to develop new applications, such as new or technologically
+  improved products or processes.
+2) The term "humanities" includes, for example, languages, literature, history, philosophy, arts, religion, and
+theology.
+3) When the services simultaneously comprise the sciences referred to in more than one of the
+second-level subpositions, classification shall be:
+  a) In the second-level subposition corresponding to the natural science that predominates over the others
+  in the performance of the service.
+  b) In the residual subposition, when in the performance of the service there is no predominance of any of the
+  sciences or humanities over the others.
+4) For classification purposes under position 1.1203, interdisciplinarity of services requires the performance
+of at least one research and development service in the area of natural sciences, engineering, and
+technology, classified under position 1.1201, combined with the performance of another research and
+development service in the area of social sciences or humanities, classified under position 1.1202. However,
+if one of these sciences or humanities predominates over the others, each of the services
+must be classified under its corresponding original position.
+(Fl. 40 do Anexo I da Portaria Conjunta RFB/SCS nº     , de de dezembro de 2018.)
+
+
+
+
+        NBS 2.0                                              DESCRIPTION
+  1.1201                Research and development services in natural sciences, engineering, and technology
+   1.1201.1             Research and development services in sciences
+    1.1201.11.00        Research and development services in physical sciences
+    1.1201.12.00        Research and development services in chemistry and biology
+    1.1201.19.00        Research and development services in sciences not classified in previous
+                        subpositions
+   1.1201.20.00         Research and development services in biotechnology
+   1.1201.3             Research and development services in engineering and technology
+    1.1201.31.00        Research and development services in Information and Communication Technology
+                        (ICT)
+    1.1201.32.00        Research and development services in nanotechnology
+    1.1201.33.00        Research and development services in nuclear engineering and technology
+    1.1201.34.00        Research and development services in power microwave engineering and
+                        technology
+    1.1201.39.00        Research and development services in engineering and technology not classified
+                        in previous subpositions
+   1.1201.40.00         Research and development services in medical, dental, and
+                        pharmaceutical sciences
+   1.1201.50.00         Research and development services in agricultural sciences
+   1.1201.90.00         Research and development services in natural sciences, engineering, and technology not
+                        classified in previous subpositions
+
+
+  1.1202                Research and development services in social sciences and humanities
+   1.1202.10.00         Research and development services in psychology
+   1.1202.20.00         Research and development services in economics
+   1.1202.30.00         Research and development services in law
+   1.1202.40.00         Research and development services in languages and literature
+   1.1202.90.00         Research and development services in social sciences and humanities not
+                        classified in previous subpositions
+
+
+  1.1203.00.00          Interdisciplinary research and development services
+
+
+
+
+                                 Chapter 13 - Legal and accounting services
+
+Notes
+(Fl. 41 do Anexo I da Portaria Conjunta RFB/SCS nº         , de de dezembro de 2018.)
+
+
+1) Under position 1.1301, "documentation and certification services" include, for example, services for the
+granting of registration of patents, copyrights, and other intellectual property, certificates of
+origin of goods, and certificates of nonexistence of domestic production of machinery and equipment.
+2) Under position 1.1303, "legal entity" means the union or association of natural persons that acquires, by
+operation of law, its own legal personality distinct from that of its members, for purposes of rights and
+obligations. A "legal entity" also means the union or association of legal entities that acquires, by
+operation of law, its own legal personality distinct from that of its members.
+3) Under position 1.1304, "notarial and registry services" include, for example, authenticating facts, drawing up
+public deeds and powers of attorney, drawing up public wills and approving sealed wills, drawing up notarial
+records, certifying signatures, and authenticating copies.
+
+        NBS 2.0                                                 DESCRIPTION
+  1.1301                Legal services
+   1.1301.10.00         Criminal legal representation and consultancy services
+   1.1301.20.00         Legal representation and consultancy services in other areas of law, except
+                        tax consultancy
+   1.1301.30.00         Documentation and certification services, except notarial and registry services
+   1.1301.40.00         Arbitration, conciliation, and mediation services
+   1.1301.90.00         Legal services not classified in previous subpositions
+
+
+  1.1302                Auditing, accounting, and related services
+   1.1302.1             Auditing services
+    1.1302.11.00        Financial statement auditing services
+    1.1302.19.00        Auditing services not classified in previous subpositions
+   1.1302.2             Accounting and related services
+    1.1302.21.00        Accounting services
+    1.1302.22.00        Commercial bookkeeping services
+    1.1302.23.00        Payroll services
+
+
+  1.1303                Tax consultancy services
+   1.1303.10.00         Tax consultancy services for legal entities
+   1.1303.20.00         Tax consultancy services for natural persons
+
+
+  1.1304.00.00          Notarial and registry services
+
+
+
+
+   Chapter 14 - Professional, technical, and business services (except research and development,
+                       information technology, and legal and accounting services)
+
+Notes
+(Fl. 42 do Anexo I da Portaria Conjunta RFB/SCS nº       , de de dezembro de 2018.)
+
+
+
+
+1) "Real estate consultancy services" are not included in this Chapter, as they are classified under
+position 1.1001.
+2) For the purposes of this Chapter, a project shall be understood as the set of drawings, specifications, and
+documents that enable the construction of an asset, such as buildings, whether residential or not,
+machinery, and vessels.
+3) Under position 1.1402, "historic buildings" are considered to be those listed for protection by the Instituto do
+Patrimônio Histórico e Artístico Nacional (IPHAN) or similar national and international bodies.
+4) Under position 1.1408:
+  a) "Videographic event services" do not include television program production services,
+  which are classified under position 1.2501.
+  b) "Special photographic services" do not include photographs obtained by satellite for the
+  purpose of obtaining topographic data, which are classified under position 1.1404, or journalistic photographs, which
+  are classified under position 1.1704.
+
+        NBS 2.0                                               DESCRIPTION
+  1.1401                Business management services, business management consulting and business
+                        advisory services
+   1.1401.1             Business management consulting services
+    1.1401.11.00        Strategic management consulting services
+    1.1401.12.00        Financial management consulting services
+    1.1401.13.00        Human resources management consulting services
+
+    1.1401.14.00        Marketing management consulting services
+    1.1401.15.00        Operational management consulting services
+    1.1401.16.00        Energy management consulting services
+    1.1401.17.00        Supply chain management consulting services
+    1.1401.18.00        Hospital management consulting services
+    1.1401.19.00        Business management consulting services not classified in previous subpositions
+
+   1.1401.2             Business management services
+    1.1401.21.00        Business process management services
+    1.1401.22.00        Hospital management services
+    1.1401.29.00        Management services not classified in previous subpositions
+   1.1401.3             Business advisory services
+    1.1401.31.00        Press advisory services
+    1.1401.32.00        Public relations services
+    1.1401.39.00        Business advisory services not classified in previous subpositions
+
+
+  1.1402                Architecture, urban and rural area planning and landscaping services
+   1.1402.1             Architecture services
+(Fl. 43 do Anexo I da Portaria Conjunta RFB/SCS nº      , de de dezembro de 2018.)
+
+
+
+    1.1402.11.00        Architecture consulting services
+    1.1402.12.00        Architecture services for residential construction projects
+    1.1402.13.00        Architecture services for non-residential construction projects
+    1.1402.14.00        Architecture services for restoration of historic buildings
+    1.1402.15.00        Architecture services related to monitoring and supervision of the execution of
+                        architectural and urban planning projects
+   1.1402.2             Urban and rural area planning services
+    1.1402.21.00        Urban planning services
+    1.1402.22.00        Rural area planning services
+   1.1402.3             Landscaping services
+    1.1402.31.00        Landscaping consulting services
+    1.1402.32.00        Landscaping services, except consulting
+   1.1402.90.00         Architecture, urban and rural area planning and landscaping services not
+                        classified in previous subpositions
+
+
+  1.1403                Engineering services
+   1.1403.10.00         Engineering consulting services
+   1.1403.2             Engineering services for specific projects
+    1.1403.21           Engineering services for construction projects
+     1.1403.21.10       Engineering services for residential construction projects
+     1.1403.21.20       Engineering services for non-residential construction projects
+    1.1403.22           Engineering services for industrial and manufacturing projects, except for
+                        energy projects
+     1.1403.22.1        Engineering services for the exploration of minerals, oil, gas and biofuels
+      1.1403.22.11      Engineering services for mineral exploration projects
+      1.1403.22.12      Engineering services for oil and gas exploration projects
+      1.1403.22.13      Engineering services for oil refining and petrochemical projects
+      1.1403.22.14      Engineering services for biofuel production unit projects
+     1.1403.22.2        Engineering services for vehicle projects
+      1.1403.22.21      Engineering services for land vehicle projects
+      1.1403.22.22      Engineering services for vessel projects
+      1.1403.22.23      Engineering services for aircraft and aerospace vehicle projects
+     1.1403.22.90       Engineering services for other industrial and manufacturing projects, except for
+                        energy projects
+    1.1403.23.00        Engineering services for transportation infrastructure projects
+    1.1403.24.00        Engineering services for energy projects
+    1.1403.25.00        Engineering services for telecommunications, broadcasting and television projects
+    1.1403.26.00        Engineering services for waste management projects (hazardous and non-
+                        hazardous)
+    1.1403.27.00        Engineering services for water distribution and sewage network projects
+(Fl. 44 do Anexo I da Portaria Conjunta RFB/SCS nº       , de de dezembro de 2018.)
+
+
+
+    1.1403.29.00        Engineering services for other projects
+   1.1403.30.00         Construction project management services
+   1.1403.90.00         Engineering services not classified in previous subpositions
+
+
+  1.1404                Scientific services and other technical services
+   1.1404.1             Geological, geophysical and other prospecting services
+    1.1404.11.00        Geological and geophysical consulting services
+    1.1404.12.00        Geophysical services
+    1.1404.13.00        Geochemical services
+    1.1404.14.00        Information services for the assessment and exploration of natural resources
+    1.1404.19.00        Geological, geophysical and other prospecting services not classified in previous
+                        subpositions
+   1.1404.2             Surveying and cartographic services
+    1.1404.21.00        Surveying services
+    1.1404.22.00        Cartographic services
+   1.1404.30.00         Meteorological and weather forecasting services
+   1.1404.4             Technical analysis and testing services
+    1.1404.41.00        Technical analysis and testing services on purity and composition
+    1.1404.42.00        Technical analysis and testing services on physical properties
+    1.1404.43.00        Technical analysis and testing services on electrical and mechanical systems
+    1.1404.44.00        Technical inspection services for road transport vehicles
+    1.1404.49.00        Technical analysis and testing services not classified in previous subpositions
+
+
+  1.1405                Veterinary services
+   1.1405.1             Veterinary services for domestic animals
+    1.1405.11.00        Hospital services, with or without hospitalization, for domestic animals
+    1.1405.12.00        Care, assistance or treatment services for domestic animals
+   1.1405.2             Veterinary services for livestock
+    1.1405.21.00        Hospital services, with or without hospitalization, for livestock
+    1.1405.22.00        Care, assistance or treatment services for livestock
+   1.1405.30.00         Funeral, cremation and embalming services for animals
+   1.1405.40.00         Bank services for organs, blood, semen, tissues, ova and other biological
+                        materials
+   1.1405.50.00         Veterinary care and assistance plans
+   1.1405.60.00         Boarding, training, grooming and lodging services
+   1.1405.90.00         Veterinary services not classified in previous subpositions
+
+
+  1.1406                Advertising services and allocation of space or time for advertising
+   1.1406.1             Advertising services
+    1.1406.11.00        Advertising campaign services
+(Fl. 45 do Anexo I da Portaria Conjunta RFB/SCS nº         , de de dezembro de 2018.)
+
+
+
+    1.1406.12.00        Direct marketing and direct mail services
+    1.1406.19.00        Advertising services not classified in previous subpositions
+   1.1406.20.00         Purchase or sale of advertising space or time, on commission
+   1.1406.3             Sale of advertising space or time, except on commission
+    1.1406.31.00        Sale of advertising space in print media, except on commission
+    1.1406.32.00        Sale of advertising time on radio and television, except on commission
+    1.1406.33.00        Sale of advertising space on the worldwide computer network, except on
+                        commission
+    1.1406.34.00        Sale of advertising space in outdoor media, except on commission
+    1.1406.39.00        Sale of advertising space or time, except on commission, not classified in
+                        previous subpositions
+
+
+  1.1407.00.00          Market research and public opinion research services
+
+
+  1.1408                Photographic, videographic and photograph processing services
+   1.1408.1             Photographic and videographic services
+    1.1408.11.00        Portrait photography services
+    1.1408.12.00        Photographic and videographic services for advertising
+    1.1408.13.00        Photographic and videographic services for events
+    1.1408.14.00        Special photographic services
+    1.1408.15.00        Photograph restoration and retouching services
+    1.1408.19.00        Photographic and videographic services not classified in previous subpositions
+   1.1408.20.00         Photograph processing services
+
+
+  1.1409                Specialized design services
+   1.1409.1             Interior design services
+    1.1409.11.00        Interior design services for commercial and public spaces
+    1.1409.12.00        Interior design services for residential spaces
+   1.1409.2             Industrial design services
+    1.1409.21.00        Industrial design services for packaging, store displays and promotional
+                        objects for communication and sales
+    1.1409.22.00        Industrial design services for products, utensils, equipment, clothing,
+                        footwear, ornaments, jewelry and personal objects
+    1.1409.23.00        Industrial design services for machinery, equipment, accessories and objects for
+                        industrial use of any nature
+    1.1409.24.00        Industrial design services for furniture and decoration items
+    1.1409.25.00        Industrial design services for household and electronic appliances and
+                        equipment
+    1.1409.29.00        Industrial design services not classified in previous subpositions
+   1.1409.30.00         Design services for brands, images, graphic and digital objects
+(Fl. 46 do Anexo I da Portaria Conjunta RFB/SCS nº      , de de dezembro de 2018.)
+
+
+
+   1.1409.90.00         Specialized design services not classified in previous subpositions
+
+
+  1.1410                Technical and scientific consulting services not classified in previous positions
+   1.1410.10.00         Environmental consulting services
+   1.1410.90.00         Technical and scientific consulting services not classified in previous subpositions
+
+
+  1.1411.00.00          Translation and interpreting services
+
+
+  1.1412.00.00          Services for the registration of trademarks and business franchises, except
+                        licenses for the use of rights
+
+
+  1.1413.00.00          Customer prospecting services
+
+
+  1.1414.00.00          Supplier prospecting services
+
+
+  1.1415.00.00          Professional, technical and managerial services not classified in previous positions
+
+
+
+
+                            Chapter 15 - Information technology services
+
+Notes
+
+1) In this Chapter:
+  a) The expression "information technology" is taken to mean the application of different branches
+  of technology to create, store, exchange and use information, presented in the most diverse
+  formats, and which, for that purpose, makes use of computing equipment (hardware) and its
+  peripheral devices, computer programs and their resources, telecommunications systems, and data
+  and information management.
+  b) The expression "non-customized (off-the-shelf) programs" refers to computer programs
+  acquired in the form in which they are presented and which, as a rule, do not allow changes
+  intended to meet particular needs.
+  c) The expression "customized programs" means customized programs that meet the specific
+  needs of their acquirer or user.
+  d) By "integrated circuit" is meant a product, in final or intermediate form, having
+  elements, of which at least one is active, whose interconnections, in whole or in part, are
+  integrally formed on a unit (piece) of small dimensions, or within it. The
+  "integrated circuit" is intended to perform specific electronic functions.
+2) The design, development and installation of games and electronic games are classified under position
+1.1502, and the maintenance of games and electronic games is classified under position 1.1508.
+(Fl. 47 do Anexo I da Portaria Conjunta RFB/SCS nº      , de de dezembro de 2018.)
+
+
+
+
+        NBS 2.0                                               DESCRIPTION
+  1.1501                Information technology (IT) consulting, security and support services
+   1.1501.10.00         Information technology (IT) consulting services
+   1.1501.20.00         Information technology (IT) security services
+   1.1501.30.00         Information technology (IT) support services
+
+
+  1.1502                Design and development services for applications and programs in information
+                        technology (IT)
+   1.1502.10.00         Design, development and installation services for non-customized (off-the-shelf)
+                        applications and programs
+   1.1502.20.00         Design and development, adaptation and installation services for customized
+                        applications and programs
+   1.1502.30.00         Design and development services for the structure and content of web pages
+   1.1502.40.00         Design and development services for the structure and content of databases
+   1.1502.50.00         Information technology (IT) systems integration services
+   1.1502.90.00         Design and development services for applications and programs in information
+                        technology (IT) not classified in previous subpositions
+
+
+  1.1503.00.00          Design and development services for information technology (IT) networks
+
+
+  1.1504.00.00          Design and development services for integrated circuit topographies
+
+
+  1.1505.00.00          Integrated circuit design services
+
+
+  1.1506                Hosting and provision of infrastructure services in information
+                        technology (IT)
+   1.1506.10.00         Hosting services for websites on the worldwide computer network
+   1.1506.2             Application and program hosting services
+    1.1506.21.00        Software as a service (SaaS) application and program hosting services
+    1.1506.22.00        Infrastructure as a service (IaaS) provision services
+    1.1506.23.00        Platform as a service (PaaS) provision services
+    1.1506.29.00        Application and program hosting services not classified in previous
+                        subpositions
+   1.1506.90.00         Hosting and provision of infrastructure services in information
+                        technology (IT) not classified in previous subpositions
+
+
+  1.1507                Network and infrastructure management services in information technology
+                        (IT)
+   1.1507.10.00         Information technology (IT) network management services
+(Fl. 48 do Anexo I da Portaria Conjunta RFB/SCS nº     , de de dezembro de 2018.)
+
+
+
+   1.1507.20.00         Computer systems management services
+   1.1507.90.00         Information technology (IT) infrastructure management services not
+                        classified in previous subpositions
+
+
+  1.1508.00.00          Application and program maintenance services
+
+
+  1.1509.00.00          Data processing services
+
+
+  1.1510.00.00          Information technology (IT) services not classified in previous subpositions
+
+
+
+
+                             Chapter 16 - Reserved for possible future use
+
+
+
+
+          Chapter 17 - Telecommunications, broadcasting and information provision services
+
+Notes
+
+1) In this Chapter:
+  a) "Telecommunications services" are understood as those that make it possible to offer
+  telecommunications.
+  b) "Telecommunication" is the transmission, emission or reception, by wire, radioelectricity, optical
+  means or any other electromagnetic process, of symbols, characters, signals, writings, images, sounds or
+  information of any nature.
+  c) "Interconnection" is understood as the link between functionally
+  compatible telecommunications networks, so that users of services of one of the networks may communicate with users
+  of services of another or access services available on it.
+  d) "Telephony, data communication and image transmission" are forms of telecommunication
+  used in the provision of information.
+  e) "Backbone" comprises the central links of a broader computerized system, typically
+  of high performance, and which enables the flow of data, voice and images through the worldwide
+  computer network.
+2) By "news agency" is meant the journalistic company whose focus of activity is the dissemination of
+information and news, collected directly from sources, to media outlets, such as
+newspapers, magazines, radio and television.
+3) Excluded from this chapter are research and development services in Information and Communication
+Technology, which are classified in Chapter 12.
+
+        NBS 2.0                                              DESCRIPTION
+(Fl. 49 do Anexo I da Portaria Conjunta RFB/SCS nº       , de de dezembro de 2018.)
+
+
+
+  1.1701                Telephony and other telecommunications services, except via the worldwide
+                        computer network
+   1.1701.1             Carrier services
+    1.1701.11.00        Interconnection services using fixed network
+    1.1701.12.00        Interconnection services using mobile network
+    1.1701.19.00        Carrier services not classified in previous subheadings
+   1.1701.2             Fixed telecommunications services
+    1.1701.21.00        Fixed switched telecommunications call services
+    1.1701.29.00        Fixed telecommunications services not classified in previous subheadings
+   1.1701.3             Mobile telecommunications services
+    1.1701.31.00        Voice services in mobile telecommunications
+    1.1701.32.00        Text services in mobile telecommunications
+    1.1701.33.00        Data transmission services in mobile telecommunications, except text
+                        services
+    1.1701.34.00        Mobile telecommunications services for visiting users (roaming)
+   1.1701.40.00         Private network services
+   1.1701.5             Data transmission services and dedicated line operation services
+    1.1701.51.00        Local, national or international data transmission services
+    1.1701.52.00        Local, national or international dedicated line operation services
+   1.1701.90.00         Telecommunications services, except via the worldwide computer network, not
+                        classified in previous subheadings
+
+
+  1.1702                Telecommunications services via the worldwide computer network
+   1.1702.10.00         Provision of access infrastructure (backbone) services for the worldwide
+                        computer network
+   1.1702.2             Access services to the worldwide computer network
+    1.1702.21.00        Narrowband access services to the worldwide computer network
+    1.1702.22.00        Broadband access services to the worldwide computer network
+   1.1702.90.00         Telecommunications services via the worldwide computer network not classified in
+                        previous subheadings
+
+
+  1.1703                Immediate-access (online) content provision services
+   1.1703.10.00         Immediate-access (online) provision services for books, newspapers, periodicals, directories and direct
+                        mailing lists
+   1.1703.2             Immediate-access (online) audio provision services
+    1.1703.21.00        Downloadable audio provision services
+    1.1703.22.00        Continuous content (streaming) audio provision services
+   1.1703.3             Immediate-access (online) provision services for files containing films and videos
+    1.1703.31.00        Provision services for downloadable files containing films and videos
+    1.1703.32.00        Continuous content (streaming) films and videos provision services
+(Fl. 50 do Anexo I da Portaria Conjunta RFB/SCS nº         , de de dezembro de 2018.)
+
+
+
+   1.1703.9             Provision services for other immediate-access (online) content via the worldwide
+                        computer network
+    1.1703.91.00        Immediate-access (online) games provision services
+    1.1703.92.00        Provision services for search portal content on the worldwide computer network
+    1.1703.99.00        Provision services for other immediate-access (online) content not classified
+                        in previous subheadings
+
+
+  1.1704                News agency services
+   1.1704.10.00         News agency services for newspapers and periodicals
+   1.1704.20.00         News agency services for audiovisual media
+
+
+  1.1705                Library and archive services
+   1.1705.10.00         Library services
+   1.1705.20.00         Archive services
+
+
+  1.1706                Broadcasting, programming and distribution services for radio and television programs
+   1.1706.1             Programming services for radio and television channels
+    1.1706.11.00        Programming services for radio channels
+    1.1706.12.00        Programming services for television channels
+   1.1706.2             Transmission services for radio and television signals, sounds and images, free-to-air or by
+                        subscription; and distribution services for subscription television packages
+    1.1706.21.00        Transmission services for radio and television signals, sounds and images, free-to-air or by
+                        subscription
+    1.1706.22.00        Distribution services for basic subscription television programming packages
+    1.1706.23.00        Distribution services for additional subscription television programming
+                        packages
+    1.1706.24.00        Distribution services for subscription television programs, in the
+                        "pay-per-view" mode
+   1.1706.90.00         Broadcasting, programming and distribution services for radio and television programs not
+                        classified in previous subheadings
+
+
+
+
+                        Chapter 18 - Business support activity services
+
+Notes
+
+1) In heading 1.1801:
+  a) The term "recruitment" refers to a set of techniques and procedures aimed at attracting
+  potentially qualified candidates, capable of taking on positions within an entity in Brazil
+(Fl. 51 do Anexo I da Portaria Conjunta RFB/SCS nº   , de de dezembro de 2018.)
+
+
+  or abroad. After recruitment of the candidates, the stage of selecting those most suited
+  to the positions offered by the entity follows.
+  b) In the "labor supply service" the service-providing company hires, remunerates
+  and directs the work performed by its workers, or subcontracts other companies to carry out
+  these services, and the contracting company transfers the execution of any of its activities to
+  the service provider, with no employment relationship being established between the workers of the contracted party
+  and the contracting party of the labor supply service.
+2) In heading 1.1802, "security consulting services" do not include information technology
+security services, which are classified in heading 1.1501.
+3) In subheading 1.1802.40:
+  a) "Armored car services" comprise armored car services, accompanied by
+  security agents, used for the collection and transport of money, securities, tradable
+  securities or valuable articles, such as, for example, jewelry, precious stones and metals.
+  b) Excluded from this subheading are valuables transport services by rail, waterway or
+  air, which are classified in Chapter 5.
+4) In heading 1.1803:
+  a) "Pest extermination" is understood to mean the destruction of insects, rodents and other pests.
+  b) Excluded from this heading are pest control and extermination related to agriculture, which are
+  classified in chapter 19.
+5) Excluded from heading 1.1804:
+   a) Packaging and wrapping services ancillary to transport, which are classified, according to
+   the specificity (baggage or cargo), in Chapters 4 (passenger transport services); 5
+   (cargo transport services) or 6 (transport support services).
+   b) Services related to wholesale trade, which are classified in heading 1.0202.
+6) In heading 1.1805:
+  a) "Tour operator services" are those of self-organization by travel agencies,
+  which are commonly called tour operators, and comprise the preparation of
+  tourism travel programs, services and itineraries, national or international, outbound or
+  inbound, that include tickets, accommodations and other services in lodging facilities,
+  educational and professional improvement programs, reception, transfer and
+  assistance services and tourist excursions, trips and tours, maritime, river and lake.
+  b) "Tour guide services" are those produced in the work activities of the tour guide,
+  who is the professional who, duly registered with the Brazilian Tourism Institute (Embratur), performs
+  the activities of accompanying, guiding and transmitting information to persons or groups, on visits,
+  urban, municipal, state, interstate, international or specialized excursions.
+  c) "Tourism promotion services" are those aimed at publicizing the tourist destination to
+  source markets, bringing together tourism supply and demand.
+7) In heading 1.1806, the following are understood as:
+  a) "Call center" the promotion of sales and services, collection activity, consumer service and
+  technical support, by telephone.
+  b) "Agenting" of models, artists and athletes the service provided by a person or company
+  authorized to act and negotiate on behalf of the represented party with the objective of executing commercial contracts
+(Fl. 52 do Anexo I da Portaria Conjunta RFB/SCS nº       , de de dezembro de 2018.)
+
+
+ (intermediation of negotiation between the represented party and the contracting party), including, among others, contracts
+ for image exploitation.
+
+        NBS 2.0                                                DESCRIPTION
+  1.1801                Personnel selection and labor supply services
+   1.1801.1             Personnel recruitment and selection services
+    1.1801.11.00        Recruitment and selection service for executive professionals
+    1.1801.12.00        Recruitment and selection service for professionals, except executives
+   1.1801.2             Labor supply services
+    1.1801.21.00        Outsourced labor supply services, except temporary
+    1.1801.22.00        Temporary labor supply services
+    1.1801.29.00        Labor supply services not classified in previous subheadings
+
+
+  1.1802                Investigation and security services
+   1.1802.10.00         Investigation services
+   1.1802.20.00         Security consulting services
+   1.1802.30.00         Security systems services
+   1.1802.40.00         Armored car services
+   1.1802.50.00         Armed guard and escort services
+   1.1802.90.00         Security services not classified in previous subheadings
+
+
+  1.1803                Cleaning services
+   1.1803.10.00         General cleaning services
+   1.1803.2             Specialized cleaning services
+    1.1803.21.00        Disinfection and pest extermination services
+    1.1803.22.00        Window cleaning services
+    1.1803.29.00        Specialized cleaning services not classified in previous subheadings
+
+
+  1.1804.00.00          Packaging and wrapping services
+
+
+  1.1805                Travel arrangement and related services
+   1.1805.1             Passenger transport reservation services
+    1.1805.11.00        Air passenger transport reservation services
+    1.1805.12.00        Rail passenger transport reservation services
+    1.1805.13.00        Road passenger transport reservation services
+    1.1805.14.00        Car rental reservation services
+    1.1805.19.00        Passenger transport reservation services not classified in previous
+                        subheadings
+   1.1805.2             Lodging reservation services, cruise reservation services and tourism package
+                        reservation services
+(Fl. 53 do Anexo I da Portaria Conjunta RFB/SCS nº       , de de dezembro de 2018.)
+
+
+
+    1.1805.21.00        Lodging reservation services, except in shared units
+    1.1805.22.00        Time-share reservation and exchange services
+    1.1805.23.00        Cruise reservation services
+    1.1805.24.00        Tourism package reservation services
+   1.1805.3             Other reservation services
+    1.1805.31.00        Reservation services for convention centers, auditoriums and exhibition halls
+    1.1805.32.00        Ticket reservation services for entertainment and recreational events
+    1.1805.39.00        Reservation services not classified in previous subheadings
+   1.1805.40.00         Tour operator services
+   1.1805.50.00         Tour guide services
+   1.1805.6             Tourism promotion and visitor information services
+    1.1805.61.00        Tourism promotion services
+    1.1805.62.00        Visitor information services
+
+
+  1.1806                Other business support activity services
+   1.1806.10.00         Credit reporting and credit analysis services
+   1.1806.20.00         Collection services
+   1.1806.3             Business support activity services by telephone
+    1.1806.31.00        Call center services
+    1.1806.39.00        Business support activity services by telephone not classified in
+                        previous subheadings
+   1.1806.40.00         Combined office administrative support services
+   1.1806.5             Specialized office support services
+    1.1806.51.00        Photocopying services and other document reproduction services
+    1.1806.52.00        Direct mail execution and dispatch services and mailing list preparation services
+    1.1806.53.00        Document preparation services
+    1.1806.59.00        Specialized office support services not classified in previous
+                        subheadings
+   1.1806.6             Convention, trade fair, exhibition and other event assistance and organization
+                        services
+    1.1806.61.00        Convention assistance and organization services
+    1.1806.62.00        Trade fair assistance and organization services
+    1.1806.63.00        Exhibition and other event assistance and organization services
+   1.1806.70.00         Gardening services
+   1.1806.8             Model, artist and athlete agenting services
+    1.1806.81.00        Model agenting services
+    1.1806.82.00        Artist agenting services
+    1.1806.83.00        Athlete agenting services
+    1.1806.90.00        Support services not classified in previous subheadings
+(Fl. 54 do Anexo I da Portaria Conjunta RFB/SCS nº       , de de dezembro de 2018.)
+
+
+
+
+    Chapter 19 - Support services for agriculture, livestock, forestry, fishing, aquaculture, mineral
+                    extraction and for the transmission and distribution of electricity, gas and water
+
+Notes
+
+1) In this Chapter, the following are understood as:
+  a) Agriculture: the economic activity aimed at the orderly exploitation of plant natural resources
+  in natural and protected environments, represented by crop cultivation, formed by four
+  segments:
+  - Production of temporary crops.
+  - Horticulture and floriculture.
+  - Production of permanent crops.
+  - Production of certified seeds and seedlings.
+  b) Livestock: the economic activity aimed at the orderly exploitation of animal resources in
+  natural and protected environments, represented by the raising and production of animals, including the
+  raising of genetically modified animals, comprising the raising of:
+  - Cattle and other large animals, such as horses, donkeys, mules and buffaloes.
+  - Swine, goats and sheep.
+  - Poultry, such as chickens, ducks, geese, turkeys and ostriches.
+  - Other animals with economic significance, such as rabbits, bees, snails and pets.
+  c) Forestry production (forestry): the economic activity based on the cultivation of forest
+  species, production of logs and the exploitation of non-timber forest products, also including
+  the production of forest seedlings, wood products resulting from small
+  processing, such as firewood, charcoal and wood chips, or without processing, as in
+  posts, stakes and poles.
+  d) Fishing: the economic activity that covers the use of fishery resources in marine, brackish
+  and fresh waters, aimed at the capture of fish, crustaceans, mollusks and other aquatic organisms
+  or products, such as aquatic plants, pearls, corals and sponges.
+  e) Aquaculture: the production process that involves the cultivation of aquatic organisms, among them
+  fish, crustaceans, mollusks, frogs, aquatic plants, caimans and amphibians, with the aid of techniques that
+  intensify the productivity of these organisms beyond their natural capacity for development.
+2) Fishing refers to the exploitation, by the public, of aquatic organisms under common ownership, which
+differs from aquaculture, which corresponds to the cultivation of aquatic organisms that are
+owned.
+
+        NBS 2.0                                                DESCRIPTION
+  1.1901                Support services for agriculture, livestock, forestry production (forestry), fishing and
+                        aquaculture
+(Fl. 55 do Anexo I da Portaria Conjunta RFB/SCS nº        , de de dezembro de 2018.)
+
+
+
+   1.1901.10.00         Agriculture support services
+   1.1901.20.00         Livestock support services
+   1.1901.30.00         Forestry production (forestry) support services
+   1.1901.40.00         Fishing support services
+   1.1901.50.00         Aquaculture support services
+
+
+  1.1902                Mining support services
+   1.1902.10.00         Support services for petroleum and gas extraction
+   1.1902.90.00         Mining support services not classified in previous subheadings
+
+
+  1.1903                Support services for electricity transmission and distribution and for gas and
+                        water distribution
+   1.1903.1             Support services for electricity transmission and distribution
+    1.1903.11.00        Electricity transmission support services
+    1.1903.12.00        Electricity distribution support services
+   1.1903.20.00         Support services for gas distribution through pipelines
+   1.1903.30.00         Support services for water distribution through pipelines, except steam
+                        and hot water
+   1.1903.40.00         Support services for distribution of steam, hot water and air conditioning
+                        through pipelines
+   1.1903.50.00         Support services for water distribution, except through pipelines
+
+
+
+
+           Chapter 20 - Maintenance, repair and installation services (except construction)
+
+Notes
+
+1) For the purposes of this Chapter, the following definitions apply:
+  a) Maintenance: the set of actions carried out with the objective of keeping an asset in a condition
+  in which it can perform its required function, such as technical care indispensable to the regular
+  functioning of the asset, thereby preventing its deterioration.
+  b) Repair: the set of actions carried out with the objective of fixing an asset, restoring its
+  original performance so that it can perform its required function.
+  c) Installation: the assembly of machinery or equipment.
+2) For the purposes of this Chapter, the term "maintenance" refers to preventive maintenance and the term
+"repair" refers to corrective maintenance.
+3) With respect to precision instruments and equipment, maintenance and repair services are
+classified under subheading 1.2001.82; and installation services under subheading 1.2003.24.
+
+        NBS 2.0                                                DESCRIPTION
+(Fl. 56 of Annex I to Joint Ordinance RFB/SCS No.     , of December 2018.)
+
+
+
+  1.2001                Maintenance and repair services for metal products, machinery and
+                        equipment
+   1.2001.10.00         Maintenance and repair services for metal products, except machinery and
+                        equipment
+   1.2001.20.00         Maintenance and repair services for computers and their peripherals and
+                        office machinery
+   1.2001.3             Maintenance and repair services for transport machinery and equipment
+    1.2001.31           Maintenance and repair services for road vehicles
+     1.2001.31.10       Maintenance and repair services for motorized road vehicles
+     1.2001.31.20       Maintenance and repair services for non-motorized road vehicles
+    1.2001.32.00        Maintenance and repair services for rail vehicles
+    1.2001.33.00        Maintenance and repair services for waterborne vehicles
+    1.2001.34           Maintenance and repair services for air and aerospace transport vehicles
+     1.2001.34.10       Maintenance and repair services for aircraft, except aeronautical engines, turbojets
+                        and turboprops
+     1.2001.34.20       Maintenance and repair services for aeronautical engines, turbojets and turboprops
+
+     1.2001.34.30       Maintenance and repair services for rockets and aerospace equipment
+    1.2001.35.00        Maintenance and repair services for military vehicles
+    1.2001.39.00        Maintenance and repair services for transport machinery and equipment not
+                        classified in previous subheadings
+   1.2001.40.00         Maintenance and repair services for platforms, including platform vessels, for
+                        petroleum and gas extraction
+   1.2001.50.00         Maintenance and repair services for industrial machinery and equipment
+   1.2001.60.00         Maintenance and repair services for commercial machinery and equipment
+   1.2001.70.00         Maintenance and repair services for telecommunications equipment and
+                        apparatus
+   1.2001.8             Maintenance and repair services for other machinery and equipment
+    1.2001.81.00        Maintenance and repair services for household electrical and electronic appliances
+    1.2001.82.00        Maintenance and repair services for medical-hospital, dental, optical and
+                        precision instruments and equipment
+    1.2001.83.00        Maintenance and repair services for military equipment
+    1.2001.89.00        Maintenance and repair services for other machinery and equipment not
+                        classified in previous subheadings
+
+
+  1.2002                Maintenance and repair services for other consumer goods
+   1.2002.10.00         Maintenance and repair services for leather goods, footwear, suitcases and bags
+   1.2002.20.00         Maintenance and repair services for watches and jewelry
+   1.2002.30.00         Maintenance and repair services for furniture
+   1.2002.40.00         Maintenance services for clothing and other textile products
+(Fl. 57 of Annex I to Joint Ordinance RFB/SCS No.      , of December 2018.)
+
+
+
+   1.2002.90.00         Maintenance and repair services for other consumer goods not classified in
+                        previous subheadings
+
+
+  1.2003                Installation services, except construction services
+   1.2003.10.00         Installation services for metal products, except machinery and equipment
+   1.2003.2             Installation services for machinery, apparatus and equipment
+    1.2003.21           Installation services for industrial machinery, apparatus and equipment
+     1.2003.21.10       Custom assembly services for industrial turbines
+     1.2003.21.90       Installation services for industrial machinery, apparatus and equipment not
+                        classified in previous items
+    1.2003.22.00        Installation services for computers and their peripherals and office machinery
+    1.2003.23.00        Installation services for communication equipment and apparatus, including radio
+                        and television equipment
+    1.2003.24.00        Installation services for medical-hospital, optical and precision machinery,
+                        equipment, instruments and apparatus
+    1.2003.25           Installation services for weapon sensors and systems and installation of machinery,
+                        apparatus and equipment for military use
+     1.2003.25.10       Installation services for weapon sensors and systems
+     1.2003.25.20       Installation services for machinery, apparatus and equipment for military use
+    1.2003.26           Installation services for transport machinery and equipment
+     1.2003.26.10       Custom assembly services for aeronautical engines, turbojets and turboprops
+
+     1.2003.26.90       Installation services for transport machinery and equipment not classified
+                        in previous items
+    1.2003.29.00        Installation services for machinery, apparatus and equipment not classified in
+                        previous subheadings
+
+
+
+
+                      Chapter 21 - Publishing, printing and reproduction services
+
+Notes
+
+For the purposes of this Chapter:
+1) Editorial services: refers to the service of managing the production of periodical or
+non-periodical publications, such as books, newspapers, magazines, bulletins, prospectuses, albums and notebooks.
+2) Printing: is the term used to designate the application of ink onto paper, according to a given
+image or text format.
+3) Reproduction services for recorded media: are those carried out from recordings on
+digital media, such as CD-ROM, DVD, pen drive, external disk or cloud storage, that are, directly
+or indirectly (via computer), connected to a printer.
+(Fl. 58 of Annex I to Joint Ordinance RFB/SCS No.     , of December 2018.)
+
+
+4) Publication: corresponds to the act by which a written text is made available to various people, who
+may have free access to it of their own will, that is, it is the moment of the making public of the act.
+
+        NBS 2.0                                             DESCRIPTION
+  1.2101                Editorial, printing, reproduction and publication services
+   1.2101.10.00         Editorial services
+   1.2101.2             Printing services and reproduction of recorded media
+    1.2101.21.00        Printing services
+    1.2101.22.00        Services related to printing
+    1.2101.23.00        Reproduction services for recorded media
+   1.2101.30.00         Publication services
+
+
+
+
+                  SECTION V - COMMUNITY, SOCIAL, ENVIRONMENTAL AND PERSONAL SERVICES
+
+
+
+
+                                     Chapter 22 - Educational services
+
+
+Notes
+
+
+1) For the purposes of this Chapter, the following definitions apply:
+ a) Educational services: services related to education, encompassing the formative processes that
+ develop in family life, human coexistence, work, teaching and research
+ institutions, social movements and civil society organizations, and in cultural manifestations.
+ b) School education: that composed of basic education and higher education, including in each
+ stage special education (intended for persons with disabilities, global developmental
+ disorders and high abilities or giftedness).
+ c) Basic education: formed by preschool (early childhood education), elementary school and secondary school.
+ d) Early childhood education: that offered in daycare centers, or equivalent entities, for children up to three years
+ of age, and in preschools, for children four to five years of age.
+ e) Education of young people and adults: education intended for those who did not have access to or continuity
+ of studies in elementary and secondary school at the proper age.
+ f) Higher education: that which encompasses undergraduate courses and programs (open to candidates
+ who have completed secondary school or equivalent and have been ranked in a selection process);
+ graduate programs, comprising master's and doctoral programs; specialization,
+ improvement and other courses (open to candidates holding undergraduate degrees who meet the
+ requirements of the teaching institutions); and extension courses (open to candidates who meet the requirements
+ established in each case by the teaching institutions).
+(Fl. 59 of Annex I to Joint Ordinance RFB/SCS No.       , of December 2018.)
+
+
+2) Professional and technological education is integrated into the different levels and modalities of education and
+shall include the following courses: (i) initial and continuing training or professional qualification; (ii)
+secondary-level technical professional education; and (iii) undergraduate and graduate
+technological professional education.
+3) Education services with a cultural focus include, for example, teaching of music (such as
+piano, violin and music theory), arts, dance and photography.
+
+        NBS 2.0                                                DESCRIPTION
+  1.2201                Basic education services
+   1.2201.1             Early childhood education services
+    1.2201.11.00        Daycare or equivalent entity services
+    1.2201.12.00        Preschool services
+    1.2201.19.00        Early childhood education services not classified in previous subheadings
+   1.2201.20.00         Elementary school services
+   1.2201.30.00         Secondary school services
+
+
+  1.2202.00.00          Secondary-level technical education services
+
+
+  1.2203                Education services for young people and adults
+   1.2203.10.00         Elementary school services for young people and adults
+   1.2203.20.00         Secondary school services for young people and adults
+
+
+  1.2204                Higher education services
+   1.2204.10.00         Undergraduate educational services
+   1.2204.20.00         Graduate educational services
+   1.2204.30.00         Extension educational services
+   1.2204.40.00         Educational services for sequential courses
+
+
+  1.2205                Other educational services, including training, and support services for
+                        educational services
+   1.2205.1             Other education services, including training
+    1.2205.11.00        Education services with a cultural focus
+    1.2205.12.00        Sports and recreational education services
+    1.2205.13.00        Foreign language and sign language education services
+    1.2205.14.00        Lecture and conference services
+    1.2205.19.00        Education services, including training, not classified in previous subheadings
+
+   1.2205.20.00         Support services for educational services
+(Fl. 60 of Annex I to Joint Ordinance RFB/SCS No.   , of December 2018.)
+
+
+               Chapter 23 - Services related to human health and social assistance
+
+Notes
+
+1) In heading 1.2301, the following applies:
+  a) "Human health care services" cover all forms of services related to human health
+  provided in hospitals, outpatient clinics, doctors' offices, clinics, psychosocial care centers,
+  mobile emergency care units, transport removals and, also, health services provided in the
+  home. They also comprise integrative and complementary practices for human health care.
+
+  b) "Hospital services" are those provided by health care establishments that
+  have material and personnel structure intended to handle patient admission, ensure
+  basic diagnostic and treatment care, with an organized clinical team and permanent
+  assistance provided by physicians, that have nursing services and direct therapeutic
+  care to the patient, with availability of laboratory and radiology services, surgery and/or
+  delivery services, as well as medical records organized for rapid observation and follow-up of cases.
+2) In headings 1.2302, 1.2303 and 1.2304, the following applies:
+  a) "Social services" correspond to assistance services to individuals or families, which are
+  carried out by government agencies or private institutions and are also provided in the
+  home. These activities may or may not include lodging, medical services and education services,
+  provided that these are not the main services offered.
+  b) "Social assistance" is a non-contributory social security policy, which provides social
+  minimums, carried out through an integrated set of public and civil society
+  initiative actions, to guarantee the meeting of the population's basic needs.
+  c) The objectives of social assistance are: (i) social protection, which aims to guarantee life, to
+  reduce harm and to prevent the occurrence of risks, especially: protection of the family, maternity,
+  childhood, adolescence and old age; support for needy children and adolescents; promotion of
+  integration into the labor market; the qualification and rehabilitation of persons with disabilities and
+  the promotion of their integration into community life; and the guarantee of a monthly benefit to persons with
+  disabilities and to the elderly who prove they do not have the means to provide for their own maintenance or to have
+  it provided by their family; (ii) social-assistance surveillance, which aims to analyze territorially the
+  protective capacity of families and, within it, the occurrence of vulnerabilities, threats, victimizations
+  and harm; (iii) defense of rights, which aims to guarantee full access to rights within the set of
+  social-assistance provisions.
+  d) "Social assistance services" are those provided directly at basic and public units
+  of social assistance, as well as indirectly at non-public entities and organizations of
+  social assistance. Continuous services aimed at improving the population's quality of life and whose
+  actions are directed at basic social-protection needs are considered social assistance services or
+  assistance services.
+  e) Social assistance does not cover only the elderly and persons with disabilities. Social protection is broad, including
+  people of any age, whether healthy or not, provided they are exposed to some type of
+  social vulnerability.
+(Fl. 61 of Annex I to Joint Ordinance RFB/SCS No.         , of December 2018.)
+
+
+
+     NBS 2.0                                                  DESCRIPTION
+ 1.2301             Human health services
+  1.2301.1          Hospital services
+   1.2301.11.00     Surgical services
+   1.2301.12.00     Gynecological and obstetric services
+   1.2301.13.00     Psychiatric services
+   1.2301.14.00     Services provided in Intensive Care Units
+   1.2301.15.00     Emergency care services
+   1.2301.19.00     Hospital services not classified in previous subheadings
+  1.2301.2          Non-hospital medical services and dental services
+   1.2301.21.00     General medical clinic services
+   1.2301.22.00     Specialized medical services
+   1.2301.23.00     Dental services
+  1.2301.9          Other human health services
+   1.2301.91.00     Nursing services
+   1.2301.92.00     Physiotherapy services
+   1.2301.93.00     Laboratory services
+   1.2301.94.00     Diagnostic imaging services
+   1.2301.95.00     Human biological material bank services
+   1.2301.96.00     Ambulance services
+   1.2301.97.00     Childbirth and postpartum care services
+   1.2301.98.00     Psychology services
+   1.2301.99.00     Other human health services not classified in previous subheadings
+
+
+ 1.2302             Care and assistance services for the elderly and persons with disabilities in units of
+                    shelter
+  1.2302.10.00      Health care services in shelter units
+  1.2302.2          Assistance services for the elderly and persons with disabilities in shelter units
+   1.2302.21.00     Assistance services for the elderly in shelter units
+   1.2302.22.00     Assistance services for children and adolescents with disabilities in shelter
+                    units
+   1.2302.23.00     Assistance services for adults with disabilities in shelter units
+
+
+ 1.2303.00.00       Social assistance services with accommodation
+
+
+
+ 1.2304             Social assistance services without accommodation
+  1.2304.1          Vocational rehabilitation services
+   1.2304.11.00     Vocational rehabilitation services for persons with disabilities
+   1.2304.12.00     Vocational rehabilitation services for the unemployed
+(Fl. 62 of Annex I to Joint Ordinance RFB/SCS No.      , of December 2018.)
+
+
+
+   1.2304.19.00     Vocational rehabilitation services not classified in previous subpositions
+  1.2304.20.00      Guidance and counseling services related to children and adolescents
+  1.2304.90.00      Social assistance services without accommodation not classified in previous subpositions
+
+
+
+
+  Chapter 24 - Sewage and waste collection, treatment and disposal services and other environmental
+                                          protection services.
+
+Notes:
+
+1) In this Chapter, the following applies:
+  a) Waste: is the material, substance, object or good discarded resulting from human activities in
+  society, for which final disposal is carried out, proposed to be carried out, or which there is an obligation to carry out. Waste
+  may originate from health services, be of industrial or domestic origin, and may
+  be characterized as hazardous, non-hazardous, recyclable or non-recyclable.
+  b) Hazardousness of a waste: is the characteristic presented by a waste that, due to its
+  physical, chemical or infectious-contagious properties, may present risks (i) to public health,
+  causing mortality, incidence of diseases or increasing their rates, or (ii) to the environment.
+  c) Hazardous waste: is that which presents hazardousness, as defined in item b, and which
+  has, among others, one of the following characteristics: flammability, corrosivity, reactivity,
+  toxicity, pathogenicity, carcinogenicity, teratogenicity and mutagenicity.
+  d) Non-hazardous waste: is that which does not fall within the requirements established for
+  hazardous waste.
+  e) Health service waste: is that resulting from services related to human or animal
+  health care, including home care services and field work; product
+  analytical laboratories for health products; morgues, funeral homes and services where
+  embalming activities are carried out; forensic medicine services; drugstores and pharmacies, including compounding
+  pharmacies; educational and research establishments in the health field; zoonosis control
+  centers; distributors of pharmaceutical products, importers, distributors and producers of
+  materials and controls for in vitro diagnosis; mobile health care units; acupuncture
+  services; tattoo services, among other similar ones.
+  f) Recyclable waste: is that waste capable of returning to the production cycle, after having undergone alteration
+  of its physical, physico-chemical or biological properties, as occurs with cardboard, paper, plastic,
+  glass and metal.
+2) Treatment for the reduction or elimination of hazardous products by incineration process is
+classified in subposition 1.2404.21, while incineration of non-hazardous products is classified in
+subposition 1.2404.33.
+3) In position 1.2405, the following applies:
+  a) Remediation services: the application of one or more techniques in a contaminated or degraded area,
+  with the aim of restoring it in such a way as to allow its reuse within safety
+  levels appropriate to the preservation of human health and the environment.
+(Fl. 63 of Annex I to Joint Ordinance RFB/SCS No.      , of December 2018.)
+
+
+  b) Contaminated area: a piece of land, site, facility, building or improvement where the
+  presence of chemical substance(s) is found in the air, water or soil, resulting from human activities, in
+  concentrations such as to restrict the use of that area for current or intended uses.
+4) For the purposes of position 1.2406, urban cleaning and similar services comprise:
+  a) The collection, transfer and transport of waste originating from the sweeping and cleaning of public
+  streets and thoroughfares.
+  b) The sorting for reuse or recycling purposes, treatment, including by composting, and
+  final disposal of waste originating from the sweeping and cleaning of public streets and thoroughfares.
+  c) The sweeping, weeding and pruning of trees on public streets and thoroughfares and other services
+  pertaining to urban public cleaning.
+
+       NBS 2.0                                                DESCRIPTION
+  1.2401.00.00        Water treatment services
+
+
+  1.2402              Sewage services, sewage treatment and septic tank cleaning
+   1.2402.10.00       Sewage and sewage treatment services
+   1.2402.20.00       Septic tank emptying and cleaning services
+
+
+  1.2403              Waste collection services
+   1.2403.1           Hazardous waste collection services
+    1.2403.11.00      Collection services for health service waste and other biological waste
+    1.2403.12.00      Collection services for hazardous industrial waste, except health service waste and
+                      other biological waste
+    1.2403.19.00      Collection services for other hazardous waste not classified in previous
+                      subpositions
+   1.2403.2           Collection services for non-hazardous recyclable waste
+    1.2403.21.00      Collection services for non-hazardous recyclable waste of domestic origin
+    1.2403.22.00      Collection services for non-hazardous recyclable waste, except of domestic origin
+   1.2403.3           General waste collection services
+    1.2403.31.00      General waste collection services of domestic origin
+    1.2403.32.00      General waste collection services, except of domestic origin
+
+
+  1.2404              Waste treatment and disposal services
+   1.2404.1           Sorting, preparation, consolidation and storage services for waste
+    1.2404.11.00      Sorting, preparation, consolidation and storage services for hazardous waste
+    1.2404.12.00      Demolition and dismantling services for vessels, vehicles and other goods
+    1.2404.13.00      Sorting, preparation, consolidation and storage services for non-hazardous recyclable
+                      waste
+    1.2404.19.00      Sorting, preparation, consolidation and storage services for non-hazardous waste,
+                      except recyclable waste
+   1.2404.2           Treatment and disposal services for hazardous waste
+(Fl. 64 of Annex I to Joint Ordinance RFB/SCS No.      , of December 2018.)
+
+
+
+    1.2404.21.00      Treatment services for hazardous waste
+    1.2404.22.00      Disposal services for hazardous waste
+   1.2404.3           Treatment and disposal services for non-hazardous waste
+    1.2404.31.00      Treatment and disposal services for non-hazardous waste in sanitary landfills
+    1.2404.32.00      Treatment and disposal services for non-hazardous waste in landfills, except
+                      sanitary ones
+    1.2404.33.00      Incineration services for non-hazardous waste
+    1.2404.39.00      Treatment and disposal services for non-hazardous waste not classified in
+                      previous subpositions
+
+
+  1.2405              Remediation and contaminant containment services
+   1.2405.1           Remediation and cleaning services for contaminated areas
+    1.2405.11.00      Air remediation and cleaning services
+    1.2405.12.00      Surface water remediation and cleaning services
+    1.2405.13.00      Soil and groundwater remediation and cleaning services
+    1.2405.14.00      Remediation services in buildings
+   1.2405.20.00       Containment, control and monitoring services for contaminated areas
+   1.2405.90.00       Remediation services not classified in previous subpositions
+
+
+  1.2406              Urban cleaning and similar services
+   1.2406.10.00       Street and public area sweeping services
+   1.2406.90.00       Urban cleaning and similar services not classified in previous subpositions
+
+
+  1.2407.00.00        Environmental protection services not classified in previous positions
+
+
+
+
+                        Chapter 25 - Recreational, cultural and sporting services
+
+
+Notes
+
+1) This Chapter does not comprise services and income arising from the licensing or the
+total or partial assignment of intellectual property rights, which are classified in Chapter
+11.
+2) In position 1.2501, an audiovisual work is considered to be the product of the fixation or transmission of images, with
+or without sound, intended to create the impression of movement, regardless of the
+capture processes, the medium initially or subsequently used to fix or transmit them, or
+the means used for their broadcasting, reproduction, transmission or dissemination.
+
+        NBS 2.0                                               DESCRIPTION
+(Fl. 65 of Annex I to Joint Ordinance RFB/SCS No.       , of December 2018.)
+
+
+
+  1.2501               Audiovisual production, support and related services
+   1.2501.1            Sound recording services
+    1.2501.11.00       Studio sound recording services
+    1.2501.12.00       Live sound recording services
+   1.2501.2            Production services for radio and television programs, videotapes and films
+    1.2501.21.00       Production services for television programs, videotapes and films
+    1.2501.22.00       Production services for radio programs
+   1.2501.3            Post-production services for audiovisual works
+    1.2501.31.00       Editing services for audiovisual works
+    1.2501.32.00       Duplication and transfer services for audiovisual works
+    1.2501.33.00       Color correction and digital restoration services for audiovisual works
+    1.2501.34.00       Visual effects services for audiovisual works
+    1.2501.35.00       Animation services
+    1.2501.36.00       Subtitling, titling and dubbing services for audiovisual works
+    1.2501.37.00       Sound design and editing services for audiovisual works
+    1.2501.39.00       Post-production services for audiovisual works not classified in previous
+                       subpositions
+   1.2501.40.00        Agency services for the commercialization of audiovisual works
+   1.2501.50.00        Film projection services
+   1.2501.90.00        Audiovisual production, support and related services not classified in
+                       previous subpositions
+
+
+  1.2502               Presentation and promotion services for artistic performances and other live
+                       entertainment services
+   1.2502.10.00        Organization and promotion services for live artistic performances
+   1.2502.20.00        Production and presentation services for live artistic performances
+   1.2502.30.00        Support services for live artistic performances
+   1.2502.90.00        Presentation and promotion services for artistic performances and other
+                       live entertainment services not classified in previous subpositions
+
+
+  1.2503               Artistic performance services and other artistic services
+   1.2503.10.00        Artistic performance services
+   1.2503.20.00        Services of authors, composers, sculptors, painters and other artists, except those of
+                       artistic performance
+
+
+  1.2504               Museum services and preservation services and botanical, zoological and
+                       natural reserve services
+   1.2504.1            Museum services and preservation services for historic sites and buildings
+    1.2504.11.00       Museum services
+    1.2504.12.00       Preservation and operation services for historic sites and buildings
+(Fl. 66 of Annex I to Joint Ordinance RFB/SCS No.      , of December 2018.)
+
+
+
+   1.2504.2            Botanical, zoological and natural reserve services
+    1.2504.21.00       Botanical and zoological garden services
+    1.2504.22.00       Natural reserve services, including wildlife preservation
+
+
+  1.2505               Sports and sports recreational services
+   1.2505.10.00        Organization and promotion services for sports and sports recreational events
+   1.2505.20.00        Sports club services
+   1.2505.90.00        Sports and sports recreational services not classified in previous
+                       subpositions
+
+
+  1.2506.00.00         Services provided by athletes and sportspeople, on a self-employed basis, and related support
+                       services related to sports and sports recreation
+
+
+  1.2507               Amusement park and similar attraction services
+   1.2507.10.00        Theme amusement park services
+   1.2507.90.00        Amusement park and similar attraction services not classified in previous
+                       subpositions
+
+
+  1.2508.00.00         Recreational, cultural and sporting services not classified in previous positions
+
+
+
+
+                                        Chapter 26 - Personal services
+
+Notes
+
+1) In position 1.2601, the expression "textile cleaning" includes, among others, washing and cleaning of
+clothing, furniture, upholstery, panels, rugs (including carpets) and other tapestry items.
+2) In position 1.2602, the term "wellness" includes, for example, saunas, steam baths, spas, gyms
+and similar facilities and massages, except therapeutic massages, which are classified in Chapter 23.
+
+        NBS 2.0                                               DESCRIPTION
+  1.2601               Laundry and dyeing services
+   1.2601.10.00        Textile cleaning services, except when performed dry
+   1.2601.20.00        Dry cleaning services
+   1.2601.30.00        Dyeing services
+   1.2601.40.00        Ironing services for clothing and other textile articles
+   1.2601.90.00        Laundry services not classified in previous subpositions
+
+
+  1.2602               Beauty treatment and physical wellness services
+(Fl. 67 of Annex I to Joint Ordinance RFB/SCS No.       , of December 2018.)
+
+
+
+   1.2602.10.00        Hairdressing and barber services
+   1.2602.20.00        Manicure, pedicure and cosmetic treatment services
+   1.2602.30.00        Physical wellness services
+   1.2602.90.00        Beauty treatment and physical wellness services not classified in previous
+                       subpositions
+
+
+  1.2603.00.00         Funeral, cremation and embalming services
+
+
+  1.2604.00.00         Clothing and other textile article manufacturing services
+
+
+  1.2605.00.00         Domestic services
+
+
+  1.2606.00.00         Personal services not classified in previous positions

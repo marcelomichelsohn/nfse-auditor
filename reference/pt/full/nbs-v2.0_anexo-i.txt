@@ -1,0 +1,2976 @@
+(Fl. 1 do Anexo I da Portaria Conjunta RFB/SCS nº     , de de dezembro de 2018.)
+
+
+
+
+                                                    ANEXO I
+
+
+
+
+   Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no
+                                          Patrimônio (NBS)
+                                             Versão 2.0
+(Fl. 2 do Anexo I da Portaria Conjunta RFB/SCS nº     , de de dezembro de 2018.)
+
+
+                                                    SUMÁRIO
+
+
+FORMAÇÃO DO CÓDIGO DA NBS
+REGRAS GERAIS PARA INTERPRETAÇÃO DA NBS (RGS)
+
+
+SEÇÃO I - SERVIÇOS DE CONSTRUÇÃO
+Capítulo 1 - Serviços de construção
+
+SEÇÃO II - SERVIÇOS DE INTERMEDIAÇÃO NA DISTRIBUIÇÃO DE MERCADORIAS; SERVIÇOS DE DESPACHO
+ADUANEIRO; FORNECIMENTO DE ALIMENTAÇÃO E BEBIDAS E SERVIÇOS DE HOSPEDAGEM; SERVIÇOS DE
+TRANSPORTE E SERVIÇOS DE DISTRIBUIÇÃO DE SERVIÇOS PÚBLICOS
+Capítulo 2 - Serviços de intermediação na distribuição de mercadorias; serviços de despacho aduaneiro;
+comércio
+Capítulo 3 - Fornecimento de alimentação e bebidas e serviços de hospedagem
+Capítulo 4 - Serviços de transporte de passageiros
+Capítulo 5 - Serviços de transporte de cargas
+Capítulo 6 - Serviços de apoio aos transportes
+Capítulo 7 - Serviços postais; serviços de coleta, remessa ou entrega de documentos ou encomendas;
+serviços de remessas expressas
+Capítulo 8 - Serviços de transmissão e distribuição de eletricidade; serviços de distribuição de gás e água
+
+SEÇÃO III - SERVIÇOS FINANCEIROS E SERVIÇOS RELACIONADOS; SERVIÇOS IMOBILIÁRIOS;
+ARRENDAMENTO MERCANTIL OPERACIONAL E PROPRIEDADE INTELECTUAL
+Capítulo 9 - Serviços financeiros e serviços relacionados
+Capítulo 10 - Serviços imobiliários
+Capítulo 11 - Arrendamento mercantil operacional, propriedade intelectual, franquias e outros direitos
+
+SEÇÃO IV - SERVIÇOS EMPRESARIAIS E DE PRODUÇÃO
+Capítulo 12 - Serviços de pesquisa e desenvolvimento
+Capítulo 13 - Serviços jurídicos e contábeis
+Capítulo 14 - Serviços profissionais, técnicos e empresariais (exceto pesquisa e desenvolvimento,
+tecnologia da informação e serviços jurídicos e contábeis)
+Capítulo 15 - Serviços de tecnologia da informação
+Capítulo 16 - Reservado para possível uso futuro
+Capítulo 17 - Serviços de telecomunicações, difusão e fornecimento de informações
+Capítulo 18 - Serviços de apoio às atividades empresariais
+Capítulo 19 - Serviços de apoio à agricultura, pecuária, silvicultura, pesca, aquicultura, extração mineral e
+à transmissão e distribuição de eletricidade, gás e água
+(Fl. 3 do Anexo I da Portaria Conjunta RFB/SCS nº   , de de dezembro de 2018.)
+
+
+Capítulo 20 - Serviços de manutenção, reparação e instalação (exceto construção)
+Capítulo 21 - Serviços de publicação, impressão e reprodução
+
+SEÇÃO V - SERVIÇOS COMUNITÁRIOS, SOCIAIS, AMBIENTAIS E PESSOAIS
+Capítulo 22 - Serviços educacionais
+Capítulo 23 - Serviços relacionados à saúde humana e de assistência social
+Capítulo 24 - Serviços de coleta, tratamento e eliminação de esgoto e resíduos e outros serviços de
+proteção ambiental
+Capítulo 25 - Serviços recreativos, culturais e desportivos
+Capítulo 26 - Serviços pessoais
+(Fl. 4 do Anexo I da Portaria Conjunta RFB/SCS nº   , de de dezembro de 2018.)
+
+
+             FORMAÇÃO DO CÓDIGO DA NOMENCLATURA BRASILEIRA DE SERVIÇOS,
+      INTANGÍVEIS E OUTRAS OPERAÇÕES QUE PRODUZAM VARIAÇÕES NO PATRIMÔNIO (NBS)
+
+
+O código na Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações
+no Patrimônio (NBS) é composto por nove dígitos, cujo significado, da esquerda para a direita, é:
+a) O primeiro dígito é o algarismo 1 e indica que o código se refere a um serviço, intangível ou outra
+operação que produza variação no patrimônio;
+b) o segundo e o terceiro dígitos, associados ao primeiro, indicam um capítulo da NBS;
+c) o quarto e o quinto dígitos, associados aos dígitos que representam um capítulo, indicam uma posição
+dentro desse capítulo;
+d) o sexto e o sétimo dígitos, associados aos dígitos que representam uma posição, indicam,
+respectivamente, as subposições de primeiro e de segundo nível dessa posição;
+e) o oitavo dígito é o item; e
+f) o nono dígito é o subitem.
+(Fl. 5 do Anexo I da Portaria Conjunta RFB/SCS nº     , de de dezembro de 2018.)
+
+
+ REGRAS GERAIS PARA INTERPRETAÇÃO DA NOMENCLATURA BRASILEIRA DE SERVIÇOS, INTANGÍVEIS E
+            OUTRAS OPERAÇÕES QUE PRODUZAM VARIAÇÕES NO PATRIMÔNIO (RGS)
+
+
+A classificação dos serviços na Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que
+Produzam Variações no Patrimônio (NBS) rege-se pelas seguintes Regras:
+
+
+Regra 1. Os títulos das Seções e Capítulos têm apenas valor indicativo. Para os efeitos legais, a classificação
+é determinada pelos textos das posições e das Notas de Seção e de Capítulo e, desde que não sejam
+contrárias aos textos das referidas posições e Notas, pelas Regras seguintes.
+
+
+Regra 2. Quando pareça que o serviço, intangível ou outra operação que produza variações no patrimônio
+possa ser classificado em duas ou mais posições, a classificação deve efetuar-se da seguinte forma:
+ a) A posição mais específica prevalece sobre a mais genérica. Todavia, quando duas ou mais posições se
+ referirem, cada uma delas, a apenas um dos serviços, intangíveis e outras operações que produzam
+ variações no patrimônio que constituem o objeto a ser classificado, tais posições devem ser
+ consideradas como igualmente específicas, ainda que uma dessas posições apresente uma descrição
+ mais precisa ou completa desse objeto.
+ b) Quando a Regra 2a) não permitir efetuar a classificação, o serviço, intangível ou outra operação que
+ produza variações no patrimônio classificar-se-á na posição situada em último lugar na ordem numérica,
+ dentre as suscetíveis de serem consideradas válidas.
+
+Regra 3. A classificação do serviço, intangível ou outra operação que produza variações no patrimônio nas
+subposições de uma mesma posição é determinada, para efeitos legais, pelos textos dessas subposições
+e das Notas de Subposição respectivas, assim como, mutatis mutandis, pelas Regras precedentes,
+entendendo-se que apenas são comparáveis subposições do mesmo nível. Para os fins da presente Regra,
+as Notas de Seção e de Capítulo são também aplicáveis, salvo disposições em contrário.
+
+Regra 4. As regras anteriores serão aplicáveis, mutatis mutandis, para determinar dentro de cada
+subposição, o item aplicável e, dentro deste último, o subitem correspondente, entendendo-se que
+apenas são comparáveis desdobramentos (itens e subitens) do mesmo nível.
+(Fl. 6 do Anexo I da Portaria Conjunta RFB/SCS nº      , de de dezembro de 2018.)
+
+
+                                    SEÇÃO I - SERVIÇOS DE CONSTRUÇÃO
+
+                                     Capítulo 1 - Serviços de construção
+
+
+Notas
+
+1) A posição 1.0101 não inclui os serviços relacionados com a construção de estruturas em concreto para
+edifícios, os quais se classificam na subposição 1.0105.40.
+2) As posições 1.0101 e 1.0102 incluem, além dos serviços de construção, os serviços de reparo.
+3) A posição 1.0101 inclui os serviços de incorporação de imóveis.
+4) Na posição 1.0102, a expressão “autoestradas elevadas” diz respeito aos viadutos e demais obras de
+arte de engenharia, que servem, por exemplo, para transpor outras vias (rodovias ou ferrovias), vales, rios
+e depressões nos terrenos, dentre outros obstáculos à circulação de veículos.
+5) Na subposição 1.0105.70, os “serviços de andaimes” incluem os serviços de montagem e desmontagem
+dos mesmos.
+
+        NBS 2.0                                                 DESCRIÇÃO
+  1.0101                Serviços de construção de edificações
+   1.0101.1             Serviços de construção de edificações residenciais
+    1.0101.11.00        Serviços de construção de edificações residenciais de um e dois pavimentos
+    1.0101.12.00        Serviços de construção de edificações residenciais com mais de dois pavimentos
+   1.0101.2             Serviços de construção de edificações não residenciais
+    1.0101.21.00        Serviços de construção de edificações industriais
+    1.0101.22.00        Serviços de construção de edificações comerciais
+    1.0101.29.00        Serviços de construção de edificações não residenciais não classificados em subposições
+                        anteriores
+   1.0101.30.00         Serviços de construção de edificações de uso misto (residencial e não residencial)
+
+
+  1.0102                Serviços de construção de obras de engenharia civil
+   1.0102.1             Serviços de construção de autoestradas (exceto autoestradas elevadas), ruas, estradas,
+                        estradas férreas, pistas de pouso e de decolagem em aeroportos e infraestrutura
+                        aeroportuária
+    1.0102.11.00        Serviços de construção de autoestradas (exceto autoestradas elevadas), ruas e estradas
+    1.0102.12.00        Serviços de construção de ferrovias
+    1.0102.13.00        Serviços de construção de pistas de pouso e decolagem em aeroportos e de
+                        infraestrutura aeroportuária
+   1.0102.20.00         Serviços de construção de pontes, autoestradas elevadas e túneis
+   1.0102.3             Serviços de construção de portos, vias navegáveis, represas, irrigação e outras obras
+                        hídricas
+(Fl. 7 do Anexo I da Portaria Conjunta RFB/SCS nº      , de de dezembro de 2018.)
+
+
+
+    1.0102.31.00        Serviços de construção de infraestrutura de proteção e acesso aquaviário
+    1.0102.32.00        Serviços de construção de infraestrutura de acostagem aquaviária
+    1.0102.33.00        Serviços de construção de infraestrutura terrestre e de obras de engenharia afins nos
+                        portos
+    1.0102.34.00        Serviços de construção de barragens
+    1.0102.35           Serviços de construção de adutoras em conduto livre, de sistemas de irrigação e
+                        relacionados ao controle dos cursos de água
+     1.0102.35.10       Serviços de construção de adutoras em conduto livre
+     1.0102.35.20       Serviços de construção de sistemas de irrigação
+     1.0102.35.30       Serviços de construção relacionada ao controle dos cursos de água, inclusive
+                        canalização
+   1.0102.4             Serviços de construção de dutos e de linhas de comunicação, ambos de longo curso, e
+                        de linhas de transmissão de alta tensão
+    1.0102.41           Serviços de construção de dutos de longo curso
+     1.0102.41.10       Serviços de construção de dutos de longo curso para o transporte de petróleo, seus
+                        derivados, e gás
+     1.0102.41.20       Serviços de construção de dutos de longo curso para o transporte e escoamento de
+                        águas
+     1.0102.41.90       Serviços de construção de dutos de longo curso não classificados em subposições
+                        anteriores
+    1.0102.42           Serviços de construção de linhas de comunicação de longo curso e linhas de transmissão
+                        de alta tensão
+     1.0102.42.10       Serviços de construção de linhas de comunicação de longo curso
+     1.0102.42.20       Serviços de construção de linhas de transmissão de alta tensão
+   1.0102.5             Serviços de construção de dutos locais e de linhas locais de comunicação e de
+                        transmissão de baixa e média tensão e outros serviços de construção relacionados
+    1.0102.51.00        Serviços de construção de dutos locais
+    1.0102.52           Serviços de construção de linhas locais de comunicação e de transmissão de baixa e
+                        média tensão e outros serviços de construção relacionados
+     1.0102.52.10       Serviços de construção de linhas locais de comunicação
+     1.0102.52.20       Serviços de construção de linhas locais de transmissão de baixa e média tensão
+    1.0102.53           Serviços de construção de sistemas de esgotos e de sistemas de estações para elevação,
+                        tratamento e purificação de água
+     1.0102.53.10       Serviços de construção de sistemas de esgotos
+     1.0102.53.20       Serviços de construção de sistemas de estações para elevação, tratamento e purificação
+                        de água
+   1.0102.6             Serviços de construção de instalações industriais
+    1.0102.61.00        Serviços de construção de usinas de geração de energia
+(Fl. 8 do Anexo I da Portaria Conjunta RFB/SCS nº         , de de dezembro de 2018.)
+
+
+
+    1.0102.69.00        Serviços de construção de instalações industriais não classificados em subposições
+                        anteriores
+   1.0102.70.00         Serviços de construção de minas e suas unidades industriais
+   1.0102.80.00         Serviços de construção de instalações para recreação e atividades desportivas ao ar livre
+   1.0102.90.00         Serviços de construção de obras de engenharia civil não classificados em subposições
+                        anteriores
+
+
+  1.0103                Serviços de preparação do local da obra
+   1.0103.10.00         Serviços de demolição
+   1.0103.20.00         Serviços de preparação de terrenos e de canteiros de obras
+   1.0103.30.00         Serviços de escavação e remoção de terra
+   1.0103.4             Serviços de perfuração de poços de água e de instalação de sistemas sépticos
+    1.0103.41.00        Serviços de perfuração de poços de água
+    1.0103.42.00        Serviços de instalação de sistemas sépticos
+
+
+  1.0104.00.00          Serviços de montagem e de edificação de construções pré-fabricadas
+
+
+  1.0105                Serviços especializados de construção
+   1.0105.1             Serviços de estaqueamento e de fundação
+    1.0105.11.00        Serviços de estaqueamento
+    1.0105.12.00        Serviços de fundação
+   1.0105.2             Serviços de construção de estruturas
+    1.0105.21.00        Serviços de construção de estruturas de edificações
+    1.0105.22.00        Serviços de construção de estruturas de telhados e coberturas
+   1.0105.30.00         Serviços de construção de telhados e coberturas e serviços de impermeabilização
+   1.0105.40.00         Serviços de concretagem
+   1.0105.50.00         Serviços de montagem de estruturas de aço
+   1.0105.60.00         Serviços de alvenaria
+   1.0105.70.00         Serviços de andaimes
+   1.0105.90.00         Serviços especializados de construção não classificados em subposições anteriores
+
+
+  1.0106                Serviços de instalação
+   1.0106.1             Serviços de instalação elétrica
+    1.0106.11.00        Serviços de instalação de fiação elétrica e componentes
+    1.0106.12.00        Serviços de instalação de alarmes contra incêndio
+    1.0106.13.00        Serviços de instalação de sistemas de alarmes antifurto
+    1.0106.14.00        Serviços de instalação de antenas residenciais
+(Fl. 9 do Anexo I da Portaria Conjunta RFB/SCS nº        , de de dezembro de 2018.)
+
+
+
+    1.0106.19.00        Serviços de instalação elétrica não classificados em subposições anteriores
+   1.0106.2             Serviços de instalação de tubulação para fornecimento e escoamento de água
+    1.0106.21.00        Serviços de instalação de tubulação para fornecimento de água
+    1.0106.22.00        Serviços de instalação de tubulação para escoamento de água
+   1.0106.3             Serviços de instalação de equipamentos de aquecimento, de ventilação e de ar
+                        condicionado
+    1.0106.31.00        Serviços de instalação de equipamentos de aquecimento
+    1.0106.32.00        Serviços de instalação de equipamentos de ventilação e de ar condicionado
+   1.0106.40.00         Serviços de instalação de gás
+   1.0106.50.00         Serviços de instalação de isolamentos
+   1.0106.60.00         Serviços de instalação de elevadores, esteiras e escadas rolantes
+   1.0106.90.00         Serviços de instalação não classificados em subposições anteriores
+
+
+  1.0107                Serviços de acabamento
+   1.0107.10.00         Serviços de vidraçaria
+   1.0107.20.00         Serviços de gesso e de estuque
+   1.0107.30.00         Serviços de pintura
+   1.0107.40.00         Serviços de revestimento de pisos e de paredes
+   1.0107.50.00         Serviços de carpintaria e de serralharia
+   1.0107.60.00         Serviços de instalação de cercas e grades
+   1.0107.90.00         Serviços de acabamento não classificados em subposições anteriores
+
+
+
+
+    SEÇÃO II - SERVIÇOS DE INTERMEDIAÇÃO NA DISTRIBUIÇÃO DE MERCADORIAS; SERVIÇOS DE
+DESPACHO ADUANEIRO; FORNECIMENTO DE ALIMENTAÇÃO E BEBIDAS E SERVIÇOS DE HOSPEDAGEM;
+        SERVIÇOS DE TRANSPORTE E SERVIÇOS DE DISTRIBUIÇÃO DE SERVIÇOS PÚBLICOS
+
+Notas
+
+1) Nesta seção:
+  a) Navegação interior é o transporte aquaviário feito em áreas abrigadas ou parcialmente abrigadas de
+  mau tempo, onde as tempestades que ocorrem em mar aberto não afetam ou afetam muito pouco,
+  como em baías, enseadas, lagoas, rios, lagos, canais etc., em percurso nacional ou internacional.
+  b) Navegação costeira é o transporte aquaviário feito em regiões em mar aberto onde ainda é possível
+  avistar a costa, limitadas ao máximo de 20 (vinte) milhas náuticas da costa e, em princípio, não é
+  necessária a utilização de instrumentos de orientação, pois navega-se observando a terra.
+(Fl. 10 do Anexo I da Portaria Conjunta RFB/SCS nº    , de de dezembro de 2018.)
+
+
+ c) Navegação transoceânica é o transporte aquaviário realizado entre portos nacionais e estrangeiros,
+ fora dos limites de visibilidade da costa e sem outros limites estabelecidos. Requer a utilização de
+ instrumentos de localização e orientação analógicos ou digitais.
+ d) Transporte multimodal de cargas é aquele que utiliza duas ou mais modalidades de transporte, desde
+ a origem até o destino, e é regido por um único contrato, sendo executado sob a responsabilidade de
+ um único operador de transporte multimodal.
+ e) Operador de transporte multimodal é pessoa jurídica contratada como principal responsável para a
+ realização do transporte multimodal de cargas da origem até o destino, por meios próprios (do
+ operador) ou por intermédio de terceiros, podendo ser ou não o transportador da carga.
+
+
+
+
+     Capítulo 2 - Serviços de intermediação na distribuição de mercadorias; serviços de despacho
+                                         aduaneiro; comércio
+
+
+Notas
+
+1) Os “serviços de intermediação na distribuição de mercadorias” abrangem, exclusivamente, as
+atividades de intermediação de mercadorias de terceiros no comércio atacadista e varejista e os serviços
+prestados por agentes comissionados. Assim, não estão incluídas na Nomenclatura Brasileira de Serviços
+(NBS) as compras e vendas dos bens objeto dessa intermediação.
+2) O comércio, tanto o atacadista quanto o varejista, são tomados, exclusivamente, no âmbito da presente
+Nomenclatura como uma operação mista por envolver um conjunto de serviços com entrega de
+mercadorias, cuja propriedade é daquele que pratica essas modalidades comerciais.
+3) Os “serviços de despacho aduaneiro” são aqueles relacionados com o despacho de bens ou de
+mercadorias, inclusive bagagem de viajante, na importação ou na exportação, transportados por qualquer
+via.
+4) No contexto da posição 1.0205, quanto às operações realizadas sob a jurisdição e de acordo com a
+normativa brasileira, a comercialização da mercadoria energia elétrica, classificada como mercadoria na
+Nomenclatura Comum do Mercosul (NCM), só pode ser efetuada no âmbito da Câmara de
+Comercialização de Energia Elétrica (CCEE).
+
+        NBS 2.0                                             DESCRIÇÃO
+  1.0201.00.00          Serviços de intermediação na distribuição de mercadorias
+
+
+  1.0202.00.00          Comércio atacadista
+
+
+  1.0203.00.00          Comércio varejista
+
+
+  1.0204.00.00          Serviços de despacho aduaneiro
+(Fl. 11 do Anexo I da Portaria Conjunta RFB/SCS nº      , de de dezembro de 2018.)
+
+
+
+  1.0205.00.00          Serviços de intermediação na comercialização de energia elétrica
+
+
+
+
+              Capítulo 3 - Fornecimento de alimentação e bebidas e serviços de hospedagem
+Notas
+
+1) O fornecimento de alimentação e bebidas, embora envolva a prestação de serviços e a entrega de
+mercadoria, configurando dessa maneira uma operação mista, classifica-se no presente capítulo.
+2) “Alimentação” engloba o fornecimento de comida e refeições, com ou sem a oferta de bebidas. O termo
+“refeição” faz referência à porção de alimentos geralmente consumidos em horários regulares, como café
+da manhã, almoço e jantar.
+3) O fornecimento de bebidas da posição 1.0302 restringe-se à oferta de bebidas.
+4) “Hospedagem” consiste no acolhimento de pessoas que se encontram afastadas de suas residências
+com o propósito de trabalho, estudo ou lazer, mediante oferta de acomodações com os serviços
+necessários ao bem-estar do indivíduo, tais como instalações sanitárias. Pode ser entendido por aquilo
+que se convencionou chamar de hotelaria, assim como a oferta de outros tipos de estalagem, por períodos
+certos de tempo.
+5) Os serviços das subposições 1.0301.1 e 1.0301.2 ocorrem mesmo quando prestados em trens (dining
+cars) ou a bordo de navios, não se confundindo com os serviços prestados mediante contrato com
+companhia de transporte (comissaria ou catering) da subposição 1.0301.32.
+
+        NBS 2.0                                               DESCRIÇÃO
+  1.0301                Fornecimento de alimentação, incluindo refeições
+   1.0301.10.00         Fornecimento de refeições acompanhado de serviços de restaurante
+   1.0301.2             Fornecimento de refeições com serviços limitados de restaurante
+    1.0301.21.00        Fornecimento de refeições pelo sistema de autosserviço (self-service)
+    1.0301.22.00        Fornecimento de comidas rápidas (fast-food)
+    1.0301.29.00        Fornecimento de refeições com serviços limitados de restaurante não classificado em
+                        subposições anteriores
+   1.0301.3             Fornecimento de alimentação, incluindo refeições, sob contrato
+    1.0301.31.00        Fornecimento de alimentação para eventos
+    1.0301.32.00        Fornecimento de alimentação para operadores de transportes (comissaria ou catering)
+    1.0301.39.00        Fornecimento de alimentação, incluindo refeições, sob contrato não classificado em
+                        subposições anteriores
+   1.0301.90.00         Fornecimento de alimentação não classificado em subposições anteriores
+
+
+  1.0302.00.00          Fornecimento de bebidas em bares, cervejarias e outros
+(Fl. 12 do Anexo I da Portaria Conjunta RFB/SCS nº     , de de dezembro de 2018.)
+
+
+
+  1.0303                Serviços de hospedagem para visitantes
+   1.0303.1             Serviços de hospedagem em quartos ou unidades de hospedagem para visitantes
+    1.0303.11.00        Serviços de hospedagem em quartos ou unidades de hospedagem para visitantes, com
+                        serviços diários de faxina
+    1.0303.12.00        Serviços de hospedagem em quartos ou unidades de hospedagem para visitantes, sem
+                        serviços diários de faxina
+    1.0303.13.00        Serviços de hospedagem em quartos ou unidades de hospedagem para visitantes, em
+                        propriedades partilhadas
+    1.0303.14.00        Serviços de hospedagem em quartos ou unidades de hospedagem para visitantes, em
+                        quartos de múltipla ocupação
+   1.0303.20.00         Serviços de acampamentos turísticos (camping)
+   1.0303.90.00         Serviços de hospedagem para visitantes não classificados em subposições anteriores
+
+
+  1.0304                Serviços de hospedagem, exceto para visitantes
+   1.0304.10.00         Serviços de hospedagem em quartos ou unidades de hospedagem para estudantes em
+                        residências estudantis
+   1.0304.20.00         Serviços de hospedagem em quartos ou unidades de hospedagem para trabalhadores
+                        em hotéis ou campos
+   1.0304.90.00         Serviços de hospedagem, exceto para visitantes não classificados em subposições
+                        anteriores
+
+
+
+
+                             Capítulo 4 - Serviços de transporte de passageiros
+Notas
+
+1) No âmbito deste Capítulo, entende-se por:
+  a) Local: a região que compreende as áreas urbana e rural de um município e, ainda, a região
+  metropolitana.
+  b) Área metropolitana ou região metropolitana: o centro populacional resultante da reunião de dois ou
+  mais municípios integrados tanto do ponto de vista econômico quanto político e cultural.
+  c) Ônibus: o veículo automotor de transporte coletivo com capacidade para mais de vinte passageiros
+  sentados, ainda que, em virtude de adaptações com vistas à maior comodidade destes, possa
+  transportar um número menor de passageiros.
+  d) Serviço de transporte integrado: aquele que faz uso de mais de um veículo, em uma ou mais
+  modalidades de transporte.
+  e) Serviços de transporte aquaviário de passageiros: a modalidade de transporte feita por vias
+  marítimas, lacustres ou fluviais.
+  f) Passeios turísticos (sightseeing): os passeios de curta distância em áreas urbanas ou rurais, inclusive
+  na área metropolitana, percorrendo locais que despertem interesse por seu valor cultural, importância
+(Fl. 13 do Anexo I da Portaria Conjunta RFB/SCS nº   , de de dezembro de 2018.)
+
+
+  histórica, beleza natural ou artificial, características únicas, raras ou misteriosas, e/ou percorrendo,
+  ainda, locais para recreação ou diversão.
+  g) Navegação interior: o transporte aquaviário feito em áreas abrigadas ou parcialmente abrigadas de
+  mau tempo, onde as tempestades que ocorrem em mar aberto não afetam ou afetam muito pouco,
+  como baías, enseadas, lagoas, rios, lagos, canais, etc., em percurso nacional ou internacional.
+  h) Navegação costeira: o transporte aquaviário feito em regiões em mar aberto onde ainda é possível
+  avistar a costa, limitadas ao máximo de 20 (vinte) milhas náuticas da costa e, em princípio, não é
+  necessária a utilização de instrumentos de orientação, pois navega-se observando a terra.
+  i) Navegação transoceânica: o transporte aquaviário realizado entre portos nacionais e estrangeiros,
+  fora dos limites de visibilidade da costa e sem outros limites estabelecidos. Requer a utilização de
+  instrumentos de localização e orientação analógicos ou digitais.
+  j) Fretamento: o serviço de transporte prestado por um proprietário (fretador) de veículo a terceiro
+  (afretador), para realizar uma ou mais viagens preestabelecidas, reservando-se ao fretador o controle
+  sobre a tripulação e a condução técnica do veículo envolvido. O contrato por viagem distingue-se do
+  contrato por tempo (posição 1.0405) e da locação de veículo com operador (posição 1.0404).
+  k) Fretamento contínuo: o serviço de transporte prestado por um proprietário de veículo a pessoas
+  jurídicas para o transporte de seus empregados, a instituições de ensino ou agremiações estudantis para
+  o transporte de seus alunos, professores ou associados ou a entidades governamentais e outras
+  instituições para o transporte de seus servidores e colaboradores, com frequência e horários
+  estabelecidos em contrato, por prazo determinado, reservando-se ao fretador o controle sobre o
+  operador e a condução técnica do veículo.
+  l) Fretamento eventual ou turístico: o serviço prestado por um proprietário de veículo a terceiro, este
+  podendo ser pessoa ou grupo de pessoas, com caráter ocasional e para fins turísticos, em circuito
+  fechado, por viagem, reservando-se ao fretador o controle sobre a tripulação/operador e a condução
+  técnica do veículo.
+  m) Locação de veículos de transporte de passageiros com operador: a operação em que o veículo
+  destinado ao transporte de passageiros é colocado à disposição do locatário durante determinado
+  período, sendo o locador remunerado de acordo com esse intervalo de tempo. O locatário detém o
+  controle do veículo e das atividades do operador.
+  n) Contrato de afretamento por tempo (time charter party – TCP): contrato sui generis, que não se
+  enquadra como serviço de transporte nem como locação e se caracteriza pela colocação de navio e seus
+  serviços sob gestão náutica do fretador, ou seja, armado, equipado e em condição de navegabilidade, à
+  disposição do afretador, para que este assuma a gestão comercial do espaço naval por tempo
+  determinado, mediante retribuição financeira.
+2) Os serviços de transporte de passageiros incluem o transporte de bagagens e animais, dentre outros
+itens, quando transportados concomitantemente com seus proprietários.
+3) Excluem-se deste Capítulo as operações de:
+  a) “Afretamento por tempo” de embarcações projetadas para o transporte de cargas, que se classificam
+  na posição 1.0506 (Capítulo 5).
+  b) “Afretamento a casco nu”, nos quais o afretador passa a ter a posse, o uso e o controle da
+  embarcação, por tempo determinado, incluindo o direito de designar o comandante e a tripulação, que
+  se classificam, na subposição 1.1101.15 (Capítulo 11).
+(Fl. 14 do Anexo I da Portaria Conjunta RFB/SCS nº       , de de dezembro de 2018.)
+
+
+
+        NBS 2.0                                                DESCRIÇÃO
+  1.0401                Serviços de transporte local de passageiros
+   1.0401.1             Serviços de transporte terrestre local de passageiros
+    1.0401.11           Serviços de transporte rodoviário local regular de passageiros
+     1.0401.11.1        Serviços de transporte rodoviário local regular de passageiros, exceto em áreas
+                        metropolitanas
+      1.0401.11.11      Serviços de transporte rodoviário local prestados exclusivamente por meio de ônibus
+      1.0401.11.19      Serviços de transporte rodoviário local regular de passageiros, exceto em áreas
+                        metropolitanas não classificados em subitens anteriores
+     1.0401.11.20       Serviços de transporte rodoviário local regular de passageiros, em áreas metropolitanas
+    1.0401.12           Serviços especiais de transporte rodoviário local regular de passageiros
+     1.0401.12.10       Serviços de transporte escolar
+     1.0401.12.20       Serviços de transporte para aeroportos (shuttle)
+     1.0401.12.90       Serviços especiais de transporte rodoviário local regular de passageiros não classificados
+                        em itens anteriores
+    1.0401.13.00        Serviços de táxi
+    1.0401.14.00        Serviços de carro com motorista, exceto táxi
+    1.0401.15           Serviços de transporte rodoviário local de passageiros por fretamento
+     1.0401.15.10       Serviços de fretamento contínuo, local
+     1.0401.15.20       Serviços de fretamento eventual ou turístico, local
+    1.0401.16           Serviços de transporte local de passageiros por veículos sobre trilhos
+     1.0401.16.10       Serviços de transporte ferroviário local de passageiros
+     1.0401.16.20       Serviços de transporte metroviário (metrô) local de passageiros
+     1.0401.16.90       Serviços de transporte local de passageiros por veículos sobre trilhos não classificados
+                        em itens anteriores
+    1.0401.17           Serviços de transporte terrestre para passeios turísticos (sightseeing)
+     1.0401.17.10       Serviços de transporte rodoviário para passeios turísticos (sightseeing)
+     1.0401.17.20       Serviços de transporte ferroviário para passeios turísticos (sightseeing)
+     1.0401.17.90       Serviços de transporte terrestre para passeios turísticos (sightseeing) não classificados
+                        em itens anteriores
+    1.0401.19.00        Serviços de transporte terrestre local de passageiros não classificados em subposições
+                        anteriores
+   1.0401.2             Serviços de transporte aquaviário local de passageiros
+    1.0401.21           Serviços de transporte aquaviário local de passageiros, por navegação interior
+     1.0401.21.10       Serviços de transporte aquaviário local de passageiros, por navegação interior, em
+                        embarcações para travessia
+     1.0401.21.20       Serviços de transporte aquaviário local de passageiros, por navegação interior, em
+                        embarcações para cruzeiros
+     1.0401.21.90       Serviços de transporte aquaviário local de passageiros, por navegação interior não
+                        classificados em itens anteriores
+    1.0401.22.00        Serviços de transporte aquaviário local de passageiros por fretamento
+(Fl. 15 do Anexo I da Portaria Conjunta RFB/SCS nº       , de de dezembro de 2018.)
+
+
+
+    1.0401.23.00        Serviços de transporte aquaviário para passeios turísticos (sightseeing)
+    1.0401.29.00        Serviços de transporte aquaviário local de passageiros não classificados em subposições
+                        anteriores
+   1.0401.30.00         Serviços de transporte integrado local de passageiros
+   1.0401.4             Serviços de transporte aéreo local de passageiros
+    1.0401.41.00        Serviços de táxi aéreo local
+    1.0401.42.00        Serviços de transporte aéreo local de passageiros por fretamento
+    1.0401.43.00        Serviços de transporte aéreo para passeios turísticos (sightseeing)
+    1.0401.49.00        Serviços de transporte aéreo local de passageiros não classificados em subposições
+                        anteriores
+   1.0401.90.00         Serviços de transporte local de passageiros não classificados não classificados em
+                        subposições anteriores
+
+
+  1.0402                Serviços de transporte nacional, exceto local, de passageiros
+   1.0402.1             Serviços de transporte terrestre nacional, exceto local, de passageiros
+    1.0402.11           Serviços de transporte rodoviário nacional, exceto local, regular de passageiros
+      1.0402.11.10      Serviços de transporte rodoviário nacional, exceto local, prestados exclusivamente por
+                        meio de ônibus
+      1.0402.11.90      Serviços de transporte rodoviário nacional, exceto local, de passageiros não
+                        classificados em subitens anteriores
+    1.0402.12.00        Serviços especiais de transporte rodoviário nacional, exceto local, regular de
+                        passageiros
+    1.0402.13           Serviços de transporte rodoviário nacional, exceto local, de passageiros, por fretamento
+     1.0402.13.10       Serviços de fretamento contínuo, nacional, exceto local
+     1.0402.13.20       Serviços de fretamento eventual ou turístico, nacional, exceto local
+    1.0402.14.00        Serviços de transporte ferroviário nacional, exceto local, de passageiros
+    1.0402.19.00        Serviços de transporte terrestre nacional, exceto local, de passageiros não classificados
+                        não classificados em subposições anteriores
+   1.0402.2             Serviços de transporte aquaviário nacional, exceto local, de passageiros
+    1.0402.21           Serviços de transporte aquaviário nacional, exceto local, de passageiros, por navegação
+                        interior
+     1.0402.21.10       Serviços de transporte aquaviário de passageiros, por navegação interior, em
+                        embarcações para travessia
+     1.0402.21.20       Serviços de transporte aquaviário de passageiros, por navegação interior, em
+                        embarcações para cruzeiros
+     1.0402.21.90       Serviços de transporte aquaviário nacional, exceto local, de passageiros, por navegação
+                        interior não classificados em itens anteriores
+    1.0402.22.00        Serviços de transporte aquaviário nacional costeiro de passageiros
+    1.0402.23.00        Serviços de transporte aquaviário nacional, exceto local, de passageiros por fretamento
+    1.0402.29.00        Serviços de transporte aquaviário nacional, exceto local, de passageiros não classificados
+                        em subposições anteriores
+   1.0402.3             Serviços de transporte aéreo nacional, exceto local, de passageiros
+(Fl. 16 do Anexo I da Portaria Conjunta RFB/SCS nº       , de de dezembro de 2018.)
+
+
+
+    1.0402.31.00        Serviços de transporte aéreo nacional, exceto local, regular de passageiros
+    1.0402.32.00        Serviços de táxi aéreo nacional, exceto local
+    1.0402.33.00        Serviços de transporte aéreo nacional, exceto local, de passageiros, por fretamento
+    1.0402.39.00        Serviços de transporte aéreo nacional, exceto local, de passageiros não classificados em
+                        subposições anteriores
+   1.0402.90.00         Serviços de transporte nacional, exceto local, de passageiros não classificados em
+                        subposições anteriores
+
+
+  1.0403                Serviços de transporte internacional de passageiros
+   1.0403.1             Serviços regulares de transporte terrestre internacional de passageiros
+    1.0403.11           Serviços de transporte rodoviário internacional regular de passageiros
+     1.0403.11.10       Serviços de transporte de passageiros prestados exclusivamente por meio de ônibus
+     1.0403.11.90       Serviços de transporte rodoviário internacional de passageiros não classificados em
+                        itens anteriores
+    1.0403.12.00        Serviços de transporte rodoviário internacional de passageiros por fretamento
+    1.0403.13           Serviços de transporte internacional de passageiros por veículos sobre trilhos
+     1.0403.13.10       Serviços de transporte internacional ferroviário de passageiros
+     1.0403.13.90       Serviços de transporte internacional de passageiros por veículos sobre trilhos não
+                        classificados em itens anteriores
+    1.0403.19.00        Serviços de transporte terrestre internacional de passageiros não classificados em
+                        subposições anteriores
+   1.0403.2             Serviços de transporte aquaviário internacional de passageiros
+    1.0403.21           Serviços de transporte aquaviário internacional de passageiros, por navegação interior
+     1.0403.21.10       Serviços de transporte aquaviário internacional de passageiros, por navegação interior,
+                        em embarcações para travessia
+     1.0403.21.20       Serviços de transporte aquaviário internacional de passageiros, por navegação interior,
+                        em embarcações para cruzeiros
+     1.0403.21.90       Serviços de transporte aquaviário internacional de passageiros, por navegação interior
+                        não classificados em itens anteriores
+    1.0403.22.00        Serviços de transporte aquaviário internacional costeiro de passageiros
+    1.0403.23.00        Serviços de transporte aquaviário internacional transoceânico de passageiros
+    1.0403.24.00        Serviços de transporte aquaviário internacional de passageiros por fretamento
+    1.0403.29.00        Serviços de transporte aquaviário internacional de passageiros não classificados em
+                        subposições anteriores
+   1.0403.3             Serviços de transporte aéreo internacional de passageiros
+    1.0403.31.00        Serviços de transporte aéreo internacional regular de passageiros
+    1.0403.32.00        Serviços de táxi aéreo internacional
+    1.0403.33.00        Serviços de transporte aéreo internacional de passageiros por fretamento
+    1.0403.39.00        Serviços de transporte aéreo internacional de passageiros não classificados em
+                        subposições anteriores
+(Fl. 17 do Anexo I da Portaria Conjunta RFB/SCS nº      , de de dezembro de 2018.)
+
+
+
+   1.0403.90.00         Serviços de transporte internacional de passageiros não classificados em subposições
+                        anteriores
+
+
+  1.0404                Locação de veículos de passageiros com operador
+   1.0404.10.00         Locação de veículos rodoviários de passageiros com motorista
+   1.0404.20.00         Locação de embarcações de passageiros com tripulação
+   1.0404.30.00         Locação de aeronaves de passageiros com tripulação
+
+
+  1.0405.00.00          Afretamento de embarcações de passageiros por tempo
+
+
+
+
+                                Capítulo 5 - Serviços de transporte de cargas
+Notas
+
+
+1) No âmbito deste Capítulo, entende-se por:
+  a) Carga a granel: a carga não embalada, quase sempre homogênea, e que é carregada diretamente nos
+  meios de transporte apropriados, sem embalagem e em grandes quantidades. Este tipo de carga tem
+  três espécies: i) granel sólido, que consiste em sólido fragmentado ou grão vegetal, como carvão, sal,
+  trigo em grão e minério de ferro; ii) granel líquido ou liquefeito, que inclui o petróleo e seus derivados,
+  como a gasolina e o óleo diesel, além de álcool combustível, óleo de soja e melaço, e os granéis
+  liquefeitos, exceto o “gás liquefeito de petróleo” (GLP).
+  b) Cargas vivas: os animais vivos, vertebrados e invertebrados, os vegetais plantados, bem como os
+  microrganismos.
+  c) Cargas especiais: aquelas que, por seu formato, requisitos de segurança ou atendimento de
+  parâmetros exigem medidas especiais para serem transportadas, tais como as cargas de grande porte –
+  das quais são exemplos as grandes peças para unidades industriais ou para usinas de energia – e as
+  cargas perigosas – entendidas como toda substância ou artigo encontrado na natureza ou produzido por
+  qualquer processo que, por suas características físico-químicas, representem risco à saúde das pessoas,
+  à segurança pública ou ao meio ambiente.
+  d) Carga geral não unitizada: a carga transportada solta, em que as mercadorias se apresentam avulsas
+  e são embarcadas separadamente, como por exemplo, em embrulhos, fardos, pacotes, sacas, caixas ou
+  tambores, contendo marca de identificação e em unidades contadas.
+  e) Carga geral unitizada: aquela agrupada em volumes maiores, como se dá, por exemplo, nas cargas
+  paletizadas, colocadas em bigboxes ou colocada em contêineres.
+  f) Contêiner: uma estrutura, via de regra, no formato de caixa provida de portas, construída em aço
+  carbono, embora também possa ser feita de alumínio, plástico ou fibra de vidro, dentre outros materiais,
+  criada com o intuito de facilitar o transporte de mercadorias de pequeno tamanho.
+  g) Produto perigoso: toda substância ou artigo encontrado na natureza ou produzido por qualquer
+  processo que, por suas características físico-químicas, represente risco à saúde das pessoas, à segurança
+  pública ou ao meio ambiente.
+(Fl. 18 do Anexo I da Portaria Conjunta RFB/SCS nº     , de de dezembro de 2018.)
+
+
+  h) Gás liquefeito de petróleo (GLP): os seguintes gases liquefeitos propano, butano, etileno, propileno,
+  butileno, butadieno e demais gases previstos na subposição 2711.1 da Nomenclatura Comum do
+  Mercosul (NCM), exceto o gás natural (NCM 2711.11.00), e/ou as misturas dos mesmos.
+  i) Navegação interior: o transporte aquaviário feito em áreas abrigadas ou parcialmente abrigadas de
+  mau tempo, onde as tempestades que ocorrem em mar aberto não afetam ou afetam muito pouco,
+  como baías, enseadas, lagoas, rios, lagos, canais, etc., em percurso nacional ou internacional.
+  j) Navegação costeira: o transporte aquaviário feito em regiões em mar aberto onde ainda é possível
+  avistar a costa, limitadas ao máximo de 20 (vinte) milhas náuticas da costa e, em princípio, não é
+  necessária a utilização de instrumentos de orientação, pois navega-se observando a terra.
+  k) Navegação transoceânica: o transporte aquaviário realizado entre portos nacionais e estrangeiros,
+  fora dos limites de visibilidade da costa e sem outros limites estabelecidos. Requer a utilização de
+  instrumentos de localização e orientação analógicos ou digitais.
+  l) Transporte multimodal de cargas: aquele que, regido por um único contrato, utiliza duas ou mais
+  modalidades de transporte, desde a origem até o destino, e é executado sob a responsabilidade de um
+  único operador de transporte multimodal.
+  m) Locação de veículos de transporte de cargas com operador: a operação em que o veículo destinado
+  ao transporte de cargas é colocado à disposição do locatário durante determinado período, sendo
+  remunerado de acordo com esse período. O locatário detém o controle do veículo e das atividades do
+  operador.
+  n) Afretamento por tempo (time charter party – TCP): a operação sui generis, que não se enquadra
+  como serviço de transporte nem como locação e se caracteriza pela colocação de navio e seus serviços
+  sob gestão náutica do fretador, ou seja, armado, equipado e em condição de navegabilidade, à
+  disposição do afretador, para que este assuma a gestão comercial do espaço naval por tempo
+  determinado, mediante retribuição financeira.
+2) Os serviços de transporte aquaviário de cargas (posição 1.0502) são prestados por empresas de
+navegação que, com suas tripulações, conduzem navios e outros tipos de embarcações.
+3) Excluem-se do presente Capítulo os serviços de:
+  a) Manuseio de cargas, que se classificam na posição 1.0601.
+  b) Armazenagem em depósitos ou unidade armazenadoras, que se classificam na posição 1.0602.
+  c) Navegação de apoio, seja portuário ou marítimo, que se classificam na subposição 1.0605.40.
+  d) Transporte de água por meio de caminhões e outros veículos, que se classificam na subposição
+  1.0802.30.
+  e) Carro-forte, que se classificam dentre os serviços de segurança, na subposição 1.1802.40.
+4) Excluem-se, ainda, deste Capítulo, as operações de:
+  a) Afretamento por tempo de embarcações projetadas para o transporte de passageiros, que se
+  classificam na posição 1.0405 (Capítulo 4).
+  b) Locação de navios e outras embarcações, sem tripulação (afretamento a casco nu), na qual o afretador
+  passa a ter a posse, o uso e o controle da embarcação, por tempo determinado, incluindo o direito de
+  designar o comandante e a tripulação, que se classificam na subposição 1.1101.15 (Capítulo 11).
+
+        NBS 2.0                                              DESCRIÇÃO
+  1.0501                Serviços de transporte terrestre de cargas
+(Fl. 19 do Anexo I da Portaria Conjunta RFB/SCS nº       , de de dezembro de 2018.)
+
+
+
+   1.0501.1             Serviços de transporte rodoviário de cargas
+    1.0501.11           Serviços de transporte rodoviário de cargas a granel
+     1.0501.11.10       Serviços de transporte rodoviário de cargas sólidas a granel
+     1.0501.11.20       Serviços de transporte rodoviário de cargas líquidas, ou liquefeitas, a granel
+     1.0501.11.30       Serviços de transporte rodoviário de cargas gasosas a granel
+    1.0501.12           Serviços de transporte rodoviário de carga geral, exceto em contêineres
+     1.0501.12.10       Serviços de transporte rodoviário de carga solta, não unitizada
+     1.0501.12.20       Serviços de transporte rodoviário de carga unitizada
+     1.0501.12.30       Serviços de transporte rodoviário de carga frigorificada ou climatizada
+    1.0501.13           Serviços de transporte rodoviário de cargas em contêineres
+     1.0501.13.10       Serviços de transporte rodoviário de cargas em contêineres frigorificados ou
+                        climatizados
+     1.0501.13.20       Serviços de transporte rodoviário de cargas em contêineres não frigorificados ou
+                        climatizados
+    1.0501.14           Serviços de transporte rodoviário de cargas especiais
+     1.0501.14.10       Serviços de transporte rodoviário de cargas vivas
+     1.0501.14.20       Serviços de transporte rodoviário de mudanças domésticas e de mobília e outros
+                        objetos de escritório
+     1.0501.14.30       Serviços de transporte rodoviário de cargas de grande porte
+     1.0501.14.40       Serviços de transporte rodoviário de veículos
+     1.0501.14.5        Serviços de transporte rodoviário de produtos perigosos
+      1.0501.14.51      Serviços de transporte rodoviário de combustíveis, lubrificantes e GLP, inclusive
+                        apresentados em botijões metálicos
+      1.0501.14.52      Serviços de transporte rodoviário de produtos químicos perigosos, exceto lubrificantes
+                        e GLP
+      1.0501.14.59      Serviços de transporte rodoviário de produtos perigosos não classificados em subitens
+                        anteriores
+    1.0501.15.00        Serviços de transporte rodoviário de cargas postais e malotes
+    1.0501.19.00        Serviços de transporte rodoviário de cargas não classificados em subposições anteriores
+   1.0501.2             Serviços de transporte ferroviário de cargas
+    1.0501.21           Serviços de transporte ferroviário de cargas a granel
+     1.0501.21.10       Serviços de transporte ferroviário de cargas sólidas a granel
+     1.0501.21.20       Serviços de transporte ferroviário de cargas líquidas, ou liquefeitas, a granel
+     1.0501.21.30       Serviços de transporte ferroviário de cargas gasosas a granel
+    1.0501.22           Serviços de transporte ferroviário de cargas geral, exceto em contêineres
+     1.0501.22.10       Serviços de transporte ferroviário de carga solta, não unitizada
+     1.0501.22.20       Serviços de transporte ferroviário de carga unitizada
+     1.0501.22.30       Serviços de transporte ferroviário de carga frigorificada ou climatizada
+    1.0501.23           Serviços de transporte ferroviário de cargas em contêineres
+     1.0501.23.10       Serviços de transporte ferroviário de cargas em contêineres frigorificados ou
+                        climatizados
+(Fl. 20 do Anexo I da Portaria Conjunta RFB/SCS nº       , de de dezembro de 2018.)
+
+
+
+     1.0501.23.20       Serviços de transporte ferroviário de cargas em contêineres não frigorificados ou
+                        climatizados
+    1.0501.24           Serviços de transporte ferroviário de cargas especiais
+     1.0501.24.10       Serviços de transporte ferroviário de cargas vivas
+     1.0501.24.2        Serviços de transporte ferroviário de produtos perigosos
+      1.0501.24.21      Serviços de transporte ferroviário de combustíveis, lubrificantes e GLP, inclusive
+                        apresentados em botijões metálicos
+      1.0501.24.22      Serviços de transporte ferroviário de produtos químicos perigosos, exceto lubrificantes
+                        e GLP
+      1.0501.24.29      Serviços de transporte ferroviário de produtos perigosos não classificados em
+                        subposições anteriores
+    1.0501.25.00        Serviços de transporte ferroviário de bens e valores
+    1.0501.29.00        Serviços de transporte ferroviário de cargas não classificados em subposições anteriores
+   1.0501.3             Serviços de transporte de cargas por meio de dutos
+    1.0501.31.00        Serviços de transporte de petróleo, gás natural e combustível por meio de dutos
+    1.0501.32.00        Serviços de transporte de minérios por meio de dutos
+    1.0501.39.00        Serviços de transporte de cargas por meio de dutos não classificados em subposições
+                        anteriores
+
+
+  1.0502                Serviços de transporte aquaviário de cargas
+   1.0502.1             Serviços de transporte aquaviário por navegação interior de cargas
+    1.0502.11           Serviços de transporte aquaviário por navegação interior de cargas a granel
+     1.0502.11.10       Serviços de transporte aquaviário por navegação interior de cargas sólidas, a granel
+     1.0502.11.20       Serviços de transporte aquaviário por navegação interior de cargas líquidas, ou
+                        liquefeitas, a granel
+     1.0502.11.30       Serviços de transporte aquaviário por navegação interior de cargas gasosas a granel
+    1.0502.12           Serviços de transporte aquaviário por navegação interior de carga geral, exceto em
+                        contêineres
+     1.0502.12.10       Serviços de transporte aquaviário por navegação interior de carga solta, não unitizada
+     1.0502.12.20       Serviços de transporte aquaviário por navegação interior de carga unitizada
+     1.0502.12.30       Serviços de transporte aquaviário por navegação interior de carga frigorificada ou
+                        climatizada
+    1.0502.13           Serviços de transporte aquaviário por navegação interior de cargas em contêineres
+     1.0502.13.10       Serviços de transporte aquaviário por navegação interior de cargas em contêineres
+                        frigorificados ou climatizados
+     1.0502.13.20       Serviços de transporte aquaviário por navegação interior de cargas em contêineres não
+                        frigorificados ou climatizados
+    1.0502.14           Serviços de transporte aquaviário por navegação interior de cargas especiais
+     1.0502.14.10       Serviços de transporte aquaviário por navegação interior de cargas vivas
+     1.0502.14.20       Serviços de transporte aquaviário por navegação interior de mudanças domésticas e de
+                        mobília e outros objetos de escritório
+(Fl. 21 do Anexo I da Portaria Conjunta RFB/SCS nº       , de de dezembro de 2018.)
+
+
+
+     1.0502.14.30       Serviços de transporte aquaviário por navegação interior de cargas de grande porte
+     1.0502.14.40       Serviços de transporte aquaviário por navegação interior de veículos
+     1.0502.14.5        Serviços de transporte aquaviário por navegação interior de produtos perigosos
+      1.0502.14.51      Serviços de transporte aquaviário por navegação interior de combustíveis, lubrificantes
+                        e GLP, inclusive apresentado em botijões metálicos
+      1.0502.14.52      Serviços de transporte aquaviário por navegação interior de produtos químicos
+                        perigosos, exceto lubrificantes e GLP
+      1.0502.14.59      Serviços de transporte aquaviário por navegação interior de produtos perigosos não
+                        classificados em subposições anteriores
+     1.0502.14.90       Serviços de transporte aquaviário por navegação interior de cargas especiais não
+                        classificados em subposições anteriores
+    1.0502.19.00        Serviços de transporte aquaviário por navegação interior de cargas não classificados em
+                        subposições anteriores
+   1.0502.2             Serviços de transporte aquaviário costeiro de cargas
+    1.0502.21           Serviços de transporte aquaviário costeiro de cargas a granel
+     1.0502.21.10       Serviços de transporte aquaviário costeiro de cargas sólidas a granel
+     1.0502.21.20       Serviços de transporte aquaviário costeiro de cargas líquidas ou liquefeitas, a granel
+     1.0502.21.30       Serviços de transporte aquaviário costeiro de cargas gasosas a granel
+    1.0502.22           Serviços de transporte aquaviário costeiro de cargas em geral, exceto em contêineres
+     1.0502.22.10       Serviços de transporte aquaviário costeiro de carga solta, não unitizada
+     1.0502.22.20       Serviços de transporte aquaviário costeiro de carga unitizada
+     1.0502.22.30       Serviços de transporte aquaviário costeiro de carga frigorificada ou climatizada
+    1.0502.23           Serviços de transporte aquaviário costeiro de cargas em contêineres
+     1.0502.23.10       Serviços de transporte aquaviário costeiro de cargas em contêineres frigorificados ou
+                        climatizados
+     1.0502.23.20       Serviços de transporte aquaviário costeiro de cargas em contêineres não classificados
+                        em subposições anteriores
+    1.0502.24           Serviços de transporte aquaviário costeiro de cargas especiais
+     1.0502.24.10       Serviços de transporte aquaviário costeiro de cargas vivas
+     1.0502.24.20       Serviços de transporte aquaviário costeiro de mudanças domésticas e de mobília e
+                        outros objetos de escritório
+     1.0502.24.30       Serviços de transporte aquaviário costeiro de cargas de grande porte
+     1.0502.24.40       Serviços de transporte aquaviário costeiro de veículos
+     1.0502.24.5        Serviços de transporte aquaviário costeiro de produtos perigosos
+      1.0502.24.51      Serviços de transporte aquaviário costeiro de combustíveis, lubrificantes e GLP,
+                        inclusive apresentado em botijões metálicos
+      1.0502.24.52      Serviços de transporte aquaviário costeiro de produtos químicos perigosos, exceto
+                        lubrificantes e GLP
+      1.0502.24.59      Serviços de transporte aquaviário costeiro de produtos perigosos não classificados em
+                        subposições anteriores
+    1.0502.29.00        Serviços de transportes aquaviário costeiro de cargas não classificados em subposições
+                        anteriores
+(Fl. 22 do Anexo I da Portaria Conjunta RFB/SCS nº       , de de dezembro de 2018.)
+
+
+
+   1.0502.3             Serviços de transporte aquaviário transoceânico de cargas
+    1.0502.31           Serviços de transporte aquaviário transoceânico de cargas a granel
+     1.0502.31.10       Serviços de transporte aquaviário transoceânico de cargas sólidas a granel
+     1.0502.31.20       Serviços de transporte aquaviário transoceânico de cargas líquidas, ou liquefeitas, a
+                        granel
+     1.0502.31.30       Serviços de transporte aquaviário transoceânico de cargas gasosas a granel
+    1.0502.32           Serviços de transporte aquaviário transoceânico de carga geral, exceto em contêineres
+     1.0502.32.10       Serviços de transporte aquaviário transoceânico de carga solta, não unitizada
+     1.0502.32.20       Serviços de transporte aquaviário transoceânico de carga unitizada
+     1.0502.32.30       Serviços de transporte aquaviário transoceânico de carga frigorificada ou climatizada
+    1.0502.33           Serviços de transporte aquaviário transoceânico de cargas em contêineres
+     1.0502.33.10       Serviços de transporte aquaviário transoceânico de cargas em contêineres frigorificados
+                        ou climatizados
+     1.0502.33.20       Serviços de transporte aquaviário transoceânico de cargas em contêineres não
+                        frigorificados ou climatizados
+    1.0502.34           Serviços de transporte aquaviário transoceânico de cargas especiais
+     1.0502.34.10       Serviços de transporte aquaviário transoceânico de cargas vivas
+     1.0502.34.20       Serviços de transporte aquaviário transoceânico de mudanças domésticas e de mobília
+                        e outros objetos de escritório
+     1.0502.34.30       Serviços de transporte aquaviário transoceânico de cargas de grande porte
+     1.0502.34.40       Serviços de transporte aquaviário transoceânico de veículos
+     1.0502.34.5        Serviços de transporte aquaviário transoceânico de produtos perigosos
+      1.0502.34.51      Serviços de transporte aquaviário transoceânico de combustíveis, lubrificantes e GLP,
+                        inclusive apresentado em botijões metálicos
+      1.0502.34.52      Serviços de transporte aquaviário transoceânico de produtos químicos perigosos,
+                        exceto lubrificantes e GLP
+      1.0502.34.59      Serviços de transporte aquaviário transoceânico de produtos perigosos não classificados
+                        em subposições anteriores
+    1.0502.39.00        Serviços de transporte aquaviário transoceânico de cargas não classificados em
+                        subposições anteriores
+
+
+  1.0503                Serviços de transporte aéreo de cargas
+   1.0503.1             Serviços de transporte aéreo de cargas em contêineres
+    1.0503.11.00        Serviços de transporte aéreo de cargas em contêineres frigorificados ou climatizados
+    1.0503.12.00        Serviços de transporte aéreo de cargas em contêineres não frigorificados ou
+                        climatizados
+   1.0503.2             Serviços de transporte aéreo de cargas especiais
+    1.0503.21.00        Serviços de transporte aéreo de produtos perigosos
+    1.0503.22.00        Serviços de transporte aéreo de cargas vivas
+    1.0503.23.00        Serviços de transporte aéreo de máquinas e veículos
+    1.0503.24.00        Serviços de transporte aéreo de produtos perecíveis
+(Fl. 23 do Anexo I da Portaria Conjunta RFB/SCS nº       , de de dezembro de 2018.)
+
+
+
+    1.0503.25.00        Serviços de transporte aéreo de cargas frágeis
+    1.0503.26.00        Serviços de transporte aéreo de cargas controladas
+    1.0503.27.00        Serviços de transporte aéreo de valores
+    1.0503.28.00        Serviços de transporte aéreo de cargas postais, remessas expressas e cargas congêneres
+    1.0503.29.00        Serviços de transporte aéreo de cargas especiais não classificados em subposições
+                        anteriores
+   1.0503.90.00         Serviços de transporte aéreo de cargas não classificados em subposições anteriores
+
+
+  1.0504                Serviços de transporte multimodal de cargas
+   1.0504.1             Serviços de transporte multimodal de cargas a granel
+    1.0504.11.00        Serviços de transporte multimodal de cargas sólidas a granel
+    1.0504.12.00        Serviços de transporte multimodal de cargas líquidas, ou liquefeitas, a granel
+    1.0504.13.00        Serviços de transporte multimodal de cargas gasosas a granel
+   1.0504.2             Serviços de transporte multimodal de carga geral, exceto em contêineres
+    1.0504.21.00        Serviços de transporte multimodal de carga solta, não unitizada
+    1.0504.22.00        Serviços de transporte multimodal de carga unitizada
+    1.0504.23.00        Serviços de transporte multimodal de carga frigorificada ou climatizada
+   1.0504.3             Serviços de transporte multimodal de cargas em contêineres
+    1.0504.31.00        Serviços de transporte multimodal de cargas em contêineres frigorificados ou
+                        climatizados
+    1.0504.32.00        Serviços de transporte multimodal de cargas em contêineres não frigorificados ou
+                        climatizados
+   1.0504.4             Serviços de transporte multimodal de cargas especiais
+    1.0504.41.00        Serviços de transporte multimodal de cargas vivas
+    1.0504.42.00        Serviços de transporte multimodal de mudanças domésticas e de mobília e outros
+                        objetos de escritório
+    1.0504.43.00        Serviços de transporte multimodal de cargas de grande porte
+    1.0504.44.00        Serviços de transporte multimodal de veículos
+    1.0504.45           Serviços de transporte multimodal de produtos perigosos
+     1.0504.45.10       Serviços de transporte multimodal de combustíveis, lubrificantes e GLP, inclusive
+                        apresentado em botijões metálicos
+     1.0504.45.20       Serviços de transporte multimodal de produtos químicos perigosos, exceto lubrificantes
+                        e GLP
+     1.0504.45.90       Serviços de transporte multimodal de produtos perigosos não classificados em
+                        subposições anteriores
+    1.0504.49.00        Serviços de transporte multimodal de cargas especiais não classificados em subposições
+                        anteriores
+   1.0504.90.00         Serviços de transporte multimodal de cargas não classificados em subposições
+                        anteriores
+
+
+  1.0505                Locação de veículos de cargas com operador
+(Fl. 24 do Anexo I da Portaria Conjunta RFB/SCS nº       , de de dezembro de 2018.)
+
+
+
+   1.0505.10.00         Locação de veículos rodoviários de carga com operador
+   1.0505.20.00         Locação de embarcações de carga com tripulação
+   1.0505.30.00         Locação de aeronaves de carga com tripulação
+
+
+  1.0506.00.00          Afretamento de embarcações de carga por tempo
+
+
+
+
+                               Capítulo 6 - Serviços de apoio aos transportes
+Notas
+
+1) A armazenagem em depósitos é feita em armazéns gerais, que são estabelecimentos que têm por
+finalidade a guarda e conservação de mercadorias e a emissão de títulos especiais em armazéns gerais
+alfandegados.
+2) Os serviços de apoio ao transporte incluem, dentre outros, os serviços de reboque, vendas e reservas
+de passagem realizadas em terminais de passageiros, serviços de bagagem e “achados e perdidos”.
+3) Os “serviços de praticagem”, classificados na posição 1.0605 são:
+  a) Realizados pelo prático, profissional aquaviário não tripulante, que embarcado presta tal serviço.
+  b) O conjunto de atividades profissionais de assessoria ao Comandante (tripulante responsável pela
+  operação e manutenção de embarcação, em condições de segurança, extensivas à carga, aos tripulantes
+  e às demais pessoas a bordo) requeridas por força de peculiaridades locais que dificultem a livre e segura
+  movimentação da embarcação.
+4) Na posição 1.0605, os “serviços de salvamento de embarcações” incluem, por exemplo, os serviços de
+desencalhe, reflutuação, recuperação de cargas e de embarcações.
+5) Os serviços de navegação de apoio, compreendendo o apoio marítimo e portuário, classificam-se na
+subposição 1.0605.40.
+6) Estão excluídos deste Capítulo os serviços auxiliares ao transporte de mudanças, tais como
+empacotamento e carregamento de mobílias domésticas e objetos de escritório, que se classificam no
+capítulo 5 de acordo com o modal de transporte.
+
+        NBS 2.0                                               DESCRIÇÃO
+  1.0601                Serviços de manuseio de cargas
+   1.0601.10.00         Serviços de manuseio de contêineres
+   1.0601.90.00         Serviços de manuseio de cargas não classificados em subposições anteriores
+
+
+  1.0602                Serviços de armazenagem
+   1.0602.10.00         Serviços de armazenagem frigorificada
+   1.0602.2             Serviços de armazenagem de produtos perigosos
+    1.0602.21.00        Serviços de armazenagem de petróleo e seus derivados
+(Fl. 25 do Anexo I da Portaria Conjunta RFB/SCS nº         , de de dezembro de 2018.)
+
+
+
+    1.0602.22.00        Serviços de armazenagem de combustíveis, lubrificantes e GLP, inclusive apresentado
+                        em botijões metálicos
+    1.0602.23.00        Serviços de armazenagem de produtos químicos perigosos
+    1.0602.29.00        Serviços de armazenagem de produtos perigosos não classificados em subposições
+                        anteriores
+   1.0602.3             Serviços de armazenagem de granéis sólidos, líquidos ou liquefeitos e gasosos
+    1.0602.31.00        Serviços de armazenagem de granéis sólidos
+    1.0602.32.00        Serviços de armazenagem de granéis líquidos ou liquefeitos
+    1.0602.33.00        Serviços de armazenagem de granéis gasosos
+   1.0602.90.00         Serviços de armazenagem não classificados em subposições anteriores
+
+
+  1.0603.00.00          Serviços de apoio ao transporte ferroviário
+
+
+  1.0604                Serviços de apoio ao transporte rodoviário
+   1.0604.10.00         Serviços de estações rodoviárias
+   1.0604.2             Serviços de operação de rodovias, pontes e túneis
+    1.0604.21.00        Serviços de operação de rodovias
+    1.0604.22.00        Serviços de operação de pontes e túneis
+   1.0604.30.00         Serviços de estacionamento
+   1.0604.40.00         Serviços de reboque para veículos particulares e comerciais
+   1.0604.90.00         Serviços de apoio ao transporte rodoviário não classificados em subposições anteriores
+
+
+  1.0605                Serviços de apoio ao transporte aquaviário
+   1.0605.10.00         Serviços de operação de portos e canais, exceto manuseio de cargas
+   1.0605.20.00         Serviços de praticagem e de atracação
+   1.0605.30.00         Serviços de salvamento de embarcações
+   1.0605.40.00         Serviços de navegação de apoio
+   1.0605.90.00         Serviços de apoio ao transporte aquaviário não classificados em subposições anteriores
+
+
+  1.0606                Serviços de apoio ao transporte aéreo e aeroespacial
+   1.0606.1             Serviços de apoio ao transporte aéreo
+    1.0606.11.00        Serviços de operação aeroportuária, exceto manuseio de cargas
+    1.0606.12.00        Serviços de controle de tráfego aéreo
+    1.0606.19.00        Serviços de apoio ao transporte aéreo não classificados em subposições anteriores
+   1.0606.20.00         Serviços de apoio ao transporte aeroespacial
+
+
+  1.0607.00.00          Serviços de agenciamento de transporte de cargas
+
+
+  1.0608                Serviços de apoio ao transporte multimodal de cargas
+   1.0608.10.00         Serviços de coleta e entrega de cargas no transporte multimodal
+(Fl. 26 do Anexo I da Portaria Conjunta RFB/SCS nº     , de de dezembro de 2018.)
+
+
+
+   1.0608.20.00         Serviços de unitização ou desunitização de cargas no transporte multimodal
+   1.0608.30.00         Serviços de movimentação de cargas no transporte multimodal
+   1.0608.40.00         Serviços de consolidação ou desconsolidação documental de cargas no transporte
+                        multimodal
+   1.0608.90.00         Serviços de apoio ao transporte multimodal de cargas não classificados em subposições
+                        anteriores
+
+
+  1.0609.00.00          Serviços de apoio aos transportes não classificados em posições anteriores
+
+
+
+
+Capítulo 7 - Serviços postais; serviços de coleta, remessa ou entrega de documentos ou encomendas;
+                                     serviços de remessas expressas
+Notas
+
+1) Na posição 1.0701:
+  a) “Serviço postal” é o serviço de recebimento, expedição, transporte e entrega de objetos de
+  correspondência, valores e encomendas, prestados no âmbito de uma obrigação de serviço universal.
+  b) “Objeto postal” compreende toda a correspondência, valor ou encomenda encaminhado por via
+  postal.
+  c) “Objetos de correspondência” são: a) carta; b) cartão-postal; c) impresso; d) cecograma; e) pequena
+  encomenda.
+  d) “Correspondência agrupada” é reunião, em volume, de objetos da mesma ou de diversas naturezas,
+  quando, pelo menos um deles, for sujeito ao monopólio postal, remetidos a pessoas jurídicas de direito
+  público ou privado e/ou suas agências, filiais ou representantes.
+  e) “Serviço postal relativo a valores” corresponde a: a) remessa de dinheiro através de carta com valor
+  declarado; b) remessa de ordem de pagamento por meio de vale-postal; c) Recebimento de tributos,
+  prestações, contribuições e obrigações pagáveis à vista, por via postal.
+  f) “Serviço postal relativo a encomendas” corresponde a remessa e entrega de objetos, com ou sem
+  valor mercantil, por via postal.
+  g) “Telegrama” corresponde às mensagens urgentes e confidenciais transmitidas pela internet ou por
+  outro meio eletrônico para o local em que a mensagem será impressa e auto-envelopada para entrega
+  no endereço do destinatário. O serviço de telegrama é prestado no âmbito de uma obrigação de serviço
+  universal.
+2) Na posição 1.0702, classificam-se os serviços de coleta, transporte, remessa ou entrega de documentos
+ou encomendas, exceto os serviços postais prestados a título de obrigação universal e os serviços de
+remessa expressa.
+3) Na posição 1.0703, entende-se por “remessa expressa” a encomenda, transportada sob as condições
+de serviço expresso e entrega porta a porta, composta de documentos ou bens transportados em um ou
+mais volumes amparados por conhecimento de carga.
+(Fl. 27 do Anexo I da Portaria Conjunta RFB/SCS nº        , de de dezembro de 2018.)
+
+
+
+        NBS 2.0                                                DESCRIÇÃO
+  1.0701.00.00          Serviços postais e de telegrama
+
+
+  1.0702.00.00          Serviços de coleta, transporte, remessa ou entrega de documentos ou encomendas,
+                        exceto remessas expressas
+
+
+  1.0703.00.00          Serviços de remessas expressas
+
+
+
+
+  Capítulo 8 - Serviços de transmissão e distribuição de eletricidade; serviços de distribuição de gás e
+                                                   água
+Notas
+
+1) Na subposição 1.0801.20, inclui-se a manutenção de medidores de eletricidade.
+2) Na subposição 1.0802.10, inclui-se a manutenção dos medidores de água.
+3) Na posição 1.0803, inclui-se a distribuição de qualquer combustível gasoso por meio de tubulações e a
+manutenção de medidores de gás.
+
+       NBS 2.0                                                  DESCRIÇÃO
+  1.0801                Serviços de transmissão e distribuição de eletricidade
+   1.0801.10.00         Serviços de transmissão de eletricidade
+   1.0801.20.00         Serviços de distribuição de eletricidade
+
+  1.0802                Serviços de distribuição de água
+   1.0802.10.00         Serviços de distribuição de água por meio de tubulações, exceto vapor de água e água
+                        quente
+   1.0802.20.00         Serviços de distribuição de vapor de água, água quente e ar condicionado por meio de
+                        tubulações
+   1.0802.30.00         Serviços de distribuição de água, exceto por meio de tubulações
+
+  1.0803.00.00          Serviços de distribuição de gás canalizado
+
+
+ SEÇÃO III - SERVIÇOS FINANCEIROS E RELACIONADOS; SECURITIZAÇÃO DE RECEBÍVEIS E FOMENTO
+COMERCIAL; SERVIÇOS IMOBILIÁRIOS; ARRENDAMENTO MERCANTIL OPERACIONAL E PROPRIEDADE
+                                        INTELECTUAL
+Notas
+
+
+1) As operações de arrendamento mercantil financeiro classificam-se no Capítulo 9 e as operações de
+arrendamento mercantil operacional classificam-se no Capítulo 11.
+(Fl. 28 do Anexo I da Portaria Conjunta RFB/SCS nº    , de de dezembro de 2018.)
+
+
+
+
+                          Capítulo 9 - Serviços financeiros e serviços relacionados
+Notas
+
+1) “Banco de investimento” é instituição financeira de natureza privada, especializada em operações de
+participação societária de caráter temporário, de financiamento da atividade produtiva por meio do
+suprimento de capital fixo e de giro e de administração de recursos de terceiros.
+2) “Serviços de previdência complementar” são aqueles ofertados pelas entidades de previdência
+complementar, as quais têm por objeto principal a administração e execução de planos de benefícios de
+natureza previdenciária. Esses planos são facultativos, de caráter complementar e organizados de forma
+autônoma em relação ao regime geral de previdência social e baseiam-se na constituição de reservas que
+garantam o benefício.
+ 3) As “entidades de previdência complementar” classificam-se em entidades fechadas de previdência
+complementar (EFPCs) e em entidades abertas de previdência complementar (EAPCs):
+  a) As EFPCs, comumente chamadas de fundos de pensão, são entidades sem fins lucrativos que se
+  organizam sob a forma de fundação ou sociedade civil. São constituídas exclusivamente para
+  empregados de uma empresa ou grupo de empresas, aos servidores públicos da União, dos estados, do
+  Distrito Federal e dos municípios, bem como para associados ou membros de pessoas jurídicas de
+  caráter profissional, classista ou setorial, denominadas instituidores.
+  b) As EAPCs são entidades com fins lucrativos, constituídas unicamente sob a forma de sociedades
+  anônimas e têm por objetivo instituir e operar planos de benefícios de caráter previdenciário concedidos
+  em forma de renda continuada ou pagamento único, acessíveis a quaisquer pessoas físicas interessadas.
+4) Para fins deste Capítulo, “arrendamento mercantil financeiro” corresponde a operação em que:
+  a) As contraprestações e demais pagamentos previstos no contrato, devidos pela arrendatária, sejam
+  normalmente suficientes para que a arrendadora recupere o custo do bem arrendado durante o prazo
+  contratual da operação e, adicionalmente, obtenha retorno sobre os recursos investidos.
+  b) As despesas de manutenção, assistência técnica e serviços correlatos à operacionalidade do bem
+  arrendado sejam responsabilidade da arrendatária.
+  c) O preço para o exercício da opção de compra seja livremente pactuado, podendo ser, inclusive, o
+  valor de mercado do bem arrendado, quando a operação for realizada conforme a legislação brasileira.
+5) Para fins deste Capítulo, entende-se por:
+  a) Resseguro: a operação de transferência de riscos de uma cedente (a sociedade seguradora que
+  contrata operação de resseguro) para um ressegurador, enquanto o termo retrocessão designa a
+  operação de transferência de riscos de resseguro de resseguradores para resseguradores, ou de
+  resseguradores para sociedades seguradoras locais.
+  b) Retrocessão: a operação de transferência de riscos de resseguro de resseguradores, com vistas a sua
+  própria proteção, para resseguradores ou para sociedades seguradoras locais, através de contratos
+  automáticos ou facultativos, ou seja, é o resseguro de um resseguro.
+  c) Commodity: é usado em transações comerciais para designar determinado bem, em estado bruto ou
+  com pequeno grau de industrialização, produzido em escala mundial e com características físicas
+(Fl. 29 do Anexo I da Portaria Conjunta RFB/SCS nº      , de de dezembro de 2018.)
+
+
+  homogêneas. Em regra, esses bens são de origem agrícola ou mineral, negociados por meio de
+  contratos.
+  d) Seguro de recebíveis: a operação em que uma instituição financeira detentora de créditos
+  (“recebíveis”) cede esses créditos a uma instituição não financeira, constituída sob a forma de sociedade
+  por ações, cujo objeto social é, exclusivamente, a aquisição de recebíveis (companhia securitizadora).
+  e) Fomento comercial (factoring): a prestação cumulativa e contínua de assessoria creditícia,
+  mercadológica, gestão de crédito, seleção de riscos, administração de contas a pagar e a receber,
+  compra de direitos creditórios resultantes de vendas mercantis a prazo ou de prestação de serviços.
+  f) Trust: as relações jurídicas criadas, em vida ou após a morte, por determinada pessoa (o outorgante
+  ou instituidor), com a finalidade de colocar seus bens sob o controle de uma outra pessoa (o trustee ou
+  curador), que irá administrá-los em favor do beneficiário ou para alguma finalidade específica.
+6) Na posição 1.0910 classificam-se, exclusivamente, os serviços de planos privados de assistência à saúde,
+os quais não preveem a opção de livre escolha do prestador de serviços com reembolso, ao contrário dos
+serviços de seguro saúde, que preveem essa opção e se classificam na subposição 1.0903.21.
+
+        NBS 2.0                                               DESCRIÇÃO
+  1.0901                Serviços financeiros, exceto bancos de investimento, serviços de seguros e previdência
+                        complementar
+   1.0901.10.00         Serviços de banco central
+   1.0901.2             Serviços de depósito
+    1.0901.21.00        Serviços de depósito para pessoas jurídicas
+    1.0901.22.00        Serviços de depósito para pessoas físicas
+    1.0901.29.00        Serviços de depósito para outros depositantes
+   1.0901.3             Serviços de concessão de crédito
+    1.0901.31.00        Serviços de financiamentos imobiliários residenciais
+    1.0901.32.00        Serviços de financiamentos imobiliários não residenciais
+    1.0901.33.00        Serviços de empréstimos e financiamentos pessoais
+    1.0901.34.00        Serviços de empréstimos e financiamentos comerciais
+    1.0901.35.00        Serviços de empréstimos e financiamentos industriais
+    1.0901.36.00        Serviços de empréstimos e financiamentos agropecuários
+    1.0901.39.00        Serviços de concessão de crédito não classificados em subposições anteriores
+   1.0901.40.00         Serviços de cartão de crédito
+   1.0901.5             Operações de arrendamento mercantil financeiro
+    1.0901.51           Arrendamento mercantil financeiro de máquinas e equipamentos
+     1.0901.51.1        Arrendamento mercantil financeiro de equipamentos de transporte
+      1.0901.51.11      Arrendamento mercantil financeiro de veículos rodoviários automotores para o
+                        transporte de passageiros
+      1.0901.51.12      Arrendamento mercantil financeiro de veículos rodoviários automotores para o
+                        transporte de mercadorias
+      1.0901.51.13      Arrendamento mercantil financeiro de veículos e equipamentos ferroviários
+(Fl. 30 do Anexo I da Portaria Conjunta RFB/SCS nº        , de de dezembro de 2018.)
+
+
+
+      1.0901.51.14      Arrendamento mercantil financeiro de outros equipamentos de transporte terrestre,
+                        inclusive de veículos de uso misto
+      1.0901.51.15      Arrendamento mercantil financeiro de navios e outras embarcações
+      1.0901.51.16      Arrendamento mercantil financeiro de aeronaves
+      1.0901.51.17      Arrendamento mercantil financeiro de contêineres
+     1.0901.51.2        Arrendamento mercantil financeiro de outras máquinas e equipamentos
+      1.0901.51.21      Arrendamento mercantil financeiro de máquinas e equipamentos agrícolas
+      1.0901.51.22      Arrendamento mercantil financeiro de máquinas e equipamentos de construção
+      1.0901.51.23      Arrendamento mercantil financeiro de máquinas e equipamentos para escritórios,
+                        exceto computadores
+      1.0901.51.24      Arrendamento mercantil financeiro de computadores
+      1.0901.51.25      Arrendamento mercantil financeiro de equipamentos de telecomunicação
+      1.0901.51.29      Arrendamento mercantil financeiro de outras máquinas e equipamentos não
+                        classificado em subposições anteriores
+    1.0901.52           Arrendamento mercantil financeiro de outras mercadorias
+     1.0901.52.10       Arrendamento mercantil financeiro de televisões e outros eletroeletrônicos domésticos,
+                        bem como seus acessórios
+     1.0901.52.20       Arrendamento mercantil financeiro de mídias gravadas
+     1.0901.52.30       Arrendamento mercantil financeiro de móveis e eletrodomésticos
+     1.0901.52.40       Arrendamento mercantil financeiro de equipamentos para diversão e lazer
+     1.0901.52.50       Arrendamento mercantil financeiro de artigos de cama, mesa e banho
+     1.0901.52.90       Arrendamento mercantil financeiro de outras mercadorias não classificado em
+                        subposições anteriores
+   1.0901.90.00         Serviços financeiros, exceto bancos de investimento, serviços de seguros e previdência
+                        complementar não classificados em subposições anteriores
+
+
+  1.0902                Serviços de banco de investimento
+   1.0902.10.00         Serviços de valoração de ativos
+   1.0902.20.00         Serviços de subscrição de valores mobiliários
+   1.0902.30.00         Serviços de fusões e aquisições
+   1.0902.40.00         Serviços de capital de risco e finanças corporativas
+   1.0902.90.00         Serviços de banco de investimento não classificados em subposições anteriores
+
+
+  1.0903                Serviços de seguro e previdência complementar (excluídos os serviços de resseguro),
+                        exceto serviços de previdência social compulsória
+   1.0903.1             Serviços de seguro de vida e de previdência complementar, excluídos os serviços de
+                        resseguro
+    1.0903.11.00        Serviços de seguro de vida
+    1.0903.12.00        Serviços de previdência complementar aberta
+    1.0903.13.00        Serviços de previdência complementar fechada
+(Fl. 31 do Anexo I da Portaria Conjunta RFB/SCS nº        , de de dezembro de 2018.)
+
+
+
+   1.0903.2             Serviços de seguro saúde e de acidentes
+    1.0903.21.00        Serviços de seguro saúde
+    1.0903.22.00        Serviços de seguro de acidentes
+   1.0903.3             Serviços de outros seguros, excluídos os serviços de resseguro
+    1.0903.31.00        Serviços de seguro de veículos rodoviários
+    1.0903.32.00        Serviços de seguro de veículos e equipamentos para transporte ferroviário, aquaviário e
+                        aéreo
+    1.0903.33.00        Serviços de seguro de cargas
+    1.0903.34.00        Serviços de seguro de outras propriedades
+    1.0903.35.00        Serviços de seguro por responsabilidade civil
+    1.0903.36.00        Serviços de seguro de crédito e de caução
+    1.0903.37.00        Serviços de seguro de viagem
+    1.0903.38.00        Serviços de seguro rural
+    1.0903.39.00        Serviços de outros seguros, excluídos os serviços de resseguro não classificados em
+                        subposições anteriores
+
+
+  1.0904                Serviços de resseguro e retrocessão
+   1.0904.10.00         Serviços de resseguro de vida
+   1.0904.2             Serviços de resseguro saúde e de acidentes
+    1.0904.21.00        Serviços de resseguro saúde
+    1.0904.22.00        Serviços de resseguro de acidentes
+   1.0904.3             Serviços de outros resseguros
+    1.0904.31.00        Serviços de resseguro de veículos rodoviários
+    1.0904.32.00        Serviços de resseguro de veículos e equipamentos para transporte ferroviário,
+                        aquaviário e aéreo
+    1.0904.33.00        Serviços de resseguro de cargas
+    1.0904.34.00        Serviços de resseguro de outras propriedades
+    1.0904.35.00        Serviços de resseguro de responsabilidade civil
+    1.0904.36.00        Serviços de resseguro de crédito e caução
+    1.0904.37.00        Serviços de resseguro rural
+    1.0904.39.00        Serviços de outros resseguros não classificados em subposições anteriores
+   1.0904.40.00         Serviços de retrocessão
+
+
+  1.0905                Serviços auxiliares aos serviços financeiros, exceto os relacionados a seguros e
+                        previdência complementar
+   1.0905.1             Serviços de corretagem de títulos, derivativos e commodities
+    1.0905.11.00        Serviços de corretagem de títulos
+    1.0905.12.00        Serviços de corretagem de derivativos e commodities
+    1.0905.13.00        Serviços de compensação de transações financeiras, inclusive com ativos financeiros
+                        (clearinghouse)
+(Fl. 32 do Anexo I da Portaria Conjunta RFB/SCS nº        , de de dezembro de 2018.)
+
+
+
+   1.0905.2             Serviços de gestão e administração de carteiras de ativos, fundos e trust
+    1.0905.21.00        Serviços de gestão e administração de carteiras de ativos, exceto fundos de pensão
+    1.0905.22.00        Serviços de administração fundos de investimento e fundos de pensão
+    1.0905.23.00        Serviços de gestão e administração de trust
+   1.0905.30.00         Serviços de guarda e custódia
+   1.0905.40.00         Serviços relacionados à administração de mercados financeiros
+   1.0905.50.00         Serviços de consultoria financeira
+   1.0905.60.00         Serviços de câmbio
+   1.0905.70.00         Serviços de classificação de risco (rating)
+   1.0905.80.00         Serviços fiduciários
+   1.0905.90.00         Serviços auxiliares aos serviços financeiros não classificados em subposições anteriores
+
+
+  1.0906                Serviços auxiliares a seguros, resseguros e previdência complementar
+   1.0906.1             Serviços de corretagem e agenciamento de seguros, resseguros e previdência
+                        complementar
+    1.0906.11.00        Serviços de agenciamento e corretagem de seguros, resseguros e previdência
+                        complementar, exceto de seguros saúde
+    1.0906.12.00        Serviços de corretagem de seguros saúde
+   1.0906.20.00         Serviços de perícia e avaliação de seguros e resseguros
+   1.0906.30.00         Serviços atuariais
+   1.0906.40.00         Serviços de gestão de fundos de previdência complementar
+   1.0906.90.00         Serviços auxiliares a seguros, resseguros e previdência complementar não classificados
+                        em subposições anteriores
+
+
+  1.0907.00.00          Serviços de seguro de recebíveis
+
+
+  1.0908.00.00          Fomento comercial (factoring)
+
+
+  1.0909                Serviços de holding de ativos financeiros
+   1.0909.10.00         Serviços de holding de patrimônio de empresas subsidiárias
+   1.0909.20.00         Serviços de holding de valores mobiliários e outros ativos financeiros e de fundos e
+                        entidades financeiras similares
+
+
+  1.0910                Serviços de planos privados de assistência à saúde e serviços relacionados
+   1.0910.10.00         Serviços de planos privados de assistência à saúde
+   1.0910.20.00         Serviços de corretagem de planos privados de assistência à saúde
+   1.0910.90.00         Serviços de planos privados de assistência à saúde e serviços relacionados não
+                        classificados em subposições anteriores
+
+
+  1.0911.00.00          Serviços financeiros e serviços relacionados não classificados em posições anteriores
+(Fl. 33 do Anexo I da Portaria Conjunta RFB/SCS nº         , de de dezembro de 2018.)
+
+
+
+
+                                      Capítulo 10 - Serviços imobiliários
+Notas
+
+1) Não se incluem no presente Capítulo as incorporações imobiliárias, que se classificam na posição
+1.0101.
+2) Imóvel é o bem constituído de terreno e eventuais benfeitorias a ele incorporadas. Os imóveis podem
+ser classificados em função de:
+ a) Titularidade, como próprios ou de terceiros.
+ b) Uso, como residenciais ou não residenciais.
+ c) Localização, como urbanos ou rurais.
+3) No caso de imóvel de uso misto, o uso predominante determinará a classificação como imóvel
+residencial ou não residencial.
+4) Há três distintas categorias de imóveis não residenciais, quais sejam:
+  a) Imóveis comerciais, tais como salas e lojas.
+  b) Imóveis industriais, como por exemplo, galpões e instalações prediais destinadas a fábricas.
+  c) Imóveis cuja natureza difere das categorias anteriores, tais como os imóveis comercial-industriais, os
+  templos religiosos, os imóveis públicos e terrenos urbanos ou rurais.
+5) A posição 1.1001 refere-se a imóveis de terceiros.
+6) A posição 1.1002 compreende a operação em que o imóvel é colocado à disposição do locatário, que
+detém a posse durante determinado período, sendo o locador ou o sublocador remunerado de acordo
+com esse período. Neste caso, não se confunde com os serviços de administração na locação.
+
+        NBS 2.0                                                 DESCRIÇÃO
+  1.1001                Serviços imobiliários sob comissão ou contrato
+   1.1001.1             Serviços de administração e locação de imóveis
+    1.1001.11.00        Serviços de administração e locação de imóveis residenciais
+    1.1001.12           Serviços de administração e locação de imóveis não residenciais
+     1.1001.12.10       Serviços de administração e locação, sublocação, arrendamento, direito de passagem
+                        ou permissão de uso, compartilhado ou não, de ferrovia, rodovia, postes, cabos, dutos e
+                        condutos de qualquer natureza
+     1.1001.12.90       Serviços de administração e locação de outros imóveis não residenciais
+   1.1001.2             Serviços de intermediação na compra e venda de imóveis
+    1.1001.21.00        Serviços de intermediação na compra e venda de imóveis residenciais
+    1.1001.22.00        Serviços de intermediação na compra e venda de imóveis não residenciais
+   1.1001.30.00         Serviços de avaliação de imóveis
+   1.1001.40.00         Serviços de consultoria imobiliária
+   1.1001.50.00         Serviços de assessoria de gestão condominial
+(Fl. 34 do Anexo I da Portaria Conjunta RFB/SCS nº        , de de dezembro de 2018.)
+
+
+
+   1.1001.90.00         Serviços imobiliários não classificados em subposições anteriores
+
+
+  1.1002                Locação de imóveis
+   1.1002.10.00         Locação de imóveis residenciais
+   1.1002.20.00         Locação de imóveis não residenciais
+
+
+
+
+    Capítulo 11 - Arrendamento mercantil operacional, propriedade intelectual, franquias e outros
+                                             direitos
+Notas
+
+1) Classificam-se no presente capítulo somente as operações de arrendamento mercantil operacional. As
+operações de arrendamento mercantil financeiro classificam-se no Capítulo 9.
+2) Considera-se “arrendamento mercantil operacional” a modalidade de arrendamento mercantil em
+que:
+  a) As contraprestações a serem pagas pela arrendatária contemplem o custo de arrendamento do bem
+  e os serviços inerentes à sua colocação à disposição da arrendatária, não podendo o total dos
+  pagamentos da espécie ultrapassar 90% do custo do bem arrendado.
+  b) As despesas de manutenção, assistência técnica e serviços correlatos à operacionalidade do bem
+  arrendado sejam de responsabilidade da arrendadora ou da arrendatária.
+  c) O preço para o exercício da opção de compra seja o valor de mercado do bem arrendado.
+3) Classificam-se neste Capítulo somente as operações de locação de veículos sem operador. As
+operações de locação de veículo com operador classificam-se no Capítulo 4, quando os veículos são
+destinados ao transporte de passageiros, ou no Capítulo 5, quando os veículos são destinados ao
+transporte de carga.
+4) Considera-se “operador” a pessoa que opera máquinas ou conduz veículos, aplicando-se também às
+tripulações que conduzem navios e outros tipos de embarcações ou aeronaves.
+5) A duração da locação é irrelevante para sua classificação.
+6) Para os fins deste Capítulo, entende-se por:
+  a) Licenciamento de direitos: a autorização para usar ou explorar comercialmente direito patrimonial
+  de qualquer categoria de propriedade intelectual.
+  b) Cessão temporária de direitos: a transferência, total ou parcial, de titularidade por tempo estipulado
+  em contrato ou pelo prazo máximo de cinco anos na hipótese de não haver estipulação contratual
+  escrita, aplicável somente aos direitos de autor e direitos conexos.
+  c) Cessão definitiva de direitos: a transferência, total ou parcial, de titularidade, em caráter definitivo,
+  de qualquer categoria de propriedade intelectual.
+  d) Propriedade intelectual: a soma dos direitos de autor e direitos conexos, relativos às obras literárias,
+  artísticas e cientificas, às interpretações dos artistas intérpretes e às execuções dos artistas executantes,
+  aos fonogramas e às emissões de radiodifusão; aos direitos de propriedade industrial, relativos a
+  marcas, patentes e desenho industrial, além dos demais direitos objeto de proteção sui generis,
+(Fl. 35 do Anexo I da Portaria Conjunta RFB/SCS nº    , de de dezembro de 2018.)
+
+
+ relativos a cultivares, topografias de circuitos integrados, informação confidencial, inclusive informação
+ não divulgada, e conhecimento tradicional associado ao patrimônio genético.
+ e) Programas de computador (software): a expressão de um conjunto organizado de instruções em
+ linguagem natural ou codificada, contida em suporte físico de qualquer natureza, de emprego
+ necessário em máquinas automáticas de tratamento da informação, dispositivos, instrumentos ou
+ equipamentos periféricos, baseados em técnica digital ou análoga, para fazê-los funcionar de modo e
+ para fins determinados;
+ f) Obra audiovisual: a resultante da fixação de imagens com ou sem som, que tenha a finalidade de criar,
+ por meio de sua reprodução, a impressão de movimento, independentemente dos processos de sua
+ captação, do suporte usado inicial ou posteriormente para fixá-lo, bem como dos meios utilizados para
+ sua veiculação.
+ g) Franquia ou franchising: o sistema pelo qual um franqueador cede ao franqueado o direito de uso de
+ marca ou patente, associado ao direito de distribuição exclusiva ou semi-exclusiva de produtos ou
+ serviços e, eventualmente, também ao direito de uso de tecnologia de implantação e administração de
+ negócio ou sistema operacional desenvolvido ou detido pelo franqueador, mediante remuneração
+ direta ou indireta, sem que, no entanto, fique caracterizado vínculo empregatício.
+
+        NBS 2.0                                             DESCRIÇÃO
+  1.1101                Arrendamento mercantil operacional ou locação de máquinas e equipamentos, sem
+                        operador
+   1.1101.1             Arrendamento mercantil operacional ou locação de equipamentos de transporte, sem
+                        operador
+    1.1101.11.00        Arrendamento mercantil operacional ou locação de veículos rodoviários automotores
+                        para o transporte de até oito passageiros, sem operador
+    1.1101.12.00        Arrendamento mercantil operacional ou locação de veículos rodoviários automotores
+                        para o transporte de cargas, sem operador
+    1.1101.13.00        Arrendamento mercantil operacional ou locação de veículos e equipamentos de
+                        transporte ferroviário, sem operador
+    1.1101.14.00        Arrendamento mercantil operacional ou locação de outros equipamentos de transporte
+                        terrestre, inclusive de veículos de uso misto, sem operador
+    1.1101.15.00        Arrendamento mercantil operacional ou locação de navios e outras embarcações, sem
+                        tripulação
+    1.1101.16.00        Arrendamento mercantil operacional ou locação de aeronaves, sem tripulação
+    1.1101.17.00        Arrendamento mercantil operacional ou locação de contêineres
+   1.1101.20.00         Arrendamento mercantil operacional ou locação de máquinas e equipamentos
+                        agrícolas, sem operador
+   1.1101.30.00         Arrendamento mercantil operacional ou locação de máquinas e equipamentos de
+                        construção, sem operador
+   1.1101.40.00         Arrendamento mercantil operacional ou locação de máquinas e equipamentos para
+                        escritórios, exceto computadores, sem operador
+   1.1101.50.00         Arrendamento mercantil operacional ou locação de computadores, sem operador
+   1.1101.60.00         Arrendamento mercantil operacional ou locação de equipamentos de telecomunicação,
+                        sem operador
+(Fl. 36 do Anexo I da Portaria Conjunta RFB/SCS nº      , de de dezembro de 2018.)
+
+
+
+   1.1101.90.00         Arrendamento mercantil operacional ou locação de máquinas e equipamentos, sem
+                        operador, não classificado em subposições anteriores
+
+
+  1.1102                Arrendamento mercantil operacional ou locação de outras mercadorias
+   1.1102.10.00         Arrendamento mercantil operacional ou locação de televisão e outros eletroeletrônicos,
+                        bem como seus acessórios
+   1.1102.20.00         Arrendamento mercantil operacional ou locação de mídias gravadas
+   1.1102.30.00         Arrendamento mercantil operacional ou locação de móveis e eletrodomésticos
+   1.1102.40.00         Arrendamento mercantil operacional ou locação de equipamentos para diversão e lazer
+   1.1102.50.00         Arrendamento mercantil operacional ou locação de artigos de cama, mesa e banho
+   1.1102.60.00         Arrendamento mercantil operacional ou locação de roupas e calçados
+   1.1102.90.00         Arrendamento mercantil operacional ou locação de outras mercadorias não classificado
+                        em subposições anteriores
+
+
+  1.1103                Licenciamento de direitos de autor e de direitos conexos
+   1.1103.10.00         Licenciamento de direitos de obras literárias
+   1.1103.2             Licenciamento de direitos sobre programas de computador (software) e bancos de
+                        dados
+    1.1103.21.00        Licenciamento de direitos de produção, distribuição ou comercialização de programas
+                        de computador (software)
+    1.1103.22.00        Licenciamento de direitos de uso de programas de computador (software)
+    1.1103.23.00        Licenciamento de direitos sobre bancos de dados
+    1.1103.29.00        Licenciamento de direitos sobre programas de computador (software) e bancos de
+                        dados não classificado em subposições anteriores
+   1.1103.3             Licenciamento de direitos de obras audiovisuais
+    1.1103.31.00        Licenciamento de direitos de autor de obras cinematográficas
+    1.1103.32.00        Licenciamento de direitos de autor de obras jornalísticas
+    1.1103.33.00        Licenciamento de direitos de autor de obras publicitárias
+    1.1103.34.00        Licenciamento de direitos conexos de artistas intérpretes ou executantes em obras
+                        audiovisuais
+    1.1103.35.00        Licenciamento de direitos conexos de produtores de obras audiovisuais
+    1.1103.36           Licenciamento de direitos de obras audiovisuais destinadas à televisão
+     1.1103.36.10       Licenciamento de direitos de obras audiovisuais sobre transmissões de eventos
+                        esportivos
+     1.1103.36.20       Licenciamento de direitos de obras audiovisuais sobre transmissões de programas
+                        televisivos
+     1.1103.36.90       Licenciamento de direitos de obras audiovisuais sobre outras transmissões televisivas
+    1.1103.39.00        Licenciamento de direitos de obras audiovisuais não classificado em subposições
+                        anteriores
+   1.1103.4             Licenciamento de direitos de obras musicais e fonogramas
+    1.1103.41.00        Licenciamento de direitos de autor de obras musicais ou literomusicais
+(Fl. 37 do Anexo I da Portaria Conjunta RFB/SCS nº        , de de dezembro de 2018.)
+
+
+
+    1.1103.42.00        Licenciamento de direitos conexos de artistas intérpretes ou executantes
+    1.1103.43.00        Licenciamento de direitos conexos de produtores de fonogramas
+   1.1103.50.00         Licenciamento de direitos relacionados à radiodifusão
+   1.1103.90.00         Licenciamento de direitos de autor e de direitos conexos não classificado em
+                        subposições anteriores
+
+
+  1.1104                Licenciamento de direitos sobre a propriedade industrial
+   1.1104.10.00         Licenciamento de direitos sobre patentes
+   1.1104.20.00         Licenciamento de direitos sobre marcas
+   1.1104.30.00         Licenciamento de direitos sobre desenho industrial
+   1.1104.90.00         Licenciamento de direitos sobre a propriedade industrial não classificado em
+                        subposições anteriores
+
+
+  1.1105                Licenciamento de outros direitos
+   1.1105.10.00         Licenciamento de direitos sobre cultivares
+   1.1105.20.00         Licenciamento de direitos sobre topografias de circuitos integrados
+   1.1105.30.00         Licenciamento de direitos relativos à informação não divulgada
+   1.1105.4             Exploração de recursos naturais
+    1.1105.41.00        Exploração de recursos vegetais, inclusive florestais
+    1.1105.42.00        Exploração de recursos minerais
+   1.1105.5             Licenciamento de direitos sobre conhecimento tradicional
+    1.1105.51.00        Licenciamento de direitos sobre conhecimento tradicional associado a recursos
+                        genéticos
+    1.1105.59.00        Licenciamento de direitos sobre conhecimento tradicional não classificado em
+                        subposições anteriores
+   1.1105.60.00         Licenciamento de direitos relativos ao acesso a recursos genéticos, exceto os
+                        decorrentes do conhecimento tradicional
+   1.1105.70.00         Licenciamento de direitos sobre informações relativas à experiência adquirida no setor
+                        industrial, comercial ou científico (know-how)
+   1.1105.90.00         Licenciamento de outros direitos não classificado em subposições anteriores
+
+
+  1.1106                Cessão temporária de direitos de autor e de direitos conexos
+   1.1106.10.00         Cessão temporária de direitos de obras literárias
+   1.1106.20.00         Cessão temporária de direitos sobre programas de computador (software)
+   1.1106.3             Cessão temporária de direitos sobre obras audiovisuais
+    1.1106.31.00        Cessão temporária de direitos de autor de obras cinematográficas
+    1.1106.32.00        Cessão temporária de direitos de autor de obras jornalísticas
+    1.1106.33.00        Cessão temporária de direitos de autor de obras publicitárias
+    1.1106.34.00        Cessão temporária de direitos conexos de artistas intérpretes ou executantes em obras
+                        audiovisuais
+    1.1106.35.00        Cessão temporária de direitos conexos de produtores de obras audiovisuais
+(Fl. 38 do Anexo I da Portaria Conjunta RFB/SCS nº        , de de dezembro de 2018.)
+
+
+
+    1.1106.36           Cessão temporária de direitos de obras audiovisuais destinadas à televisão
+     1.1106.36.10       Cessão temporária de direitos de obras audiovisuais sobre transmissões de eventos
+                        esportivos
+     1.1106.36.20       Cessão temporária de direitos de obras audiovisuais sobre transmissões de programas
+                        televisivos
+     1.1106.36.90       Cessão temporária de direitos de obras audiovisuais sobre outras transmissões
+                        televisivas
+    1.1106.39.00        Cessão temporária de direitos de obras audiovisuais não classificada em subposições
+                        anteriores
+   1.1106.4             Cessão temporária de direitos de obras musicais e fonogramas
+    1.1106.41.00        Cessão temporária de direitos de autor de obras musicais e literomusicais
+    1.1106.42.00        Cessão temporária de direitos conexos de artistas intérpretes ou executantes
+    1.1106.43.00        Cessão temporária de direitos conexos de produtores de fonogramas
+   1.1106.50.00         Cessão temporária de direitos relacionados à radiodifusão
+   1.1106.90.00         Cessão temporária de direitos de autor e de direitos conexos não classificada em
+                        subposições anteriores
+
+
+  1.1107                Cessão definitiva de direitos de autor e de direitos conexos
+   1.1107.10.00         Cessão definitiva de direitos de obras literárias
+   1.1107.20.00         Cessão definitiva de direitos sobre programas de computador (software)
+   1.1107.3             Cessão definitiva de direitos de obras audiovisuais
+    1.1107.31.00        Cessão definitiva de direitos de obras cinematográficas
+    1.1107.32.00        Cessão definitiva de direitos de obras jornalísticas
+    1.1107.33.00        Cessão definitiva de direitos de obras publicitárias
+    1.1107.39.00        Cessão definitiva de direitos de obras audiovisuais não classificada em subposições
+                        anteriores
+   1.1107.40.00         Cessão definitiva de direitos de obras musicais e fonogramas
+   1.1107.50.00         Cessão definitiva de direitos relacionados à radiodifusão
+   1.1107.90.00         Cessão definitiva de direitos de autor e de direitos conexos não classificada em
+                        subposições anteriores
+
+
+  1.1108                Cessão definitiva de direitos sobre a propriedade industrial
+   1.1108.10.00         Cessão definitiva de direitos sobre patentes
+   1.1108.20.00         Cessão definitiva de direitos sobre marcas
+   1.1108.30.00         Cessão definitiva de direitos sobre desenho industrial
+   1.1108.90.00         Cessão definitiva de direitos sobre a propriedade industrial não classificada em
+                        subposições anteriores
+
+
+  1.1109                Cessão definitiva de outros direitos
+   1.1109.10.00         Cessão definitiva de direitos sobre cultivares
+   1.1109.20.00         Cessão definitiva de direitos sobre topografias de circuitos integrados
+(Fl. 39 do Anexo I da Portaria Conjunta RFB/SCS nº      , de de dezembro de 2018.)
+
+
+
+   1.1109.30.00         Cessão definitiva de direitos relativos à informação não divulgada
+   1.1109.90.00         Cessão definitiva de outros direitos não classificada em subposições anteriores
+
+
+  1.1110.00.00          Franquia
+
+
+
+
+                           SEÇÃO IV - SERVIÇOS EMPRESARIAIS E DE PRODUÇÃO
+
+
+                           Capítulo 12 - Serviços de pesquisa e desenvolvimento
+
+Notas
+
+1) No presente Capítulo, entende-se por:
+  a) Pesquisa: o processo que objetiva gerar, corroborar ou refutar conhecimentos, podendo assumir as
+  formas de pesquisa básica ou pesquisa aplicada.
+  b) Pesquisa Básica: a pesquisa onde os trabalhos experimentais ou teóricos são desenvolvidos com o
+  intuito de obter novos conhecimentos sobre fenômenos e fatos observáveis, ainda não elucidados.
+  c) Pesquisa aplicada: a pesquisa onde os trabalhos originais de investigação visam à obtenção de novos
+  conhecimentos orientados para aplicações específicas.
+  d) Desenvolvimento: o uso sistemático de conhecimentos científicos ou tecnológicos, com o intuito de
+  obter novos produtos ou processos ou melhorar e/ou aperfeiçoar os já existentes.
+  e) Pesquisa e desenvolvimento: o conjunto de trabalhos criativos, efetuados de forma sistemática com
+  o intuito de ampliar a base de conhecimentos científicos e tecnológicos, e o uso desses conhecimentos
+  para desenvolver novas aplicações, tais como produtos ou processos novos ou tecnologicamente
+  aprimorados.
+2) O termo “humanidades” inclui, por exemplo, línguas, literatura, história, filosofia, artes, religião e
+teologia.
+3) Quando os serviços compreenderem, simultaneamente, as ciências referidas em mais de uma das
+subposições de segundo nível, a classificação se dá:
+  a) Na subposição de segundo nível correspondente à ciência natural que predominar sobre as demais
+  na realização do serviço.
+  b) Na subposição residual, quando na realização do serviço não houver predominância de nenhuma das
+  ciências ou humanidades sobre as demais.
+4) Para fins de classificação na posição 1.1203, a interdisciplinaridade dos serviços exige a execução de
+pelo menos um serviço de pesquisa e desenvolvimento na área de ciências naturais, engenharia e
+tecnologia, classificado na posição 1.1201, conjugada com a execução de outro serviço de pesquisa e
+desenvolvimento na área de ciências sociais ou humanidades, classificado na posição 1.1202. Todavia,
+caso haja a predominância de uma dessas ciências ou humanidades sobre as demais, cada um dos serviços
+deve ser classificado na posição original correspondente.
+(Fl. 40 do Anexo I da Portaria Conjunta RFB/SCS nº     , de de dezembro de 2018.)
+
+
+
+
+        NBS 2.0                                              DESCRIÇÃO
+  1.1201                Serviços de pesquisa e desenvolvimento em ciências, engenharia e tecnologia
+   1.1201.1             Serviços de pesquisa e desenvolvimento em ciências
+    1.1201.11.00        Serviços de pesquisa e desenvolvimento em ciências físicas
+    1.1201.12.00        Serviços de pesquisa e desenvolvimento em química e biologia
+    1.1201.19.00        Serviços de pesquisa e desenvolvimento em ciências não classificadas em subposições
+                        anteriores
+   1.1201.20.00         Serviços de pesquisa e desenvolvimento em biotecnologia
+   1.1201.3             Serviços de pesquisa e desenvolvimento em engenharia e tecnologia
+    1.1201.31.00        Serviços de pesquisa e desenvolvimento em Tecnologia da Informação e Comunicação
+                        (TIC)
+    1.1201.32.00        Serviços de pesquisa e desenvolvimento em nanotecnologia
+    1.1201.33.00        Serviços de pesquisa e desenvolvimento em engenharia e tecnologia nucleares
+    1.1201.34.00        Serviços de pesquisa e desenvolvimento em engenharia e tecnologia em micro-ondas
+                        de potência
+    1.1201.39.00        Serviços de pesquisa e desenvolvimento em engenharia e tecnologia não classificados
+                        em subposições anteriores
+   1.1201.40.00         Serviços de pesquisa e desenvolvimento em ciências médicas, odontológicas e
+                        farmacêuticas
+   1.1201.50.00         Serviços de pesquisa e desenvolvimento em ciências agrárias
+   1.1201.90.00         Serviços de pesquisa e desenvolvimento em ciências, engenharia e tecnologia não
+                        classificados em subposições anteriores
+
+
+  1.1202                Serviços de pesquisa e desenvolvimento em ciências sociais e humanidades
+   1.1202.10.00         Serviços de pesquisa e desenvolvimento em psicologia
+   1.1202.20.00         Serviços de pesquisa e desenvolvimento em ciências econômicas
+   1.1202.30.00         Serviços de pesquisa e desenvolvimento em direito
+   1.1202.40.00         Serviços de pesquisa e desenvolvimento em línguas e literatura
+   1.1202.90.00         Serviços de pesquisa e desenvolvimento em ciências sociais e humanidades não
+                        classificadas em subposições anteriores
+
+
+  1.1203.00.00          Serviços de pesquisa e desenvolvimento interdisciplinar
+
+
+
+
+                                 Capítulo 13 - Serviços jurídicos e contábeis
+
+Notas
+(Fl. 41 do Anexo I da Portaria Conjunta RFB/SCS nº         , de de dezembro de 2018.)
+
+
+1) Na posição 1.1301, os “serviços de documentação e certificação” incluem, por exemplo, os serviços de
+concessão de registro de patentes, direitos autorais e outras propriedades intelectuais, certificados de
+origem de mercadorias e atestados de inexistência de produção nacional de máquinas e equipamentos.
+2) Na posição 1.1303, “pessoa jurídica” é a união ou sociedade de pessoas físicas que adquire, em função
+da lei, personalidade própria e distinta da de seus membros, para fins de direitos e obrigações. É também
+“pessoa jurídica” a união ou sociedade de pessoas jurídicas que adquire, em função da lei, personalidade
+própria e distinta da de seus membros.
+3) Na posição 1.1304, os “serviços notariais e de registro” incluem, por exemplo, autenticar fatos, lavrar
+escrituras e procurações públicas, lavrar testamentos públicos e aprovar os cerrados, lavrar atas notariais,
+reconhecer firmas e autenticar cópias.
+
+        NBS 2.0                                                 DESCRIÇÃO
+  1.1301                Serviços jurídicos
+   1.1301.10.00         Serviços de representação e consultoria jurídica criminal
+   1.1301.20.00         Serviços de representação e consultoria jurídica em outras áreas do direito, exceto
+                        consultoria tributária
+   1.1301.30.00         Serviços de documentação e certificação, exceto os serviços notariais e de registro
+   1.1301.40.00         Serviços de arbitragem, conciliação e mediação
+   1.1301.90.00         Serviços jurídicos não classificados em subposições anteriores
+
+
+  1.1302                Serviços de auditoria, contabilidade e serviços relacionados
+   1.1302.1             Serviços de auditoria
+    1.1302.11.00        Serviços de auditoria contábil
+    1.1302.19.00        Serviços de auditoria não classificados em subposições anteriores
+   1.1302.2             Serviços de contabilidade e serviços relacionados
+    1.1302.21.00        Serviços de contabilidade
+    1.1302.22.00        Serviços de escrituração mercantil
+    1.1302.23.00        Serviços de folha de pagamento
+
+
+  1.1303                Serviços de consultoria tributária
+   1.1303.10.00         Serviços de consultoria tributária para pessoas jurídicas
+   1.1303.20.00         Serviços de consultoria tributária para pessoas físicas
+
+
+  1.1304.00.00          Serviços notariais e de registro
+
+
+
+
+   Capítulo 14 - Serviços profissionais, técnicos e empresariais (exceto pesquisa e desenvolvimento,
+                       tecnologia da informação e serviços jurídicos e contábeis)
+
+Notas
+(Fl. 42 do Anexo I da Portaria Conjunta RFB/SCS nº       , de de dezembro de 2018.)
+
+
+
+
+1) Não se incluem no presente Capítulo os “serviços de consultoria imobiliária”, que se classificam na
+posição 1.1001.
+2) No âmbito deste Capítulo, projeto deve ser entendido como o conjunto de desenhos, especificações e
+documentos que possibilitam a construção de um bem, tais como edificações, residenciais ou não,
+máquinas e embarcações.
+3) Na posição 1.1402, consideram-se “prédios históricos” aqueles que são tombados pelo Instituto do
+Patrimônio Histórico e Artístico Nacional (IPHAN) ou congêneres nacionais e internacionais.
+4) Na posição 1.1408:
+  a) Os “serviços videográficos de eventos” não incluem os serviços de produção de programas de
+  televisão, que se classificam na posição 1.2501.
+  b) Os “serviços fotográficos especiais” não incluem fotografias obtidas por satélites para fins de
+  obtenção de dados topográficos, que se classificam na posição 1.1404, ou fotografias jornalísticas, que
+  se classificam na posição 1.1704.
+
+        NBS 2.0                                               DESCRIÇÃO
+  1.1401                Serviços de gestão empresarial, consultoria em gestão empresarial e assessoria
+                        empresarial
+   1.1401.1             Serviços de consultoria em gestão empresarial
+    1.1401.11.00        Serviços de consultoria em gestão estratégica
+    1.1401.12.00        Serviços de consultoria em gestão financeira
+    1.1401.13.00        Serviços de consultoria em gestão de recursos humanos
+
+    1.1401.14.00        Serviços de consultoria em gestão de marketing
+    1.1401.15.00        Serviços de consultoria em gestão operacional
+    1.1401.16.00        Serviços de consultoria em gestão energética
+    1.1401.17.00        Serviços de consultoria em gestão de cadeia logística
+    1.1401.18.00        Serviços de consultoria em gestão hospitalar
+    1.1401.19.00        Serviços de consultoria em gestão empresarial não classificados em subposições
+                        anteriores
+   1.1401.2             Serviços de gestão de negócios
+    1.1401.21.00        Serviços de gestão em processos de negócios
+    1.1401.22.00        Serviços de gestão hospitalar
+    1.1401.29.00        Serviços de gestão não classificados em subposições anteriores
+   1.1401.3             Serviços de assessoria empresarial
+    1.1401.31.00        Serviços de assessoria de imprensa
+    1.1401.32.00        Serviços de relações públicas
+    1.1401.39.00        Serviços de assessoria empresarial não classificados em subposições anteriores
+
+
+  1.1402                Serviços de arquitetura, de planejamento urbano e de áreas rurais e de paisagismo
+   1.1402.1             Serviços de arquitetura
+(Fl. 43 do Anexo I da Portaria Conjunta RFB/SCS nº      , de de dezembro de 2018.)
+
+
+
+    1.1402.11.00        Serviços de consultoria em arquitetura
+    1.1402.12.00        Serviços de arquitetura para projetos de construções residenciais
+    1.1402.13.00        Serviços de arquitetura para projetos de construções não residenciais
+    1.1402.14.00        Serviços de arquitetura para restauração de prédios históricos
+    1.1402.15.00        Serviços de arquitetura relativos ao acompanhamento e fiscalização da execução de
+                        projetos arquitetônicos e urbanísticos
+   1.1402.2             Serviços de planejamento urbano e de áreas rurais
+    1.1402.21.00        Serviços de planejamento urbano
+    1.1402.22.00        Serviços de planejamento de áreas rurais
+   1.1402.3             Serviços de paisagismo
+    1.1402.31.00        Serviços de consultoria em paisagismo
+    1.1402.32.00        Serviços de paisagismo, exceto consultoria
+   1.1402.90.00         Serviços de arquitetura, de planejamento urbano e de áreas rurais e de paisagismo não
+                        classificados em subposições anteriores
+
+
+  1.1403                Serviços de engenharia
+   1.1403.10.00         Serviços de consultoria em engenharia
+   1.1403.2             Serviços de engenharia para projetos específicos
+    1.1403.21           Serviços de engenharia para projetos de construção
+     1.1403.21.10       Serviços de engenharia para projetos de construção residencial
+     1.1403.21.20       Serviços de engenharia para projetos de construção não residencial
+    1.1403.22           Serviços de engenharia para projetos industriais e de fabricação, exceto para projetos
+                        de energia
+     1.1403.22.1        Serviços de engenharia para exploração de minerais, petróleo, gás e biocombustíveis
+      1.1403.22.11      Serviços de engenharia para projetos de exploração de minerais
+      1.1403.22.12      Serviços de engenharia para projetos de exploração de petróleo e gás
+      1.1403.22.13      Serviços de engenharia para projetos de refino de petróleo e petroquímica
+      1.1403.22.14      Serviços de engenharia para projetos de unidades de produção de biocombustíveis
+     1.1403.22.2        Serviços de engenharia para projetos de veículos
+      1.1403.22.21      Serviços de engenharia para projetos de veículos terrestres
+      1.1403.22.22      Serviços de engenharia para projetos de embarcações
+      1.1403.22.23      Serviços de engenharia para projetos de veículos aéreos e aeroespaciais
+     1.1403.22.90       Serviços de engenharia para outros projetos industriais e de fabricação, exceto para
+                        projetos de energia
+    1.1403.23.00        Serviços de engenharia para projetos de infraestrutura de transportes
+    1.1403.24.00        Serviços de engenharia para projetos de energia
+    1.1403.25.00        Serviços de engenharia para projetos de telecomunicações, radiodifusão e televisão
+    1.1403.26.00        Serviços de engenharia para projetos de gerenciamento de resíduos (perigosos e não
+                        perigosos)
+    1.1403.27.00        Serviços de engenharia para projetos de distribuição de água e rede de esgoto
+(Fl. 44 do Anexo I da Portaria Conjunta RFB/SCS nº       , de de dezembro de 2018.)
+
+
+
+    1.1403.29.00        Serviços de engenharia para outros projetos
+   1.1403.30.00         Serviços de gerenciamento de projetos de construção
+   1.1403.90.00         Serviços de engenharia não classificados em subposições anteriores
+
+
+  1.1404                Serviços científicos e outros serviços técnicos
+   1.1404.1             Serviços geológicos, geofísicos e outros de prospecção
+    1.1404.11.00        Serviços de consultoria geológica e geofísica
+    1.1404.12.00        Serviços geofísicos
+    1.1404.13.00        Serviços geoquímicos
+    1.1404.14.00        Serviços de informações para avaliação e exploração de recursos naturais
+    1.1404.19.00        Serviços geológicos, geofísicos e outros de prospecção não classificados em subposições
+                        anteriores
+   1.1404.2             Serviços topográficos e cartográficos
+    1.1404.21.00        Serviços topográficos
+    1.1404.22.00        Serviços cartográficos
+   1.1404.30.00         Serviços meteorológicos e de previsão do tempo
+   1.1404.4             Serviços de análise e exames técnicos
+    1.1404.41.00        Serviços de análise e de exames técnicos sobre pureza e composição
+    1.1404.42.00        Serviços de análise e de exames técnicos de propriedades físicas
+    1.1404.43.00        Serviços de análise e de exames técnicos de sistemas elétricos e mecânicos
+    1.1404.44.00        Serviços de inspeção técnica de veículos de transporte rodoviário
+    1.1404.49.00        Serviços de análise e de exames técnicos não classificados em subposições anteriores
+
+
+  1.1405                Serviços veterinários
+   1.1405.1             Serviços veterinários para animais domésticos
+    1.1405.11.00        Serviços hospitalares, com ou sem internação, para animais domésticos
+    1.1405.12.00        Serviços de atendimento, assistência ou tratamento para animais domésticos
+   1.1405.2             Serviços veterinários para animais de corte
+    1.1405.21.00        Serviços hospitalares, com ou sem internação, para animais de corte
+    1.1405.22.00        Serviços de atendimento, assistência ou tratamento para animais de corte
+   1.1405.30.00         Serviços funerários, de cremação e de embalsamamento de animais
+   1.1405.40.00         Serviços de bancos de órgãos, sangue, sêmen, tecidos, óvulos e outros materiais
+                        biológicos
+   1.1405.50.00         Planos de atendimento e assistência médico-veterinária
+   1.1405.60.00         Serviços de guarda, adestramento, embelezamento e alojamento
+   1.1405.90.00         Serviços veterinários não classificados em subposições anteriores
+
+
+  1.1406                Serviços de propaganda e de alocação de espaço ou tempo para propaganda
+   1.1406.1             Serviços de propaganda
+    1.1406.11.00        Serviços de campanhas publicitárias
+(Fl. 45 do Anexo I da Portaria Conjunta RFB/SCS nº         , de de dezembro de 2018.)
+
+
+
+    1.1406.12.00        Serviços de marketing direto e mala direta
+    1.1406.19.00        Serviços de propaganda não classificados em subposições anteriores
+   1.1406.20.00         Aquisição ou venda de espaço ou tempo para propaganda, sob comissão
+   1.1406.3             Venda de espaço ou tempo para propaganda, exceto sob comissão
+    1.1406.31.00        Venda de espaço para propaganda em mídia impressa, exceto sob comissão
+    1.1406.32.00        Venda de tempo para propaganda em rádio e televisão, exceto sob comissão
+    1.1406.33.00        Venda de espaço para propaganda na rede mundial de computadores, exceto sob
+                        comissão
+    1.1406.34.00        Venda de espaço para propaganda em mídia exterior, exceto sob comissão
+    1.1406.39.00        Venda de espaço ou tempo para propaganda, exceto sob comissão não classificados em
+                        subposições anteriores
+
+
+  1.1407.00.00          Pesquisas de mercado e serviços de pesquisa de opinião pública
+
+
+  1.1408                Serviços fotográficos, videográficos e de processamento de fotografias
+   1.1408.1             Serviços fotográficos e videográficos
+    1.1408.11.00        Serviços fotográficos de retratos
+    1.1408.12.00        Serviços fotográficos e videográficos para propaganda
+    1.1408.13.00        Serviços fotográficos e videográficos de eventos
+    1.1408.14.00        Serviços fotográficos especiais
+    1.1408.15.00        Serviços de restauração e retoque de fotografias
+    1.1408.19.00        Serviços fotográficos e videográficos não classificados em subposições anteriores
+   1.1408.20.00         Serviços de processamento de fotografias
+
+
+  1.1409                Serviços especializados de design
+   1.1409.1             Serviços de design de interiores
+    1.1409.11.00        Serviços de design de interiores para espaços comerciais e públicos
+    1.1409.12.00        Serviços de design de interiores para espaços residenciais
+   1.1409.2             Serviços de desenho industrial
+    1.1409.21.00        Serviços de desenho industrial de embalagens, expositores de loja e objetos
+                        promocionais para comunicação e vendas
+    1.1409.22.00        Serviços de desenho industrial de produtos, utensílios, equipamentos, vestuário,
+                        calçados, ornamentos, joias e objetos pessoais
+    1.1409.23.00        Serviços de desenho industrial de máquinas, equipamentos, acessórios e objetos de uso
+                        industrial de qualquer natureza
+    1.1409.24.00        Serviços de desenho industrial de mobiliários e itens de decoração
+    1.1409.25.00        Serviços de desenho industrial de utensílios e equipamentos eletrodomésticos e
+                        eletroeletrônicos
+    1.1409.29.00        Serviços de desenho industrial não classificados em subposições anteriores
+   1.1409.30.00         Serviços de design de marcas, imagens, objetos gráficos e digitais
+(Fl. 46 do Anexo I da Portaria Conjunta RFB/SCS nº      , de de dezembro de 2018.)
+
+
+
+   1.1409.90.00         Serviços especializados de design não classificados em subposições anteriores
+
+
+  1.1410                Serviços de consultoria técnica e científica não classificados em posições anteriores
+   1.1410.10.00         Serviços de consultoria ambiental
+   1.1410.90.00         Serviços de consultoria técnica e científica não classificados em subposições anteriores
+
+
+  1.1411.00.00          Serviços de tradução e de intérpretes
+
+
+  1.1412.00.00          Serviços para registros de marcas comerciais e de franquias empresariais, exceto as
+                        licenças de uso de direito
+
+
+  1.1413.00.00          Serviços de prospecção de clientes
+
+
+  1.1414.00.00          Serviços de prospecção de fornecedores
+
+
+  1.1415.00.00          Serviços profissionais, técnicos e gerenciais não classificados em posições anteriores
+
+
+
+
+                            Capítulo 15 - Serviços de tecnologia da informação
+
+Notas
+
+1) No presente Capítulo:
+  a) A expressão “tecnologia da informação” é tomada como equivalente à aplicação de diferentes ramos
+  da tecnologia para criar, armazenar, trocar e usar informações, apresentadas nos mais diversos
+  formatos, e que, para tanto, faz uso de equipamentos para informática (hardware) e seus dispositivos
+  periféricos, programas de computador e seus recursos, sistemas de telecomunicações, gestão de dados
+  e informações.
+  b) A expressão “programas não personalizados (não customizados)” diz respeito aos programas para
+  computadores adquiridos na forma que se apresentam e que, em regra, não permitem alterações com
+  o intuito de atender necessidades particulares.
+  c) A expressão “programas personalizados” são programas customizados, que atendem às necessidades
+  específicas do seu adquirente ou usuário.
+  d) Por “circuito integrado”, entende-se um produto, em forma final ou intermediária, que possui
+  elementos, dos quais pelo menos um seja ativo, cujas interconexões, totais ou parte delas, são
+  integralmente formadas sobre uma unidade (peça) de pequenas dimensões, ou em seu interior. O
+  “circuito integrado” tem por finalidade desempenhar funções eletrônicas determinadas.
+2) O projeto, o desenvolvimento e a instalação de games e de jogos eletrônicos classificam-se na posição
+1.1502 e a manutenção de games e de jogos eletrônicos classifica-se na posição 1.1508.
+(Fl. 47 do Anexo I da Portaria Conjunta RFB/SCS nº      , de de dezembro de 2018.)
+
+
+
+
+        NBS 2.0                                               DESCRIÇÃO
+  1.1501                Serviços de consultoria, de segurança e de suporte em tecnologia da informação (TI)
+   1.1501.10.00         Serviços de consultoria em tecnologia da informação (TI)
+   1.1501.20.00         Serviços de segurança em tecnologia da informação (TI)
+   1.1501.30.00         Serviços de suporte em tecnologia da informação (TI)
+
+
+  1.1502                Serviços de projeto e desenvolvimento de aplicativos e programas em tecnologia da
+                        informação (TI)
+   1.1502.10.00         Serviços de projeto, desenvolvimento e instalação de aplicativos e programas não
+                        personalizados (não customizados)
+   1.1502.20.00         Serviços de projeto e desenvolvimento, adaptação e instalação de aplicativos e
+                        programas personalizados (customizados)
+   1.1502.30.00         Serviços de projeto e desenvolvimento de estruturas e conteúdo de páginas eletrônicas
+   1.1502.40.00         Serviços de projeto e desenvolvimento de estruturas e conteúdo de bancos de dados
+   1.1502.50.00         Serviços de integração de sistemas em tecnologia da informação (TI)
+   1.1502.90.00         Serviços de projeto e desenvolvimento de aplicativos e programas em tecnologia da
+                        informação (TI) não classificados em subposições anteriores
+
+
+  1.1503.00.00          Serviços de projeto e desenvolvimento de redes em tecnologia da informação (TI)
+
+
+  1.1504.00.00          Serviços de projeto e desenvolvimento de topografias de circuitos integrados
+
+
+  1.1505.00.00          Serviços de projeto de circuitos integrados
+
+
+  1.1506                Serviços de hospedagem e de disponibilização de infraestrutura em tecnologia da
+                        informação (TI)
+   1.1506.10.00         Serviços de hospedagem de sítios eletrônicos na rede mundial de computadores
+   1.1506.2             Serviços de hospedagem de aplicativos e programas
+    1.1506.21.00        Serviços de hospedagem de aplicativos e programas software como serviço (SaaS)
+    1.1506.22.00        Serviços de fornecimento de infraestrutura como serviço (IaaS)
+    1.1506.23.00        Serviços de fornecimento de plataformas como serviço (PaaS)
+    1.1506.29.00        Serviços de hospedagem de aplicativos e programas não classificados em subposições
+                        anteriores
+   1.1506.90.00         Serviços de hospedagem e de disponibilização de infraestrutura em tecnologia da
+                        informação (TI) não classificados em subposições anteriores
+
+
+  1.1507                Serviços de gerenciamento de redes e de infraestrutura em tecnologia da informação
+                        (TI)
+   1.1507.10.00         Serviços de gerenciamento de redes em tecnologia da informação (TI)
+(Fl. 48 do Anexo I da Portaria Conjunta RFB/SCS nº     , de de dezembro de 2018.)
+
+
+
+   1.1507.20.00         Serviços de gerenciamento de sistemas computacionais
+   1.1507.90.00         Serviços de gerenciamento de infraestrutura em tecnologia da informação (TI) não
+                        classificados em subposições anteriores
+
+
+  1.1508.00.00          Serviços de manutenção de aplicativos e programas
+
+
+  1.1509.00.00          Serviços de processamento de dados
+
+
+  1.1510.00.00          Serviços de tecnologia da informação (TI) não classificados em subposições anteriores
+
+
+
+
+                             Capítulo 16 - Reservado para possível uso futuro
+
+
+
+
+          Capítulo 17 - Serviços de telecomunicações, difusão e fornecimento de informações
+
+Notas
+
+1) No presente Capítulo:
+  a) “Serviços de telecomunicações” são entendidos como aqueles que possibilitam a oferta de
+  telecomunicações.
+  b) “Telecomunicação” é a transmissão, emissão ou recepção, por fio, radioeletricidade, meios ópticos
+  ou qualquer outro processo eletromagnético, de símbolos, caracteres, sinais, escritos, imagens, sons ou
+  informações de qualquer natureza.
+  c) “Interconexão” é compreendida como a ligação entre redes de telecomunicações funcionalmente
+  compatíveis, de modo que os usuários de serviços de uma das redes possam comunicar-se com usuários
+  de serviços de outra ou acessar serviços nela disponíveis.
+  d) “Telefonia, comunicação de dados e transmissão de imagens” são formas de telecomunicação
+  utilizadas no fornecimento de informações.
+  e) “Backbone” compreende as ligações centrais de um sistema informatizado mais amplo, tipicamente
+  de elevado desempenho, e que possibilita o fluxo de dados, voz e imagens pela rede mundial de
+  computadores.
+2) Por “agência de notícias” entende-se a empresa jornalística cujo foco de atuação é a difusão de
+informações e notícias, coletadas diretamente das fontes, para os veículos de comunicação, tais como
+jornais, revistas, rádios e televisões.
+3) Estão excluídos deste capítulo os serviços de pesquisa e desenvovimento em Tecnologia da Informação
+e Comunicação, que se classificam no Capítulo 12.
+
+        NBS 2.0                                              DESCRIÇÃO
+(Fl. 49 do Anexo I da Portaria Conjunta RFB/SCS nº       , de de dezembro de 2018.)
+
+
+
+  1.1701                Telefonia e outros serviços de telecomunicações, exceto pela rede mundial de
+                        computadores
+   1.1701.1             Serviços de operadoras
+    1.1701.11.00        Serviços de interconexão pelo uso da rede fixa
+    1.1701.12.00        Serviços de interconexão pelo uso de rede móvel
+    1.1701.19.00        Serviços de operadoras não classificados em subposições anteriores
+   1.1701.2             Serviços de telecomunicações fixas
+    1.1701.21.00        Serviços de chamadas de telecomunicações fixas comutadas
+    1.1701.29.00        Serviços de telecomunicações fixas não classificados em subposições anteriores
+   1.1701.3             Serviços de telecomunicações móveis
+    1.1701.31.00        Serviços de voz nas telecomunicações móveis
+    1.1701.32.00        Serviços de texto nas telecomunicações móveis
+    1.1701.33.00        Serviços de transmissão de dados nas telecomunicações móveis, exceto serviços de
+                        texto
+    1.1701.34.00        Serviços de telecomunicações móveis para usuários visitantes (roaming)
+   1.1701.40.00         Serviços de redes privadas
+   1.1701.5             Serviços de transmissão de dados e serviços de exploração de linha dedicada
+    1.1701.51.00        Serviços de transmissão de dados local, nacional ou internacional
+    1.1701.52.00        Serviços de exploração de linha dedicada local, nacional ou internacional
+   1.1701.90.00         Serviços de telecomunicações, exceto pela rede mundial de computadores, não
+                        classificados em subposições anteriores
+
+
+  1.1702                Serviços de telecomunicações pela rede mundial de computadores
+   1.1702.10.00         Serviços de fornecimento de infraestrutura de acesso (backbone) à rede mundial de
+                        computadores
+   1.1702.2             Serviços de acesso à rede mundial de computadores
+    1.1702.21.00        Serviços de acesso à rede mundial de computadores por banda estreita
+    1.1702.22.00        Serviços de acesso à rede mundial de computadores por banda larga
+   1.1702.90.00         Serviços de telecomunicações pela rede mundial de computadores não classificados em
+                        subposições anteriores
+
+
+  1.1703                Serviços de oferta de conteúdo de acesso imediato (on-line)
+   1.1703.10.00         Serviços de oferta de livros, jornais, periódicos, diretórios e malas diretas de acesso
+                        imediato (on-line)
+   1.1703.2             Serviços de oferta de áudio de acesso imediato (on-line)
+    1.1703.21.00        Serviços de oferta de áudio para download
+    1.1703.22.00        Serviços de oferta de áudio de conteúdo contínuo (streaming)
+   1.1703.3             Serviços de oferta de arquivos contendo filmes e vídeos de acesso imediato (on-line)
+    1.1703.31.00        Serviços de oferta de arquivos contendo filmes e vídeos para download
+    1.1703.32.00        Serviços de oferta de filmes e vídeos de conteúdo contínuo (streaming)
+(Fl. 50 do Anexo I da Portaria Conjunta RFB/SCS nº         , de de dezembro de 2018.)
+
+
+
+   1.1703.9             Serviços de oferta de outros conteúdos de acesso imediato (on-line) pela rede mundial
+                        de computadores
+    1.1703.91.00        Serviços de oferta de jogos de acesso imediato (on-line)
+    1.1703.92.00        Serviços de oferta de conteúdo de portais de busca na rede mundial de computadores
+    1.1703.99.00        Serviços de oferta de outros conteúdos de acesso imediato (on-line) não classificados
+                        em subposições anteriores
+
+
+  1.1704                Serviços de agências de notícias
+   1.1704.10.00         Serviços de agências de notícias para jornais e periódicos
+   1.1704.20.00         Serviços de agências de notícias para mídia audiovisual
+
+
+  1.1705                Serviços de biblioteca e arquivo
+   1.1705.10.00         Serviços de biblioteca
+   1.1705.20.00         Serviços de arquivo
+
+
+  1.1706                Serviços de difusão, programação e distribuição de programas de rádio e televisão
+   1.1706.1             Serviços de programação dos canais de rádio e televisão
+    1.1706.11.00        Serviços de programação dos canais de rádio
+    1.1706.12.00        Serviços de programação dos canais de televisão
+   1.1706.2             Serviços de transmissão de sinais, sons e imagens de rádio e televisão, aberta ou por
+                        assinatura; e serviços de distribuição de pacotes de televisão por assinatura
+    1.1706.21.00        Serviços de transmissão de sinais, sons e imagens de rádio e televisão, aberta ou por
+                        assinatura
+    1.1706.22.00        Serviços de distribuição de pacotes básicos de programação de televisão por assinatura
+    1.1706.23.00        Serviços de distribuição de pacotes de programação adicional de televisão por
+                        assinatura
+    1.1706.24.00        Serviços de distribuição de programas de televisão por assinatura, na modalidade
+                        "pague por exibição" (pay-per-view)
+   1.1706.90.00         Serviços de difusão, programação e distribuição de programas de rádio e televisão não
+                        classificados em subposições anteriores
+
+
+
+
+                        Capítulo 18 - Serviços de apoio às atividades empresariais
+
+Notas
+
+1) Na posição 1.1801:
+  a) O termo “recrutamento” se refere a um conjunto de técnicas e procedimentos que objetivam atrair
+  candidatos potencialmente qualificados, capazes de assumirem cargos dentro de uma entidade no Brasil
+(Fl. 51 do Anexo I da Portaria Conjunta RFB/SCS nº   , de de dezembro de 2018.)
+
+
+  ou no exterior. Após o recrutamento dos candidatos, passa-se à etapa de seleção daqueles mais aptos
+  aos cargos oferecidos pela entidade.
+  b) No “serviço de fornecimento de mão de obra” a empresa prestadora do serviço contrata, remunera
+  e dirige o trabalho realizado por seus trabalhadores, ou subcontrata outras empresas para a realização
+  destes serviços, e a empresa contratante transfere a execução de quaisquer de suas atividades à
+  prestadora do serviço, não se configurando vínculo empregatício entre os trabalhadores da contratada
+  e a contratante do serviço de fornecimento de mão de obra.
+2) Na posição 1.1802, os “serviços de consultoria em segurança” não incluem os serviços de segurança
+em tecnologia da informação, que se classificam na posição 1.1501.
+3) Na subposição 1.1802.40:
+  a) Os “serviços de carro-forte” compreendem os serviços de carros blindados, acompanhados por
+  agentes de segurança, que são utilizados para recolhimento e transporte de dinheiro, títulos, valores
+  mobiliários ou artigos de valor, como por exemplo, joias, pedras e metais preciosos.
+  b) Excluem-se dessa subposição os serviços de transporte de valores em meio ferroviário, aquaviário ou
+  aéreo, que se classificam no Capítulo 5.
+4) Na posição 1.1803:
+  a) Entende-se por “extermínio de pragas” a destruição de insetos, roedores e outras pestes.
+  b) Excluem-se desta posição o controle e o extermínio de pragas relacionados à agricultura, que se
+  classificam no capítulo 19.
+5) Estão excluídos da posição 1.1804:
+   a) Serviços de embalagem e acondicionamento acessórios ao transporte, que se classificam, de acordo
+   com a especificidade (bagagem ou carga), nos Capítulos 4 (serviços de transporte de passageiros); 5
+   (serviços de transporte de cargas) ou 6 (serviços de apoio aos transportes).
+   b) Serviços relacionados ao comércio atacadista, que se classificam na posição 1.0202.
+6) Na posição 1.1805:
+  a) Os “serviços de operadoras de turismo” são aqueles de organização própria de agências de turismo,
+  as quais são comumente chamadas de operadoras turísticas, e compreendem a elaboração de
+  programas, serviços e roteiros de viagens turísticas, nacionais ou internacionais, emissivas ou
+  receptivas, que incluam passagens, acomodações e outros serviços em meios de hospedagem,
+  programas educacionais e de aprimoramento profissional, serviços de recepção, de transferência e
+  assistência e de excursões, viagens e passeios turísticos, marítimos, fluviais e lacustres.
+  b) Os “serviços de guia de turismo” são aqueles produzidos nas atividades laborais do guia de turismo,
+  que é o profissional que, devidamente cadastrado no Instituto Brasileiro de Turismo (Embratur), exerce
+  as atividades de acompanhar, orientar e transmitir informações a pessoas ou grupos, em visitas,
+  excursões urbanas, municipais, estaduais, interestaduais, internacionais ou especializadas.
+  c) Os “serviços de promoção turística” são aqueles que objetivam divulgar o destino turístico junto aos
+  mercados emissores, aproximando a oferta e a demanda turística.
+7) Na posição 1.1806, entende-se por:
+  a) “Call center” a promoção de vendas e serviços, a atividade de cobrança, o atendimento e o suporte
+  técnico ao consumidor, através de telefone.
+  b) “Agenciamento” de modelos, artistas e atletas o serviço prestado por uma pessoa ou empresa
+  autorizada a agir e negociar em nome do agenciado com o objetivo de efetivar contratos comerciais
+(Fl. 52 do Anexo I da Portaria Conjunta RFB/SCS nº       , de de dezembro de 2018.)
+
+
+ (intermediação de negociação entre o agenciado e o contratante), incluindo, entre outros, os contratos
+ de exploração de imagem.
+
+        NBS 2.0                                                DESCRIÇÃO
+  1.1801                Serviços de seleção de pessoal e fornecimento de mão de obra
+   1.1801.1             Serviços de recrutamento e seleção de pessoal
+    1.1801.11.00        Serviço de recrutamento e seleção de profissionais executivos
+    1.1801.12.00        Serviço de recrutamento e seleção de profissionais, exceto executivos
+   1.1801.2             Serviços de fornecimento de mão de obra
+    1.1801.21.00        Serviços de fornecimento de mão de obra terceirizada, exceto temporária
+    1.1801.22.00        Serviços de fornecimento de mão de obra temporária
+    1.1801.29.00        Serviços de fornecimento de mão de obra não classificados em subposições anteriores
+
+
+  1.1802                Serviços de investigação e segurança
+   1.1802.10.00         Serviços de investigação
+   1.1802.20.00         Serviços de consultoria em segurança
+   1.1802.30.00         Serviços de sistemas de segurança
+   1.1802.40.00         Serviços de carro-forte
+   1.1802.50.00         Serviços de guarda e escolta armada
+   1.1802.90.00         Serviços de segurança não classificados em subposições anteriores
+
+
+  1.1803                Serviços de limpeza
+   1.1803.10.00         Serviços gerais de limpeza
+   1.1803.2             Serviços especializados de limpeza
+    1.1803.21.00        Serviços de desinfecção e extermínio de pragas
+    1.1803.22.00        Serviços de limpeza de janelas
+    1.1803.29.00        Serviços especializados de limpeza não classificados em subposições anteriores
+
+
+  1.1804.00.00          Serviços de acondicionamento e empacotamento
+
+
+  1.1805                Serviços de planejamento de viagens e serviços relacionados
+   1.1805.1             Serviços de reservas para transporte de passageiros
+    1.1805.11.00        Serviços de reservas para transporte aéreo de passageiros
+    1.1805.12.00        Serviços de reservas para transporte ferroviário de passageiros
+    1.1805.13.00        Serviços de reservas para transporte rodoviário de passageiros
+    1.1805.14.00        Serviços de reservas de carros de aluguel
+    1.1805.19.00        Serviços de reservas para transporte de passageiros não classificados em subposições
+                        anteriores
+   1.1805.2             Serviços de reservas de hospedagem, reservas em cruzeiros e reservas de pacotes
+                        turísticos
+(Fl. 53 do Anexo I da Portaria Conjunta RFB/SCS nº       , de de dezembro de 2018.)
+
+
+
+    1.1805.21.00        Serviços de reservas de hospedagem, exceto em unidades compartilhadas
+    1.1805.22.00        Serviços de reservas e intercâmbio de unidades compartilhadas (time-share)
+    1.1805.23.00        Serviços de reservas em cruzeiros
+    1.1805.24.00        Serviços de reservas de pacotes turísticos
+   1.1805.3             Outros serviços de reservas
+    1.1805.31.00        Serviços de reservas para centros de convenções, auditórios e salas de exposições
+    1.1805.32.00        Serviços de reservas de ingressos para eventos de entretenimento e recreativos
+    1.1805.39.00        Serviços de reservas não classificados em subposições anteriores
+   1.1805.40.00         Serviços de operadoras de turismo
+   1.1805.50.00         Serviços de guias turísticos
+   1.1805.6             Serviços de promoção turística e de informação a visitantes
+    1.1805.61.00        Serviços de promoção turística
+    1.1805.62.00        Serviços de informação a visitantes
+
+
+  1.1806                Outros serviços de apoio às atividades empresariais
+   1.1806.10.00         Serviços de informação cadastral e análise de crédito
+   1.1806.20.00         Serviços de cobrança
+   1.1806.3             Serviços de apoio às atividades empresariais por meio de telefone
+    1.1806.31.00        Serviços de call center
+    1.1806.39.00        Serviços de apoio às atividades empresariais por meio de telefone não classificados em
+                        subposições anteriores
+   1.1806.40.00         Serviços combinados de escritório e apoio administrativo
+   1.1806.5             Serviços especializados de apoio a escritório
+    1.1806.51.00        Serviços de fotocópias e outros serviços de reprodução de documentos
+    1.1806.52.00        Serviços de execução e envio de mala direta e de elaboração de listas de endereços
+    1.1806.53.00        Serviços de preparação de documentos
+    1.1806.59.00        Serviços especializados de apoio a escritório não classificados em subposições
+                        anteriores
+   1.1806.6             Serviços de assistência e organização de convenções, feiras de negócios, exposições e
+                        outros eventos
+    1.1806.61.00        Serviços de assistência e organização de convenções
+    1.1806.62.00        Serviços de assistência e organização de feiras de negócios
+    1.1806.63.00        Serviços de assistência e organização de exposições e outros eventos
+   1.1806.70.00         Serviços de jardinagem
+   1.1806.8             Serviços de agenciamento de modelos, artistas e atletas
+    1.1806.81.00        Serviços de agenciamento de modelos
+    1.1806.82.00        Serviços de agenciamento de artistas
+    1.1806.83.00        Serviços de agenciamento de atletas
+    1.1806.90.00        Serviços de apoio não classificados em subposições anteriores
+(Fl. 54 do Anexo I da Portaria Conjunta RFB/SCS nº       , de de dezembro de 2018.)
+
+
+
+
+    Capítulo 19 - Serviços de apoio à agricultura, pecuária, silvicultura, pesca, aquicultura, extração
+                    mineral e à transmissão e distribuição de eletricidade, gás e água
+
+Notas
+
+1) No presente Capítulo, entende-se por:
+  a) Agricultura: a atividade econômica voltada para a exploração ordenada de recursos naturais vegetais
+  em ambiente natural e protegido, sendo representada pelo cultivo de lavouras, formado por quatro
+  segmentos:
+  - Produção de lavouras temporárias.
+  - Horticultura e floricultura.
+  - Produção de lavouras permanentes.
+  - Produção de sementes e mudas certificadas.
+  b) Pecuária: a atividade econômica voltada para a exploração ordenada de recursos animais em
+  ambiente natural e protegido, sendo representada pela criação e produção de animais, inclusive a
+  criação de animais modificados geneticamente, compreendendo a criação de:
+  - Bovinos e outros animais de grande porte, tais como cavalos, asininos, muares e bubalinos.
+  - Suínos, caprinos e ovinos.
+  - Aves, tais como galinhas, patos, gansos, perus e avestruzes.
+  - Outros animais com expressão econômica, tais como coelhos, abelha, escargots e animais de
+  estimação.
+  c) Produção florestal (silvicultura): a atividade econômica baseada no cultivo de espécies florestais,
+  produção de madeiras em toras e a exploração de produtos florestais não madeireiros, incluindo-se
+  também a produção de mudas florestais, os produtos da madeira resultantes de pequenos
+  processamentos, tais como lenha, carvão vegetal e lascas de madeira, ou sem processamento, como em
+  moirões, estacas e postes.
+  d) Pesca: a atividade econômica que abrange o uso de recursos pesqueiros em águas marinhas, águas
+  salobras e em água doce, objetivando a captura de peixes, crustáceos, moluscos e outros organismos
+  ou produtos aquáticos, tais como plantas aquáticas, pérolas, corais e esponjas.
+  e) Aquicultura: o processo de produção que envolve o cultivo de organismos aquáticos, dentre eles os
+  peixes, crustáceos, moluscos, rãs, plantas aquáticas, jacarés e anfíbios, com o auxílio de técnicas que
+  intensificam a produtividade desses organismos além da sua capacidade natural de desenvolvimento.
+2) A pesca se refere à exploração, pelo público, de organismos aquáticos de propriedade comum, no que
+se difere da aquicultura, que corresponde ao cultivo de organismos aquáticos de que se tem a
+propriedade.
+
+        NBS 2.0                                                DESCRIÇÃO
+  1.1901                Serviços de apoio à agricultura, pecuária, produção florestal (silvicultura), pesca e
+                        aquicultura
+(Fl. 55 do Anexo I da Portaria Conjunta RFB/SCS nº        , de de dezembro de 2018.)
+
+
+
+   1.1901.10.00         Serviços de apoio à agricultura
+   1.1901.20.00         Serviços de apoio à pecuária
+   1.1901.30.00         Serviços de apoio à produção florestal (silvicultura)
+   1.1901.40.00         Serviços de apoio à pesca
+   1.1901.50.00         Serviços de apoio à aquicultura
+
+
+  1.1902                Serviços de apoio à mineração
+   1.1902.10.00         Serviços de apoio à extração de petróleo e gás
+   1.1902.90.00         Serviços de apoio à mineração não classificados em subposições anteriores
+
+
+  1.1903                Serviços de apoio à transmissão e distribuição de eletricidade e à distribuição de gás e
+                        água
+   1.1903.1             Serviços de apoio à transmissão e distribuição de eletricidade
+    1.1903.11.00        Serviços de apoio à transmissão de eletricidade
+    1.1903.12.00        Serviços de apoio à distribuição de eletricidade
+   1.1903.20.00         Serviços de apoio à distribuição de gás por meio de tubulações
+   1.1903.30.00         Serviços de apoio à distribuição de água por meio de tubulações, exceto vapor de água
+                        e água quente
+   1.1903.40.00         Serviços de apoio à distribuição de vapor de água, água quente e ar condicionado por
+                        meio de tubulações
+   1.1903.50.00         Serviços de apoio à distribuição de água, exceto por meio de tubulações
+
+
+
+
+           Capítulo 20 - Serviços de manutenção, reparação e instalação (exceto construção)
+
+Notas
+
+1) No presente Capítulo, entende-se por:
+  a) Manutenção: o conjunto de ações realizadas com o objetivo de manter um bem no estado em que
+  possa realizar sua função requerida, como cuidados técnicos indispensáveis ao funcionamento regular
+  do bem, evitando assim sua deterioração.
+  b) Reparação: o conjunto de ações realizadas com o objetivo de consertar um bem, restabelecendo o
+  seu desempenho original para que possa realizar sua função requerida.
+  c) Instalação: a montagem de maquinários ou equipamentos.
+2) No âmbito do presente Capítulo, o termo “manutenção” refere-se à manutenção preventiva e o termo
+“reparação” refere-se à manutenção corretiva.
+3) Em relação aos instrumentos e equipamentos de precisão, os serviços de manutenção e reparação são
+classificados na subposição 1.2001.82; e os serviços de instalação na subposição 1.2003.24.
+
+        NBS 2.0                                                DESCRIÇÃO
+(Fl. 56 do Anexo I da Portaria Conjunta RFB/SCS nº     , de de dezembro de 2018.)
+
+
+
+  1.2001                Serviços de manutenção e reparação de produtos metálicos, maquinários e
+                        equipamentos
+   1.2001.10.00         Serviços de manutenção e reparação de produtos metálicos, exceto maquinários e
+                        equipamentos
+   1.2001.20.00         Serviços de manutenção e reparação de computadores e seus periféricos e de
+                        maquinário para escritório
+   1.2001.3             Serviços de manutenção e reparação de maquinários e equipamentos de transporte
+    1.2001.31           Serviços de manutenção e reparação de veículos rodoviários
+     1.2001.31.10       Serviços de manutenção e reparação de veículos rodoviários motorizados
+     1.2001.31.20       Serviços de manutenção e reparação de veículos rodoviários não motorizados
+    1.2001.32.00        Serviços de manutenção e reparação de veículos sobre trilhos
+    1.2001.33.00        Serviços de manutenção e reparação de veículos aquaviários
+    1.2001.34           Serviços de manutenção e reparação de veículos de transporte aéreo e aeroespacial
+     1.2001.34.10       Serviços de manutenção e reparação de aeronaves, exceto de motores, turborreatores
+                        e turbopropulsores aeronáuticos
+     1.2001.34.20       Serviços de manutenção e reparação de motores, turborreatores e turbopropulsores
+                        aeronáuticos
+     1.2001.34.30       Serviços de manutenção e reparação de foguetes e equipamentos aeroespaciais
+    1.2001.35.00        Serviços de manutenção e reparação de veículos militares
+    1.2001.39.00        Serviços de manutenção e reparação de maquinários e equipamentos de transporte não
+                        classificados em subposições anteriores
+   1.2001.40.00         Serviços de manutenção e reparação de plataformas, inclusive navios-plataforma, para
+                        extração de petróleo e gás
+   1.2001.50.00         Serviços de manutenção e reparação de maquinários e equipamentos de uso industrial
+   1.2001.60.00         Serviços de manutenção e reparação de maquinários e equipamentos de uso comercial
+   1.2001.70.00         Serviços de manutenção e reparação de equipamentos e aparelhos de
+                        telecomunicações
+   1.2001.8             Serviços de manutenção e reparação de outros maquinários e equipamentos
+    1.2001.81.00        Serviços de manutenção e reparação de aparelhos eletroeletrônicos domésticos
+    1.2001.82.00        Serviços de manutenção e reparação de instrumentos e equipamentos médico-
+                        hospitalares, odontológicos, óticos e de precisão
+    1.2001.83.00        Serviços de manutenção e reparação de equipamentos militares
+    1.2001.89.00        Serviços de manutenção e reparação de outros maquinários e equipamentos não
+                        classificados em subposições anteriores
+
+
+  1.2002                Serviços de manutenção e reparação de outros bens de consumo
+   1.2002.10.00         Serviços de manutenção e reparação de produtos de couro, calçados, malas e bolsas
+   1.2002.20.00         Serviços de manutenção e reparação de relógios e joias
+   1.2002.30.00         Serviços de manutenção e reparação de móveis
+   1.2002.40.00         Serviços de manutenção de roupas e outros produtos têxteis
+(Fl. 57 do Anexo I da Portaria Conjunta RFB/SCS nº      , de de dezembro de 2018.)
+
+
+
+   1.2002.90.00         Serviços de manutenção e reparação de outros bens de consumo não classificados em
+                        subposições anteriores
+
+
+  1.2003                Serviços de instalação, exceto os de construção
+   1.2003.10.00         Serviços de instalação de produtos metálicos, exceto maquinário e equipamentos
+   1.2003.2             Serviços de instalação de maquinários, aparelhos e equipamentos
+    1.2003.21           Serviços de instalação de maquinários, aparelhos e equipamentos industriais
+     1.2003.21.10       Serviços de montagem sob encomenda de turbinas industriais
+     1.2003.21.90       Serviços de instalação de maquinários, aparelhos e equipamentos industriais não
+                        classificados em itens anteriores
+    1.2003.22.00        Serviços de instalação de computadores e seus periféricos e maquinário de escritório
+    1.2003.23.00        Serviços de instalação de equipamentos e aparelhos de comunicação, incluindo de rádio
+                        e de televisão
+    1.2003.24.00        Serviços de instalação de maquinários, equipamentos, instrumentos e aparelhos
+                        médico-hospitalares, óticos e de precisão
+    1.2003.25           Serviços de instalação de sensores e sistemas de armas e de instalação de maquinários,
+                        aparelhos e equipamentos de emprego militar
+     1.2003.25.10       Serviços de instalação de sensores e sistemas de armas
+     1.2003.25.20       Serviços de instalação de maquinários, aparelhos e equipamentos de emprego militar
+    1.2003.26           Serviços de instalação de maquinários e equipamentos de transporte
+     1.2003.26.10       Serviços de montagem sob encomenda de motores, turborreatores e turbopropulsores
+                        aeronáuticos
+     1.2003.26.90       Serviços de instalação de maquinários e equipamentos de transporte não classificados
+                        em itens anteriores
+    1.2003.29.00        Serviços de instalação de maquinários, aparelhos e equipamentos não classificados em
+                        subposições anteriores
+
+
+
+
+                      Capítulo 21 - Serviços de publicação, impressão e reprodução
+
+Notas
+
+No âmbito deste Capítulo:
+1) Editoração: alude ao serviço de gerenciamento da produção de publicações de caráter periódico ou
+não periódico, como livros, jornais, revistas, boletins, prospectos, álbuns e cadernos.
+2) Impressão: é o termo utilizado para designar a aplicação da tinta sobre o papel, segundo determinada
+forma de imagem ou texto.
+3) Serviços de reprodução de mídia gravada: são aqueles realizados a partir de gravação em mídias
+digitais, tais como CD-ROM, DVD, pen drive, disco externo ou armazenamento em nuvem, que são, direta
+ou indiretamente (via computador), conectados à impressora.
+(Fl. 58 do Anexo I da Portaria Conjunta RFB/SCS nº     , de de dezembro de 2018.)
+
+
+4) Publicação: corresponde ao ato pelo qual um texto escrito é disponibilizado para várias pessoas, que a
+ele poderão ter livre acesso por vontade própria, ou seja, é o momento da publicização do ato.
+
+        NBS 2.0                                             DESCRIÇÃO
+  1.2101                Serviços de editoração, impressão, reprodução e publicação
+   1.2101.10.00         Serviços de editoração
+   1.2101.2             Serviços de impressão e reprodução de mídia gravada
+    1.2101.21.00        Serviços de impressão
+    1.2101.22.00        Serviços relacionados à impressão
+    1.2101.23.00        Serviços de reprodução de mídia gravada
+   1.2101.30.00         Serviços de publicação
+
+
+
+
+                  SEÇÃO V - SERVIÇOS COMUNITÁRIOS, SOCIAIS, AMBIENTAIS E PESSOAIS
+
+
+
+
+                                     Capítulo 22 - Serviços educacionais
+
+
+Notas
+
+
+1) No âmbito deste Capítulo, entende-se por:
+ a) Serviços educacionais: serviços afetos à educação, abrangendo os processos formativos que se
+ desenvolvem na vida familiar, na convivência humana, no trabalho, nas instituições de ensino e
+ pesquisa, nos movimentos sociais e organizações da sociedade civil e nas manifestações culturais.
+ b) Educação escolar: aquela composta de educação básica e educação superior, incluindo-se em cada
+ etapa a educação especial (destinada aos portadores de deficiência, transtornos globais do
+ desenvolvimento e altas habilidades ou superdotação).
+ c) Educação básica: formada pela pré-escola (educação infantil), ensino fundamental e ensino médio.
+ d) Educação infantil: a oferecida em creches, ou entidades equivalentes, para crianças de até três anos
+ de idade, e em pré-escolas, para crianças de quatro a cinco anos de idade.
+ e) Educação de jovens e adultos: a educação destinada àqueles que não tiveram acesso ou continuidade
+ de estudos no ensino fundamental e médio na idade própria.
+ f) Educação superior: aquela que abrange os cursos e programas de graduação (abertos a candidatos
+ que tenham concluído o ensino médio ou equivalente e tenham sido classificados em processo seletivo);
+ de pós-graduação, compreendendo programas de mestrado e doutorado; cursos de especialização,
+ aperfeiçoamento e outros (abertos a candidatos diplomados em cursos de graduação e que atendam às
+ exigências das instituições de ensino); e de extensão (abertos a candidatos que atendam aos requisitos
+ estabelecidos em cada caso pelas instituições de ensino).
+(Fl. 59 do Anexo I da Portaria Conjunta RFB/SCS nº       , de de dezembro de 2018.)
+
+
+2) A educação profissional e tecnológica integra-se aos diferentes níveis e modalidades de educação e
+abrangerá os seguintes cursos: (i) de formação inicial e continuada ou qualificação profissional; (ii) de
+educação profissional técnica de nível médio; e (iii) de educação profissional tecnológica de graduação e
+pós-graduação.
+3) Os serviços de educação, com enfoque cultural, incluem, por exemplo, ensino de música (tais como
+piano, violino e teoria musical), artes, dança e fotografia.
+
+        NBS 2.0                                                DESCRIÇÃO
+  1.2201                Serviços de educação básica
+   1.2201.1             Serviços de educação infantil
+    1.2201.11.00        Serviços de creche ou entidade equivalente
+    1.2201.12.00        Serviços de pré-escola
+    1.2201.19.00        Serviços de educação infantil não classificados em subposições anteriores
+   1.2201.20.00         Serviços de ensino fundamental
+   1.2201.30.00         Serviços de ensino médio
+
+
+  1.2202.00.00          Serviços de educação técnica de nível médio
+
+
+  1.2203                Serviços de educação de jovens e adultos
+   1.2203.10.00         Serviços de ensino fundamental de jovens e adultos
+   1.2203.20.00         Serviços de ensino médio de jovens e adultos
+
+
+  1.2204                Serviços de educação superior
+   1.2204.10.00         Serviços educacionais de graduação
+   1.2204.20.00         Serviços educacionais de pós-graduação
+   1.2204.30.00         Serviços educacionais de extensão
+   1.2204.40.00         Serviços educacionais de cursos sequenciais
+
+
+  1.2205                Outros serviços educacionais, incluindo de treinamento, e serviços de apoio aos
+                        serviços educacionais
+   1.2205.1             Outros serviços de educação, inclusive treinamento
+    1.2205.11.00        Serviços de educação com enfoque cultural
+    1.2205.12.00        Serviços de educação desportiva e recreacional
+    1.2205.13.00        Serviços de educação em línguas estrangeiras e de sinais
+    1.2205.14.00        Serviços de palestras e conferências
+    1.2205.19.00        Serviços de educação, inclusive treinamento não classificados em subposições
+                        anteriores
+   1.2205.20.00         Serviços de apoio aos serviços educacionais
+(Fl. 60 do Anexo I da Portaria Conjunta RFB/SCS nº   , de de dezembro de 2018.)
+
+
+               Capítulo 23 - Serviços relacionados à saúde humana e de assistência social
+
+Notas
+
+1) Na posição1.2301, tem-se que:
+  a) Os “serviços de atenção à saúde humana” cobrem todas as formas de serviços relacionados à saúde
+  humana prestados em hospitais, ambulatórios, consultórios, clínicas, centros de assistência psicossocial,
+  unidades móveis de atendimento a urgências, remoções e, também, os serviços de saúde prestados nos
+  domicílios. Compreendem também as práticas integrativas e complementares ao cuidado da saúde
+  humana.
+  b) “Serviços hospitalares” são aqueles prestados por estabelecimentos assistenciais de saúde que
+  dispõem de estrutura material e de pessoal destinada a atender a internação de pacientes, garantir
+  atendimento básico de diagnóstico e tratamento, com equipe clínica organizada e assistência
+  permanente prestada por médicos, que possuam serviços de enfermagem e atendimento terapêutico
+  direto ao paciente, com disponibilidade de serviços de laboratório e radiologia, serviços de cirurgia e/ou
+  parto, bem como registros médicos organizados para a rápida observação e acompanhamento de casos.
+2) Nas posições 1.2302, 1.2303 e 1.2304, tem-se que:
+  a) Os “serviços sociais” correspondem aos serviços de assistência a indivíduos ou famílias, que são
+  realizadas por agências de governo ou por instituições privadas e, também, são prestadas nos
+  domicílios. Essas atividades podem incluir ou não alojamento, serviços médicos e serviços de educação,
+  desde que estes não sejam os principais serviços oferecidos.
+  b) “Assistência social” é política de seguridade social não contributiva, que provê os mínimos sociais,
+  realizada através de um conjunto integrado de ações de iniciativa pública e da sociedade, para garantir
+  o atendimento às necessidades básicas da população.
+  c) São objetivos da assistência social: (i) a proteção social, que visa à garantia da vida, à redução de
+  danos e à prevenção da incidência de riscos, especialmente: a proteção à família, à maternidade, à
+  infância, à adolescência e à velhice; o amparo às crianças e adolescentes carentes; a promoção da
+  integração ao mercado de trabalho; a habilitação e reabilitação das pessoas portadoras de deficiência e
+  a promoção de sua integração à vida comunitária; e a garantia de benefício mensal à pessoa portadora
+  de deficiência e ao idoso que comprovem não possuir meios de prover a própria manutenção ou de tê-
+  la provida por sua família; (ii) a vigilância socioassistencial, que visa a analisar territorialmente a
+  capacidade protetiva das famílias e nela a ocorrência de vulnerabilidades, de ameaças, de vitimizações
+  e de danos; (iii) a defesa de direitos, que visa a garantir o pleno acesso aos direitos no conjunto das
+  provisões socioassistenciais.
+  d) “Serviços de assistência social” são aqueles prestados de forma direta em unidades básicas e públicas
+  de assistência social, bem como de forma indireta nas entidades e organizações não públicas de
+  assistência social. São considerados serviços de assistência social ou serviços assistenciais os serviços
+  continuados que visem à melhoria da vida da população e cujas ações estejam voltadas para as
+  necessidades básicas de proteção social.
+  e) A assistência social não abrange apenas idosos e deficientes. A proteção social é ampla, incluindo
+  pessoas em qualquer idade, sejam saudáveis ou não, desde que se encontrem expostos a algum tipo de
+  vulnerabilidade social.
+(Fl. 61 do Anexo I da Portaria Conjunta RFB/SCS nº         , de de dezembro de 2018.)
+
+
+
+     NBS 2.0                                                  DESCRIÇÃO
+ 1.2301             Serviços de saúde humana
+  1.2301.1          Serviços hospitalares
+   1.2301.11.00     Serviços cirúrgicos
+   1.2301.12.00     Serviços ginecológicos e obstétricos
+   1.2301.13.00     Serviços psiquiátricos
+   1.2301.14.00     Serviços prestados em Unidades de Terapia Intensiva
+   1.2301.15.00     Serviços de atendimento de urgência
+   1.2301.19.00     Serviços hospitalares não classificados em subposições anteriores
+  1.2301.2          Serviços médicos não hospitalares e serviços odontológicos
+   1.2301.21.00     Serviços de clínica médica
+   1.2301.22.00     Serviços médicos especializados
+   1.2301.23.00     Serviços odontológicos
+  1.2301.9          Outros serviços de saúde humana
+   1.2301.91.00     Serviços de enfermagem
+   1.2301.92.00     Serviços de fisioterapia
+   1.2301.93.00     Serviços laboratoriais
+   1.2301.94.00     Serviços de diagnóstico por imagem
+   1.2301.95.00     Serviços de bancos de material biológico humano
+   1.2301.96.00     Serviços de ambulância
+   1.2301.97.00     Serviços de assistência ao parto e pós-parto
+   1.2301.98.00     Serviços de psicologia
+   1.2301.99.00     Outros serviços de saúde humana não classificados em subposições anteriores
+
+
+ 1.2302             Serviços de cuidado e assistência a idosos e pessoas com deficiência em unidades de
+                    acolhimento
+  1.2302.10.00      Serviços de cuidado em saúde em unidades de acolhimento
+  1.2302.2          Serviços de assistência a idosos e pessoas com deficiência em unidades de acolhimento
+   1.2302.21.00     Serviços de assistência a idosos em unidades de acolhimento
+   1.2302.22.00     Serviços de assistência a crianças e adolescentes com deficiência em unidades de
+                    acolhimento
+   1.2302.23.00     Serviços de assistência a adultos com deficiência em unidades de acolhimento
+
+
+ 1.2303.00.00       Serviços de assistência social com acomodação
+
+
+
+ 1.2304             Serviços de assistência social sem acomodação
+  1.2304.1          Serviços de reabilitação vocacional
+   1.2304.11.00     Serviços de reabilitação vocacional para pessoas com deficiência
+   1.2304.12.00     Serviços de reabilitação vocacional para desempregados
+(Fl. 62 do Anexo I da Portaria Conjunta RFB/SCS nº      , de de dezembro de 2018.)
+
+
+
+   1.2304.19.00     Serviço de reabilitação vocacional não classificados nas subposições anteriores
+  1.2304.20.00      Serviços de orientação e aconselhamento relacionados a crianças e adolescentes
+  1.2304.90.00      Serviços de assistência social sem acomodação não classificados em subposições anteriores
+
+
+
+
+  Capítulo 24 - Serviços de coleta, tratamento e eliminação de esgoto e resíduos e outros serviços de
+                                          proteção ambiental.
+
+Notas:
+
+1) No presente Capítulo, considera-se que:
+  a) Resíduo: é o material, substância, objeto ou bem descartado resultante de atividades humanas em
+  sociedade, a cuja destinação final se procede, se propõe proceder ou se está obrigado a proceder. Os
+  resíduos podem ser provenientes de serviços de saúde, ter origem industrial ou doméstica, e podem se
+  caracterizar como perigosos, não perigosos, recicláveis ou não recicláveis.
+  b) Periculosidade de um resíduo: é a característica apresentada por um resíduo que, em função de suas
+  propriedades físicas, químicas ou infectocontagiosas, pode apresentar riscos (i) à saúde pública,
+  provocando mortalidade, incidência de doenças ou acentuando seus índices, ou (ii) ao meio ambiente.
+  c) Resíduos perigosos: são aqueles que apresentam periculosidade, conforme definida no item b, e que
+  possuem, entre outras, uma das seguintes características: inflamabilidade, corrosividade, reatividade,
+  toxicidade, patogenicidade, carcinogenicidade, teratogenicidade e mutagenicidade.
+  d) Resíduos não perigosos: são aqueles que não se enquadram nos quesitos estabelecidos para os
+  resíduos perigosos.
+  e) Resíduos de serviços de saúde: são aqueles resultantes dos serviços relacionados com o atendimento
+  à saúde humana ou animal, inclusive os serviços de assistência domiciliar e de trabalhos de campo;
+  laboratórios analíticos de produtos para saúde; necrotérios, funerárias e serviços onde se realizem
+  atividades de embalsamamento; serviços de medicina legal; drogarias e farmácias inclusive as de
+  manipulação; estabelecimentos de ensino e pesquisa na área de saúde; centros de controle de
+  zoonoses; distribuidores de produtos farmacêuticos, importadores, distribuidores e produtores de
+  materiais e controles para diagnóstico in vitro; unidades móveis de atendimento à saúde; serviços de
+  acupuntura; serviços de tatuagem, dentre outros similares.
+  f) Resíduo reciclável: é aquele resíduo passível de retorno ao ciclo produtivo, após ter sofrido alteração
+  de suas propriedades físicas, físico-químicas ou biológicas, tal como ocorre com papelão, papel, plástico,
+  vidro e metal.
+2) O tratamento para redução ou eliminação de produtos perigosos por processo de incineração está
+classificado na subposição 1.2404.21, enquanto a incineração de produtos não perigosos classifica-se na
+subposição 1.2404.33.
+3) Na posição 1.2405, entende-se por:
+  a) Serviços de remediação: a aplicação de uma ou mais técnicas numa área contaminada ou degradada,
+  com o intuito de restaurá-la de tal maneira a permitir sua reutilização dentro de patamares de segurança
+  adequados à preservação da saúde humana e do meio ambiente.
+(Fl. 63 do Anexo I da Portaria Conjunta RFB/SCS nº      , de de dezembro de 2018.)
+
+
+  b) Área contaminada: um terreno, local, instalação, edificação ou benfeitoria onde for constatada a
+  presença de substância(s) química(s) no ar, água ou solo, decorrente de atividades antrópicas, em
+  concentrações tais que restrinjam a utilização dessa área para os usos atual ou pretendido.
+4) Para os fins da posição 1.2406, o serviço de limpeza urbana e similares compreende:
+  a) A coleta, transbordo e transporte dos resíduos originários da varrição e limpeza de logradouros e vias
+  públicas.
+  b) A triagem para fins de reúso ou reciclagem, de tratamento, inclusive por compostagem, e de
+  disposição final dos resíduos originários da varrição e limpeza de logradouros e vias públicas.
+  c) A varrição, capina e poda de árvores em vias e logradouros públicos e outros eventuais serviços
+  pertinentes à limpeza pública urbana.
+
+       NBS 2.0                                                DESCRIÇÃO
+  1.2401.00.00        Serviços de tratamento de água
+
+
+  1.2402              Serviços de esgoto, tratamento de esgotos e limpeza de fossas sépticas
+   1.2402.10.00       Serviços de esgoto e tratamento de esgotos
+   1.2402.20.00       Serviços de esvaziamento e limpeza de fossas sépticas
+
+
+  1.2403              Serviços de coleta de resíduos
+   1.2403.1           Serviços de coleta de resíduos perigosos
+    1.2403.11.00      Serviços de coleta de resíduos de serviços de saúde e outros resíduos biológicos
+    1.2403.12.00      Serviços de coleta de resíduos perigosos industriais, exceto resíduos de serviços de saúde e
+                      outros resíduos biológicos
+    1.2403.19.00      Serviços de coleta de outros resíduos perigosos não classificados em subposições
+                      anteriores
+   1.2403.2           Serviços de coleta de resíduos recicláveis não perigosos
+    1.2403.21.00      Serviços de coleta de resíduos recicláveis, não perigosos, de origem doméstica
+    1.2403.22.00      Serviços de coleta de resíduos recicláveis, não perigosos, exceto de origem doméstica
+   1.2403.3           Serviços de coleta de resíduos gerais
+    1.2403.31.00      Serviços de coleta de resíduos gerais de origem doméstica
+    1.2403.32.00      Serviços de coleta de resíduos gerais, exceto de origem doméstica
+
+
+  1.2404              Serviços de tratamento e eliminação de resíduos
+   1.2404.1           Serviços de triagem, preparação, consolidação e estocagem de resíduos
+    1.2404.11.00      Serviços de triagem, preparação, consolidação e estocagem de resíduos perigosos
+    1.2404.12.00      Serviços de demolição e desmantelamento de embarcações, veículos e outros bens
+    1.2404.13.00      Serviços de triagem, preparação, consolidação e estocagem de resíduos recicláveis não
+                      perigosos
+    1.2404.19.00      Serviços de triagem, preparação, consolidação e estocagem de resíduos não perigosos,
+                      exceto os recicláveis
+   1.2404.2           Serviços de tratamento e eliminação de resíduos perigosos
+(Fl. 64 do Anexo I da Portaria Conjunta RFB/SCS nº      , de de dezembro de 2018.)
+
+
+
+    1.2404.21.00      Serviços de tratamento de resíduos perigosos
+    1.2404.22.00      Serviços de eliminação de resíduos perigosos
+   1.2404.3           Serviços de tratamento e eliminação de resíduos não perigosos
+    1.2404.31.00      Serviços de tratamento e eliminação de resíduos não perigosos em aterros sanitários
+    1.2404.32.00      Serviços de tratamento e eliminação de resíduos não perigosos em aterros, exceto os
+                      sanitários
+    1.2404.33.00      Serviços de incineração de resíduos não perigosos
+    1.2404.39.00      Serviços de tratamento e eliminação de resíduos não perigosos não classificados em
+                      subposições anteriores
+
+
+  1.2405              Serviços de remediação e contenção de contaminantes
+   1.2405.1           Serviços de remediação e limpeza de áreas contaminadas
+    1.2405.11.00      Serviços de remediação e limpeza do ar
+    1.2405.12.00      Serviços de remediação e limpeza de águas de superfície
+    1.2405.13.00      Serviços de remediação e limpeza do solo e de águas subterrâneas
+    1.2405.14.00      Serviços de remediação em edificações
+   1.2405.20.00       Serviços de contenção, controle e monitoramento de áreas contaminadas
+   1.2405.90.00       Serviços de remediação não classificados em subposições anteriores
+
+
+  1.2406              Serviços de limpeza urbana e similares
+   1.2406.10.00       Serviços de varrição de vias e áreas públicas
+   1.2406.90.00       Serviços de limpeza urbana e similares não classificados em subposições anteriores
+
+
+  1.2407.00.00        Serviços de proteção ambiental não classificados em posições anteriores
+
+
+
+
+                        Capítulo 25 - Serviços recreativos, culturais e desportivos
+
+
+Notas
+
+1) O presente Capítulo não compreende os serviços e rendimentos decorrentes do licenciamento ou da
+cessão total ou parcial dos direitos patrimoniais da propriedade intelectual, que se classificam no Capítulo
+11.
+2) Na posição 1.2501, considera-se obra audiovisual o produto da fixação ou transmissão de imagens, com
+ou sem som, que tenha a finalidade de criar a impressão de movimento, independentemente dos
+processos de captação, do suporte utilizado inicial ou posteriormente para fixá-las ou transmiti-las, ou
+dos meios utilizados para sua veiculação, reprodução, transmissão ou difusão.
+
+        NBS 2.0                                               DESCRIÇÃO
+(Fl. 65 do Anexo I da Portaria Conjunta RFB/SCS nº       , de de dezembro de 2018.)
+
+
+
+  1.2501               Serviços de produção audiovisual, de apoio e relacionados
+   1.2501.1            Serviços de gravação de som
+    1.2501.11.00       Serviços de gravação de som em estúdio
+    1.2501.12.00       Serviços de gravação de som ao vivo
+   1.2501.2            Serviços de produção de programas de rádio e televisão, videoteipes e filmes
+    1.2501.21.00       Serviços de produção de programas de televisão, videoteipes e filmes
+    1.2501.22.00       Serviços de produção de programas de rádio
+   1.2501.3            Serviços de pós-produção de obras audiovisuais
+    1.2501.31.00       Serviços de edição de obras audiovisuais
+    1.2501.32.00       Serviços de duplicação e transferência de obras audiovisuais
+    1.2501.33.00       Serviços de correção de cor e restauração digital de obras audiovisuais
+    1.2501.34.00       Serviços de efeitos visuais em obras audiovisuais
+    1.2501.35.00       Serviços de animação
+    1.2501.36.00       Serviços de legendas, títulos e dublagem em obras audiovisuais
+    1.2501.37.00       Serviços de projeto e edição de som em obras audiovisuais
+    1.2501.39.00       Serviços de pós-produção de obras audiovisuais não classificados em subposições
+                       anteriores
+   1.2501.40.00        Serviços de agenciamento para a comercialização de obras audiovisuais
+   1.2501.50.00        Serviços de projeção de filmes
+   1.2501.90.00        Serviços de produção audiovisual, de apoio e relacionados não classificados em
+                       subposições anteriores
+
+
+  1.2502               Serviços de apresentação e promoção de atuações artísticas e outros serviços de
+                       entretenimento ao vivo
+   1.2502.10.00        Serviços de organização e promoção de atuações artísticas ao vivo
+   1.2502.20.00        Serviços de produção e apresentação de atuações artísticas ao vivo
+   1.2502.30.00        Serviços de apoio para atuações artísticas ao vivo
+   1.2502.90.00        Serviços de apresentação e promoção de atuações artísticas e outros serviços de
+                       entretenimento ao vivo não classificados em subposições anteriores
+
+
+  1.2503               Serviços de atuação artística e outros serviços artísticos
+   1.2503.10.00        Serviços de atuação artística
+   1.2503.20.00        Serviços de autores, compositores, escultores, pintores e outros artistas, exceto os de
+                       atuação artística
+
+
+  1.2504               Serviços de museus e de preservação e serviços de reservas botânica, zoológica e
+                       natural
+   1.2504.1            Serviços de museus e de preservação de locais e construções históricas
+    1.2504.11.00       Serviços de museus
+    1.2504.12.00       Serviços de preservação e operação de locais e construções históricas
+(Fl. 66 do Anexo I da Portaria Conjunta RFB/SCS nº      , de de dezembro de 2018.)
+
+
+
+   1.2504.2            Serviços de reservas botânica, zoológica e natural
+    1.2504.21.00       Serviços de jardins botânico e zoológico
+    1.2504.22.00       Serviços de reserva natural, incluindo preservação de vida selvagem
+
+
+  1.2505               Serviços desportivos e recreacionais desportivos
+   1.2505.10.00        Serviços de organização e promoção de eventos desportivos e recreacionais desportivos
+   1.2505.20.00        Serviços de clubes desportivos
+   1.2505.90.00        Serviços desportivos e recreacionais desportivos não classificados em subposições
+                       anteriores
+
+
+  1.2506.00.00         Serviços fornecidos por atletas e desportistas, por conta própria, e serviços de apoio
+                       relacionados com desportes e recreação desportiva
+
+
+  1.2507               Serviços de parques de diversão e atrações similares
+   1.2507.10.00        Serviços de parques temáticos de diversão
+   1.2507.90.00        Serviços de parques de diversão e atrações similares não classificados em subposições
+                       anteriores
+
+
+  1.2508.00.00         Serviços recreativos, culturais e desportivos não classificados em posições anteriores
+
+
+
+
+                                        Capítulo 26 - Serviços pessoais
+
+Notas
+
+1) Na posição 1.2601, inclui-se na expressão “limpeza de têxteis”, dentre outros, lavagem e limpeza de
+roupas, móveis, estofados, painéis, tapetes (incluindo carpetes) e outros artigos de tapeçaria.
+2) Na posição 1.2602, o termo “bem-estar” inclui, por exemplo, saunas, banhos de vapor, spas, academias
+de ginástica e congêneres e massagens, exceto as terapêuticas, que se classificam no Capítulo 23.
+
+        NBS 2.0                                               DESCRIÇÃO
+  1.2601               Serviços de lavanderia e tinturaria
+   1.2601.10.00        Serviços de limpeza de têxteis, exceto quando realizados a seco
+   1.2601.20.00        Serviços de limpeza a seco
+   1.2601.30.00        Serviços de tinturaria
+   1.2601.40.00        Serviços de passadoria de roupas e outros artigos têxteis
+   1.2601.90.00        Serviços de lavanderia não classificados em subposições anteriores
+
+
+  1.2602               Serviços de tratamento de beleza e bem-estar físico
+(Fl. 67 do Anexo I da Portaria Conjunta RFB/SCS nº       , de de dezembro de 2018.)
+
+
+
+   1.2602.10.00        Serviços de cabeleireiros e barbeiros
+   1.2602.20.00        Serviços de manicure, pedicure e tratamento cosmético
+   1.2602.30.00        Serviços de bem-estar físico
+   1.2602.90.00        Serviços de tratamento de beleza e bem-estar físico não classificados em subposições
+                       anteriores
+
+
+  1.2603.00.00         Serviços funerários, de cremação e de embalsamamento
+
+
+  1.2604.00.00         Serviços de confecção de roupas e outros artigos têxteis
+
+
+  1.2605.00.00         Serviços domésticos
+
+
+  1.2606.00.00         Serviços pessoais não classificados em posições anteriores
+

@@ -1,0 +1,126 @@
+
+
+Tax Reform Guidance for 2026 — Receita Federal
+
+      Attention!
+      Your browser cannot run javascript. Some features may not work correctly.
+
+ -->
+
+        Info
+
+            Tax Reform Guidance for 2026
+
+            Learn about the guidance on the entry into force of the CBS and IBS as of January 1st, 2026.
+
+            Share:
+
+                        Share via Facebook
+
+                        Share via Twitter
+
+                        Share via LinkedIn
+
+                        Share via WhatsApp
+
+                link to Copy to clipboard
+
+        Published on
+
+        12/12/2025 14h02
+
+        Updated on
+        06/05/2026 09h58
+
+  Obligations From 2026
+
+As of January 1st, 2026, taxpayers will be required to:
+
+Issue electronic tax documents with the CBS and the IBS itemized, individualized by transaction, in accordance with the rules and layouts defined in Technical Notes specific to each document;
+
+Submit, when made available, the Specific Regimes Declarations – DeRE, in accordance with the rules and layouts defined in the Technical Document specific to each document;
+
+Submit, when made available, the declarations and/or tax documents of digital platforms, in accordance with the rules and layouts defined in the Technical Document specific to each document.
+
+As of July 2026, individuals who are taxpayers of the CBS and the IBS must register with the CNPJ. Registration with the CNPJ does not turn the individual into a legal entity, serving only to facilitate the assessment of the IBS and the CBS.
+
+Ancillary Obligations
+
+As of January 1st, 2026, the following electronic tax documents must be issued with the CBS and the IBS itemized, and will be authorized under the terms of the specific Technical Notes:
+
+NF-e: Nota Fiscal Eletrônica (Electronic Invoice);
+
+NFC-e: Nota Fiscal de Consumidor Eletrônica (Electronic Consumer Invoice);
+
+CT-e: Conhecimento de Transporte Eletrônico (Electronic Bill of Lading);
+
+CT-e OS: Conhecimento de Transporte Eletrônico - Outros Serviços (Electronic Bill of Lading - Other Services);
+
+NFS-e: Nota Fiscal de Serviço Eletrônica (Electronic Service Invoice);
+
+NFS-e Via: Nota Fiscal de Serviço Eletrônica de Exploração de Via (Electronic Service Invoice for Road Operation);
+
+NFCom: Nota Fiscal Fatura de Serviços de Comunicação Eletrônica (Electronic Communication Services Invoice);
+
+NF3e: Nota Fiscal de Energia Elétrica Eletrônica (Electronic Electric Energy Invoice);
+
+BP-e: Bilhete de Passagem Eletrônico (Electronic Passenger Ticket); and
+
+BP-e TM: Bilhete de Passagem Eletrônico Transporte Metropolitano (Electronic Passenger Ticket for Metropolitan Transport).
+
+A taxpayer unable to issue electronic tax documents due to the sole and exclusive responsibility of the federative entity will not be considered in breach of the ancillary obligation.
+
+New Obligations with Defined Layouts
+
+Already have defined layouts and will have their effective dates determined in a technical document:
+
+NF-ABI: Nota Fiscal de Alienação de Bens Imóveis (Real Estate Disposal Invoice);
+
+NFAg: Nota Fiscal de Água e Saneamento (Water and Sanitation Invoice); and
+
+BP-e Aéreo: Bilhete de Passagem Aéreo (Air Passenger Ticket).
+
+New Obligations with Layouts Under Construction
+
+Will have their layouts and effective dates defined in a technical note or joint act of the CGIBS and Receita Federal:
+
+NF-e Gás: Nota Fiscal de Gás (Gas Invoice);
+
+DeRE: Declaração dos Regimes Específicos (Specific Regimes Declaration), under construction for the regimes of Financial Institutions, Health Assistance Plans, Prognostic Contests, Consortium Administration, Insurance and Pension Plans; and
+
+Other taxable events that will come to be included in electronic tax documents with the CBS and the IBS itemized.
+
+Digital Platforms
+
+The manner in which digital platforms will report information on transactions and imports of goods or services carried out through their intermediation will have its layouts and effective dates defined in a technical note or joint act of the CGIBS and Receita Federal.
+
+Waiver of Payment
+
+Considering that 2026 will be the testing year for the CBS and the IBS, the taxpayer who issues tax documents or specific regimes declarations observing the rules and notes in force will be exempted from payment of the IBS and the CBS.
+
+Taxpayers for whom no ancillary obligation has been defined will also be exempted from payment of the IBS and the CBS.
+
+Tax Benefit Compensation Funds
+
+As of January 2026, holders of onerous benefits related to the ICMS may submit requests for the qualification procedures for future compensation rights referred to in art. 384 of Complementary Law No. 214, of 2025 (LC 214/2025), through the Receita Federal Services Portal, filling out an electronic form that will be available on SISEN, in accordance with a regulatory act to be issued.
+
+As many requests must be filled out as there are compensable benefits enjoyed by the applicant in each program granting onerous benefits.
+
+            Share:
+
+                        Share via Facebook
+
+                        Share via Twitter
+
+                        Share via LinkedIn
+
+                        Share via WhatsApp
+
+                link to Copy to clipboard
+
+              Reject
+
+            Speak Now
+
+                Redo the search
+

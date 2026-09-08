@@ -1,0 +1,461 @@
+   Electronic Invoice - NF-e
+   Consumption Tax Reform – Complementary Law 214/2025
+   IT 2025.002 v.1.40
+
+  Version 1.00
+
+
+
+
+Consumption Tax Reform
+Project
+
+Tables: Tax Classification Code, CST and
+Classification of Presumed Credit of IBS and CBS
+
+Technical Bulletin 2025.002 - Version 1.40
+January 27, 2026
+
+
+
+
+                                                               Page 1 / 10
+       Electronic Invoice - NF-e
+       Consumption Tax Reform – Complementary Law 214/2025
+       IT 2025.002 v.1.40
+
+      Version 1.00
+
+Summary
+01.      Purpose ............................................................................................................................................... 4
+02.      Table of IBS and CBS Tax Classification Code ............................................................ 4
+03.      CST Table ......................................................................................................................................... 6
+04.      Table of Classification of Presumed Credit of IBS and CBS ....................................................... 7
+05.      Standard rates of IBS and CBS ..................................................................................................... 8
+06.      Online Tables.................................................................................................................................... 8
+07.      Changes made to the tables....................................................................................................... 9
+06.01       Changes in version 1.10............................................................................................................... 9
+06.02       Changes in version 1.20............................................................................................................... 9
+06.03       Changes in version 1.21............................................................................................................... 9
+06.04       Changes in version 1.30............................................................................................................. 10
+06.05       Changes in version 1.31............................................................................................................. 10
+06.06       Changes in version 1.40............................................................................................................. 10
+
+
+
+
+                                                                                                                                         Page 2 / 10
+ Electronic Invoice - NF-e
+ Consumption Tax Reform – Complementary Law 214/2025
+ IT 2025.002 v.1.40
+
+
+ Version Control
+Version 1.00
+
+
+
+   Version              Publication                                        Description
+     1.00               May/2025     Publication of the IT
+     1.10              June/2025    Update of the cClassTrib and CST tables and release of the Presumed
+                                     Credit table
+     1.11              June/2025    Correction of the changes section title
+     1.20             October/2025   - Update of the CST, cClassTrib and Presumed Credit tables.
+                                     - Information on standard rates.
+     1.21          October/2025      - Correction to the Presumed Credit table
+     1.30         November/2025
+     1.31         December/2025      - Correction to the presumed credit table
+                                     - Update of DF-e indicators in the cClasssTrib table
+     1.40             January/2026   - Updates to the cClassTrib table
+
+
+ Information on the purpose of the IT – Technical Bulletin
+    In general, the Technical Bulletin has the purpose of:
+
+            •   Disclosing guidance and improvements for the DF-e Use Authorization
+                Services, which are used by Companies;
+
+            •   Disclosing and keeping a record of the update of domain tables used by the
+                Authorization Service, which does not necessarily mean the need for changes
+                to Companies' Computer Systems;
+
+            •   Disclosing and keeping a record of guidance on providing information in the
+                DF-e layout, informing on field completion and other matters;
+
+            •   Disclosing and keeping a record of notices and other communication needs
+                with companies.
+
+
+            •   Revoking Technical Bulletin RT 2024.001 - v. 1.00 - Published on 12/07/2024.
+
+
+
+
+                                                                                                    Page 3 / 10
+ Electronic Invoice - NF-e
+ Consumption Tax Reform – Complementary Law 214/2025
+ IT 2025.002 v.1.40
+
+Version 1.00
+ 01. Purpose
+    This Technical Bulletin has the purpose of disclosing the publication of the Table of Tax
+    Classification Code of IBS and CBS, as well as the CST Indicators Table and the
+    Table of Presumed Credit Classification available on the NF-e National Portal, under the
+    "Documentos" tab, "Diversos" option, and to inform that Technical Bulletin RT 2024.001 - v1.00 is
+    revoked.
+
+    This Technical Bulletin also has the purpose of revoking Technical Bulletin RT 2024.001 - v1.00 and
+    disclosing the tables necessary for the correct classification and taxation of IBS and CBS:
+
+         •    Table of Tax Classification Code of IBS and CBS (cClassTrib)
+
+         •    CST Table
+
+         •    Table of Presumed Credit Classification (cCredPres)
+
+         •    Table of Standard Rates of IBS and CBS (2026 to 2028)
+
+    The tables are available on the NF-e National Portal, under the "Documentos" tab,
+    "Diversos" option, and also on the portals of each DFe at the Electronic Tax Documents Portal -
+    SVRS.
+
+
+
+ 02. Table of Tax Classification Code of IBS and
+     CBS
+    Complementary Law No. 214 of 01/16/2025 (LC 214/2025), approved by the Chamber of Deputies and forwarded
+    for approval by the Federal Senate, established in Section VIII – Transitional Provisions, Art. 61, the
+    obligation for the States, the Federal District and the Municipalities to adapt the current
+    authorizing systems for Electronic Tax Documents (DFe) for the use of a
+    standardized layout, allowing taxpayers to report data relating to the Tax on
+    Goods and Services (IBS), the Contribution on Goods and Services (CBS) and the Selective Tax (IS).
+
+    In compliance with this mandate, Technical Notes related to the tax reform were published,
+    in addition to various other provisions, which introduced Group UB: Information on the
+    IBS / CBS and Selective Tax taxes. In this group, positioned at the item level in the NF-e and the NFS-e,
+    the taxpayer must report the codes "CST-IBS/CBS" and "cClassTrib".
+
+    Each pair of codes "CST-IBS/CBS" and "cClassTrib" is associated with a specific provision
+    of Complementary Law No. 214/2025 and supplementary rules, making the taxpayer's information
+                                                                                          Page 4 / 10
+Electronic Invoice - NF-e
+Consumption Tax Reform – Complementary Law 214/2025
+IT 2025.002 v.1.40
+
+    on how it interprets the taxation of IBS and CBS for each item of the NFe objective.
+Version 1.00
+
+   The meaning of each column of the table is described below. The coding to be
+   used in the tags of Group UB corresponds to the columns "CST-IBS/CBS" and "cClassTrib". Since
+   the same codes apply to the Electronic Invoice for Services – NFSe, the table also
+
+   contains information regarding that document, to facilitate its use by taxpayers who
+   may use it.
+
+   CST-IBS/CBS: Tax Situation Code of IBS and CBS.
+
+   CST-IBS/CBS Description: Meaning of the Tax Situation Code of IBS and CBS.
+
+   cClassTrib: Tax Classification of IBS and CBS; the first three digits are identical
+                     to the CST-IBS/CBS.
+   cClassTrib Name: Short name for presentation of the Tax Classification
+
+   cClassTrib Description: Situation to which the Tax Classification of IBS and CBS refers.
+
+   EC: Provision of Constitutional Amendment 32/23 where the situation to which the
+                     Tax Classification of IBS and CBS refers is provided for.
+
+   LC Wording: Wording of the provision of LC 214/2025 where the situation to which
+                     the Tax Classification of IBS and CBS refers is provided for.
+
+   LC 214/25: Provision of LC 214/2025 where the situation to which the Tax
+                     Classification of IBS and CBS refers is provided for.
+
+   Rate Type: Defines the type of applicable rate, as set forth in Complementary
+                     Law No. 214/2025.
+
+   pRedIBS: Percentage of reduction of the IBS rate associated with the code entered in
+                     cClassTrib.
+
+   pRedCBS: Percentage of reduction of the CBS rate corresponding to the cClassTrib.
+
+   Group requirement indicators: Indicators that establish the requirement, permission
+                     or prohibition of completing fields in the respective Electronic Tax
+                     Document (DFe), as specified in a Technical Note. They are:
+                     ind_RedutorBC, ind_gTribRegular, ind_gCredPresOper, ind_gMonoPadrao,
+                     ind_gMonoReten, ind_gMonoRet, ind_gMonoDif, ind_gEstornoCred
+
+
+   dIniVig and dFimVig: start and end of validity of this cClassTrib.
+                                                                                       Page 5 / 10
+ Electronic Invoice - NF-e
+ Consumption Tax Reform – Complementary Law 214/2025
+ IT 2025.002 v.1.40
+
+Version 1.00
+
+    DataAtualização: date of the last update of the cClassTrib.
+
+    Document model indicators: Indicators that establish whether or not
+                       the cClassTrib may be reported in the respective document: indNFeABI, indNFe,
+                       indNFCe, indCTe, indCTeOS, indBPe, indBPeTA, indBPeTM, indNF3e,
+                       indNFSe, indNFSeVia, indNFCom, indNFAg, indNFGas, indDERE.
+
+         Clarification on documents under development:
+
+              •   indNFeABI = indicator of the Electronic Invoice for Disposal of Real Property
+
+              •   indNFGas = indicator of the Invoice for operations with Piped Gas
+
+              •   indDERE = indicator of Declarations of Specific Regimes
+
+    ANEXO: Identification of the number of the corresponding annex in Complementary Law No. 214/2025,
+                       as applicable to the tax classification. The concept of a technical annex was
+                       created, numbered in the format 9XXXY, where XXX corresponds to the
+                       number of the article that defines the list of related NCM/NBS, and Y is the sequential
+                       number of the occurrences within the same article.
+
+    Link: link to the article of Complementary Law 214/25 relating to the cClassTrib
+
+
+
+
+ 03. CST Table
+ This table has the purpose of assisting developers in filling in the field groups
+ of IBS/CBS according to the CST used. To this end, it presents indicators that define the requirement,
+ permission or prohibition of completing the respective fields in the Electronic Tax Document
+ (DFe), as specified in a Technical Note.
+
+ Table fields:
+
+
+        •     CST-IBS/CBS: Tax Situation Code applicable to IBS and CBS, as defined in
+              Complementary Law No. 214/2025.
+
+        •     CST-IBS/CBS Description: Explanatory text describing the corresponding tax situation
+              for the CST-IBS/CBS code.
+
+        •     ind_gIBSCBS: Indicates whether the standard IBS and CBS information group
+              must be completed in the tax document.
+
+        •     ind_gIBSCBSMono: Indicates whether the specific group for operations subject
+                                                                                          Page 6 / 10
+ Electronic Invoice - NF-e
+ Consumption Tax Reform – Complementary Law 214/2025
+ IT 2025.002 v.1.40
+
+Version 1.00    to the single-phase (monophasic) IBS/CBS regime must be completed.
+
+          •    ind_gRed: Indicates whether it is necessary to report the IBS and CBS rate
+               reduction groups.
+
+          •    ind_gDif: Indicates whether the IBS and CBS deferral groups must be reported.
+
+          •    ind_gTransfCred: Indicates whether the credit transfer group must be reported.
+
+      •       ind_gCredPresIBSZFM: Indicates whether the group for appropriation of IBS
+              presumed credit on the debit balance in the ZFM (art. 450, § 1, LC 214/25) must be reported.
+
+          •    ind_gAjusteCompet: Indicates whether the accrual-period adjustment group (adjustments
+               to assessment in specific periods) must be reported.
+
+          •    ind_RedutorBC: Indicates whether there will be a reduction of the tax base in the respective DFe.
+
+
+
+
+ 04. Table of Classification of Presumed Credit of
+     IBS and CBS
+ The Table of Classification of Presumed Credit of IBS and CBS defines codes applicable to the
+ legal cases of presumed credit of IBS and CBS, as provided for in Complementary Law No.
+ 214, of 2025. Each code refers to a specific situation authorized by the legislation.
+
+ Table fields:
+
+      •       cCredPres: Code that identifies the legal case of presumed credit of IBS and CBS.
+
+      •       Description: Explanatory text describing the situation or legal case corresponding to the
+              code.
+
+      •       LC 214/2025: Provision of Complementary Law No. 214/2025 that grounds the grant of the
+              presumed credit.
+
+      •       Apropria via NF? Indicates whether the appropriation of the presumed credit can be made directly on the
+              tax document (NF-e or NFSe).
+
+      •       Apropria via evento? Indicates whether the appropriation of the presumed credit must be made by means of a
+              specific event in the system.
+
+      •       indDeduzCredPres: Indicates whether the presumed credit will be deducted in the calculation of the tax value
+              of the item.
+
+      •       ind_gCBSCredPres: Indicates whether the CBS presumed credit group must be completed in the
+              tax document.
+
+      •       ind_gIBSCredPres: Indicates whether the IBS presumed credit group must be completed in the
+              tax document.
+
+      •       Alíquota CBS: guidance on the rate applicable to the CBS presumed credit.
+
+                                                                                          Page 7 / 10
+Electronic Invoice - NF-e
+Consumption Tax Reform – Complementary Law 214/2025
+IT 2025.002 v.1.40
+
+Version 1.00 • Alíquota IBS: guidance on the rate applicable to the IBS presumed credit.
+
+
+     •    pAliqCredPresCBS: guidance on the specific percentage for calculating the presumed
+          credit of CBS, when applicable.
+
+     •    cClass nota referenciada: guidance on the Tax Classification Code (cClassTrib)
+          of the referenced invoice, when necessary to validate the appropriation.
+
+     •    dIniVig: Start date of validity of the presumed credit code.
+
+     •    dFimVig: End date of validity of the presumed credit code.
+
+
+05. Standard rates of IBS and CBS
+The standard rates of IBS and CBS, in percentage terms, to be reported in the electronic
+tax documents are those defined in specific legislation for the respective year:
+
+  Year                             pIBSUF (%)               pIBSMun (%)                  pCBS (%)
+  2026 (LC 214/2025)                  0.1                        0                        0.9
+  2027 (LC 214/2025)                 0.05                      0.05                Awaiting Legislation*
+  2028 (LC 214/2025)                 0.05                      0.05                Awaiting Legislation*
+  2029 onward                Awaiting Legislation*      Awaiting Legislation*      Awaiting Legislation(
+
+* Each federative entity must set its rates by its own law (art. 14 of LC 214/2025).
+If it fails to do so, the reference rate applies, set by resolution of the Federal Senate (art. 18).
+
+
+06. Online Tables
+
+ With the purpose of facilitating the understanding and correct completion of the Electronic Tax
+ Documents (DF-e), these tables are also available on the DF-e National Portals in an
+ online, interactive format:
+
+ CST and Tax Classification (cClassTrib) Tables:
+    https://dfe-portal.svrs.rs.gov.br/DFE/TabelaClassificacaoTributaria
+
+
+ Presumed Credit Table (cCredPres):
+    https://dfe-portal.svrs.rs.gov.br/DFE/TabelaCreditoPresumido
+
+ The use of these tables is essential to ensure proper tax compliance, the
+ correct completion of the mandatory fields in the electronic tax documents, and compliance
+ with the validation rules established in the technical documentation of each DFe.
+
+ In addition, the information can also be accessed in JSON format, through the services
+ available at: https://dfe-portal.svrs.rs.gov.br/CFF/Servicos (access requires a digital certificate).
+
+
+
+
+                                                                                         Page 8 / 10
+ Electronic Invoice - NF-e
+ Consumption Tax Reform – Complementary Law 214/2025
+ IT 2025.002 v.1.40
+
+Version 1.00
+ 07. Changes made to the tables
+06.01 Changes in version 1.10
+   The following updates were made in version 1.10:
+
+   1. Inclusion of indicators for mandatory and prohibited completion
+
+   Indicators were added to both tables to make explicit the fields that are mandatory, permitted and
+   prohibited when completing the XML tags of the Electronic Tax Documents, in accordance with the
+   specific validation rules of each document.
+
+   2. cClassTrib Table
+
+        •     Codes included:
+              010002, 222001, 410021, 410999, 820006, 830001
+
+        •     Codes updated:
+              620001, 620002, 620003
+
+        •     Code 620004 split into 620004 and 620005
+
+        •     Former code 620005 renumbered to 620006
+
+
+   3. CST Table
+
+        •     Code included: 222
+
+   4. Presumed Credit Table (cCredPres)
+
+   Publication of the first version of the table
+
+
+
+06.02 Changes in version 1.20
+        •     Transfer of the document indicators from the CST table to the cClassTrib Table
+        •     CST Table: Creation of the columns ind_gCredPresIBSZFM: and ind_gAjusteCompet
+        •     cClassTrib Table: adjustments to the names of existing indicators for standardization and
+              creation of the indicator ind_gEstornoCred
+        •     cCredPres Table: Creation of the indicators ind_DeduzCredPres, ind_gCBSCredPres,
+              ind_gIBSCredPres
+        •     Value updates in the CST and cClassTrib tables are highlighted in green in the
+              respective tables. In the cClassTrib table, check items changed by the date shown in the
+              DataAtualização column.
+
+
+
+06.03 Changes in version 1.21
+        •     Presumed Credit Table: Correction of the "Apropria via NF?" indicator for cCredPres = 2.
+
+                                                                                            Page 9 / 10
+ Electronic Invoice - NF-e
+ Consumption Tax Reform – Complementary Law 214/2025
+ IT 2025.002 v.1.40
+
+Version 1.00
+
+
+
+
+06.04 Changes in version 1.30
+              •       Transfer of the ind_RedutorBC indicator from the cClassTrib table to the CST table,
+                      now enabled for CST = 222.
+
+              •       Value updates in the CST and cClassTrib tables are highlighted in green
+                      in their respective views. In the cClassTrib table, changed items can be
+                      identified by the date recorded in the DataAtualização column equal to 11/19/2025.
+
+
+06.05 Changes in version 1.31
+              •       Update of the start-of-validity dates of the presumed credit codes for IBS
+                      and CBS in the presumed credit table
+              •       Update of DF-e indicators: enabled cClassTrib 200050 for CT-e OS and
+                      410031 for NF-e
+              •       Value updates in the tables are highlighted in green in their respective
+                      views. In the cClassTrib table, changed items can be identified by the date
+                      recorded in the DataAtualização column equal to 12/12/2025.
+
+06.06 Changes in version 1.40
+              •       cClassTrib Table:
+                         •    Update of texts and inclusion of new rows, in accordance with the
+                              changes introduced by Complementary Law No. 227/2026.
+                         •    Update of the DFe indicators for the following cClassTrib:
+                                 o 200001: disabled for NF-e and enabled for CT-e OS;
+                                 o 200044: disabled for NF-e/NFC-e;
+                                 o 200043 and 200044: enabled for NFCom.
+                                 o 410027: enabled for NFe
+
+                         •     Value updates are highlighted in green in the respective
+                               views. Updated rows can be identified by the date
+                               recorded in the DataAtualização column = 01/23/2026.
+
+              •       CST Table:
+                          • Updated the description of CST 820 to "Taxation in a specific document",
+                             used to indicate that the taxation of the item will be carried out in another
+                             document.
+
+
+
+
+                                                                                              Page 10 / 10
