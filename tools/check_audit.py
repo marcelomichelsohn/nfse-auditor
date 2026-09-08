@@ -170,7 +170,7 @@ def c6(names_file=None):
                 if cnpj_ok(m.group(0)) and rel.startswith("fixtures/") is False: fail("C6", f"{rel}:{i}", f"check-digit-valid CNPJ in text: {m.group(0)}")
             if "X509Certificate" in line or "SignatureValue" in line: fail("C6", f"{rel}:{i}", "signature/certificate block present")
             for m in re.finditer(r"[\w.+-]+@[\w-]+\.[\w.-]+", line):
-                if "noreply" not in m.group(0): fail("C6", f"{rel}:{i}", f"e-mail: {m.group(0)}")
+                if "noreply" not in m.group(0) and not m.group(0).endswith(".invalid"): fail("C6", f"{rel}:{i}", f"e-mail: {m.group(0)}")  # .invalid is the reserved placeholder TLD the anonymiser writes
             for n in names:
                 if n.lower() in line.lower(): fail("C6", f"{rel}:{i}", f"private-list name present: {n}")
 
