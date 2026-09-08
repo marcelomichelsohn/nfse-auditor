@@ -7,7 +7,7 @@
 Checks (each names the file and the line when it fails):
   C0  every reference/pt/excerpts/*.txt is a verbatim substring (whitespace-normalised) of a reference/pt/full/ text;
       same for reference/en/excerpts/ against reference/en/full/
-  C1  every quoted excerpt in a report row (column "trecho citado") resolves as a substring of reference/pt/
+  C1  every quoted excerpt in a report row (rounds transcripts, examples.md, expected/*.md; column "trecho citado") resolves as a substring of reference/pt/
       (Portuguese report) or reference/en/ (English report) — never a translated quote
   C2  every report row: the provision id exists in reference/INDEX.md (or is a required-fields.md path for check 2);
       the result is one of the four words; severity is one of the three classes or "—"; the location names an
@@ -81,8 +81,10 @@ def xml_paths(fixture):
     walk(root, ""); return paths
 
 def find_fixture(name):
+    stem = os.path.splitext(name)[0]
     for p in glob.glob(os.path.join(ROOT, "fixtures", "**", "*.xml"), recursive=True):
-        if os.path.basename(p) == name or os.path.splitext(os.path.basename(p))[0] == os.path.splitext(name)[0]: return p
+        if os.path.basename(p) == name or os.path.splitext(os.path.basename(p))[0] == stem: return p
+        if os.path.basename(os.path.dirname(p)) == stem: return p  # a mutation folder: fixtures/mutations/<slug>/nfse.xml
     return None
 
 def c1_c2(paths, ids, lang_corpora):
@@ -123,7 +125,7 @@ def c3():
         exp = os.path.join(ROOT, "expected", os.path.basename(d) + ".md")
         if m and os.path.exists(exp):
             et = read(exp)
-            if not re.search(r"\|\s*" + m.group(1) + r"\s*\|[^|]*\|\s*(FALHA|FAIL)\s*\|", et): fail("C3", os.path.relpath(exp, ROOT), f"no FAIL row for check {m.group(1)} named in CHANGE.md")
+            if not re.search(r"\|\s*" + m.group(1) + r"(-[\wáéíóúãõç]+)?\s*\|[^|]*\|\s*(FALHA|FAIL)\s*\|", et): fail("C3", os.path.relpath(exp, ROOT), f"no FAIL row for check {m.group(1)} named in CHANGE.md")
 
 def c4():
     for d in sorted(glob.glob(os.path.join(ROOT, "rounds", "round-*"))):
@@ -197,6 +199,7 @@ def main():
     c0()
     reports = [p for p in glob.glob(os.path.join(ROOT, "rounds", "**", "*.md"), recursive=True) if os.path.basename(p) in ("transcript.md", "report.md") or "report" in os.path.basename(p)]
     reports += [os.path.join(ROOT, "examples.md")] if os.path.exists(os.path.join(ROOT, "examples.md")) else []
+    reports += sorted(glob.glob(os.path.join(ROOT, "expected", "*.md")))  # the expected results are report-shaped: their quotes and ids must resolve too
     c1_c2(reports, ids, corp); c3(); c4(); c5(); c6(names)
     nq = sum(len(report_rows(r)) for r in reports)
     print(f"check_audit: reports read {len(reports)}, rows {nq}; excerpts pt {len(glob.glob(os.path.join(ROOT,'reference/pt/excerpts/*.txt')))} en {len(glob.glob(os.path.join(ROOT,'reference/en/excerpts/*.txt')))}")

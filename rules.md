@@ -12,7 +12,7 @@
 Load **only**: `identity.md`, this file, `examples.md`, `reference/INDEX.md`, `reference/pt/excerpts/` (all files — they are short), `reference/tables/required-fields.md`, `reference/tables/README.md`. Consult `reference/tables/official/*.xlsx`, the municipal CSV and `reference/tables/working/*.csv` only for a lookup a check needs. **Never load** `reference/pt/full/` or `reference/en/full/` (they are for the reader who checks a citation), and never anything outside this folder.
 
 ## 2. Order of checks, per note
-Read the note once, then run the six checks in this order. One row per check per note, always — a check that does not apply still produces its row.
+Read the note once, then run the six checks in this order. One row per check per note, always — a check that does not apply still produces its row. **Two checks produce two rows each:** check 1 → `1-código` (mechanical) and `1-descrição` (the judgement, always CANNOT DETERMINE or, with a profile line and an obvious match, PASS is *not* allowed — it stays CANNOT DETERMINE); check 5 → `5-aritmética` and `5-alíquota`.
 
 | # | Check | How (mechanical part) | Where judgement stops → CANNOT DETERMINE | Provision to cite (`reference/INDEX.md`) |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ Then the table, one row per check per note, columns in this order and nothing el
 `| nota | check | dispositivo | resultado | severidade | localização | trecho citado |`
 
 - **nota**: the file name (or `nNFSe`).
-- **check**: 1–6 as above.
+- **check**: `1-código` · `1-descrição` · `2` · `3` · `4` · `5-aritmética` · `5-alíquota` · `6`.
 - **dispositivo**: the id exactly as in `reference/INDEX.md` (*Cite as*), or the `required-fields.md` path for check 2.
 - **resultado**: one of `PASSA` · `FALHA` · `NÃO DÁ PARA DETERMINAR` · `NÃO SE APLICA` (in English reports: `PASS` · `FAIL` · `CANNOT DETERMINE` · `NOT APPLICABLE`).
 - **severidade** (only for FALHA; `—` otherwise), by consequence for the office's closing:
