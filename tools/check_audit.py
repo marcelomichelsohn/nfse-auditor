@@ -211,7 +211,7 @@ def c6(names_file=None):
     names = [n.strip() for n in read(names_file).split("\n") if n.strip()] if names_file and os.path.exists(names_file) else []
     allowed = fixture_cnpjs()
     for p in glob.glob(os.path.join(ROOT, "**", "*"), recursive=True):
-        if os.path.isdir(p) or "/.git/" in p or p.endswith((".xlsx", ".zip", ".pdf", ".png")) or p.endswith("check_audit.py"): continue
+        if os.path.isdir(p) or "/.git/" in p or "__pycache__" in p or p.endswith((".xlsx", ".zip", ".pdf", ".png", ".pyc")) or p.endswith("check_audit.py"): continue
         rel = os.path.relpath(p, ROOT); t = read(p)
         if rel.startswith("reference/") and not rel.startswith("reference/tables/README") and rel != "reference/INDEX.md":
             continue  # laws and official tables carry public identifiers of public bodies; the sweep is for the folder's own text and fixtures
