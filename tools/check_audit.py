@@ -147,9 +147,12 @@ def c3():
 
 def c4():
     for d in sorted(glob.glob(os.path.join(ROOT, "rounds", "round-*"))):
-        need = ["REQUEST.md", "transcript.md"] if os.path.basename(d).startswith("round-0") else ["expected.md", "transcript.md"]
+        r0 = os.path.basename(d).startswith("round-0")
+        need = ["REQUEST.md", "transcript.md"] if r0 else ["expected.md"]
         for n in need:
             if not os.path.exists(os.path.join(d, n)): fail("C4", os.path.relpath(d, ROOT), f"{n} missing")
+        if not r0 and not os.path.exists(os.path.join(d, "transcript.md")):
+            print(f"C4   {os.path.relpath(d, ROOT)}: expected.md committed, transcript.md not yet (the round is pending — the order the protocol asks for)")
 
 MUST = ["identity.md", "rules.md", "examples.md", "README.md", "reference/pt/excerpts", "reference/tables"]
 NEVER = ["fixtures/", "expected/", "rounds/", "tools/", "reference/pt/full", "reference/en/full"]

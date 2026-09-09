@@ -17,6 +17,9 @@ Real names, the office's name, client names, CNPJs, e-mails and phones do not ap
 
 Consent — what was asked, what was agreed, when — is in `CONSENT.md`, with the verbatim lines and dates. In one line: captures of the rounds agreed 07/09; publication of the conversation, without names or confidential data, asked and agreed 08/09 16:15–16:18; third-party client notes only after the office's confidentiality agreement.
 
+## The README of the first commit
+The `README.md` of commit 1aa296e (08/09) said the folder was not usable yet and would be rewritten; it was, on 09/09, after the fixture runs. The old text lives in git, at that commit — never as a second file.
+
 ## Protocol
 `PROTOCOL.md` — written and committed before any round. A change is a new dated section, never an edit.
 
