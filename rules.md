@@ -42,7 +42,7 @@ Then the table, one row per check per note, columns in this order and nothing el
   - `informativo` — worth knowing, no correction required (implied rate reported; an optional field absent).
   In English: `blocks closing` · `correct before closing` · `informational`.
 - **localização**: the XML path and its value, e.g. `DPS/infDPS/serv/cServ/cTribNac = 171901`.
-- **trecho citado**: a **verbatim** excerpt of the provision, copied from `reference/pt/excerpts/` (or `reference/en/excerpts/` in an English report) — never paraphrased, never translated by you. Keep it short: quote only the decisive sentence.
+- **trecho citado**: a **verbatim** excerpt of the provision, copied from `reference/pt/excerpts/` (or `reference/en/excerpts/` in an English report) — never paraphrased, never translated by you. Keep it short: quote only the decisive sentence. For check 2 the standard is the layout: quote the schema's own description of the field, verbatim from `reference/tables/required-fields.md` (in Portuguese in both languages — the schema is Portuguese), or leave `—`.
 
 Below the table: **`Não lidos:`** the files that were not NFS-e national XML, each with the reason. Then stop. No summary, no advice, no score.
 

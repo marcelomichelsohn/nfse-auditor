@@ -8,7 +8,7 @@ Checks (each names the file and the line when it fails):
   C0  every reference/pt/excerpts/*.txt is a verbatim substring (whitespace-normalised) of a reference/pt/full/ text;
       same for reference/en/excerpts/ against reference/en/full/
   C1  every quoted excerpt in a report row (rounds transcripts, examples.md, expected/*.md; column "trecho citado") resolves as a substring of reference/pt/
-      (Portuguese row) or reference/en/ (English row) — never a translated quote; language is read per row, so a file may hold a report and its English twin.
+      (Portuguese row) or reference/en/ (English row) — a check-2 row may quote reference/tables/required-fields.md, the layout — never a translated quote; language is read per row, so a file may hold a report and its English twin.
       rounds/control-*/ (the run without reference/) is read in report mode: its unresolved count is printed, not a FAIL
   C2  every report row: the provision id exists in reference/INDEX.md (or is a required-fields.md path for check 2);
       the result is one of the four words; severity is one of the three classes or "—"; the location names an
@@ -38,6 +38,7 @@ def read(p):
     with open(p, encoding="utf-8", errors="replace") as f: return f.read()
 def fail(check, where, msg): fails.append(f"{check}  {where}: {msg}")
 
+LAYOUT = []  # filled in main: the layout's field list, the standard check 2 cites
 def corpus(lang):
     txt = []
     for p in sorted(glob.glob(os.path.join(ROOT, "reference", lang, "full", "*.txt"))) + \
@@ -95,7 +96,8 @@ def c1_c2(paths, ids, lang_corpora):
         for ln, d in report_rows(rp):
             lang = "en" if d["res"] in EN_RESULTS else "pt"  # per row: a file may hold a Portuguese report and its English twin
             q = norm(d["trecho"].strip("`\"“” "))
-            if q and q not in ("—", "-") and not any(q in c for c in lang_corpora[lang]):
+            corp = lang_corpora[lang] + (LAYOUT if d["check"].strip().startswith("2") else [])  # check 2 cites the layout (required-fields.md), 09/09
+            if q and q not in ("—", "-") and not any(q in c for c in corp):
                 fail("C1", f"{rel}:{ln}", f"quote does not resolve in reference/{lang}/: “{q[:60]}…”")
             if d["res"] not in RESULTS: fail("C2", f"{rel}:{ln}", f"result word not allowed: {d['res']!r}")
             if d["sev"] not in SEVER: fail("C2", f"{rel}:{ln}", f"severity not allowed: {d['sev']!r}")
@@ -219,6 +221,8 @@ def main():
     names = None
     if "--names" in sys.argv: names = sys.argv[sys.argv.index("--names") + 1]
     ids = index_ids(); corp = {"pt": corpus("pt"), "en": corpus("en")}
+    rf = os.path.join(ROOT, "reference", "tables", "required-fields.md")
+    if os.path.exists(rf): LAYOUT.append(norm(read(rf)))
     c0()
     allr = [p for p in glob.glob(os.path.join(ROOT, "rounds", "**", "*.md"), recursive=True) if os.path.basename(p) in ("transcript.md", "report.md") or "report" in os.path.basename(p)]
     controls = [p for p in allr if "/rounds/control-" in p]  # the run without reference/: its quotes are expected NOT to resolve
