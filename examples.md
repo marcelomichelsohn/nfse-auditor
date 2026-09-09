@@ -1,6 +1,6 @@
 # examples.md — worked audits, exactly as the auditor returned them
 
-These are real runs of this folder in a Claude project, on the fixtures in `fixtures/` (anonymised notes of the author's own company, issued by the office), kept **verbatim** — nothing was corrected after the run. Each example says what was fed and in what conditions; the expected result of each run, written before the run, is in `expected/` (outside the loaded set). Each Portuguese report is followed by its English twin, produced by the auditor in the same conversation on the request "Please repeat the report above in English": the English quotes are looked up in `reference/en/`, never translated by the model.
+These are real runs of this folder in a Claude project, on the fixtures in `fixtures/` (anonymised notes of the author's own company, issued by the office), kept **verbatim** — nothing was corrected after the run. Each example says what was fed and in what conditions; the expected result of each run, written before the run, is in `expected/` (outside the loaded set). Each Portuguese report is followed by its English twin, produced by the auditor in the same conversation on the request "Please repeat the report above in English": the English quotes are looked up in `reference/en/`, never translated by the model. What each run showed and what changed in the folder after it, with the commit, is listed in `rounds/fixture-runs-v1/what-changed.md`.
 
 ## Example 1 — a correct note (nfse-01), with the profile line
 

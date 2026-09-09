@@ -127,6 +127,7 @@ def c3():
         if not re.search(r"(?i)field|campo", t) or not re.search(r"(?i)check|rule|regra", t): fail("C3", os.path.relpath(ch, ROOT), "CHANGE.md must name the field and the check/rule")
         m = re.search(r"(?i)check\s*(\d)", t)
         exp = os.path.join(ROOT, "expected", os.path.basename(d) + ".md")
+        if re.search(r"(?i)\*\*not caught", t): continue  # a mutation the rule cannot catch, declared so in CHANGE.md (m5, 09/09) — kept as a record, not a gate
         if m and os.path.exists(exp):
             et = read(exp)
             if not re.search(r"\|\s*" + m.group(1) + r"(-[\wáéíóúãõç]+)?\s*\|[^|]*\|\s*(FALHA|FAIL)\s*\|", et): fail("C3", os.path.relpath(exp, ROOT), f"no FAIL row for check {m.group(1)} named in CHANGE.md")
