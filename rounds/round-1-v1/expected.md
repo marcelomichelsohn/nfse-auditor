@@ -14,3 +14,15 @@
 **What is committed before she starts:** this file; the README of 09/09 (its Portuguese block, the door she reads, is 436 words at commit time — the measure for any rewrite after the round); `examples.md` with three worked examples. **What is not touched during the round:** the five files. Fixes go in `what-changed.md` after her transcript, each in its own commit, and a second run is `round-1b-*/`.
 
 **What this round will not prove.** One operator, one office, one afternoon; notes she chose; a first use. It does not measure time against round 0 (a different task) and it does not prove the checks are the right ones — her wrong notes are the test of that.
+
+## Addendum — 2026-09-09 ~17:20, after the office sent its notes and before the round
+
+The Employee sent four notes of one client, in the national standard (root `NFSe`, `DPS` embedded, signed), all of August 2026, all with the same service code, all issued by a Simples optant with no rate field on the note. The files stay private until the office's confidentiality agreement; nothing of them is in this repository. What is written here uses no client data: note numbers in the emitter's sequence, and what each check should return.
+
+Prediction per note (she composes the profile line from her spreadsheet; we do not know it):
+- **All four:** read as national-standard XML (not "Não lidos"). Check 2 PASSA. Check 3 PASSA (incidence at the provider's establishment; the item is not among the exceptions of LC 116 art. 3). Check 4 PASSA if her profile says Simples optante with a numbered annex; CANNOT DETERMINE if it says fixed ISS (the `regApTribSN` tension the office confirmed on 09/09). Check 6 NÃO SE APLICA.
+- **Check 1 depends on her profile's item.** If the item she registers is the one on the notes, PASSA; if not, FALHA on `1-código` — the office said one client issued with the wrong code last month. This is the row her judgement measures.
+- **Three of the four notes** carry an implied ISS of 2% of the value; **one (the third in the sequence) carries 5%.** The prediction that matters: on that note the auditor must return `5-alíquota` NÃO SE APLICA (a Simples optant pays the ISS inside the DAS; the municipal table is not the applicable rate) and report the implied rate as informational — **not FALHA**. That is failure mode 4 of the spec ("false FAIL from a table that does not apply") on a real note for the first time. `5-aritmética` PASSA on all four if `vLiq` adds up.
+- **Where she may trip:** composing the profile line (which spreadsheet column is the item; whether the annex is a number or "fixo"); the model choice (Opus, high); attaching one note per conversation.
+
+If the round shows the 5% note as a FAIL, the rule held on the author's fixtures and broke on a real note; the fix goes in `what-changed.md` after the transcript, in its own commit.
