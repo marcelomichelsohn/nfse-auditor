@@ -23,3 +23,20 @@ These are real runs of this folder in a Claude project, on the fixtures in `fixt
 | nfse-01.xml | 6 | LC214 art. 62 | NÃO SE APLICA | — | Nesta versão sempre NÃO SE APLICA: a nota não traz grupo `IBSCBS`/`CST`/`cClassTrib`; exposição de IBS/CBS nos DF-e passa a ser exigida conforme as notas técnicas a partir de 01/01/2026 | os Municípios e o Distrito Federal ficam obrigados, a partir de 1º de janeiro de 2026 |
 
 **Não lidos:** (nenhum) — o arquivo é XML NFS-e de padrão nacional (raiz `NFSe` v1.01 com `DPS` embutido) e foi auditado.
+
+### The same report in English (verbatim; second message of the same conversation, after `rules.md` at commit 72ed913 was reloaded — the Portuguese report above ran on the previous `rules.md`)
+
+**Totals for your comparison:** competency 08/2026 (dCompet 2026-08-31) → sum of `vServ` = **R$ 400.00** (1 note read).
+
+| note | check | provision | result | severity | location | quoted excerpt |
+|---|---|---|---|---|---|---|
+| nfse-01.xml | 1-code | LC116 list item 17 | PASS | — | `DPS/infDPS/serv/cServ/cTribNac = 171901` (item 17.19; profile `item LC 116 = 17.19`; code exists in ANEXO_B) | 17.19 – Accounting, including technical and auxiliary services. |
+| nfse-01.xml | 1-description | LC116 art. 1 | CANNOT DETERMINE | — | `xTribNac = "Contabilidade, inclusive serviços técnicos e auxiliares."` × `DPS/infDPS/serv/cServ/xDescServ = "1 Investimento Contábil. 400,00 ..."` — whether the free text matches the code is a judgement | The levy of the tax does not depend on the name given to the service rendered. |
+| nfse-01.xml | 2 | required-fields.md (ANEXO I / XSD v1.01) | PASS | — | All required fields on the used path present and non-empty (e.g. `DPS/infDPS/valores/vServPrest/vServ = 400.00`; `infNFSe/valores/vLiq = 400.00`); every `choice` group satisfied (CNPJ in emit/prest/toma; endNac; cLocPrestacao) | Valor líquido da NFS-e. |
+| nfse-01.xml | 3 | LC116 art. 3 | PASS | — | `infNFSe/cLocIncid = 2800308` = `DPS/infDPS/cLocEmi = 2800308`; item 17.19 is not among the exceptions I–XXV | The service is considered rendered, and the tax, due, at the location of the provider's establishment |
+| nfse-01.xml | 4 | LC123 art. 13 | PASS | — | `prest/regTrib/opSimpNac = 3` (ME/EPP optant) coherent with profile `regime = Simples optante`; `regApTribSN = 1`; `valores/trib/tribMun/tribISSQN = 1`; `tpRetISSQN = 1` (not withheld) — coherent among themselves | entails the monthly collection, by means of a single collection document, |
+| nfse-01.xml | 5-arithmetic | LC116 art. 7 | PASS | — | `vLiq 400.00` = `vServ 400.00` − 0.00 (deductions) − 0.00 (retentions); `vISSQN 8.00` / `vBC 400.00` | The tax base is the price of the service. |
+| nfse-01.xml | 5-rate | LC123 art. 13 | NOT APPLICABLE | — | No `pAliqAplic` field; implied rate `vISSQN/vBC = 8.00/400.00 = 2.00%` (xOutInf: "2,0000%"). For a Simples optant the municipal rate table is not the applicable rate (ISS inside the DAS; accountant at a fixed amount) | entails the monthly collection, by means of a single collection document, |
+| nfse-01.xml | 6 | LC214 art. 62 | NOT APPLICABLE | — | Always NOT APPLICABLE in this version: the note carries no `IBSCBS`/`CST`/`cClassTrib` group; IBS/CBS exposure on DF-e becomes required per the technical notes from 01/01/2026 | the Municipalities and the Federal District are required, as of January 1, 2026 |
+
+**Not read:** (none) — the file is a national-standard NFS-e XML (root `NFSe` v1.01 with embedded `DPS`) and was audited.
