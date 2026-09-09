@@ -8,7 +8,8 @@ Checks (each names the file and the line when it fails):
   C0  every reference/pt/excerpts/*.txt is a verbatim substring (whitespace-normalised) of a reference/pt/full/ text;
       same for reference/en/excerpts/ against reference/en/full/
   C1  every quoted excerpt in a report row (rounds transcripts, examples.md, expected/*.md; column "trecho citado") resolves as a substring of reference/pt/
-      (Portuguese report) or reference/en/ (English report) — never a translated quote
+      (Portuguese row) or reference/en/ (English row) — never a translated quote; language is read per row, so a file may hold a report and its English twin.
+      rounds/control-*/ (the run without reference/) is read in report mode: its unresolved count is printed, not a FAIL
   C2  every report row: the provision id exists in reference/INDEX.md (or is a required-fields.md path for check 2);
       the result is one of the four words; severity is one of the three classes or "—"; the location names an
       XML path that exists in the fixture the row names (when the fixture is in fixtures/)
@@ -16,8 +17,8 @@ Checks (each names the file and the line when it fails):
       has CHANGE.md naming the field and the rule, and its expected file has a FAIL on that check
   C4  every rounds/round-*/ folder has the files the protocol requires (round 0: REQUEST.md + transcript.md;
       others: expected.md + transcript.md)
-  C5  README.md's "what to load" list names the five things + reference/pt/excerpts/ + reference/tables/ and never
-      fixtures/, expected/, rounds/, tools/, reference/pt/full/
+  C5  README.md's "what to load" list AND the entry file CLAUDE.md name the five things + reference/pt/excerpts/ + reference/tables/
+      and never fixtures/, expected/, rounds/, tools/, reference/pt/full/; the entry file is at most twelve lines and holds no rule
   C6  no real identifier leaks: check-digit-valid CNPJ/CPF, e-mails, phone numbers, X509Certificate, and the names
       in an optional private list (--names <file>, kept OUTSIDE the repo) — over every file in the folder
 A checker that never fails is decoration: --selftest runs C1/C2 on tools/selftest/bad-report.md (must FAIL on named
@@ -27,6 +28,7 @@ import os, re, sys, glob, xml.etree.ElementTree as ET
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 RESULTS = {"PASSA", "FALHA", "NÃO DÁ PARA DETERMINAR", "NÃO SE APLICA", "PASS", "FAIL", "CANNOT DETERMINE", "NOT APPLICABLE"}
+EN_RESULTS = {"PASS", "FAIL", "CANNOT DETERMINE", "NOT APPLICABLE"}
 SEVER = {"bloqueia o fechamento", "corrigir antes de fechar", "informativo", "—", "-",
          "blocks closing", "correct before closing", "informational"}
 fails = []
@@ -89,9 +91,9 @@ def find_fixture(name):
 
 def c1_c2(paths, ids, lang_corpora):
     for rp in paths:
-        text = read(rp); rel = os.path.relpath(rp, ROOT)
-        lang = "en" if re.search(r"\|\s*(PASS|FAIL|CANNOT DETERMINE|NOT APPLICABLE)\s*\|", text) and not re.search(r"\|\s*(PASSA|FALHA)\s*\|", text) else "pt"
+        rel = os.path.relpath(rp, ROOT)
         for ln, d in report_rows(rp):
+            lang = "en" if d["res"] in EN_RESULTS else "pt"  # per row: a file may hold a Portuguese report and its English twin
             q = norm(d["trecho"].strip("`\"“” "))
             if q and q not in ("—", "-") and not any(q in c for c in lang_corpora[lang]):
                 fail("C1", f"{rel}:{ln}", f"quote does not resolve in reference/{lang}/: “{q[:60]}…”")
@@ -133,20 +135,41 @@ def c4():
         for n in need:
             if not os.path.exists(os.path.join(d, n)): fail("C4", os.path.relpath(d, ROOT), f"{n} missing")
 
+MUST = ["identity.md", "rules.md", "examples.md", "README.md", "reference/pt/excerpts", "reference/tables"]
+NEVER = ["fixtures/", "expected/", "rounds/", "tools/", "reference/pt/full", "reference/en/full"]
+
+def load_lists(text):
+    """Lines that say 'never load' are the never-list; other lines that say 'load' are the load-list."""
+    load, never = [], []
+    for line in text.split("\n"):
+        l = line.lower()
+        if "never load" in l or "nunca carreg" in l or "não carreg" in l: never.append(line)
+        elif "load" in l or "carreg" in l: load.append(line)
+    return "\n".join(load), "\n".join(never)
+
+def c5_one(name, text):
+    load, never = load_lists(text)
+    for must in MUST:
+        if must not in load: fail("C5", name, f"load list lacks {must}")
+    for n in NEVER:
+        if n not in never: fail("C5", name, f"never-load list lacks {n}")
+        if n in load: fail("C5", name, f"load list names {n}")
+
 def c5():
-    p = os.path.join(ROOT, "README.md")
+    p = os.path.join(ROOT, "README.md"); e = os.path.join(ROOT, "CLAUDE.md")
     if not os.path.exists(p): fail("C5", "README.md", "missing"); return
     t = read(p)
     m = re.search(r"(?is)(what to load|o que carregar).*?(?:\n\n|\Z)", t)
     if not m:
         if os.path.exists(os.path.join(ROOT, "examples.md")): fail("C5", "README.md", "no 'what to load' section, and the auditor files exist")
         else: print("C5   README.md has no 'what to load' section yet (allowed until examples.md exists)")
-        return
-    sec = m.group(0)
-    for must in ["identity.md", "rules.md", "examples.md", "README.md", "reference/pt/excerpts", "reference/tables"]:
-        if must not in sec: fail("C5", "README.md", f"load list lacks {must}")
-    for never in ["fixtures/", "expected/", "rounds/", "tools/", "reference/pt/full", "reference/en/full"]:
-        if re.search(r"(?<!never load )(?<!never )" + re.escape(never), sec): fail("C5", "README.md", f"load list names {never}")
+    else: c5_one("README.md", m.group(0))
+    if not os.path.exists(e): fail("C5", "CLAUDE.md", "entry file missing (it only routes: load / never load / paste / what comes back)"); return
+    et = read(e)
+    c5_one("CLAUDE.md", et)
+    if len([l for l in et.split("\n") if l.strip()]) > 12: fail("C5", "CLAUDE.md", "entry file longer than twelve lines — it must only route")
+    for word in ("PASSA", "FALHA", "art. "):
+        if word in et: fail("C5", "CLAUDE.md", f"entry file carries content ({word!r}); rules live in rules.md")
 
 def cnpj_ok(d):
     d = re.sub(r"\D", "", d)
@@ -197,10 +220,19 @@ def main():
     if "--names" in sys.argv: names = sys.argv[sys.argv.index("--names") + 1]
     ids = index_ids(); corp = {"pt": corpus("pt"), "en": corpus("en")}
     c0()
-    reports = [p for p in glob.glob(os.path.join(ROOT, "rounds", "**", "*.md"), recursive=True) if os.path.basename(p) in ("transcript.md", "report.md") or "report" in os.path.basename(p)]
+    allr = [p for p in glob.glob(os.path.join(ROOT, "rounds", "**", "*.md"), recursive=True) if os.path.basename(p) in ("transcript.md", "report.md") or "report" in os.path.basename(p)]
+    controls = [p for p in allr if "/rounds/control-" in p]  # the run without reference/: its quotes are expected NOT to resolve
+    reports = [p for p in allr if p not in controls]
     reports += [os.path.join(ROOT, "examples.md")] if os.path.exists(os.path.join(ROOT, "examples.md")) else []
     reports += sorted(glob.glob(os.path.join(ROOT, "expected", "*.md")))  # the expected results are report-shaped: their quotes and ids must resolve too
     c1_c2(reports, ids, corp); c3(); c4(); c5(); c6(names)
+    if controls:
+        global fails
+        keep = fails; fails = []
+        c1_c2(controls, ids, corp); ctrl = fails; fails = keep
+        n = sum(len(report_rows(c)) for c in controls)
+        print(f"CONTROL (rounds/control-*, not a gate): rows {n}, C1/C2 findings {len(ctrl)} — the measure of what the folder adds")
+        for f in ctrl: print("   ", f)
     nq = sum(len(report_rows(r)) for r in reports)
     print(f"check_audit: reports read {len(reports)}, rows {nq}; excerpts pt {len(glob.glob(os.path.join(ROOT,'reference/pt/excerpts/*.txt')))} en {len(glob.glob(os.path.join(ROOT,'reference/en/excerpts/*.txt')))}")
     for f in fails: print("FAIL", f)

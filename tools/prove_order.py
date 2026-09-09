@@ -5,7 +5,8 @@
     python3 tools/prove_order.py --verify   # read-only: (ii)+(iii) only, nothing written — run after the push
 
 (i)   order:   rounds/round-0-by-hand/REQUEST.md was first committed before any of identity.md, rules.md, examples.md, reference/;
-               for every rounds/round-N-*/ (N>=1): expected.md first-committed before transcript.md; round N before round N+1
+               for every rounds/round-N-*/ (N>=1): expected.md first-committed before transcript.md; round N before round N+1;
+               expected/ and fixtures/ first-committed before examples.md; rounds/control-*/ and rounds/refusal*/: expected before transcript
 (ii)  remote:  after `git fetch`, HEAD == origin/main and the working tree is clean (nothing pending, nothing unpushed)
 (iii) clone:   a fresh `git clone` of the remote into a new temporary folder reproduces the same first-commit order (i) and
                tools/check_audit.py passes there
@@ -30,6 +31,19 @@ def check_order(cwd):
         t, h = first_commit_time(p, cwd)
         ok = req[0] is not None and t is not None and req[0] < t
         res.append((f"(i) round-0 REQUEST ({req[1]}) before first commit of {p} ({h})", ok))
+    if os.path.exists(os.path.join(cwd, "examples.md")):
+        ex_t, ex_h = first_commit_time("examples.md", cwd)
+        for p in ["expected", "fixtures"]:  # the predictions and the inputs are committed before the first report
+            t, h = first_commit_time(p, cwd)
+            res.append((f"(i) {p}/ ({h}) before first commit of examples.md ({ex_h})", bool(t and ex_t and t < ex_t)))
+    for d in sorted(glob.glob(os.path.join(cwd, "rounds", "control-*")) + glob.glob(os.path.join(cwd, "rounds", "refusal*"))):
+        if not os.path.isdir(d): continue
+        n = os.path.basename(d)
+        ex = first_commit_time(os.path.relpath(os.path.join(d, "expected.md"), cwd), cwd)
+        tr = first_commit_time(os.path.relpath(os.path.join(d, "transcript.md"), cwd), cwd)
+        if ex[0] and tr[0]: res.append((f"(i) {n}: expected ({ex[1]}) before transcript ({tr[1]})", ex[0] < tr[0]))
+        elif ex[0]: res.append((f"(i) {n}: expected committed ({ex[1]}), transcript not yet", True))
+        else: res.append((f"(i) {n}: expected.md not committed", False))
     rounds = sorted(d for d in glob.glob(os.path.join(cwd, "rounds", "round-*")) if os.path.isdir(d))
     prev = None
     for d in rounds:
