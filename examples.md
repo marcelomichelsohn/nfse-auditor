@@ -169,3 +169,43 @@ I'll read the framework files first, then process the XML. Let me start with the
 | nfse-02.xml (nNFSe 5) | 6 | LC214 art. 62 | NOT APPLICABLE | — | No `CST`/`cClassTrib`/`IBSCBS` group on the note. IBS/CBS exposure on electronic fiscal documents phases in from 01/01/2026 (national portal for Simples optants from 01/11/2026); no portfolio municipality exposes the fields yet. | authorize their taxpayers to issue the national-standard Nota Fiscal de Serviços Eletrônica (NFS-e) in the national environment |
 
 **Not read:** none — the file is a national-standard NFS-e (root `NFSe`, versão 1.01, embedded `DPS`).
+
+## Example 4b — the null case again, after the correction (nfse-02 without the profile line)
+
+**What was fed:** `fixtures/clean/nfse-02.xml` (attached), and nothing else — no text in the message. A new conversation.
+**Conditions:** same project with `rules.md` at commit f38ec00 (the three clauses added after example 4); model Claude Opus 4.8, effort "low"; 2026-09-09 ~11:15; operator: the author. Expected result: `expected/nfse-02-sem-perfil.md` (unchanged since 08:42).
+**What happened:** the report matches the prediction row by row — Portuguese with no text in the message; CANNOT DETERMINE on `1-código` ("a code that exists is not a code that is right for this client"), `1-descrição`, `4` and `5-alíquota`; PASS on `2`, `3`, `5-aritmética`; NOT APPLICABLE on `6`. Check 4 cites LC123 art. 18 §5º-B (item XIV, accounting offices) instead of art. 13 — both are in the check's list.
+
+### Report (Portuguese, verbatim)
+
+Totais para a sua comparação: 09/2026 — R$ 400,00.
+
+| nota | check | dispositivo | resultado | severidade | localização | trecho citado |
+|---|---|---|---|---|---|---|
+| nfse-02.xml | 1-código | LC116 list item 17 | NÃO DÁ PARA DETERMINAR | — | `DPS/infDPS/serv/cServ/cTribNac = 171901` (existe no ANEXO B: item 17, subitem 19, desdobro 1). Falta a linha de perfil: um código que existe não é um código certo para este cliente. | "Contabilidade, inclusive serviços técnicos e auxiliares." |
+| nfse-02.xml | 1-descrição | LC116 list item 17 | NÃO DÁ PARA DETERMINAR | — | `xDescServ = "1 Investimento Contábil. 400,00 ..."` × descrição do código `171901 = "Contabilidade, inclusive serviços técnicos e auxiliares."` — juízo sobre palavras. | "Contabilidade, inclusive serviços técnicos e auxiliares." |
+| nfse-02.xml | 2 | ANEXO I / XSD v1.01 (required-fields.md) | PASSA | — | Todos os campos obrigatórios presentes e não vazios no caminho usado pela nota (`emit`, `emit/enderNac`, `prest/regTrib` [`opSimpNac`, `regEspTrib`], `toma` [`xNome`, `end/xLgr`, `nro`, `xBairro`], `serv/cServ` [`cTribNac`, `xDescServ`], `valores/vServPrest/vServ`, `trib/tribMun`, `trib/totTrib`, `infNFSe/valores/vLiq`). | — |
+| nfse-02.xml | 3 | LC116 art. 3 | PASSA | — | Item 17.19 não consta das exceções dos incisos I–XXV (do item 17, só 17.05 e 17.10). Regra padrão: devido no estabelecimento prestador. `infNFSe/cLocIncid = 2800308` = `DPS/infDPS/cLocEmi = 2800308` (Aracaju). | "O serviço considera-se prestado e o imposto devido no local do estabelecimento prestador" |
+| nfse-02.xml | 4 | LC123 art. 18 §5º-B | NÃO DÁ PARA DETERMINAR | — | `prest/regTrib/opSimpNac = 3`, `regApTribSN = 1`, `tribMun/tribISSQN = 1`, `tpRetISSQN = 1` são coerentes entre si; falta a linha de perfil para confrontar com o `regime` cadastral do cliente. As flags da própria nota não substituem o perfil. | "XIV - escritórios de serviços contábeis, observado o disposto nos §§ 22-B e 22-C deste artigo." |
+| nfse-02.xml | 5-aritmética | LC116 art. 7 | PASSA | — | `vLiq = 400,00` = `vServ = 400,00` − 0 (sem descontos) − 0 (sem retenção; `tpRetISSQN = 1` = não retido). Fecha. | "A base de cálculo do imposto é o preço do serviço." |
+| nfse-02.xml | 5-alíquota | LC123 art. 18 §22-A | NÃO DÁ PARA DETERMINAR | — | Sem campo de alíquota (`pAliqAplic` ausente): alíquota implícita `vISSQN/vBC = 8,00/400,00 = 2,0%` fica apenas informativa. Sem a linha de perfil não se confirma o regime que fixa a alíquota aplicável (optante → ISS no DAS / valor fixo do contador). | "recolherá o ISS em valor fixo, na forma da legislação municipal." |
+| nfse-02.xml | 6 | LC214 art. 62 | NÃO SE APLICA | — | Nenhum município da carteira expõe ainda os campos IBS/CBS; a nota não carrega `CST`/`cClassTrib` (grupo `IBSCBS` ausente). Reentra quando uma nota real trouxer esses campos. | "os Municípios e o Distrito Federal ficam obrigados, a partir de 1º de janeiro de 2026" |
+
+Não lidos: nenhum.
+
+### The same report in English (verbatim; second message of the same conversation; not a new audit)
+
+Totals for your comparison: 09/2026 — R$ 400.00
+
+| note | check | provision | result | severity | location | quoted excerpt |
+|---|---|---|---|---|---|---|
+| nfse-02.xml | 1-código | LC116 list item 17 | CANNOT DETERMINE | — | `DPS/infDPS/serv/cServ/cTribNac = 171901` (exists in ANEXO B: item 17, subitem 19, breakdown 1). No profile line: a code that exists is not a code that is right for this client. | "Accounting, including technical and auxiliary services." |
+| nfse-02.xml | 1-descrição | LC116 list item 17 | CANNOT DETERMINE | — | `xDescServ = "1 Investimento Contábil. 400,00 ..."` × description of code `171901 = "Contabilidade, inclusive serviços técnicos e auxiliares."` — a judgement about words. | "Accounting, including technical and auxiliary services." |
+| nfse-02.xml | 2 | ANEXO I / XSD v1.01 (required-fields.md) | PASS | — | Every required element is present and non-empty on the path the note uses (`emit`, `emit/enderNac`, `prest/regTrib` [`opSimpNac`, `regEspTrib`], `toma` [`xNome`, `end/xLgr`, `nro`, `xBairro`], `serv/cServ` [`cTribNac`, `xDescServ`], `valores/vServPrest/vServ`, `trib/tribMun`, `trib/totTrib`, `infNFSe/valores/vLiq`). | — |
+| nfse-02.xml | 3 | LC116 art. 3 | PASS | — | Item 17.19 is not among the exceptions of items I–XXV (of item 17, only 17.05 and 17.10). Default rule: due at the provider's establishment. `infNFSe/cLocIncid = 2800308` = `DPS/infDPS/cLocEmi = 2800308` (Aracaju). | "The service is considered rendered, and the tax due, at the location of the provider's establishment" |
+| nfse-02.xml | 4 | LC123 art. 18 §5º-B | CANNOT DETERMINE | — | `prest/regTrib/opSimpNac = 3`, `regApTribSN = 1`, `tribMun/tribISSQN = 1`, `tpRetISSQN = 1` are coherent among themselves; the profile line is missing to confront them with the client's registered `regime`. The note's own flags do not replace the profile. | "offices, observing the provisions of §§ 22-B and 22-C of this article." |
+| nfse-02.xml | 5-aritmética | LC116 art. 7 | PASS | — | `vLiq = 400.00` = `vServ = 400.00` − 0 (no discounts) − 0 (no retention; `tpRetISSQN = 1` = not retained). Adds up. | "The tax base is the price of the service." |
+| nfse-02.xml | 5-alíquota | LC123 art. 18 §22-A | CANNOT DETERMINE | — | No rate field (`pAliqAplic` absent): the implied rate `vISSQN/vBC = 8.00/400.00 = 2.0%` is informational only. Without the profile line the regime that fixes the applicable rate cannot be confirmed (optant → ISS inside the DAS / accountant's fixed amount). | "fixed amount, pursuant to municipal legislation." |
+| nfse-02.xml | 6 | LC214 art. 62 | NOT APPLICABLE | — | No municipality in the office's portfolio exposes the IBS/CBS fields yet; the note carries no `CST`/`cClassTrib` (the `IBSCBS` group is absent). Re-enters when a real note carries those fields. | "the Municipalities and the Federal District are required, as of January 1, 2026" |
+
+Not read: none.
