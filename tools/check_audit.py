@@ -102,7 +102,7 @@ def c1_c2(paths, ids, lang_corpora):
             disp = d["disp"].strip("*` ")
             if not (disp in ids or disp.startswith("NFSe/") or disp.startswith("required-fields") or disp.startswith("ANEXO")):
                 fail("C2", f"{rel}:{ln}", f"provision id not in reference/INDEX.md: {disp!r}")
-            m = re.match(r"^([A-Za-z0-9_/\.\-]+)\s*=", d["loc"])
+            m = re.match(r"^([A-Za-z0-9_/\.\-]+)\s*=", d["loc"].lstrip("`"))  # the model may wrap the path in backticks
             if m:
                 fx = find_fixture(d["nota"])
                 if fx:
