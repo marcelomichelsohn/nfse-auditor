@@ -49,8 +49,8 @@ The English texts are machine translations by parallel agents, accepted as they 
 | Required fields (generated from the XSD) | `tables/required-fields.md` | generated 08/09/2026 by script from the zip above | check 2 |
 | indOper table (39 codes, valid from 17/11/2025) | `tables/official/tabela-indoper.xlsx` | delivered by the office; matches ANEXO_C codes — origin not stated in the file | v2 only |
 | Municipal ISS rates — rows of IBGE 2800308 (Aracaju/SE) only, from the official extraction of 03/09/2026 | `tables/municipal-rates_2800308-aracaju-se_extract-20260903.csv` | https://www.gov.br/nfse/pt-br/biblioteca/perguntas-e-respostas/aliquotas (file aliquotas-municipios-20260903-extr1.zip, 03/09/2026 15:33) | check 5 — NOT the applicable rate for a Simples optant (LC123 art. 13 VIII); kept as the excerpt that supports NOT APPLICABLE |
-| Office working table — CNAE → LC 116 item | `tables/working/01_cnae_para_lc116.csv` | compiled by the office — see `tables/README.md` | lookup only for check 1; never cited as a provision |
-| Office working table — LC 116 item → NBS → indOp → cClassTrib | `tables/working/02_lc116_para_nbs_cclasstrib.csv` | compiled by the office — see `tables/README.md` | lookup only (v2); never cited as a provision |
+| Office working table — CNAE → LC 116 item | `tables/working/01_cnae_para_lc116.csv` | compiled by the office — see `tables/TABLES.md` | lookup only for check 1; never cited as a provision |
+| Office working table — LC 116 item → NBS → indOp → cClassTrib | `tables/working/02_lc116_para_nbs_cclasstrib.csv` | compiled by the office — see `tables/TABLES.md` | lookup only (v2); never cited as a provision |
 
 ## Not in this folder, on purpose
 - The full municipal rate extraction (277 MB, 5,571 municipalities): only the rows of the municipality of the tested notes are here, with the source and date of the official file.

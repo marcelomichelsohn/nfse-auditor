@@ -216,7 +216,7 @@ def c6(names_file=None):
     for p in glob.glob(os.path.join(ROOT, "**", "*"), recursive=True):
         if os.path.isdir(p) or "/.git/" in p or "__pycache__" in p or p.endswith((".xlsx", ".zip", ".pdf", ".png", ".pyc")) or p.endswith("check_audit.py"): continue
         rel = os.path.relpath(p, ROOT); t = read(p)
-        if rel.startswith("reference/") and not rel.startswith("reference/tables/README") and rel != "reference/INDEX.md":
+        if rel.startswith("reference/") and not rel.startswith("reference/tables/TABLES") and rel != "reference/INDEX.md":
             continue  # laws and official tables carry public identifiers of public bodies; the sweep is for the folder's own text and fixtures
         for i, line in enumerate(t.split("\n"), 1):
             for m in re.finditer(r"\b\d{2}\.?\d{3}\.?\d{3}/?\d{4}-?\d{2}\b", line):
