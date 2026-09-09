@@ -21,3 +21,15 @@ Runs planned (the author decides how many are done; each is one conversation):
 **How it is measured.** (a) `tools/check_audit.py` in control mode on the transcript: resolvable quotes (expected: none). (b) Row by row against `expected/nfse-01.md` and `expected/m1-codigo-servico.md`: results that match, false FAILs (the rate trap), judgements decided that the folder returns as CANNOT DETERMINE, and advice given. Written into `what-this-shows.md` after the run, from the checker's output and the comparison, never typed from memory.
 
 **What this will not prove.** One or two notes, one run per model, low effort on one of them. It does not rank models; it shows what a plain request returns next to what the folder returns on the same input.
+
+## Addendum — 2026-09-09 ~13:45, after B1 and before any further run
+
+**Condition of B1, learned after it ran:** web search was **on** in that chat. The author's definition of the control (09/09): the model with everything it can do on its own, web included, without the folder. So B1 stands as the control; the runs below keep web on.
+
+**Prediction 2 above was wrong for B1:** the bare model did not fall for the rate table; it recognised the IBPT figures as informational. It did advise (corrections written out), it did produce no checkable rows (the checker read 0), and its citations do not open in the folder (one verbatim, one reworded, two from sources not in the folder). It also raised `regEspTrib = 0` (a field the folder does not check) — a candidate check, and a question for the office.
+
+**B2 and B4 dropped** (author, 09/09): catching code 01.01 on an accounting client whose profile says 17.19 is easy for any model, and the advice was already shown in B1.
+
+**B5 — the null case, bare:** Claude Opus 4.8, effort "low", web on; `fixtures/clean/nfse-02.xml` attached, **no profile line**, the same fixed request. The folder returned CANNOT DETERMINE on `1-código`, `1-descrição`, `4`, `5-alíquota` (example 4b). Prediction: the bare model reads the regime and the item from the note's own flags and free text (`opSimpNac = 3`, "Fixo Contador") and gives verdicts on them — it does not say "cannot determine without the client's registration". If it does say so, the folder's second claim is weaker than we think, and that goes in `what-this-shows.md` too.
+
+**B3 — the ceiling:** Claude Fable 5.1, effort "high", web on; `fixtures/clean/nfse-01.xml` + profile line. Prediction: more accurate on the law than B1, still no verbatim quotes the checker can resolve, still advises.
