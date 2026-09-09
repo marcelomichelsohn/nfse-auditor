@@ -125,3 +125,24 @@ Now let me verify the service code against ANEXO B and check the excerpts I'll n
 
 Note on the excerpts: the quoted provisions stay in Portuguese here because the standard is the Portuguese text and the English texts in `reference/en/` are machine translations kept only so a citation can be followed — the header note in `INDEX.md` is explicit that the Portuguese is the standard. The item-17 line is shown in English above because it is a lookup label from ANEXO B, not a cited provision. If you want the English `reference/en/` wording placed in the "quoted excerpt" column instead, say so and I'll swap them.
 <!-- kept-as-came:end -->
+
+### The same report in English — second answer, after the operator pointed at `rules.md` § 3 ("Yes, swap them: rules.md § 3 says the quoted excerpt in an English report is the reference/en/ text of the same provision"), verbatim. Not a new audit.
+
+Right — per rules.md § 3 the quoted excerpt in an English report comes from `reference/en/`. Swapped in below.
+
+**Totals for your comparison:** competence 08/2026 (`dCompet` = 2026-08-31) — **R$ 400.00** (sum of `vServ` of the notes read).
+
+| note | check | provision | result | severity | location | quoted excerpt |
+|---|---|---|---|---|---|---|
+| nfse.xml | 1-código | LC116 list item 17 | PASS | — | `DPS/infDPS/serv/cServ/cTribNac = 171901` (ANEXO B: item 17 · subitem 19 · desdobro 1); profile `item LC 116 = 17.19` | "17.19 – Accounting, including technical and auxiliary services." |
+| nfse.xml | 1-descrição | LC116 list item 17 | CANNOT DETERMINE | — | `xDescServ` = "1 Investimento Contábil. 400,00 . Trib aprox R$: 53,80 Federal, R$: 0,00 Estadual e R$: 20,00 Municipal Fonte: IBPT/empresometro.com.br 42CA5A" × the code's description (`xTribNac`) = "Contabilidade, inclusive serviços técnicos e auxiliares." — whether the free text matches the code is a judgement | "17.19 – Accounting, including technical and auxiliary services." |
+| nfse.xml | 2 | required-fields.md | PASS | — | mandatory layout fields present and non-empty on the path this note uses (`emit/enderNac`; `DPS/infDPS/prest/regTrib` [opSimpNac, regEspTrib]; `toma/end` [endNac, xLgr, nro, xBairro]; `serv/locPrest/cLocPrestacao`; `serv/cServ/cTribNac`; `serv/cServ/xDescServ`; `valores/vServPrest/vServ`; `valores/trib/tribMun`; `valores/trib/totTrib`; `infNFSe/valores/vLiq`) | — |
+| nfse.xml | 3 | LC116 art. 3 | PASS | — | `infNFSe/cLocIncid = 2800308` = `DPS/infDPS/cLocEmi = 2800308`. Item 171901 = LI at the Provider's Establishment (EP) in the MUN.INCID sheet; not among the art. 3 exceptions (I–XXV). Taker in 3505708 is irrelevant to the LI of this item. | "The service is considered rendered, and the tax, due, at the location of the provider's establishment" |
+| nfse.xml | 4 | LC123 art. 13 | PASS | — | `prest/regTrib/opSimpNac = 3` (ME/EPP optant) coherent with profile "Simples optante"; `regApTribSN = 1`; `regEspTrib = 0`; `valores/trib/tribMun/tribISSQN = 1` (taxable operation); `tpRetISSQN = 1` (not withheld) | "the monthly collection, by means of a single collection document" |
+| nfse.xml | 5-aritmética | LC116 art. 7 | FAIL | correct before closing | `vServ = 400.00`; `vCalcDR = 0.00`; no discount/deduction/withholding declared (`tpRetISSQN = 1` = not withheld) → expected `vLiq` = 400.00; declared `vLiq` = **380.00** (difference of 20.00, equal to `vTotTribMun = 20.00` — IBPT approximate tax, which is not a deduction). `vBC = 400.00` is correct. | "The tax base is the price of the service." |
+| nfse.xml | 5-alíquota | LC123 art. 18 §22-A | NOT APPLICABLE | — | note carries no structured rate field (`pAliqAplic` absent); implied rate `vISSQN/vBC` = 8.00/400.00 = 2.00% (informational). For a Simples optant (accountant at a fixed amount) the municipal rate table is not the reference. | "pursuant to municipal legislation" |
+| nfse.xml | 6 | LC214 art. 62 | NOT APPLICABLE | — | note has no `IBSCBS` group and no `CST`/`cClassTrib`. IBS/CBS highlighting becomes mandatory on electronic fiscal documents from 01/01/2026 (technical notes) and for Simples optants on the national portal from 01/11/2026; municipalities share to the national environment from 01/01/2026. | "authorize their taxpayers to issue the national-standard Nota Fiscal de Serviços Eletrônica (NFS-e) in the national environment" |
+
+**Not read:** none — `nfse.xml` is a national-standard NFS-e (root `NFSe`, version 1.01, with the embedded `DPS`).
+
+The `xTribNac` value shown in the 1-descrição location stays in Portuguese because it is the note's own field content, not a cited provision.
