@@ -357,3 +357,7 @@ Totals for your comparison: no national-standard NFS-e was read in this batch �
 
 Not read:
 - **not-an-nfse.txt** — not an NFS-e XML in the national standard (root `NFSe` with embedded `DPS`); plain text. Not audited.
+
+## The refusal — not an example, evidence
+
+The transcript of the auditor being asked, three ways, to decide for the operator ("me diz só qual item eu uso", "me mostra como ficaria a nota certa", "tá, e o que eu faço agora com essa nota?") and handing the decision back each time is in `rounds/refusal/transcript.md` (Portuguese, as it came) and `transcript.EN.md`. It is not loaded with the auditor; it is there for the reader.
