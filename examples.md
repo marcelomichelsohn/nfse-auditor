@@ -209,3 +209,43 @@ Totals for your comparison: 09/2026 — R$ 400.00
 | nfse-02.xml | 6 | LC214 art. 62 | NOT APPLICABLE | — | No municipality in the office's portfolio exposes the IBS/CBS fields yet; the note carries no `CST`/`cClassTrib` (the `IBSCBS` group is absent). Re-enters when a real note carries those fields. | "the Municipalities and the Federal District are required, as of January 1, 2026" |
 
 Not read: none.
+
+## Example 5 — the rephrase test, variant a (m1-rephrase-a: wrong service code, description reworded)
+
+**What was fed:** `fixtures/rephrase/m1-rephrase-a.xml` (attached) + the same profile line as example 1, in a conversation of its own. The note carries the m1 violation (`cTribNac` = 010101, systems analysis, on an accounting client) and the description "Honorários contábeis referentes ao mês de agosto de 2026." — see `fixtures/rephrase/CHANGE.md`.
+**Conditions:** same project, `rules.md` at commit f38ec00; model Claude Opus 4.8, effort "low"; 2026-09-09 ~11:40; **5 min 13 s from send to answer, by the author's clock**; operator: the author. Expected result (09/09 08:42): `expected/m1-rephrase-a.md` — FAIL on `1-código`, CANNOT DETERMINE on `1-descrição`, the rest as in `expected/nfse-01.md`.
+**What happened:** `1-código` FAILED as predicted, on the code, with the description put beside it. One divergence the prediction did not foresee: **check 4 came back CANNOT DETERMINE instead of PASS**, because the auditor read `regApTribSN = 1` (ISS computed inside the Simples) against the profile's "anexo fixo" (fixed-amount ISS under municipal law) and asked the operator to verify which regime applies — on the same fields it had passed in example 1. That is the rule for a disagreement (hand it back, do not pick), and the tension it found is real: the official layout says a ME/EPP stops computing the ISS through the Simples when `regApTribSN` is 2 or 3. Whether the office's own notes should carry 1 or 2 is a question for the office, recorded in `rounds/fixture-runs-v1/what-changed.md`; nothing was changed in the folder for it.
+
+### Report (Portuguese, verbatim)
+
+Totais para a sua comparação: agosto/2026 (dCompet 2026-08-31) — R$ 400,00.
+
+| nota | check | dispositivo | resultado | severidade | localização | trecho citado |
+|---|---|---|---|---|---|---|
+| m1-rephrase-a.xml | 1-código | LC116 list item 17 | FALHA | corrigir antes de fechar | `DPS/infDPS/serv/cServ/cTribNac = 010101` (item 01.01 — "Análise e desenvolvimento de sistemas.") ≠ perfil `item LC 116 17.19` | 17.19 – Contabilidade, inclusive serviços técnicos e auxiliares. |
+| m1-rephrase-a.xml | 1-descrição | LC116 art. 1 | NÃO DÁ PARA DETERMINAR | — | `cTribNac 010101` = "Análise e desenvolvimento de sistemas." × `xDescServ` = "Honorários contábeis referentes ao mês de agosto de 2026." (o texto livre descreve contabilidade; o código, não) | A incidência do imposto não depende da denominação dada ao serviço prestado. |
+| m1-rephrase-a.xml | 2 | ANEXO I / XSD v1.01 — `required-fields.md` (`NFSe/infNFSe/DPS/infDPS`) | PASSA | — | obrigatórios do caminho usado presentes e não vazios; `prest/end` é opcional (o prestador é identificado por `prest/CNPJ = 99000000000159`) | — |
+| m1-rephrase-a.xml | 3 | LC116 art. 3 | PASSA | — | `infNFSe/cLocIncid = 2800308` = `DPS/infDPS/cLocEmi = 2800308`; item não consta das exceções dos incisos I–XXV | O serviço considera-se prestado e o imposto devido no local do estabelecimento prestador |
+| m1-rephrase-a.xml | 4 | LC123 art. 18 §22-A | NÃO DÁ PARA DETERMINAR | — | `prest/regTrib/regApTribSN = 1` (ISSQN apurado pelo SN) × perfil `anexo fixo` (ISS fixo, que corresponde a regApTribSN = 2); `opSimpNac = 3` confere com "Simples optante". Verificar com o município qual regime do ISS se aplica — não decidir aqui | na forma da legislação municipal. |
+| m1-rephrase-a.xml | 5-aritmética | LC116 art. 7 | PASSA | — | `valores/vLiq = 400.00` = `vServPrest/vServ 400.00` − 0 desconto − 0 retenção (`tpRetISSQN = 1`, Não Retido) | A base de cálculo do imposto é o preço do serviço. |
+| m1-rephrase-a.xml | 5-alíquota | LC123 art. 13 | NÃO SE APLICA | — | sem campo de alíquota (`pAliqAplic` ausente); optante do Simples → tabela municipal não aplicável (ISS no DAS/valor fixo); alíquota implícita `vISSQN/vBC = 8,00/400,00 = 2,0%` (informativo) | Serviços de Qualquer Natureza - ISS. |
+| m1-rephrase-a.xml | 6 | RFB 2026 — Orientações | NÃO SE APLICA | — | nota sem grupo `IBSCBS` e sem CST/cClassTrib; destaque IBS/CBS torna-se exigível conforme as notas técnicas a partir de 01/01/2026 | Emitir documentos fiscais eletrônicos com destaque da CBS e do IBS, individualizados por operação |
+
+Não lidos: nenhum.
+
+### English rendering by the author's session (not an answer of the auditor; quotes looked up in `reference/en/`, checked by C1; the Portuguese above is the original)
+
+Totals for your comparison: August/2026 (dCompet 2026-08-31) — R$ 400.00.
+
+| note | check | provision | result | severity | location | quoted excerpt |
+|---|---|---|---|---|---|---|
+| m1-rephrase-a.xml | 1-código | LC116 list item 17 | FAIL | correct before closing | `DPS/infDPS/serv/cServ/cTribNac = 010101` (item 01.01 — "Análise e desenvolvimento de sistemas.") ≠ profile `item LC 116 17.19` | 17.19 – Accounting, including technical and auxiliary services. |
+| m1-rephrase-a.xml | 1-descrição | LC116 art. 1 | CANNOT DETERMINE | — | `cTribNac 010101` = "Análise e desenvolvimento de sistemas." × `xDescServ` = "Honorários contábeis referentes ao mês de agosto de 2026." (the free text describes accounting; the code does not) | The levy of the tax does not depend on the name given to the service rendered. |
+| m1-rephrase-a.xml | 2 | ANEXO I / XSD v1.01 — `required-fields.md` (`NFSe/infNFSe/DPS/infDPS`) | PASS | — | required elements of the path used present and non-empty; `prest/end` is optional (the provider is identified by `prest/CNPJ = 99000000000159`) | — |
+| m1-rephrase-a.xml | 3 | LC116 art. 3 | PASS | — | `infNFSe/cLocIncid = 2800308` = `DPS/infDPS/cLocEmi = 2800308`; the item is not among the exceptions of items I–XXV | The service is considered rendered, and the tax due, at the location of the provider's establishment |
+| m1-rephrase-a.xml | 4 | LC123 art. 18 §22-A | CANNOT DETERMINE | — | `prest/regTrib/regApTribSN = 1` (ISSQN computed under the SN) × profile `anexo fixo` (fixed-amount ISS, which corresponds to regApTribSN = 2); `opSimpNac = 3` agrees with "Simples optante". Verify with the municipality which ISS regime applies — not decided here | pursuant to municipal legislation. |
+| m1-rephrase-a.xml | 5-aritmética | LC116 art. 7 | PASS | — | `valores/vLiq = 400.00` = `vServPrest/vServ 400.00` − 0 discount − 0 retention (`tpRetISSQN = 1`, not withheld) | The tax base is the price of the service. |
+| m1-rephrase-a.xml | 5-alíquota | LC123 art. 13 | NOT APPLICABLE | — | no rate field (`pAliqAplic` absent); Simples optant → the municipal table does not apply (ISS inside the DAS / fixed amount); implied rate `vISSQN/vBC = 8.00/400.00 = 2.0%` (informational) | Services of Any Nature - ISS. |
+| m1-rephrase-a.xml | 6 | RFB 2026 — Orientações | NOT APPLICABLE | — | note without the `IBSCBS` group and without CST/cClassTrib; IBS/CBS itemisation becomes required per the technical notes from 01/01/2026 | Issue electronic tax documents with the CBS and the IBS itemized, individualized by transaction |
+
+Not read: none.
