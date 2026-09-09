@@ -24,7 +24,7 @@ These are real runs of this folder in a Claude project, on the fixtures in `fixt
 
 **Não lidos:** (nenhum) — o arquivo é XML NFS-e de padrão nacional (raiz `NFSe` v1.01 com `DPS` embutido) e foi auditado.
 
-### The same report in English (verbatim; second message of the same conversation, after `rules.md` at commit 72ed913 was reloaded — the Portuguese report above ran on the previous `rules.md`)
+### The same report in English (verbatim). Not a new audit: the second message of the same conversation asked for the report above in English. What it shows is that the English quotes were looked up in `reference/en/`, not translated. (`rules.md` was updated between the two messages — commit 72ed913 — but no audit was re-run.)
 
 **Totals for your comparison:** competency 08/2026 (dCompet 2026-08-31) → sum of `vServ` = **R$ 400.00** (1 note read).
 
