@@ -289,3 +289,43 @@ Totals for your comparison: competence 08/2026 (dCompet 2026-08-31) — R$ 400.0
 | m1-rephrase-b.xml | 6 | RFB 2026 — Orientações | NOT APPLICABLE | — | No `IBSCBS` group and no CST/cClassTrib on the note; no municipality of the portfolio exposes the IBS/CBS fields in this version. Re-enters when a real note carries those fields. | "Issue electronic tax documents with the CBS and the IBS itemized, individualized by transaction, in accordance with the rules and layouts defined in Technical Notes specific to each document;" |
 
 Not read: none.
+
+## Example 7 — the rephrase test, variant c (m1-rephrase-c): three out of three
+
+**What was fed:** `fixtures/rephrase/m1-rephrase-c.xml` (attached) + the same profile line, in a conversation of its own. Same wrong code (010101); description "Assessoria contábil mensal conforme contrato. Valor R$ 400,00."
+**Conditions:** same project, `rules.md` at commit f38ec00; model Claude Opus 4.8, effort "low"; 2026-09-09 ~12:15; time not measured; operator: the author. Expected result (09/09 08:42): `expected/m1-rephrase-c.md`.
+**What happened:** `1-código` FAILED as predicted — **the third of three**. The same violation, with the free text written three different ways, fired every time, each in a conversation of its own: the auditor reads the field against the profile, not the phrasing (`fixtures/rephrase/CHANGE.md`). `1-descrição` CANNOT DETERMINE, now with the three texts side by side (the free text, the code's official description, and the note's own `xTribNac`, which contradict each other). Check 4 PASS, as in example 6.
+
+### Report (Portuguese, verbatim)
+
+**Totais para a sua comparação:** 2026-08 (dCompet 2026-08-31): R$ 400,00 — 1 nota.
+
+| nota | check | dispositivo | resultado | severidade | localização | trecho citado |
+|---|---|---|---|---|---|---|
+| m1-rephrase-c.xml | 1-código | LC116 list item 17 | FALHA | corrigir antes de fechar | `DPS/infDPS/serv/cServ/cTribNac = 010101` (= código nacional 10101, item **01.01** "Análise e desenvolvimento de sistemas") ≠ perfil `item LC 116 = 17.19` (código nacional 171901) | "17.19 – Contabilidade, inclusive serviços técnicos e auxiliares." |
+| m1-rephrase-c.xml | 1-descrição | LC116 art. 1 | NÃO DÁ PARA DETERMINAR | — | `serv/cServ/xDescServ = "Assessoria contábil mensal conforme contrato. Valor R$ 400,00."` · descrição do código 010101 na ANEXO B = "Análise e desenvolvimento de sistemas" · `infNFSe/xTribNac = "Contabilidade, inclusive serviços técnicos e auxiliares."` (texto e código na própria nota divergem) | "§ 4o A incidência do imposto não depende da denominação dada ao serviço prestado." |
+| m1-rephrase-c.xml | 2 | `required-fields.md` (XSD v1.01) | PASSA | — | todos os elementos obrigatórios do leiaute presentes e não vazios no caminho usado pela nota (inclui `serv/cServ/cTribNac`, `serv/cServ/xDescServ`, `valores/vLiq = 400.00`, `prest/regTrib/opSimpNac = 3`) | — |
+| m1-rephrase-c.xml | 3 | LC116 art. 3 | PASSA | — | `infNFSe/cLocIncid = 2800308` = `DPS/infDPS/cLocEmi = 2800308`; item 17.19 não consta das exceções (incisos I–XXV — no item 17, só 17.05 e 17.10), logo vale a regra geral (estabelecimento prestador) | "O serviço considera-se prestado e o imposto devido no local do estabelecimento prestador" |
+| m1-rephrase-c.xml | 4 | LC123 art. 13 | PASSA | — | `prest/regTrib/opSimpNac = 3` (optante ME/EPP) coerente com o perfil "Simples optante"; `regApTribSN = 1`; `regEspTrib = 0`; `tribMun/tribISSQN = 1`; `tpRetISSQN = 1` — sem contradição entre si nem com o perfil | "Serviços de Qualquer Natureza - ISS." |
+| m1-rephrase-c.xml | 5-aritmética | LC116 art. 7 | PASSA | — | `vLiq = 400.00` = `vServ 400.00` − deduções 0 − retenções 0; `vBC = 400.00` | "Art. 7o A base de cálculo do imposto é o preço do serviço." |
+| m1-rephrase-c.xml | 5-alíquota | LC123 art. 13 | NÃO SE APLICA | — | sem campo de alíquota (`pAliqAplic` ausente); alíquota implícita `vISSQN/vBC = 8.00/400.00 = 2,0000%` (informativo; `xOutInf` declara 2,0000%); optante → ISS recolhido no DAS, a tabela municipal de alíquotas não se aplica | "recolhimento mensal, mediante documento único de arrecadação" |
+| m1-rephrase-c.xml | 6 | LC214 art. 62 | NÃO SE APLICA | — | nota sem `CST`/`cClassTrib`; nenhum município da carteira expõe os campos IBS/CBS nesta versão | "compartilhar os documentos fiscais eletrônicos, após a recepção, validação e autorização, com o ambiente nacional" |
+
+**Não lidos:** nenhum — o arquivo é NFS-e XML do padrão nacional (raiz `NFSe`, versão 1.01, com `DPS` embutida).
+
+### English rendering by the author's session (not an answer of the auditor; quotes looked up in `reference/en/`, checked by C1)
+
+**Totals for your comparison:** 2026-08 (dCompet 2026-08-31): R$ 400.00 — 1 note.
+
+| note | check | provision | result | severity | location | quoted excerpt |
+|---|---|---|---|---|---|---|
+| m1-rephrase-c.xml | 1-código | LC116 list item 17 | FAIL | correct before closing | `DPS/infDPS/serv/cServ/cTribNac = 010101` (= national code 10101, item **01.01** "Análise e desenvolvimento de sistemas") ≠ profile `item LC 116 = 17.19` (national code 171901) | "17.19 – Accounting, including technical and auxiliary services." |
+| m1-rephrase-c.xml | 1-descrição | LC116 art. 1 | CANNOT DETERMINE | — | `serv/cServ/xDescServ = "Assessoria contábil mensal conforme contrato. Valor R$ 400,00."` · description of code 010101 in ANEXO B = "Análise e desenvolvimento de sistemas" · `infNFSe/xTribNac = "Contabilidade, inclusive serviços técnicos e auxiliares."` (text and code on the note itself diverge) | "§ 4. The levy of the tax does not depend on the name given to the service rendered." |
+| m1-rephrase-c.xml | 2 | `required-fields.md` (XSD v1.01) | PASS | — | every required element of the layout present and non-empty on the path the note uses (incl. `serv/cServ/cTribNac`, `serv/cServ/xDescServ`, `valores/vLiq = 400.00`, `prest/regTrib/opSimpNac = 3`) | — |
+| m1-rephrase-c.xml | 3 | LC116 art. 3 | PASS | — | `infNFSe/cLocIncid = 2800308` = `DPS/infDPS/cLocEmi = 2800308`; item 17.19 is not among the exceptions (items I–XXV — of item 17, only 17.05 and 17.10), so the general rule applies (provider's establishment) | "The service is considered rendered, and the tax due, at the location of the provider's establishment" |
+| m1-rephrase-c.xml | 4 | LC123 art. 13 | PASS | — | `prest/regTrib/opSimpNac = 3` (ME/EPP optant) coherent with the profile "Simples optante"; `regApTribSN = 1`; `regEspTrib = 0`; `tribMun/tribISSQN = 1`; `tpRetISSQN = 1` — no contradiction among themselves or with the profile | "Services of Any Nature - ISS." |
+| m1-rephrase-c.xml | 5-aritmética | LC116 art. 7 | PASS | — | `vLiq = 400.00` = `vServ 400.00` − deductions 0 − retentions 0; `vBC = 400.00` | "Art. 7. The tax base is the price of the service." |
+| m1-rephrase-c.xml | 5-alíquota | LC123 art. 13 | NOT APPLICABLE | — | no rate field (`pAliqAplic` absent); implied rate `vISSQN/vBC = 8.00/400.00 = 2.0000%` (informational; `xOutInf` states 2,0000%); optant → ISS paid inside the DAS, the municipal rate table does not apply | "the monthly collection, by means of a single collection document" |
+| m1-rephrase-c.xml | 6 | LC214 art. 62 | NOT APPLICABLE | — | no `CST`/`cClassTrib` on the note; no municipality of the portfolio exposes the IBS/CBS fields in this version | "share the electronic tax documents, after receipt, validation, and authorization, with the national common-use environment" |
+
+**Not read:** none — the file is a national-standard NFS-e XML (root `NFSe`, version 1.01, with the embedded `DPS`).
