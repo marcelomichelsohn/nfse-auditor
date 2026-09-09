@@ -20,22 +20,22 @@ The English texts are machine translations by parallel agents, accepted as they 
 
 | Cite as | Excerpt PT | Excerpt EN | What it governs |
 |---|---|---|---|
-| **LC116 art. 1** | `pt/excerpts/lc116_art1-2.txt` | `en/excerpts/lc116_art1-2.txt` | incidence of ISS; service list annexed |
-| **LC116 art. 2** | `pt/excerpts/lc116_art1-2.txt` | `en/excerpts/lc116_art1-2.txt` | non-incidence — I: export of services |
-| **LC116 art. 3** | `pt/excerpts/lc116_art3.txt` | `en/excerpts/lc116_art3.txt` | place where the service is deemed rendered / tax due (exceptions I–XXV) |
-| **LC116 art. 4** | `pt/excerpts/lc116_art4-5.txt` | `en/excerpts/lc116_art4-5.txt` | provider establishment |
-| **LC116 art. 5** | `pt/excerpts/lc116_art4-5.txt` | `en/excerpts/lc116_art4-5.txt` | taxpayer = provider |
-| **LC116 art. 7** | `pt/excerpts/lc116_art7.txt` | `en/excerpts/lc116_art7.txt` | tax base = price of the service |
-| **LC116 art. 8** | `pt/excerpts/lc116_art8-8A.txt` | `en/excerpts/lc116_art8-8A.txt` | maximum rates |
-| **LC116 art. 8-A** | `pt/excerpts/lc116_art8-8A.txt` | `en/excerpts/lc116_art8-8A.txt` | minimum rate 2% |
-| **LC116 list item 17** | `pt/excerpts/lc116_lista_item17.txt` | `en/excerpts/lc116_lista_item17.txt` | item 17 group (17.01–17.25), incl. 17.19 accounting |
-| **LC123 art. 13** | `pt/excerpts/lc123_art13.txt` | `en/excerpts/lc123_art13.txt` | Simples = single monthly document; VIII: ISS inside the DAS |
-| **LC123 art. 18 §5º-B** | `pt/excerpts/lc123_art18_par5B.txt` | `en/excerpts/lc123_art18_par5B.txt` | activities taxed under Anexo III — XIV: accounting services |
-| **LC123 art. 18 §22-A** | `pt/excerpts/lc123_art18_par22A.txt` | `en/excerpts/lc123_art18_par22A.txt` | accounting activity pays ISS at a fixed amount under municipal law |
-| **DL406 art. 9** | `pt/excerpts/dl406_art9.txt` | `en/excerpts/dl406_art9.txt` | tax base; §1 fixed-amount ISS for personal work; §3 societies of professionals |
-| **LC214 art. 62** | `pt/excerpts/lc214_art62.txt` | `en/excerpts/lc214_art62.txt` | municipalities must authorise the national-standard NFS-e / share documents to the national environment from 01/01/2026 |
-| **RFB 2026 — Orientações** | `pt/excerpts/rfb2026_orientacoes.txt` | `en/excerpts/rfb2026_orientacoes.txt` | CBS/IBS highlight in electronic fiscal documents from 01/01/2026 per the technical notes |
-| **IT 2025.002 — header** | `pt/excerpts/it2025002_cabecalho.txt` | `en/excerpts/it2025002_cabecalho.txt` | identification of the cClassTrib/CST tables (version, date) |
+| **LC116 art. 1** | `pt/excerpts/lc116_art1-2.txt` | `en/excerpts/lc116_art1-2.en.txt` | incidence of ISS; service list annexed |
+| **LC116 art. 2** | `pt/excerpts/lc116_art1-2.txt` | `en/excerpts/lc116_art1-2.en.txt` | non-incidence — I: export of services |
+| **LC116 art. 3** | `pt/excerpts/lc116_art3.txt` | `en/excerpts/lc116_art3.en.txt` | place where the service is deemed rendered / tax due (exceptions I–XXV) |
+| **LC116 art. 4** | `pt/excerpts/lc116_art4-5.txt` | `en/excerpts/lc116_art4-5.en.txt` | provider establishment |
+| **LC116 art. 5** | `pt/excerpts/lc116_art4-5.txt` | `en/excerpts/lc116_art4-5.en.txt` | taxpayer = provider |
+| **LC116 art. 7** | `pt/excerpts/lc116_art7.txt` | `en/excerpts/lc116_art7.en.txt` | tax base = price of the service |
+| **LC116 art. 8** | `pt/excerpts/lc116_art8-8A.txt` | `en/excerpts/lc116_art8-8A.en.txt` | maximum rates |
+| **LC116 art. 8-A** | `pt/excerpts/lc116_art8-8A.txt` | `en/excerpts/lc116_art8-8A.en.txt` | minimum rate 2% |
+| **LC116 list item 17** | `pt/excerpts/lc116_lista_item17.txt` | `en/excerpts/lc116_lista_item17.en.txt` | item 17 group (17.01–17.25), incl. 17.19 accounting |
+| **LC123 art. 13** | `pt/excerpts/lc123_art13.txt` | `en/excerpts/lc123_art13.en.txt` | Simples = single monthly document; VIII: ISS inside the DAS |
+| **LC123 art. 18 §5º-B** | `pt/excerpts/lc123_art18_par5B.txt` | `en/excerpts/lc123_art18_par5B.en.txt` | activities taxed under Anexo III — XIV: accounting services |
+| **LC123 art. 18 §22-A** | `pt/excerpts/lc123_art18_par22A.txt` | `en/excerpts/lc123_art18_par22A.en.txt` | accounting activity pays ISS at a fixed amount under municipal law |
+| **DL406 art. 9** | `pt/excerpts/dl406_art9.txt` | `en/excerpts/dl406_art9.en.txt` | tax base; §1 fixed-amount ISS for personal work; §3 societies of professionals |
+| **LC214 art. 62** | `pt/excerpts/lc214_art62.txt` | `en/excerpts/lc214_art62.en.txt` | municipalities must authorise the national-standard NFS-e / share documents to the national environment from 01/01/2026 |
+| **RFB 2026 — Orientações** | `pt/excerpts/rfb2026_orientacoes.txt` | `en/excerpts/rfb2026_orientacoes.en.txt` | CBS/IBS highlight in electronic fiscal documents from 01/01/2026 per the technical notes |
+| **IT 2025.002 — header** | `pt/excerpts/it2025002_cabecalho.txt` | `en/excerpts/it2025002_cabecalho.en.txt` | identification of the cClassTrib/CST tables (version, date) |
 
 ## Tables (lookups)
 
