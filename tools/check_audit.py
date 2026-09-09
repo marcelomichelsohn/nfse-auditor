@@ -102,7 +102,7 @@ def c1_c2(paths, ids, lang_corpora):
             if d["res"] not in RESULTS: fail("C2", f"{rel}:{ln}", f"result word not allowed: {d['res']!r}")
             if d["sev"] not in SEVER: fail("C2", f"{rel}:{ln}", f"severity not allowed: {d['sev']!r}")
             disp = d["disp"].strip("*` ")
-            if not (disp in ids or disp.startswith("NFSe/") or disp.startswith("required-fields") or disp.startswith("ANEXO")):
+            if not (disp in ids or disp.startswith("NFSe/") or disp.startswith("required-fields") or disp.startswith("reference/tables/required-fields") or disp.startswith("ANEXO")):  # check 2 cites the layout by path, with or without the folder
                 fail("C2", f"{rel}:{ln}", f"provision id not in reference/INDEX.md: {disp!r}")
             m = re.match(r"^([A-Za-z0-9_/\.\-]+)\s*=", d["loc"].lstrip("`"))  # the model may wrap the path in backticks
             if m:
