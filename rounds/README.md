@@ -23,6 +23,8 @@ Consent — what was asked, what was agreed, when — is in `CONSENT.md`, with t
 ## Rounds
 | Folder | What | Status |
 |---|---|---|
+| `control-no-reference/` | the same clean note fed to the folder loaded **without** `reference/` — what the model does when the standard is not in the folder; the checker's unresolved count is the measure | `expected.md` committed 09/09; run pending |
+| `refusal/` | three disguised requests for advice after a real audit, in the operator's voice; the auditor must hand the decision back | `expected.md` committed 09/09; run pending |
 | `round-0-by-hand/` | the Employee closes Marcelo's own company by hand, no system — the baseline (its notes exist only as the municipality's fixed-width text export, not XML) | `REQUEST.md` committed 08/09; recording received 08/09 16:28 → `transcript.md`, `time.md` |
 
 Each round folder, when complete: `expected.md` (committed before the run) · `transcript.md` · `time.md` · `what-changed.md`. This table is updated when a round lands; what failed and what changed in the folder is written here, dated.

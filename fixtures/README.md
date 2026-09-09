@@ -5,6 +5,8 @@ This folder is the verify layer: the auditor never loads it. A reader uses it to
 ## Where they come from
 - **`clean/`** — real NFS-e issued in the national standard, anonymised by `../tools/anonymise.py` and reviewed one by one by the author before entering. In this version the clean notes are two notes the accounting office issued **to the author's own company** (the author is the taker; his consent covers them). They are the *pass* cases, including the case where the rate on the note differs from the municipal table because the issuer is a Simples Nacional optant paying fixed-amount ISS (NOT APPLICABLE, not FAIL).
 - **`mutations/<slug>/`** — a copy of a clean note with **one field changed**, plus `CHANGE.md` saying the field, the value before and after, and the check that must catch it. They exist because the clean notes are all correct: the FAIL cases are made, and the making is written down.
+- **`rephrase/`** — the m1 violation (wrong service code) kept, and the free-text description rewritten three ways (`CHANGE.md` there). Each is fed in a conversation of its own: an auditor that fires on one wording and not on the others is reading the phrasing, not the provision. Synthetic, by the author, and said so.
+- **`unreadable/`** — a plain-text file that is not an NFS-e, to show the report's "not read" list working.
 - **Third-party clients' notes** (with real errors found and corrected by the office) enter only after the office's confidentiality agreement is signed and each file is reviewed by the author; until then, the clean notes above are marked *build fixtures* and are relabelled "superseded on <date>" when a real client note lands.
 
 ## What the anonymiser does — the single source of this list (`../tools/anonymise.py` implements it)

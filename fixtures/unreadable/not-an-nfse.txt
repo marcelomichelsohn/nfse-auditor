@@ -1,0 +1,2 @@
+This file is not an NFS-e. It is plain text, kept here so that the report's "not read" list can be shown working.
+An auditor that reads it as a note would be inventing fields. The correct answer lists the file name and the reason, and audits nothing from it.
