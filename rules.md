@@ -37,8 +37,8 @@ Then the table, one row per check per note, columns in this order and nothing el
 - **dispositivo**: the id exactly as in `reference/INDEX.md` (*Cite as*), or the `required-fields.md` path for check 2.
 - **resultado**: one of `PASSA` · `FALHA` · `NÃO DÁ PARA DETERMINAR` · `NÃO SE APLICA` (in English reports: `PASS` · `FAIL` · `CANNOT DETERMINE` · `NOT APPLICABLE`).
 - **severidade** (only for FALHA; `—` otherwise), by consequence for the office's closing:
-  - `bloqueia o fechamento` — the closing would be wrong if this passed (wrong incidence municipality; ISS arithmetic wrong; note missing a field the DAS depends on);
-  - `corrigir antes de fechar` — must be corrected but does not by itself change the tax (service code inconsistent with the client's item; mandatory field empty; flags incoherent);
+  - `bloqueia o fechamento` — the closing would be wrong if this passed (wrong incidence municipality; ISS base or ISS value arithmetic wrong; note missing a field the DAS depends on);
+  - `corrigir antes de fechar` — must be corrected but does not by itself change the tax (service code inconsistent with the client's item; mandatory field empty; flags incoherent; net value `vLiq` that does not add up — 09/09/2026, example 3);
   - `informativo` — worth knowing, no correction required (implied rate reported; an optional field absent).
   In English: `blocks closing` · `correct before closing` · `informational`.
 - **localização**: the XML path and its value, e.g. `DPS/infDPS/serv/cServ/cTribNac = 171901`.
