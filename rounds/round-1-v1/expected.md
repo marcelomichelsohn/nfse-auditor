@@ -26,3 +26,5 @@ Prediction per note (she composes the profile line from her spreadsheet; we do n
 - **Where she may trip:** composing the profile line (which spreadsheet column is the item; whether the annex is a number or "fixo"); the model choice (Opus, high); attaching one note per conversation.
 
 If the round shows the 5% note as a FAIL, the rule held on the author's fixtures and broke on a real note; the fix goes in `what-changed.md` after the transcript, in its own commit.
+
+**17:35, before the round — the Employee answered the profile question:** the control sheet has every field of the profile line except whether the client exports. Fix before the round, in the README's step 6 and `rules.md` § 0: the `exporta` part is optional; no check in this version needs it (the export-of-services check stays a candidate, untested in this round). Door after this change: 446 words in the Portuguese block.

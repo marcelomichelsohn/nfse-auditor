@@ -16,7 +16,7 @@ This README is written in two languages: first in Portuguese, for the person who
 **Como usar:**
 
 5. Abra uma conversa nova dentro do Projeto e escolha o modelo Opus com esforço alto (High). Anexe um arquivo XML do emissor nacional: uma nota por conversa, que é como o sistema foi testado.
-6. Na mesma mensagem, escreva uma linha com o perfil do cliente dessa nota, copiada da sua planilha de controle, neste formato: `perfil: CNAE 6920-6/01; regime Simples optante; anexo III; município 2800308; item LC 116 17.19; exporta não`. CNAE e item da lista de serviços como estão no cadastro; regime: Simples optante, MEI ou não optante; anexo: I a V, ou "fixo"; município: o código IBGE; exporta: sim ou não.
+6. Na mesma mensagem, escreva uma linha com o perfil do cliente dessa nota, copiada da sua planilha de controle, neste formato: `perfil: CNAE 6920-6/01; regime Simples optante; anexo III; município 2800308; item LC 116 17.19; exporta não`. CNAE e item da lista de serviços como estão no cadastro; regime: Simples optante, MEI ou não optante; anexo: I a V, ou "fixo"; município: o código IBGE; exporta: sim ou não, e se você não souber, deixe esse pedaço de fora.
 7. Envie. Volta uma linha de totais, uma tabela (nota · check · dispositivo · resultado · severidade · localização · trecho citado) e a lista "Não lidos". Nada mais. Leva alguns minutos por nota.
 
 **Três situações em que ela para em vez de adivinhar:** sem a linha de perfil, as verificações que dependem dela voltam "não dá para determinar"; um arquivo que não é XML do padrão nacional (o da prefeitura, por exemplo, que começa com `<CompNfse>`) entra em "Não lidos" e não é conferido; um pedido de decisão ("qual item eu uso?") volta para você, com a nota, o perfil e a regra ao lado.
@@ -37,7 +37,7 @@ This README is written in two languages: first in Portuguese, for the person who
 **Use:**
 
 5. Open a new conversation inside the project and choose the Opus model with high effort. Attach one national-standard XML file: one note per conversation, which is how the folder was tested.
-6. In the same message, write one line with the profile of that note's client, copied from the office's control spreadsheet, in this form: `perfil: CNAE 6920-6/01; regime Simples optante; anexo III; município 2800308; item LC 116 17.19; exporta não`. CNAE and service-list item as registered; regime: Simples optante, MEI or não optante; annex: I to V, or "fixo" (fixed-amount ISS); municipality: the IBGE code; exporta: sim or não.
+6. In the same message, write one line with the profile of that note's client, copied from the office's control spreadsheet, in this form: `perfil: CNAE 6920-6/01; regime Simples optante; anexo III; município 2800308; item LC 116 17.19; exporta não`. CNAE and service-list item as registered; regime: Simples optante, MEI or não optante; annex: I to V, or "fixo" (fixed-amount ISS); municipality: the IBGE code; exporta: sim or não, and if you do not know, leave that part out.
 7. Send. You get back a totals line, a table (note · check · provision · result · severity · location · quoted excerpt) and the "Not read" list. Nothing else. It takes a few minutes per note.
 
 **Three situations where it stops instead of guessing:** without the profile line, the checks that need it return "cannot determine"; a file that is not national-standard XML (a municipality's own, for instance, starting with `<CompNfse>`) goes under "Not read" and is not audited; a request for a decision ("which item should I use?") is handed back, with the note, the profile and the rule beside it.
