@@ -9,7 +9,8 @@ Checks (each names the file and the line when it fails):
       same for reference/en/excerpts/ against reference/en/full/
   C1  every quoted excerpt in a report row (rounds transcripts, examples.md, expected/*.md; column "trecho citado") resolves as a substring of reference/pt/
       (Portuguese row) or reference/en/ (English row) — a check-2 row may quote reference/tables/required-fields.md, the layout — never a translated quote; language is read per row, so a file may hold a report and its English twin.
-      rounds/control-*/ (the run without reference/) is read in report mode: its unresolved count is printed, not a FAIL
+      rounds/control-*/ (the run without reference/) is read in report mode: its unresolved count is printed, not a FAIL;
+      rows between <!-- kept-as-came:start --> and <!-- kept-as-came:end --> (an answer preserved as it came) are reported, never a FAIL
   C2  every report row: the provision id exists in reference/INDEX.md (or is a required-fields.md path for check 2);
       the result is one of the four words; severity is one of the three classes or "—"; the location names an
       XML path that exists in the fixture the row names (when the fixture is in fixtures/)
@@ -36,7 +37,14 @@ fails = []
 def norm(t): return re.sub(r"\s+", " ", t).strip()
 def read(p):
     with open(p, encoding="utf-8", errors="replace") as f: return f.read()
-def fail(check, where, msg): fails.append(f"{check}  {where}: {msg}")
+kept_findings = []
+def fail(check, where, msg):
+    try:
+        f, ln = where.rsplit(":", 1); ln = int(ln)
+        if any(f == os.path.relpath(k, ROOT) and ln in v for k, v in KEPT.items()):
+            kept_findings.append(f"{check}  {where}: {msg}"); return
+    except ValueError: pass
+    fails.append(f"{check}  {where}: {msg}")
 
 LAYOUT = []  # filled in main: the layout's field list, the standard check 2 cites
 def corpus(lang):
@@ -62,9 +70,14 @@ def index_ids():
 
 ROW = re.compile(r"^\|\s*(?P<nota>[^|]*)\|\s*(?P<check>[^|]*)\|\s*(?P<disp>[^|]*)\|\s*(?P<res>[^|]*)\|\s*(?P<sev>[^|]*)\|\s*(?P<loc>[^|]*)\|\s*(?P<trecho>[^|]*)\|\s*$")
 
+KEPT = {}  # file -> set of line numbers inside <!-- kept-as-came:start/end --> fences: reported, never a gate
+
 def report_rows(path):
-    rows = []
+    rows = []; kept = False
     for i, line in enumerate(read(path).split("\n"), 1):
+        if "kept-as-came:start" in line: kept = True; continue
+        if "kept-as-came:end" in line: kept = False; continue
+        if kept: KEPT.setdefault(path, set()).add(i)
         m = ROW.match(line)
         if not m: continue
         d = {k: v.strip() for k, v in m.groupdict().items()}
@@ -240,6 +253,7 @@ def main():
         for f in ctrl: print("   ", f)
     nq = sum(len(report_rows(r)) for r in reports)
     print(f"check_audit: reports read {len(reports)}, rows {nq}; excerpts pt {len(glob.glob(os.path.join(ROOT,'reference/pt/excerpts/*.txt')))} en {len(glob.glob(os.path.join(ROOT,'reference/en/excerpts/*.txt')))}")
+    for f in kept_findings: print("KEPT (an answer preserved as it came, not a gate):", f)
     for f in fails: print("FAIL", f)
     print("check_audit:", "PASS" if not fails else f"FAIL ({len(fails)})"); sys.exit(0 if not fails else 1)
 
