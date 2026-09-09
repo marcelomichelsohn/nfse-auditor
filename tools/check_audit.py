@@ -248,7 +248,7 @@ def main():
     rf = os.path.join(ROOT, "reference", "tables", "required-fields.md")
     if os.path.exists(rf): LAYOUT.append(norm(read(rf)))
     c0()
-    allr = [p for p in glob.glob(os.path.join(ROOT, "rounds", "**", "*.md"), recursive=True) if os.path.basename(p) in ("transcript.md", "transcript.EN.md", "report.md") or "report" in os.path.basename(p)]  # the English rendering of a transcript is checked against reference/en/ too
+    allr = [p for p in glob.glob(os.path.join(ROOT, "rounds", "**", "*.md"), recursive=True) if os.path.basename(p).startswith("transcript") or "report" in os.path.basename(p)]  # the English rendering of a transcript is checked against reference/en/ too
     controls = [p for p in allr if "/rounds/control-" in p and not p.endswith(".EN.md")]  # the run without reference/: its quotes are expected NOT to resolve; the English rendering is the author's, not counted
     allr = [p for p in allr if not ("/rounds/control-" in p and p.endswith(".EN.md"))]
     reports = [p for p in allr if p not in controls]
