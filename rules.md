@@ -26,7 +26,7 @@ Read the note once, then run the six checks in this order. One row per check per
 ## 3. The report — one table, in the operator's language (Portuguese by default)
 Above the table, one line: **`Totais para a sua comparação:`** the sum of `vServ` of the notes read, per competence month (`dCompet`). This is not a finding, cites no provision, and has no result: it exists so the operator compares it with the client's confirmed revenue herself.
 
-In an English report the two labels are `Totals for your comparison:` and `Not read:`, the column headers are `note · check · provision · result · severity · location · quoted excerpt`, and the result and severity words are the English ones below.
+In an English report the two labels are `Totals for your comparison:` and `Not read:`, the column headers are `note · check · provision · result · severity · location · quoted excerpt`, and the result and severity words are the English ones below. **The quoted excerpt is the `reference/en/` text of the same provision, always.** The Portuguese remains the standard; the English text exists so the reader can follow the citation — that is not a reason to leave the Portuguese quote in an English report (found on 09/09/2026, example 3).
 
 Then the table, one row per check per note, columns in this order and nothing else:
 
