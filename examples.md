@@ -329,3 +329,31 @@ Not read: none.
 | m1-rephrase-c.xml | 6 | LC214 art. 62 | NOT APPLICABLE | — | no `CST`/`cClassTrib` on the note; no municipality of the portfolio exposes the IBS/CBS fields in this version | "share the electronic tax documents, after receipt, validation, and authorization, with the national common-use environment" |
 
 **Not read:** none — the file is a national-standard NFS-e XML (root `NFSe`, version 1.01, with the embedded `DPS`).
+
+## Example 8 — a file that is not a note (not-an-nfse.txt)
+
+**What was fed:** `fixtures/unreadable/not-an-nfse.txt` (attached; two lines of plain text) + the same profile line.
+**Conditions:** same project, `rules.md` at commit f38ec00; model Claude Opus 4.8, effort "low"; 2026-09-09 ~12:30; **25 s, by the author's clock**; operator: the author. Expected result (09/09 08:42): `expected/not-an-nfse.md` — no report rows, no totals, the file under "Não lidos" with the reason.
+**What happened:** as predicted. Nothing was inferred from the text; the file is listed, with the reason, and not audited.
+
+### Report (Portuguese, verbatim)
+
+Totais para a sua comparação: nenhuma nota NFS-e nacional foi lida neste lote — não há `vServ` a somar por competência.
+
+| nota | check | dispositivo | resultado | severidade | localização | trecho citado |
+|---|---|---|---|---|---|---|
+| — | — | — | — | — | — | *(nenhuma nota nacional para auditar)* |
+
+Não lidos:
+- **not-an-nfse.txt** — não é XML NFS-e no padrão nacional (raiz `NFSe` com `DPS` embutida); é texto simples. Não auditado.
+
+### English rendering by the author's session (not an answer of the auditor)
+
+Totals for your comparison: no national-standard NFS-e was read in this batch — there is no `vServ` to sum per competence.
+
+| note | check | provision | result | severity | location | quoted excerpt |
+|---|---|---|---|---|---|---|
+| — | — | — | — | — | — | *(no national-standard note to audit)* |
+
+Not read:
+- **not-an-nfse.txt** — not an NFS-e XML in the national standard (root `NFSe` with embedded `DPS`); plain text. Not audited.
