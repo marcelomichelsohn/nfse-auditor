@@ -1,0 +1,10 @@
+# Round 1 — time, from the screen's clock, and what it does not prove
+
+The Employee did not state a total; she was on the clock of her working day ("meu horário aqui no escritório é até às 5 horas"). The figures below are read from the clock on her screen in the recording (kept privately), to the minute.
+
+- **From opening the guide to sending the first note:** 15:47 → 15:59, **about 12 minutes** — unpacking, creating the project and pointing it at the folder (15:48–15:52), and composing the profile line (15:53–15:58: the control sheet for regime, annex and item; the client's CNPJ card on a portal for the CNAE; a web search for the municipality's IBGE code).
+- **The model's run:** last timer seen on screen 4 min 34 s (16:04); the report was on screen when she shared again at ~16:06–16:07 — **between 4 min 34 s and about 7 minutes.** For comparison, the author's runs of the fixtures took 4 min 44 s to 5 min 13 s on Opus 4.8 at low effort (`../fixture-runs-v1/report-all-runs.md`); this run was on Opus 5 at high effort, with tools reading the folder from disk.
+- **Reading the report aloud, with Marcelo's prompts:** 16:07 → 16:21, **about 14 minutes**, for one note and eight rows, scrolling sideways to reach the "localização" and "trecho citado" columns.
+- **Notes audited:** one. The other three the office had sent were not run — the round ended at the end of her working day.
+
+**What this does not prove.** One operator, one office, one note, a first use, on a call with the author present. The 12 minutes are the door on a first contact — creating the project and composing the profile line are done once per client, not per note; they are not the time of an audit. The run time is one run on one setting, with tools reading the folder from disk (not the mode the author tested). The 14 minutes of reading are a narrated reading for the author, not the time an operator would take to act on a report. Nothing here is a before/after of round 0 (a different task, `../round-0-by-hand/time.md`). What this round measures is in `what-changed.md`: what stopped her, and what she understood of the report.
