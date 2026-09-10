@@ -4,7 +4,7 @@ This README is written in two languages: first in Portuguese, for the person who
 
 ## Para usar (português)
 
-**O que é.** Uma pasta que confere notas fiscais de serviço (NFS-e) do padrão nacional contra a lei do ISS, o Simples Nacional e o leiaute nacional. Para cada nota e cada verificação (cada "check" da tabela), ela devolve passa / falha / não dá para determinar / não se aplica, com o trecho da norma citado ao pé da letra. Ela não corrige nada e não decide nada por você.
+**O que é.** Uma pasta que confere notas fiscais de serviço (NFS-e) do padrão nacional contra a lei do ISS, o Simples Nacional e o leiaute nacional. Para cada nota e cada verificação (cada linha da tabela), ela devolve passa / falha / não dá para determinar / não se aplica, com o trecho da norma citado ao pé da letra. Ela não corrige nada e não decide nada por você.
 
 **Como montar, uma vez só:**
 
@@ -17,7 +17,7 @@ This README is written in two languages: first in Portuguese, for the person who
 
 5. Abra uma conversa nova dentro do Projeto e escolha o modelo Opus com esforço alto (High). Anexe um arquivo XML do emissor nacional: uma nota por conversa, que é como o sistema foi testado.
 6. Na mesma mensagem, escreva uma linha com o perfil do cliente dessa nota, copiada da sua planilha de controle, neste formato: `perfil: CNAE 6920-6/01; regime Simples optante; anexo III; município 2800308; item LC 116 17.19; exporta não`. CNAE e item da lista de serviços como estão no cadastro; regime: Simples optante, MEI ou não optante; anexo: I a V, ou "fixo"; município: o código IBGE; exporta: sim ou não, e se você não souber, deixe esse pedaço de fora.
-7. Envie. Volta uma linha de totais, uma tabela (nota · check · dispositivo · resultado · severidade · localização · trecho citado), a lista "Não lidos" e, por último, as mesmas linhas num bloco CSV, com a localização completa, para você copiar e colar numa planilha (não é um arquivo pronto: é texto que você copia). Nada mais. Leva alguns minutos por nota.
+7. Envie. Volta uma linha de totais, uma tabela (nota · verificação · dispositivo · resultado · severidade · localização · trecho citado), a lista "Não lidos" e, por último, as mesmas linhas num bloco CSV, com a localização completa, para você copiar e colar numa planilha (não é um arquivo pronto: é texto que você copia). Nada mais. Leva alguns minutos por nota.
 
 **Três situações em que ela para em vez de adivinhar:** sem a linha de perfil, as verificações que dependem dela voltam "não dá para determinar"; um arquivo que não é XML do padrão nacional (o da prefeitura, por exemplo, que começa com `<CompNfse>`) entra em "Não lidos" e não é conferido; um pedido de decisão ("qual item eu uso?") volta para você, com a nota, o perfil e a regra ao lado.
 

@@ -5,7 +5,7 @@
 
 Totais para a sua comparação: 08/2026 — R$ 400,00 (nfse-01) · 09/2026 — R$ 400,00 (nfse-02) — per note fed.
 
-| nota | check | dispositivo | resultado | severidade | localização | trecho citado |
+| nota | verificação | dispositivo | resultado | severidade | localização | trecho citado |
 |---|---|---|---|---|---|---|
 | nfse-02.xml | 1-código · código de serviço da nota comparado com o item do cadastro | LC116 list item 17 | PASSA | — | DPS/infDPS/serv/cServ/cTribNac = 171901 | 17.19 – Contabilidade, inclusive serviços técnicos e auxiliares. |
 | nfse-02.xml | 1-descrição · descrição escrita pelo cliente comparada com a descrição oficial do código | LC116 art. 1 | NÃO DÁ PARA DETERMINAR | — | DPS/infDPS/serv/cServ/xDescServ = "1 Investimento Contábil. 400,00 …" | tem como fato gerador a prestação de serviços constantes da lista anexa |

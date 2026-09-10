@@ -5,7 +5,7 @@
 
 Totais para a sua comparação: 08/2026 — R$ 400,00 (nfse-01) · 09/2026 — R$ 400,00 (nfse-02) — per note fed.
 
-| nota | check | dispositivo | resultado | severidade | localização | trecho citado |
+| nota | verificação | dispositivo | resultado | severidade | localização | trecho citado |
 |---|---|---|---|---|---|---|
 | m2-campo-obrigatorio | 2 · campos obrigatórios do leiaute nacional | NFSe/infNFSe/DPS/infDPS/dCompet | FALHA | bloqueia o fechamento · o cliente reemite a nota | DPS/infDPS/dCompet = (empty) | — |
 
