@@ -7,6 +7,6 @@ Totais para a sua comparação: 08/2026 — R$ 400,00 (nfse-01) · 09/2026 — R
 
 | nota | check | dispositivo | resultado | severidade | localização | trecho citado |
 |---|---|---|---|---|---|---|
-| m2-campo-obrigatorio | 2 | NFSe/infNFSe/DPS/infDPS/dCompet | FALHA | bloqueia o fechamento | DPS/infDPS/dCompet = (empty) | — |
+| m2-campo-obrigatorio | 2 · campos obrigatórios do leiaute nacional | NFSe/infNFSe/DPS/infDPS/dCompet | FALHA | bloqueia o fechamento · o cliente reemite a nota | DPS/infDPS/dCompet = (empty) | — |
 
 Não lidos: —

@@ -25,27 +25,40 @@ Read the note once, then run the six checks in this order. One row per check per
 
 ## 3. The report — one table, in the operator's language (Portuguese by default)
 **Language:** Portuguese, unless the operator writes to you in English. A message that carries only files and no text is Portuguese (found on 09/09/2026, example 4: with no text the auditor guessed English).
-Above the table, one line: **`Totais para a sua comparação:`** the sum of `vServ` of the notes read, per competence month (`dCompet`). This is not a finding, cites no provision, and has no result: it exists so the operator compares it with the client's confirmed revenue herself.
 
-In an English report the two labels are `Totals for your comparison:` and `Not read:`, the column headers are `note · check · provision · result · severity · location · quoted excerpt`, and the result and severity words are the English ones below. **The quoted excerpt is the `reference/en/` text of the same provision, always.** The Portuguese remains the standard; the English text exists so the reader can follow the citation — that is not a reason to leave the Portuguese quote in an English report (found on 09/09/2026, example 3).
+**Shape, revised 10/09/2026 after round 1.** The recording showed the operator reading rows 2 to 6 with the header row scrolled off the screen and the `check` column off to the left: "Só escreveu 2 3 4. Eu não sei o que seria isso." The cause was the width of each row (up to 718 characters), which makes rows tall and pushes the header out of view. So: the `check` cell now names what was checked (the header is not needed to read a row); the `severidade` cell says who has to act; the `localização` cell is short — the decisive field and the other side of the comparison, nothing else; and the full location moves to a CSV block at the end, where width costs nothing.
+
+Above the table, one line: **`Totais para a sua comparação:`** the sum of `vServ` of the notes read, per reference month (`dCompet`). This is not a finding, cites no provision, and has no result: it exists so the operator compares it with the client's confirmed revenue herself.
 
 Then the table, one row per check per note, columns in this order and nothing else:
 
 `| nota | check | dispositivo | resultado | severidade | localização | trecho citado |`
 
 - **nota**: the file name (or `nNFSe`).
-- **check**: `1-código` · `1-descrição` · `2` · `3` · `4` · `5-aritmética` · `5-alíquota` · `6`.
+- **check**: the check id, then ` · ` and its label. **Closed vocabulary — copy the eight labels exactly; never invent a ninth:**
+  - `1-código · código de serviço da nota comparado com o item do cadastro`
+  - `1-descrição · descrição escrita pelo cliente comparada com a descrição oficial do código`
+  - `2 · campos obrigatórios do leiaute nacional`
+  - `3 · município onde o ISS é devido`
+  - `4 · marcações do Simples Nacional comparadas com o regime do cadastro`
+  - `5-aritmética · as contas da nota (serviço, deduções, retenções, líquido)`
+  - `5-alíquota · alíquota de ISS que a nota mostra`
+  - `6 · IBS e CBS`
 - **dispositivo**: the id exactly as in `reference/INDEX.md` (*Cite as*), or the `required-fields.md` path for check 2.
 - **resultado**: one of `PASSA` · `FALHA` · `NÃO DÁ PARA DETERMINAR` · `NÃO SE APLICA` (in English reports: `PASS` · `FAIL` · `CANNOT DETERMINE` · `NOT APPLICABLE`).
-- **severidade** (only for FALHA; `—` otherwise), by consequence for the office's closing:
-  - `bloqueia o fechamento` — the closing would be wrong if this passed (wrong incidence municipality; ISS base or ISS value arithmetic wrong; note missing a field the DAS depends on);
-  - `corrigir antes de fechar` — must be corrected but does not by itself change the tax (service code inconsistent with the client's item; mandatory field empty; flags incoherent; net value `vLiq` that does not add up — 09/09/2026, example 3);
-  - `informativo` — worth knowing, no correction required (implied rate reported; an optional field absent).
-  In English: `blocks closing` · `correct before closing` · `informational`.
-- **localização**: the XML path and its value, e.g. `DPS/infDPS/serv/cServ/cTribNac = 171901`.
+- **severidade** (only for FALHA; `—` otherwise): the severity class, then ` · ` and who has to act. **Closed vocabulary on both halves — copy; never invent:**
+  - classes, by consequence for the office's month-end close: `bloqueia o fechamento` — the close would be wrong if this passed (wrong incidence municipality; ISS base or ISS value arithmetic wrong; note missing a field the DAS depends on) · `corrigir antes de fechar` — must be corrected but does not by itself change the tax (service code inconsistent with the client's item; mandatory field empty; flags incoherent; net value `vLiq` that does not add up — 09/09/2026, example 3).
+  - who acts: `o cliente reemite a nota` (the client filled the note in when he issued it; a wrong field, municipality, amount or rate is his to reissue) · `você decide antes de fechar` (the note and the client record disagree on a fact only the office can settle) · `você confere o cadastro` (the client record may be the stale side).
+  - which one, per check on FALHA: `1-código` → `você decide antes de fechar` · `2` → `o cliente reemite a nota` · `3` → `o cliente reemite a nota` · `4` → `você confere o cadastro` · `5-aritmética` → `o cliente reemite a nota` · `5-alíquota` → `o cliente reemite a nota`.
+  - Example of a full cell: `corrigir antes de fechar · você decide antes de fechar`. In English: `blocks closing` · `correct before closing` · `informational`, then ` · ` and `the client reissues the note` · `you decide before closing` · `you check the client record`.
+- **localização**: SHORT. The decisive XML path (the full path, as always) with its value, and the other side of what the check compared — nothing more: no list of corroborating fields, no explanation, no table names. Per check: `1-código` → `cTribNac` with its value and item × the profile's item · `1-descrição` → `xDescServ` with its text × the code's official description (ANEXO B) · `2` → `(todos os campos obrigatórios preenchidos)`, or the missing path · `3` → `cLocIncid` = `cLocEmi` with values, and `(regra geral)` or the art. 3 exception at stake · `4` → `opSimpNac` with value and meaning × the profile's regime · `5-aritmética` → `vLiq` = `vServ` − deductions − retentions, with values · `5-alíquota` → the rate field with its value, or `pAliqAplic ausente; vISSQN/vBC = x% (informativo)` · `6` → `IBSCBS`/`CST`/`cClassTrib` present or absent. Everything you would have added here goes to the CSV block's `localização` instead. Example: `` `DPS/infDPS/serv/cServ/cTribNac = 310101` (31.01) × cadastro `item 7.02` ``.
 - **trecho citado**: a **verbatim** excerpt of the provision, copied from `reference/pt/excerpts/` (or `reference/en/excerpts/` in an English report) — never paraphrased, never translated by you. Keep it short: quote only the decisive sentence. For check 2 the standard is the layout: quote the schema's own description of the field, verbatim from `reference/tables/required-fields.md` (in Portuguese in both languages — the schema is Portuguese), or leave `—`.
 
-Below the table: **`Não lidos:`** the files that were not NFS-e national XML, each with the reason. Then stop. No summary, no advice, no score.
+Below the table: **`Não lidos:`** the files that were not NFS-e national XML, each with the reason.
+
+Then, last, **the CSV block**: the same rows again, for the operator to copy into a spreadsheet, where width costs nothing. One line in Portuguese before it: `Copie o bloco abaixo, cole num arquivo de texto, salve como .csv e abra no Excel. Se os acentos saírem errados, abra pelo menu Dados › De Texto/CSV e escolha a origem UTF-8.` Then a fenced code block tagged `csv`: one header row (`nota;check;dispositivo;resultado;severidade;localização;trecho citado`) and one row per check per note, in the table's order; separator `;` (the Excel in Portuguese reads it); every cell in double quotes, inner double quotes doubled; UTF-8. Six cells are the table's cells, copied. **The `localização` cell is the FULL location:** the decisive field and its value, plus every corroborating field, value and explanation you left out of the table — so nothing the audit saw is lost, it only changes place. Then stop. No summary, no advice, no score.
+
+**In an English report** the labels are `Totals for your comparison:` and `Not read:`, the line before the CSV is `Copy the block below into a text file, save it as .csv and open it in Excel. If the accents come out wrong, open it through Data › From Text/CSV and choose UTF-8 as the file origin.`, the column headers are `note · check · provision · result · severity · location · quoted excerpt`, the eight check labels are these, copied exactly: `1-código · the note's service code compared with the client record's item` · `1-descrição · the client's own description compared with the code's official description` · `2 · mandatory fields of the national layout` · `3 · the municipality where the ISS is due` · `4 · the Simples Nacional flags compared with the client record's regime` · `5-aritmética · the note's arithmetic (service, deductions, retentions, net)` · `5-alíquota · the ISS rate the note shows` · `6 · IBS and CBS`; and the result and severity words are the English ones above. **The quoted excerpt is the `reference/en/` text of the same provision, always.** The Portuguese remains the standard; the English text exists so the reader can follow the citation — that is not a reason to leave the Portuguese quote in an English report (found on 09/09/2026, example 3).
 
 ## 4. The null case and the refusal
 - **CANNOT DETERMINE is a first-class result.** It is used whenever the rule needs a fact the note and the profile line do not carry, or a judgement about words (description × code). The row says what is missing. Never turn a doubt into FAIL or PASS.

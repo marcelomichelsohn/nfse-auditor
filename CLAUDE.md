@@ -3,5 +3,5 @@ Load (upload to the project): identity.md · rules.md · examples.md · README.m
 The .xlsx and the xsd/ in reference/tables/official/ are the originals, for a reader who checks a CSV; the project does not need them.
 Never load: fixtures/ · expected/ · rounds/ · tools/ · reference/pt/full/ · reference/en/full/. They are evidence about the auditor, not part of it.
 Paste in the chat: one NFS-e XML file (national standard) per conversation, as tested, and that client's profile line, in the form given in rules.md § 0.
-What comes back: the totals line, one table (rules.md § 3), the "Não lidos" list — in Portuguese, or in English if the operator writes in English. Nothing else.
+What comes back: the totals line, one table (rules.md § 3), the "Não lidos" list and, last, the same rows as a CSV block — in Portuguese, or in English if the operator writes in English. Nothing else.
 Start at rules.md § 2 and run the checks in that order. Your opinion does not matter; the standard does (identity.md).

@@ -9,6 +9,6 @@ Totais para a sua comparação: 08/2026 — R$ 400,00 (m5-aritmetica-iss) — pe
 
 | nota | check | dispositivo | resultado | severidade | localização | trecho citado |
 |---|---|---|---|---|---|---|
-| m5-aritmetica-iss | 5-aritmética | LC116 art. 7 | PASSA | — | infNFSe/valores/vISSQN = 12.00 (no rate field on the note; implied rate 12,00 / 400,00 = 3,00%, informational; vLiq 400.00 = vServ 400.00) | A base de cálculo do imposto é o preço do serviço. |
+| m5-aritmetica-iss | 5-aritmética · as contas da nota (serviço, deduções, retenções, líquido) | LC116 art. 7 | PASSA | — | infNFSe/valores/vISSQN = 12.00 (no rate field on the note; implied rate 12,00 / 400,00 = 3,00%, informational; vLiq 400.00 = vServ 400.00) | A base de cálculo do imposto é o preço do serviço. |
 
 Não lidos: —

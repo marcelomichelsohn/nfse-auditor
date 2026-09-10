@@ -7,6 +7,6 @@ Totais para a sua comparação: 08/2026 — R$ 400,00 (nfse-01) · 09/2026 — R
 
 | nota | check | dispositivo | resultado | severidade | localização | trecho citado |
 |---|---|---|---|---|---|---|
-| m3-local-incidencia | 3 | LC116 art. 3 | FALHA | bloqueia o fechamento | infNFSe/cLocIncid = 3550308 (cLocEmi 2800308; item 17.19 not in art. 3 I–XXV) | O serviço considera-se prestado e o imposto devido no local do estabelecimento prestador |
+| m3-local-incidencia | 3 · município onde o ISS é devido | LC116 art. 3 | FALHA | bloqueia o fechamento · o cliente reemite a nota | infNFSe/cLocIncid = 3550308 (cLocEmi 2800308; item 17.19 not in art. 3 I–XXV) | O serviço considera-se prestado e o imposto devido no local do estabelecimento prestador |
 
 Não lidos: —

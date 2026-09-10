@@ -7,7 +7,7 @@ Totais para a sua comparação: 08/2026 — R$ 400,00 (nfse-01) · 09/2026 — R
 
 | nota | check | dispositivo | resultado | severidade | localização | trecho citado |
 |---|---|---|---|---|---|---|
-| m1-codigo-servico | 1-código | LC116 list item 17 | FALHA | corrigir antes de fechar | DPS/infDPS/serv/cServ/cTribNac = 010101 (profile: item 17.19) | 17.19 – Contabilidade, inclusive serviços técnicos e auxiliares. |
-| m1-codigo-servico | 1-descrição | LC116 art. 1 | NÃO DÁ PARA DETERMINAR | — | DPS/infDPS/serv/cServ/xDescServ = "1 Investimento Contábil. 400,00 …" | tem como fato gerador a prestação de serviços constantes da lista anexa |
+| m1-codigo-servico | 1-código · código de serviço da nota comparado com o item do cadastro | LC116 list item 17 | FALHA | corrigir antes de fechar · você decide antes de fechar | DPS/infDPS/serv/cServ/cTribNac = 010101 (profile: item 17.19) | 17.19 – Contabilidade, inclusive serviços técnicos e auxiliares. |
+| m1-codigo-servico | 1-descrição · descrição escrita pelo cliente comparada com a descrição oficial do código | LC116 art. 1 | NÃO DÁ PARA DETERMINAR | — | DPS/infDPS/serv/cServ/xDescServ = "1 Investimento Contábil. 400,00 …" | tem como fato gerador a prestação de serviços constantes da lista anexa |
 
 Não lidos: —

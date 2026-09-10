@@ -7,6 +7,6 @@ Totais para a sua comparação: 08/2026 — R$ 400,00 (m6-valor-liquido) — per
 
 | nota | check | dispositivo | resultado | severidade | localização | trecho citado |
 |---|---|---|---|---|---|---|
-| m6-valor-liquido | 5-aritmética | LC116 art. 7 | FALHA | corrigir antes de fechar | infNFSe/valores/vLiq = 380.00 (vServ 400.00 − 0,00 deductions − 0,00 retentions = 400.00) | A base de cálculo do imposto é o preço do serviço. |
+| m6-valor-liquido | 5-aritmética · as contas da nota (serviço, deduções, retenções, líquido) | LC116 art. 7 | FALHA | corrigir antes de fechar · o cliente reemite a nota | infNFSe/valores/vLiq = 380.00 (vServ 400.00 − 0,00 deductions − 0,00 retentions = 400.00) | A base de cálculo do imposto é o preço do serviço. |
 
 Não lidos: —

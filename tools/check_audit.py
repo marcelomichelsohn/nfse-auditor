@@ -113,7 +113,7 @@ def c1_c2(paths, ids, lang_corpora):
             if q and q not in ("—", "-") and not any(q in c for c in corp):
                 fail("C1", f"{rel}:{ln}", f"quote does not resolve in reference/{lang}/: “{q[:60]}…”")
             if d["res"] not in RESULTS: fail("C2", f"{rel}:{ln}", f"result word not allowed: {d['res']!r}")
-            if d["sev"] not in SEVER: fail("C2", f"{rel}:{ln}", f"severity not allowed: {d['sev']!r}")
+            if d["sev"].split(" · ")[0].strip() not in SEVER: fail("C2", f"{rel}:{ln}", f"severity not allowed: {d['sev']!r}")  # since 10/09 the cell may carry ' · who acts' after the class (rules.md § 3)
             disp = d["disp"].strip("*` ")
             if not (disp in ids or disp.startswith("NFSe/") or disp.startswith("required-fields") or disp.startswith("reference/tables/required-fields") or disp.startswith("ANEXO")):  # check 2 cites the layout by path, with or without the folder
                 fail("C2", f"{rel}:{ln}", f"provision id not in reference/INDEX.md: {disp!r}")
@@ -143,7 +143,7 @@ def c3():
         if re.search(r"(?i)\*\*not caught", t): continue  # a mutation the rule cannot catch, declared so in CHANGE.md (m5, 09/09) — kept as a record, not a gate
         if m and os.path.exists(exp):
             et = read(exp)
-            if not re.search(r"\|\s*" + m.group(1) + r"(-[\wáéíóúãõç]+)?\s*\|[^|]*\|\s*(FALHA|FAIL)\s*\|", et): fail("C3", os.path.relpath(exp, ROOT), f"no FAIL row for check {m.group(1)} named in CHANGE.md")
+            if not re.search(r"\|\s*" + m.group(1) + r"(-[\wáéíóúãõç]+)?(\s*·[^|]*)?\s*\|[^|]*\|\s*(FALHA|FAIL)\s*\|", et): fail("C3", os.path.relpath(exp, ROOT), f"no FAIL row for check {m.group(1)} named in CHANGE.md")
 
 def c4():
     for d in sorted(glob.glob(os.path.join(ROOT, "rounds", "round-*"))):

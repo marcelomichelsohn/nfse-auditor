@@ -7,6 +7,6 @@ Totais para a sua comparação: 08/2026 — R$ 400,00 (nfse-01) · 09/2026 — R
 
 | nota | check | dispositivo | resultado | severidade | localização | trecho citado |
 |---|---|---|---|---|---|---|
-| m4-flag-simples | 4 | LC123 art. 13 | FALHA | corrigir antes de fechar | DPS/infDPS/prest/regTrib/opSimpNac = 1 (regApTribSN = 1 present; profile: optante) | VIII - Imposto sobre Serviços de Qualquer Natureza |
+| m4-flag-simples | 4 · marcações do Simples Nacional comparadas com o regime do cadastro | LC123 art. 13 | FALHA | corrigir antes de fechar · você confere o cadastro | DPS/infDPS/prest/regTrib/opSimpNac = 1 (regApTribSN = 1 present; profile: optante) | VIII - Imposto sobre Serviços de Qualquer Natureza |
 
 Não lidos: —
