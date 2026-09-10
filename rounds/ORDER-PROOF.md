@@ -1,4 +1,4 @@
-# ORDER-PROOF — 2026-09-09T22:03:55-03:00 — HEAD 739b87a
+# ORDER-PROOF — 2026-09-09T22:49:06-03:00 — HEAD f5e8bec
 
 - PASS  (i) round-0 REQUEST (1aa296e) before first commit of identity.md (84bd57a)
 - PASS  (i) round-0 REQUEST (1aa296e) before first commit of rules.md (84bd57a)
@@ -12,9 +12,9 @@
 - PASS  (i) round-0-by-hand: REQUEST (1aa296e) before transcript (5e829d7)
 - PASS  (i) round-1-v1: expected (6182de2) before transcript (739b87a)
 - PASS  (i) round-1-v1 after the previous round
-- PASS  (ii) HEAD == origin/main (739b87a / 739b87a)
+- PASS  (ii) HEAD == origin/main (f5e8bec / f5e8bec)
 - PASS  (ii) working tree clean
-- PASS  (iii) fresh clone into a new folder: /var/folders/49/dv_17z_s38b6gzqtzgdsd_5c0000gp/T/nfse-auditor-clone-icbzrbs7
+- PASS  (iii) fresh clone into a new folder: /var/folders/49/dv_17z_s38b6gzqtzgdsd_5c0000gp/T/nfse-auditor-clone-0nnm97io
 - PASS  (iii)/(i) round-0 REQUEST (1aa296e) before first commit of identity.md (84bd57a)
 - PASS  (iii)/(i) round-0 REQUEST (1aa296e) before first commit of rules.md (84bd57a)
 - PASS  (iii)/(i) round-0 REQUEST (1aa296e) before first commit of examples.md (2112f77)
