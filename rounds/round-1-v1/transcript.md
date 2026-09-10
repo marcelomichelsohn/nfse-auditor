@@ -185,7 +185,7 @@
 **Marcelo:** Tô vendo.
 **Employee:** Pronto. Eu ainda não li. Eu só vi que ele respondeu.
 **Marcelo:** Tá bom.
-**Employee:** Total tá esperar sua comparação. Competência de a data. Soma do valor do serviço 240 e uma nota foi lida. Ok. Tá. Deixa eu me situar.
+**Employee:** Total tá esperar sua comparação. Competência de a data. Soma do valor do serviço […] e uma nota foi lida. Ok. Tá. Deixa eu me situar.
 
 **00:24:35**
 
