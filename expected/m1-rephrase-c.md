@@ -1,7 +1,7 @@
 # expected — m1-rephrase-c (the m1 violation, description reworded — variant c)
 
 **What was fed:** `fixtures/rephrase/m1-rephrase-c.xml` + the profile line `perfil: CNAE 6920-6/01; regime Simples optante; anexo fixo; município 2800308; item LC 116 17.19; exporta não`, in a conversation of its own.
-**This file is outside the folder the operator loads.** It says what a correct audit must return, row by row; a row's quote must be a verbatim substring of `reference/pt/`. Rows not listed here are as in `expected/nfse-01.md`.
+**This file is outside the folder the operator loads.** It says what a correct audit must return, row by row; a row's quote must be a verbatim substring of `reference/pt/`. The CSV block that closes a report (`rules.md` § 3, 10/09/2026) repeats these rows with the full location and is not predicted here row by row: same content, other shape. Rows not listed here are as in `expected/nfse-01.md`.
 
 Totais para a sua comparação: 08/2026 — R$ 400,00 (m1-rephrase-c) — per note fed.
 

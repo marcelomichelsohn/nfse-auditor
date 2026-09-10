@@ -1,7 +1,7 @@
 # expected — m5-aritmetica-iss (mutation of nfse-01: vISSQN 8.00 → 12.00)
 
 **What was fed:** `fixtures/mutations/m5-aritmetica-iss/nfse.xml` + the profile line `perfil: CNAE 6920-6/01; regime Simples optante; anexo fixo; município 2800308; item LC 116 17.19; exporta não`.
-**This file is outside the folder the operator loads.** It says what a correct audit must return, row by row; a row's quote must be a verbatim substring of `reference/pt/`.
+**This file is outside the folder the operator loads.** It says what a correct audit must return, row by row; a row's quote must be a verbatim substring of `reference/pt/`. The CSV block that closes a report (`rules.md` § 3, 10/09/2026) repeats these rows with the full location and is not predicted here row by row: same content, other shape.
 
 **Corrected on 09/09/2026 after the run.** The version of 08/09 predicted a FAIL on `5-aritmética`. The run (example 2 of `examples.md`) returned PASSA with the implied rate as informational, and that is what `rules.md` check 5 supports: the note has no rate field, so a wrong `vISSQN` is not detectable by this check. The wrong prediction is kept in git (commit 760eaa0) and in `CHANGE.md`'s addendum; the mutation that tests the checkable half of check 5 is `m6-valor-liquido`.
 

@@ -1,7 +1,7 @@
 # expected — nfse-02 fed WITHOUT a profile line (the worked null case)
 
 **What was fed:** `fixtures/clean/nfse-02.xml` alone — no profile line. The note is correct; what is missing is the fact the operator supplies.
-**This file is outside the folder the operator loads.** It says what a correct audit must return, row by row; a row's quote must be a verbatim substring of `reference/pt/`. Nothing may be guessed from the note: every check that needs the profile returns CANNOT DETERMINE and says so (`rules.md` § 0).
+**This file is outside the folder the operator loads.** It says what a correct audit must return, row by row; a row's quote must be a verbatim substring of `reference/pt/`. The CSV block that closes a report (`rules.md` § 3, 10/09/2026) repeats these rows with the full location and is not predicted here row by row: same content, other shape. Nothing may be guessed from the note: every check that needs the profile returns CANNOT DETERMINE and says so (`rules.md` § 0).
 
 Totais para a sua comparação: 09/2026 — R$ 400,00 (nfse-02) — per note fed.
 

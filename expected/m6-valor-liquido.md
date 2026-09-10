@@ -1,7 +1,7 @@
 # expected — m6-valor-liquido (mutation of nfse-01: vLiq 400.00 → 380.00)
 
 **What was fed:** `fixtures/mutations/m6-valor-liquido/nfse.xml` + the profile line `perfil: CNAE 6920-6/01; regime Simples optante; anexo fixo; município 2800308; item LC 116 17.19; exporta não`.
-**This file is outside the folder the operator loads.** It says what a correct audit must return, row by row; a row's quote must be a verbatim substring of `reference/pt/`. Rows not listed here are as in `expected/nfse-01.md`. Written 09/09/2026, before the run. **Severity corrected after the run** (author's label "3a"): the prediction said `bloqueia o fechamento`; the auditor said `corrigir antes de fechar`, and `rules.md` § 3 supports it — a wrong net value does not change the tax. The earlier version is in git (commit 08876fc).
+**This file is outside the folder the operator loads.** It says what a correct audit must return, row by row; a row's quote must be a verbatim substring of `reference/pt/`. The CSV block that closes a report (`rules.md` § 3, 10/09/2026) repeats these rows with the full location and is not predicted here row by row: same content, other shape. Rows not listed here are as in `expected/nfse-01.md`. Written 09/09/2026, before the run. **Severity corrected after the run** (author's label "3a"): the prediction said `bloqueia o fechamento`; the auditor said `corrigir antes de fechar`, and `rules.md` § 3 supports it — a wrong net value does not change the tax. The earlier version is in git (commit 08876fc).
 
 Totais para a sua comparação: 08/2026 — R$ 400,00 (m6-valor-liquido) — per note fed.
 
