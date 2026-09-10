@@ -1,5 +1,7 @@
 # measurement — the four report-format variants, measured
 
+> Snapshot of the study (10/09/2026). The labels and the column header `check` in this file are the ones the decision was made on; after it, `rules.md` § 3 reworded three labels and made the Portuguese header `verificação`. The vocabulary that governs is `rules.md`; this file is evidence of the choice, kept as it was.
+
 Measurement only, no recommendation: row widths, where each row runs past 100/120/160 characters, the largest cell per column, and what each variant costs in `tools/check_audit.py`, in `expected/` and in `examples.md`.
 Re-run: `python3 rounds/report-format-v2/measure.py` from the repo root (stdlib only; it imports `tools/check_audit.py` and runs C1/C2 over each variant). File counts: `ls expected | wc -l`, `grep -l '^| nota | check' expected/*.md | wc -l`, `grep -c '^| nota | check' examples.md`, `grep -c '^| note | check' examples.md`.
 

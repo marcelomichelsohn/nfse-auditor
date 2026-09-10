@@ -1,5 +1,7 @@
 Variant V0 (as-is control) — assembled 10/09/2026 from the round-1 note (`rounds/round-1-v1/transcript.md`), with placeholders, for the author to compare formats; it is not a round and not a new report.
 
+> Snapshot of the study (10/09/2026). The labels and the column header `check` in this file are the ones the decision was made on; after it, `rules.md` § 3 reworded three labels and made the Portuguese header `verificação`. The vocabulary that governs is `rules.md`; this file is evidence of the choice, kept as it was.
+
 **Totais para a sua comparação:** competência 08/2026 (`dCompet` = 2026-08-07) → soma de `vServ` = **R$ […]** (1 nota lida).
 
 | nota | check | dispositivo | resultado | severidade | localização | trecho citado |
