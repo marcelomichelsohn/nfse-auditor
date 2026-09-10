@@ -3,7 +3,7 @@
 - **Base:** `fixtures/clean/nfse-01.xml` (a correct note).
 - **Field changed (one):** `vISSQN` — before `8.00` → after `12.00`.
 - **Check that must catch it:** check 5 — rule: LC116 art. 7.
-- **Why this mutation:** the ISS value no longer equals base × the rate implied by the rest of the note (400,00 × 2% = 8,00); the arithmetic row must fail regardless of the rate table not applying.
+- **Why this mutation:** the ISS value no longer equals base × the rate the rest of this note implies (on the clean fixture vISSQN/vBC = 8,00/400,00 = 2,00%; other notes of the office carry other rates — one real note carries 5% — so no rate is a default); the arithmetic row must fail regardless of the rate table not applying.
 - **Expected:** `expected/m5-aritmetica-iss.md`.
 
 ## Addendum — 09/09/2026, after the run (example 2 of `examples.md`)
