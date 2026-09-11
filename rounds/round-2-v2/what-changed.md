@@ -24,10 +24,15 @@ The author decided: the door counts as reached without help, with the three prom
 The control that holds everything but the instructions equal ran the same day on the public fixture (`rounds/control-timing-v1-v2/`): no difference in the model's time that two runs can see, the revised report in the same time. The pair on the client's note was not run: the note never enters this repository, and that pair answers none of the four questions of the brief.
 
 ## Changes to the folder because of this round
-Each row is one commit, after `transcript.md`. None yet.
+Each row is a change the author decided, after `transcript.md`.
 
 | # | What she hit (transcript) | What changed | Commit |
 |---|---|---|---|
-| — | *(rows: decided by the author)* | | |
+| 1 | She pasted the CSV block straight into Excel and the columns split where a cell holds a semicolon ("ele deu uma separada por causa do ponto e vírgula") | The sentence above the CSV block now says not to paste the block into Excel, and why, before the part about the accents (`rules.md` § 3, Portuguese and English) | `14cb232` |
+| 2 | Step 3 read twice — "eu não sei se eu entendi direito" — until she found the file and said "Ah, arquivo MD" | Step 3 names the file as the unpacked folder shows it (Windows may hide the `.md`) and says to right-click it and open it with Notepad | `14cb232` |
+| 3 | She pasted the README's example line and the author had to tell her to replace its values with the client's | Step 16 says to copy the example, paste it into the message and replace the values, from the sheet or the client record — which is how she used it | `14cb232` |
+| 4 | She read "one note per conversation" aloud and then, on her own, attached the second note in the same conversation | Step 15 says what happens to a second note in the same conversation, and what a new conversation costs, so the rule carries its reason | `14cb232` |
 
-**Candidates on the table (the author decides, dated when decided):** the sentence above the CSV block — say that the block must be saved as a file, or opened through Dados › De Texto/CSV, because pasting it straight into Excel splits on the semicolons inside cells; README step 3 — the wording that made her hesitate ("com o Bloco de Notas"); README step 16 — "copie o exemplo e troque os valores" said outright, since that is how she used it; step 15 — a line saying why one note per conversation (the second report inherits the first); the two reports she sent to the group, to enter this folder as `report-1.md` and `report-2.md` as they came; the open question to the office (7.02 or 31.01), now asked by her own reading.
+The four went in together, in one commit, and the folder the operator downloads was rebuilt from them (`download/`, 49 files). Because they change the v2 folder **after** the timing control ran on it, `../control-timing-v1-v2/what-this-shows.md` carries a dated section saying so.
+
+**Still on the table (the author decides, dated when decided):** the two reports she sent to the group, to enter this folder as `report-1.md` and `report-2.md` as they came, masked by the round-1 convention; and the open question to the office (7.02 or 31.01), now asked by her own reading.
