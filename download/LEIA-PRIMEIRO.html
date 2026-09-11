@@ -8,7 +8,7 @@
 <ol start="1">
 <li>Baixe a pasta do auditor: <a href="https://github.com/marcelomichelsohn/nfse-auditor/raw/main/download/nfse-auditor-carregar.zip">nfse-auditor-carregar.zip</a>.</li>
 <li>Descompacte o arquivo baixado.</li>
-<li>Abra o arquivo <code>CLAUDE.md</code> da pasta descompactada com o Bloco de Notas.</li>
+<li>Na pasta descompactada, ache o arquivo chamado <code>CLAUDE.md</code> (o Windows pode mostrar só <code>CLAUDE</code>, sem o <code>.md</code>). Clique nele com o botão direito e escolha Abrir com › Bloco de Notas.</li>
 <li>Selecione tudo e copie.</li>
 <li>No app do Claude, no menu da esquerda, clique em "Projetos".</li>
 <li>Crie um projeto novo com o nome <code>nfse-auditor</code> (se já existir um com esse nome, use outro nome).</li>
@@ -23,8 +23,8 @@
 <li>Ao lado da caixa de mensagem, clique no nome do modelo.</li>
 <li>Abra a lista completa de modelos e escolha "Opus 4.8".</li>
 <li>Escolha o esforço "Baixo".</li>
-<li>Anexe um só arquivo XML de nota fiscal do padrão nacional por conversa.</li>
-<li>Digite na mensagem o regime tributário do cliente, o Anexo e o Código de Atividade, neste formato: <code>Regime tributário = Simples Nacional - Comércio e ou Serviço - Com Pró-labore - Com Funcionários; Anexo = III; Código de Atividade = 702</code> (se tiver mais de um código, digite todos). Se você tiver uma planilha ou sistema com esses dados, copie e cole na mensagem.</li>
+<li>Anexe um só arquivo XML de nota fiscal do padrão nacional por conversa. Uma nota por conversa porque a conversa guarda o que já leu: se você anexar uma segunda nota na mesma conversa, ela é conferida junto com a primeira e com os dados que você já tinha digitado, e o resultado deixa de valer só para ela. Começar uma conversa nova demora um pouco mais, porque o sistema lê a pasta de novo. Vale a espera: é assim que cada nota é conferida sozinha.</li>
+<li>Na mensagem vão o regime tributário do cliente, o Anexo e o Código de Atividade. Copie o exemplo a seguir, cole na mensagem e troque os valores pelos do seu cliente, tirados da sua planilha ou do seu cadastro: <code>Regime tributário = Simples Nacional - Comércio e ou Serviço - Com Pró-labore - Com Funcionários; Anexo = III; Código de Atividade = 702</code> (se tiver mais de um código, digite todos).</li>
 <li>Envie.</li>
 </ol>
 <p><strong>O sistema responderá com:</strong></p>
@@ -43,7 +43,7 @@
 <ol start="1">
 <li>Download the auditor's folder: <a href="https://github.com/marcelomichelsohn/nfse-auditor/raw/main/download/nfse-auditor-carregar.zip">nfse-auditor-carregar.zip</a>.</li>
 <li>Unpack the downloaded file.</li>
-<li>Open the unpacked folder's <code>CLAUDE.md</code> with Notepad.</li>
+<li>In the unpacked folder, find the file named <code>CLAUDE.md</code> (Windows may show it as <code>CLAUDE</code>, without the <code>.md</code>). Right-click it and choose Open with › Notepad.</li>
 <li>Select all and copy.</li>
 <li>In the Claude app, in the left menu, open the projects list.</li>
 <li>Create a new project named <code>nfse-auditor</code> (if one with that name already exists, use another name).</li>
@@ -58,8 +58,8 @@
 <li>Beside the message box, click the model's name.</li>
 <li>Open the full list of models and choose "Opus 4.8".</li>
 <li>Set the effort to low.</li>
-<li>Attach one national-standard NFS-e XML file per conversation, and only one.</li>
-<li>In the message, type the client's tax regime, the Anexo and the Código de Atividade, in this form: <code>Regime tributário = Simples Nacional - Comércio e ou Serviço - Com Pró-labore - Com Funcionários; Anexo = III; Código de Atividade = 702</code> (if there is more than one code, type them all). If you have a spreadsheet or a system with these data, copy and paste them into the message.</li>
+<li>Attach one national-standard NFS-e XML file per conversation, and only one. One note per conversation because the conversation keeps what it has already read: if you attach a second note to the same conversation, it is audited together with the first and with the data you had already typed, and the result no longer applies to it alone. Starting a new conversation takes a little longer, because the folder is read again. It is worth the wait: that is what keeps each note audited on its own.</li>
+<li>The message carries the client's tax regime, the Anexo and the Código de Atividade. Copy the example that follows, paste it into the message and replace its values with your client's, taken from your spreadsheet or your client record: <code>Regime tributário = Simples Nacional - Comércio e ou Serviço - Com Pró-labore - Com Funcionários; Anexo = III; Código de Atividade = 702</code> (if there is more than one code, type them all).</li>
 <li>Send.</li>
 </ol>
 <p><strong>The system answers with:</strong></p>
