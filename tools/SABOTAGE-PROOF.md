@@ -1,4 +1,4 @@
-# SABOTAGE-PROOF — 2026-09-11T17:42:22-03:00 — HEAD b2cd9d2
+# SABOTAGE-PROOF — 2026-09-11T18:00:42-03:00 — HEAD 2c887eb
 
 Each line: a claim of `tools/README.md`, its sabotage applied to a fresh scratch copy, and the first line the command printed. CAUGHT = the command failed, as the claim says it must.
 
@@ -11,5 +11,5 @@ Each line: a claim of `tools/README.md`, its sabotage applied to a fresh scratch
 - CAUGHT  make_load_folder refuses an evidence path — `FAIL these paths are evidence, never loaded (README.md § What to load): ['fixtures/clean/nfse-01.xml']`
 - CAUGHT  the committed zip is the current files (--check) — `FAIL the zip in download/ differs from the current files (rebuild: python3 tools/make_load_folder.py download): ['identity.md']`
 - CAUGHT  no real identifier (C6) — `FAIL C6  rules.md:76: check-digit-valid CNPJ in text: [the planted CNPJ]`
-- CAUGHT  predictions before reports, from git (prove_order) — `(i) round-9-sabotage: expected (83ed090) before transcript (72e30e7)`
+- CAUGHT  predictions before reports, from git (prove_order) — `(i) round-9-sabotage: expected (0467de7) before transcript (676cac1)`
 - CAUGHT  the checker is not decoration (--selftest) — `SELFTEST FAIL`
