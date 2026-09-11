@@ -1,6 +1,6 @@
 # examples.md — worked audits, exactly as the auditor returned them
 
-These are real runs of this folder in a Claude project, on the fixtures in `fixtures/` (anonymised notes of the author's own company, issued by the office), kept **verbatim** — nothing was corrected after the run. Each example says what was fed and in what conditions; the expected result of each run, written before the run, is in `expected/` (outside the loaded set). Each Portuguese report is followed by an English twin. **In examples 1 to 4b the English was produced by the auditor itself**, in the same conversation, on the request "Please repeat the report above in English" — the test being whether it looks the English quotes up in `reference/en/` instead of translating them. It did in examples 1, 3 (on the second answer, after leaving the Portuguese in on the first — kept) and 4b, and the checker confirms every English quote as a verbatim substring of `reference/en/`. **From example 5 on the English is a rendering by the author's session**, not an answer of the auditor: the quotes are looked up in `reference/en/` the same way and checked by the same tool; the Portuguese is the original. Asking the auditor again would have cost the operator a run each time and proved nothing new. What each run showed and what changed in the folder after it, with the commit, is listed in `rounds/fixture-runs-v1/what-changed.md`. **Three of the runs are here** — a correct note, a note with one field altered, and the null case — because that is what an example file is for. **All the runs, in order, including the wrong answers kept as they came, are in `rounds/fixture-runs-v1/report-all-runs.md`**; the numbering here follows that order, which is why the examples below are numbered 1, 3, 4b and 5.
+These are real runs of this folder in a Claude project, on the fixtures in `fixtures/` (anonymised notes of the author's own company, issued by the office), kept **verbatim** — nothing was corrected after the run. Each example says what was fed and in what conditions; the expected result of each run, written before the run, is in `expected/` (outside the loaded set). **The English twin of each run left this file on 11/09/2026** and lives in `rounds/fixture-runs-v1/report-all-runs.md`, which is evidence and is never loaded. In examples 1 to 4b that English was produced by the auditor itself, in the same conversation, on the request "Please repeat the report above in English": the test was whether it looks the English quotes up in `reference/en/` instead of translating them. It did, in examples 1, 3 (on the second answer, after leaving the Portuguese in on the first, which is kept) and 4b, and `tools/check_audit.py` still confirms every one of those quotes as a verbatim substring of `reference/en/` where they now live. They moved because this file is uploaded into the project on every audit and the twins were a duplicate of a record that already existed: the operator was paying for them on every run. **From example 5 on the English is a rendering by the author's session**, not an answer of the auditor: the quotes are looked up in `reference/en/` the same way and checked by the same tool; the Portuguese is the original. Asking the auditor again would have cost the operator a run each time and proved nothing new. What each run showed and what changed in the folder after it, with the commit, is listed in `rounds/fixture-runs-v1/what-changed.md`. **Three of the runs are here** — a correct note, a note with one field altered, and the null case — because that is what an example file is for. **All the runs, in order, including the wrong answers kept as they came, are in `rounds/fixture-runs-v1/report-all-runs.md`**; the numbering here follows that order, which is why the examples below are numbered 1, 3, 4b and 5.
 
 > **Format note, 10/09/2026.** The examples below were run before `rules.md` § 3 changed after round 1 (check cell carrying its label; severity cell carrying who acts; short location; CSV block at the end). They are kept exactly as they came, so their tables show the earlier shape. The rules govern; the first run in the revised shape is example 5, at the end of this file. **The input line changed too:** examples 1, 3 and 4b were fed the older six-field line that began with the word `perfil:`; that word was dropped on 11/09/2026 and the line the operator types today is the three-field one in `rules.md` § 0 and in step 16 of the README. Read the older examples for the shape of the answer, never for the shape of the request.
 
@@ -26,22 +26,8 @@ These are real runs of this folder in a Claude project, on the fixtures in `fixt
 
 **Não lidos:** (nenhum) — o arquivo é XML NFS-e de padrão nacional (raiz `NFSe` v1.01 com `DPS` embutido) e foi auditado.
 
-### The same report in English (verbatim). Not a new audit: the second message of the same conversation asked for the report above in English. What it shows is that the English quotes were looked up in `reference/en/`, not translated. (`rules.md` was updated between the two messages — commit 72ed913 — but no audit was re-run.)
-
-**Totals for your comparison:** competency 08/2026 (dCompet 2026-08-31) → sum of `vServ` = **R$ 400.00** (1 note read).
-
-| note | check | provision | result | severity | location | quoted excerpt |
-|---|---|---|---|---|---|---|
-| nfse-01.xml | 1-code | LC116 list item 17 | PASS | — | `DPS/infDPS/serv/cServ/cTribNac = 171901` (item 17.19; profile `item LC 116 = 17.19`; code exists in ANEXO_B) | 17.19 – Accounting, including technical and auxiliary services. |
-| nfse-01.xml | 1-description | LC116 art. 1 | CANNOT DETERMINE | — | `xTribNac = "Contabilidade, inclusive serviços técnicos e auxiliares."` × `DPS/infDPS/serv/cServ/xDescServ = "1 Investimento Contábil. 400,00 ..."` — whether the free text matches the code is a judgement | The levy of the tax does not depend on the name given to the service rendered. |
-| nfse-01.xml | 2 | required-fields.md (ANEXO I / XSD v1.01) | PASS | — | All required fields on the used path present and non-empty (e.g. `DPS/infDPS/valores/vServPrest/vServ = 400.00`; `infNFSe/valores/vLiq = 400.00`); every `choice` group satisfied (CNPJ in emit/prest/toma; endNac; cLocPrestacao) | Valor líquido da NFS-e. |
-| nfse-01.xml | 3 | LC116 art. 3 | PASS | — | `infNFSe/cLocIncid = 2800308` = `DPS/infDPS/cLocEmi = 2800308`; item 17.19 is not among the exceptions I–XXV | The service is considered rendered, and the tax, due, at the location of the provider's establishment |
-| nfse-01.xml | 4 | LC123 art. 13 | PASS | — | `prest/regTrib/opSimpNac = 3` (ME/EPP optant) coherent with profile `regime = Simples optante`; `regApTribSN = 1`; `valores/trib/tribMun/tribISSQN = 1`; `tpRetISSQN = 1` (not withheld) — coherent among themselves | entails the monthly collection, by means of a single collection document, |
-| nfse-01.xml | 5-arithmetic | LC116 art. 7 | PASS | — | `vLiq 400.00` = `vServ 400.00` − 0.00 (deductions) − 0.00 (retentions); `vISSQN 8.00` / `vBC 400.00` | The tax base is the price of the service. |
-| nfse-01.xml | 5-rate | LC123 art. 13 | NOT APPLICABLE | — | No `pAliqAplic` field; implied rate `vISSQN/vBC = 8.00/400.00 = 2.00%` (xOutInf: "2,0000%"). For a Simples optant the municipal rate table is not the applicable rate (ISS inside the DAS; accountant at a fixed amount) | entails the monthly collection, by means of a single collection document, |
-| nfse-01.xml | 6 | LC214 art. 62 | NOT APPLICABLE | — | Always NOT APPLICABLE in this version: the note carries no `IBSCBS`/`CST`/`cClassTrib` group; IBS/CBS exposure on DF-e becomes required per the technical notes from 01/01/2026 | the Municipalities and the Federal District are required, as of January 1, 2026 |
-
-**Not read:** (none) — the file is a national-standard NFS-e XML (root `NFSe` v1.01 with embedded `DPS`) and was audited.
+### The same report in English — moved out of this file on 11/09/2026
+The English answer of this run is not a second audit: it is the same conversation asked to repeat the report in English, and what it shows is that the English quotes were looked up in `reference/en/` rather than translated. It lives, verbatim and complete, in `rounds/fixture-runs-v1/report-all-runs.md`, which is evidence and is never loaded. It left this file because this file is loaded into the project on every audit, and a demonstration the operator pays for on every run should be a demonstration, not a duplicate.
 
 ## Example 3 — a note with one field altered (m6-valor-liquido: `vLiq` 400.00 → 380.00), with the profile line
 
@@ -66,26 +52,8 @@ Now let me verify the service code against ANEXO B and check the excerpts I'll n
 
 **Não lidos:** nenhum — `nfse.xml` é NFS-e do padrão nacional (raiz `NFSe`, versão 1.01, com `DPS` embutida).
 
-### The same report in English — second answer, after the operator pointed at `rules.md` § 3 ("Yes, swap them: rules.md § 3 says the quoted excerpt in an English report is the reference/en/ text of the same provision"), verbatim. Not a new audit.
-
-Right — per rules.md § 3 the quoted excerpt in an English report comes from `reference/en/`. Swapped in below.
-
-**Totals for your comparison:** competence 08/2026 (`dCompet` = 2026-08-31) — **R$ 400.00** (sum of `vServ` of the notes read).
-
-| note | check | provision | result | severity | location | quoted excerpt |
-|---|---|---|---|---|---|---|
-| nfse.xml | 1-código | LC116 list item 17 | PASS | — | `DPS/infDPS/serv/cServ/cTribNac = 171901` (ANEXO B: item 17 · subitem 19 · desdobro 1); profile `item LC 116 = 17.19` | "17.19 – Accounting, including technical and auxiliary services." |
-| nfse.xml | 1-descrição | LC116 list item 17 | CANNOT DETERMINE | — | `xDescServ` = "1 Investimento Contábil. 400,00 . Trib aprox R$: 53,80 Federal, R$: 0,00 Estadual e R$: 20,00 Municipal Fonte: IBPT/empresometro.com.br 42CA5A" × the code's description (`xTribNac`) = "Contabilidade, inclusive serviços técnicos e auxiliares." — whether the free text matches the code is a judgement | "17.19 – Accounting, including technical and auxiliary services." |
-| nfse.xml | 2 | required-fields.md | PASS | — | mandatory layout fields present and non-empty on the path this note uses (`emit/enderNac`; `DPS/infDPS/prest/regTrib` [opSimpNac, regEspTrib]; `toma/end` [endNac, xLgr, nro, xBairro]; `serv/locPrest/cLocPrestacao`; `serv/cServ/cTribNac`; `serv/cServ/xDescServ`; `valores/vServPrest/vServ`; `valores/trib/tribMun`; `valores/trib/totTrib`; `infNFSe/valores/vLiq`) | — |
-| nfse.xml | 3 | LC116 art. 3 | PASS | — | `infNFSe/cLocIncid = 2800308` = `DPS/infDPS/cLocEmi = 2800308`. Item 171901 = LI at the Provider's Establishment (EP) in the MUN.INCID sheet; not among the art. 3 exceptions (I–XXV). Taker in 3505708 is irrelevant to the LI of this item. | "The service is considered rendered, and the tax, due, at the location of the provider's establishment" |
-| nfse.xml | 4 | LC123 art. 13 | PASS | — | `prest/regTrib/opSimpNac = 3` (ME/EPP optant) coherent with profile "Simples optante"; `regApTribSN = 1`; `regEspTrib = 0`; `valores/trib/tribMun/tribISSQN = 1` (taxable operation); `tpRetISSQN = 1` (not withheld) | "the monthly collection, by means of a single collection document" |
-| nfse.xml | 5-aritmética | LC116 art. 7 | FAIL | correct before closing | `vServ = 400.00`; `vCalcDR = 0.00`; no discount/deduction/withholding declared (`tpRetISSQN = 1` = not withheld) → expected `vLiq` = 400.00; declared `vLiq` = **380.00** (difference of 20.00, equal to `vTotTribMun = 20.00` — IBPT approximate tax, which is not a deduction). `vBC = 400.00` is correct. | "The tax base is the price of the service." |
-| nfse.xml | 5-alíquota | LC123 art. 18 §22-A | NOT APPLICABLE | — | note carries no structured rate field (`pAliqAplic` absent); implied rate `vISSQN/vBC` = 8.00/400.00 = 2.00% (informational). For a Simples optant (accountant at a fixed amount) the municipal rate table is not the reference. | "pursuant to municipal legislation" |
-| nfse.xml | 6 | LC214 art. 62 | NOT APPLICABLE | — | note has no `IBSCBS` group and no `CST`/`cClassTrib`. IBS/CBS highlighting becomes mandatory on electronic fiscal documents from 01/01/2026 (technical notes) and for Simples optants on the national portal from 01/11/2026; municipalities share to the national environment from 01/01/2026. | "authorize their taxpayers to issue the national-standard Nota Fiscal de Serviços Eletrônica (NFS-e) in the national environment" |
-
-**Not read:** none — `nfse.xml` is a national-standard NFS-e (root `NFSe`, version 1.01, with the embedded `DPS`).
-
-The `xTribNac` value shown in the 1-descrição location stays in Portuguese because it is the note's own field content, not a cited provision.
+### The same report in English — moved out of this file on 11/09/2026
+The English answer of this run is not a second audit: it is the same conversation asked to repeat the report in English, and what it shows is that the English quotes were looked up in `reference/en/` rather than translated. It lives, verbatim and complete, in `rounds/fixture-runs-v1/report-all-runs.md`, which is evidence and is never loaded. It left this file because this file is loaded into the project on every audit, and a demonstration the operator pays for on every run should be a demonstration, not a duplicate.
 
 ## Example 4b — the null case again, after the correction (nfse-02 without the profile line)
 
@@ -110,22 +78,8 @@ Totais para a sua comparação: 09/2026 — R$ 400,00.
 
 Não lidos: nenhum.
 
-### The same report in English (verbatim; second message of the same conversation; not a new audit)
-
-Totals for your comparison: 09/2026 — R$ 400.00
-
-| note | check | provision | result | severity | location | quoted excerpt |
-|---|---|---|---|---|---|---|
-| nfse-02.xml | 1-código | LC116 list item 17 | CANNOT DETERMINE | — | `DPS/infDPS/serv/cServ/cTribNac = 171901` (exists in ANEXO B: item 17, subitem 19, breakdown 1). No profile line: a code that exists is not a code that is right for this client. | "Accounting, including technical and auxiliary services." |
-| nfse-02.xml | 1-descrição | LC116 list item 17 | CANNOT DETERMINE | — | `xDescServ = "1 Investimento Contábil. 400,00 ..."` × description of code `171901 = "Contabilidade, inclusive serviços técnicos e auxiliares."` — a judgement about words. | "Accounting, including technical and auxiliary services." |
-| nfse-02.xml | 2 | ANEXO I / XSD v1.01 (required-fields.md) | PASS | — | Every required element is present and non-empty on the path the note uses (`emit`, `emit/enderNac`, `prest/regTrib` [`opSimpNac`, `regEspTrib`], `toma` [`xNome`, `end/xLgr`, `nro`, `xBairro`], `serv/cServ` [`cTribNac`, `xDescServ`], `valores/vServPrest/vServ`, `trib/tribMun`, `trib/totTrib`, `infNFSe/valores/vLiq`). | — |
-| nfse-02.xml | 3 | LC116 art. 3 | PASS | — | Item 17.19 is not among the exceptions of items I–XXV (of item 17, only 17.05 and 17.10). Default rule: due at the provider's establishment. `infNFSe/cLocIncid = 2800308` = `DPS/infDPS/cLocEmi = 2800308` (Aracaju). | "The service is considered rendered, and the tax due, at the location of the provider's establishment" |
-| nfse-02.xml | 4 | LC123 art. 18 §5º-B | CANNOT DETERMINE | — | `prest/regTrib/opSimpNac = 3`, `regApTribSN = 1`, `tribMun/tribISSQN = 1`, `tpRetISSQN = 1` are coherent among themselves; the profile line is missing to confront them with the client's registered `regime`. The note's own flags do not replace the profile. | "offices, observing the provisions of §§ 22-B and 22-C of this article." |
-| nfse-02.xml | 5-aritmética | LC116 art. 7 | PASS | — | `vLiq = 400.00` = `vServ = 400.00` − 0 (no discounts) − 0 (no retention; `tpRetISSQN = 1` = not retained). Adds up. | "The tax base is the price of the service." |
-| nfse-02.xml | 5-alíquota | LC123 art. 18 §22-A | CANNOT DETERMINE | — | No rate field (`pAliqAplic` absent): the implied rate `vISSQN/vBC = 8.00/400.00 = 2.0%` is informational only. Without the profile line the regime that fixes the applicable rate cannot be confirmed (optant → ISS inside the DAS / accountant's fixed amount). | "fixed amount, pursuant to municipal legislation." |
-| nfse-02.xml | 6 | LC214 art. 62 | NOT APPLICABLE | — | No municipality in the office's portfolio exposes the IBS/CBS fields yet; the note carries no `CST`/`cClassTrib` (the `IBSCBS` group is absent). Re-enters when a real note carries those fields. | "the Municipalities and the Federal District are required, as of January 1, 2026" |
-
-Not read: none.
+### The same report in English — moved out of this file on 11/09/2026
+The English answer of this run is not a second audit: it is the same conversation asked to repeat the report in English, and what it shows is that the English quotes were looked up in `reference/en/` rather than translated. It lives, verbatim and complete, in `rounds/fixture-runs-v1/report-all-runs.md`, which is evidence and is never loaded. It left this file because this file is loaded into the project on every audit, and a demonstration the operator pays for on every run should be a demonstration, not a duplicate.
 
 ## Example 5 — a note with the wrong service code (m1-codigo-servico), in the shape of 10/09/2026
 
