@@ -37,7 +37,11 @@ def sab_c5_readme(d): edit(os.path.join(d, "README.md"), lambda t: t.replace("Wh
 def sab_c5_entry(d): open(os.path.join(d, "CLAUDE.md"), "a", encoding="utf-8").write("\nPASSA\n")
 def sab_loader(d): edit(os.path.join(d, "tools", "make_load_folder.py"), lambda t: t.replace('LOAD = ["README.md"', 'LOAD = ["fixtures/clean/nfse-01.xml", "README.md"', 1))
 def sab_zip(d): open(os.path.join(d, "identity.md"), "a", encoding="utf-8").write("x")
-def sab_c6(d): open(os.path.join(d, "rules.md"), "a", encoding="utf-8").write("\nCNPJ 11.222.333/0001-81\n")
+def sab_c6(d):  # a CNPJ with valid check digits, built here so the literal never sits in this file (C6 would catch it)
+    base = "112223330001"
+    def dv(nums, w): s = sum(int(n) * k for n, k in zip(nums, w)); r = s % 11; return "0" if r < 2 else str(11 - r)
+    w1 = [5,4,3,2,9,8,7,6,5,4,3,2]; d1 = dv(base, w1); d2 = dv(base + d1, [6] + w1)
+    open(os.path.join(d, "rules.md"), "a", encoding="utf-8").write(f"\nCNPJ {base[:2]}.{base[2:5]}.{base[5:8]}/{base[8:]}-{d1}{d2}\n")
 def sab_selftest(d): shutil.copy(os.path.join(d, "tools", "selftest", "good-report.md"), os.path.join(d, "tools", "selftest", "bad-report.md"))
 def sab_order(d):  # a new round whose transcript is committed before its prediction
     r = os.path.join(d, "rounds", "round-9-sabotage"); os.makedirs(r)
@@ -76,6 +80,7 @@ def main():
             sab(d); code, out = cmd(d)
             first = next((l for l in out.split("\n") if l.startswith("FAIL") or "FAIL" in l), out.strip().split("\n")[-1] if out.strip() else "")
             ok = code != 0; allok &= ok
+            first = re.sub(r"\d{2}\.\d{3}\.\d{3}/\d{4}-\d{2}", "[the planted CNPJ]", first)  # the proof file must not carry it either
             lines.append(f"- {'CAUGHT' if ok else 'NOT CAUGHT'}  {claim} — `{first.strip()[:160]}`")
         finally:
             shutil.rmtree(os.path.dirname(d), ignore_errors=True)
