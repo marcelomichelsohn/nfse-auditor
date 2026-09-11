@@ -2,6 +2,8 @@
 
 One line per claim, the command that fails if the claim is false, and how to break it on purpose. Every command runs offline from the repository root, standard library only. "The checker" is `python3 tools/check_audit.py`; it names the check, the file and the line when it fails.
 
+`python3 tools/sabotage_check.py` applies every sabotage below to a fresh scratch copy of the repository, one at a time, and requires the named command to fail there; it writes what it saw to `tools/SABOTAGE-PROOF.md`, so "it was tested" has a trace a stranger can re-run.
+
 - **"Every quote in every report is the standard's text, word for word."** The checker, C1: every `trecho citado` (quoted excerpt) cell in `examples.md`, `expected/*.md` and the round transcripts must be a substring of a file under `reference/pt/` (Portuguese row) or `reference/en/` (English row). Change one word inside a quote in `expected/nfse-01.md` and run it. `python3 tools/check_audit.py --selftest` runs the same check on `tools/selftest/bad-report.md` and must fail there.
 - **"The excerpts are cut from the full texts, not retyped."** The checker, C0: every file in `reference/pt/excerpts/` is a substring of a file in `reference/pt/full/`; same for `en/`. Change a byte in any excerpt and run it; `--selftest` plants one and must catch it.
 - **"Every fixture has a prediction, and every mutation names the check that must catch it."** The checker, C3: one `expected/` file per XML in `fixtures/`; each `fixtures/mutations/<slug>/CHANGE.md` names the field and the rule, and the prediction FAILS on that check. Delete `expected/m2-campo-obrigatorio.md`, or turn its FALHA (fail) into PASSA (pass), and run it.
