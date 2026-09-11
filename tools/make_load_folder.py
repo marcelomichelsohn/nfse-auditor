@@ -16,6 +16,7 @@ LOAD = ["README.md", "CLAUDE.md", "identity.md", "rules.md", "examples.md", "ref
         "reference/tables/municipal-rates_2800308-aracaju-se_extract-20260903.csv"]
 LOAD += sorted(glob.glob("reference/pt/excerpts/*.txt", root_dir=ROOT)) + sorted(glob.glob("reference/en/excerpts/*.txt", root_dir=ROOT))
 LOAD += sorted(glob.glob("reference/tables/working/*.csv", root_dir=ROOT)) + sorted(glob.glob("reference/tables/official/csv/*.csv", root_dir=ROOT))
+NEVER = ("fixtures/", "expected/", "rounds/", "tools/", "reference/pt/full/", "reference/en/full/")  # the README's never-load list
 
 def md_to_html(md):
     """A small converter for what README.md uses: #/## headings, paragraphs, numbered lists, **bold**, `code`, links."""
@@ -32,7 +33,7 @@ def md_to_html(md):
     for line in md.split("\n"):
         if re.match(r"^\d+\. ", line):
             flush()
-            if not inlist: out.append("<ol>"); inlist = True
+            if not inlist: out.append(f'<ol start="{int(line.split(".")[0])}">'); inlist = True  # steps 5–7 stay 5–7 in the HTML
             out.append("<li>" + inline(re.sub(r"^\d+\. ", "", line)) + "</li>"); continue
         if inlist and (line.strip() == "" or not re.match(r"^\d+\. ", line)):
             out.append("</ol>"); inlist = False
@@ -52,6 +53,8 @@ def main():
     out = os.path.abspath(sys.argv[1]); flat = os.path.join(out, "nfse-auditor-carregar")
     if os.path.exists(flat): shutil.rmtree(flat)
     os.makedirs(flat)
+    bad = [p for p in LOAD if p.startswith(NEVER)]
+    if bad: print("FAIL these paths are evidence, never loaded (README.md § What to load):", bad); sys.exit(1)
     names = [os.path.basename(p) for p in LOAD]
     dup = sorted({n for n in names if names.count(n) > 1})
     if dup: print("FAIL duplicate file names, a project would merge them:", dup); sys.exit(1)
