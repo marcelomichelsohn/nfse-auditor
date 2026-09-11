@@ -1,0 +1,80 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><title>nfse-auditor — README</title><style>body{max-width:860px;margin:32px auto;padding:0 24px;font:16px/1.6 -apple-system,Segoe UI,Helvetica,Arial,sans-serif;color:#1f2328;background:#fff}h1{font-size:2em;border-bottom:1px solid #d1d9e0;padding-bottom:.3em}h2{font-size:1.5em;border-bottom:1px solid #d1d9e0;padding-bottom:.3em;margin-top:1.5em}code{background:#f6f8fa;padding:.2em .4em;border-radius:6px;font-size:85%}ol{padding-left:2em}li{margin:.4em 0}</style></head><body>
+<h1>nfse-auditor</h1>
+<p>As instruções de uso vêm duas vezes: primeiro em português, para quem vai usar a pasta no escritório; depois em inglês. As duas dizem a mesma coisa; o resto do arquivo está só em inglês.</p>
+<p>The instructions come twice: first in Portuguese, for the person who will use the folder at the accounting office in Brazil; then in English. The two say the same thing; the rest of this file is in English only.</p>
+<h2>Para usar (português)</h2>
+<p><strong>O que é.</strong> Uma pasta que confere notas fiscais de serviço (NFS-e) do padrão nacional contra a lei do ISS, o Simples Nacional e o leiaute nacional. Para cada nota e cada verificação, ela devolve passa / falha / não dá para determinar / não se aplica, com o trecho da norma citado ao pé da letra. Ela não corrige nada e não decide nada por você.</p>
+<p><strong>Como montar, uma vez só:</strong></p>
+<ol start="1">
+<li>Baixe a pasta do auditor: <a href="https://github.com/marcelomichelsohn/nfse-auditor/raw/main/download/nfse-auditor-carregar.zip">nfse-auditor-carregar.zip</a>.</li>
+<li>Descompacte o arquivo baixado.</li>
+<li>Abra o arquivo <code>CLAUDE.md</code> da pasta descompactada com o Bloco de Notas.</li>
+<li>Selecione tudo e copie.</li>
+<li>No app do Claude, no menu da esquerda, clique em "Projetos".</li>
+<li>Crie um projeto novo com o nome <code>nfse-auditor</code> (se já existir um com esse nome, use outro nome).</li>
+<li>Deixe o campo "Pasta" vazio.</li>
+<li>No projeto, no painel da direita, em "Instruções", cole o que copiou e salve.</li>
+<li>No mesmo painel, em "Contexto", adicione todos os outros arquivos da pasta descompactada, selecionando todos de uma vez.</li>
+</ol>
+<p><strong>Como usar:</strong></p>
+<ol start="10">
+<li>Dentro do projeto, comece uma conversa nova.</li>
+<li>Na caixa de mensagem, deixe marcado "Chat", não "Cowork".</li>
+<li>Ao lado da caixa de mensagem, clique no nome do modelo, abra a lista completa de modelos e escolha "Opus 4.8".</li>
+<li>Escolha o esforço "Baixo".</li>
+<li>Anexe um só arquivo XML de nota fiscal do padrão nacional por conversa.</li>
+<li>Digite na mensagem o regime tributário do cliente, o Anexo e o Código de Atividade, nesta forma: <code>Regime tributário = Simples Nacional - Comércio e ou Serviço - Com Pró-labore - Com Funcionários; Anexo = III; Código de Atividade = 702</code> (se tiver mais de um código, digite todos). Se você tiver uma planilha ou sistema com esses dados, copie e cole na mensagem.</li>
+<li>Envie.</li>
+</ol>
+<p><strong>O sistema responderá com:</strong></p>
+<ol start="1">
+<li>o total da nota;</li>
+<li>uma tabela que audita os dados da nota comparando com as legislações vigentes e te avisa se a verificação PASSA, FALHA, NÃO DÁ PARA DETERMINAR ou NÃO SE APLICA;</li>
+<li>um aviso de "Não lidos" caso o arquivo anexado não seja reconhecido como uma nota pelo sistema;</li>
+<li>um bloco de texto CSV caso você queira criar um arquivo que possa ser aberto no Excel para facilitar sua conferência.</li>
+</ol>
+<p>Os nomes entre aspas são os da tela do app em português, vistos em 09/09/2026; versões novas do app podem mudá-los.</p>
+<p><strong>Três situações em que ela para em vez de adivinhar:</strong> sem a linha do passo 15, as verificações que dependem dela voltam "não dá para determinar"; um arquivo que não é XML do padrão nacional (o da prefeitura, por exemplo) entra em "Não lidos"; um pedido de decisão ("qual item eu uso?") volta para você, com a nota e a regra ao lado.</p>
+<p><strong>O que ela não faz:</strong> não baixa notas, não calcula o DAS, não compara o faturamento declarado com as notas (só soma as notas para você comparar), não lê o XML da prefeitura nem PDF, não valida assinatura digital, não decide nada por você.</p>
+<h2>To use it (English)</h2>
+<p><strong>What it is.</strong> A folder that audits Brazilian service invoices (NFS-e, national standard) under the ISS law, the Simples Nacional and the national layout. For each note and each check it returns pass / fail / cannot determine / not applicable, with the provision quoted verbatim. It corrects nothing and decides nothing for you.</p>
+<p><strong>Set-up, once:</strong></p>
+<ol start="1">
+<li>Download the auditor's folder: <a href="https://github.com/marcelomichelsohn/nfse-auditor/raw/main/download/nfse-auditor-carregar.zip">nfse-auditor-carregar.zip</a>.</li>
+<li>Unpack the downloaded file.</li>
+<li>Open the unpacked folder's <code>CLAUDE.md</code> with Notepad, or any plain-text editor.</li>
+<li>Select all and copy.</li>
+<li>In the Claude app, open the projects list.</li>
+<li>Create a new project named <code>nfse-auditor</code> (if one with that name already exists, use another name).</li>
+<li>Leave the project's folder field empty.</li>
+<li>In the project, paste what you copied into the project's own instructions field (not a conversation) and save.</li>
+<li>Under the project's context, add every other file of the unpacked folder, selecting them all at once.</li>
+</ol>
+<p><strong>Use:</strong></p>
+<ol start="10">
+<li>Inside the project, start a new conversation.</li>
+<li>In the message box, keep "Chat" selected, not "Cowork".</li>
+<li>Beside the message box, click the model's name, open the full list of models and choose "Opus 4.8".</li>
+<li>Set the effort to low.</li>
+<li>Attach one national-standard NFS-e XML file per conversation, and only one.</li>
+<li>Type in the message the client's tax regime, the Anexo and the Código de Atividade, in this form: <code>Regime tributário = Simples Nacional - Comércio e ou Serviço - Com Pró-labore - Com Funcionários; Anexo = III; Código de Atividade = 702</code> (if there is more than one code, type them all). If you have a spreadsheet or a system with these data, copy and paste them into the message.</li>
+<li>Send.</li>
+</ol>
+<p><strong>The system answers with:</strong></p>
+<ol start="1">
+<li>the note's total;</li>
+<li>a table that audits the note's data against the legislation in force and tells you whether each check is PASS, FAIL, CANNOT DETERMINE or NOT APPLICABLE;</li>
+<li>a "Not read" notice if the attached file is not recognised as a note by the system;</li>
+<li>a CSV text block, in case you want to make a file that opens in Excel to ease your checking.</li>
+</ol>
+<p>The names in quotes are the labels of the app's Portuguese screen, seen on 09/09/2026, and the names that are the same in any language (Chat, Cowork, Opus 4.8); the other fields are named by what they do, because no one has checked the English screen.</p>
+<p><strong>Three situations where it stops instead of guessing:</strong> without the line of step 15, the checks that need it return "cannot determine"; a file that is not national-standard XML (a municipality's own, for instance) goes under "Not read"; a request for a decision ("which item should I use?") is handed back, with the note and the rule beside it.</p>
+<p><strong>What it does not do:</strong> it does not fetch notes, compute the monthly tax (DAS), compare the client's declared revenue with the notes (it only sums the notes for you to compare), read a municipality's own XML or a PDF, validate the digital signature, or decide anything for you.</p>
+<h2>What to load, and what never to load</h2>
+<p>What to load: the files the operator's folder contains, and nothing else. <code>identity.md</code> · <code>rules.md</code> · <code>examples.md</code> · <code>README.md</code> · <code>reference/INDEX.md</code> · <code>reference/pt/excerpts/</code> · <code>reference/en/excerpts/</code> · <code>reference/tables/required-fields.md</code> · <code>reference/tables/TABLES.md</code> · <code>reference/tables/working/</code> · <code>reference/tables/municipal-rates_2800308-aracaju-se_extract-20260903.csv</code> · <code>reference/tables/official/csv/</code>; <code>CLAUDE.md</code> goes into the project's instructions. The operator receives these files copied flat into one folder: the zip in <code>download/</code>, built from this list by a script (see <code>download/</code>).<br>
+Never load: <code>fixtures/</code> · <code>expected/</code> · <code>rounds/</code> · <code>tools/</code> · <code>reference/pt/full/</code> · <code>reference/en/full/</code>. They exist to check the auditor; they are not part of it.</p>
+<h2>How to check it</h2>
+<p>The evidence a reader uses to check the auditor lives in the folders on the never-load list: <code>fixtures/</code> (anonymised notes, one-field mutations, and one violation kept while the text around it is reworded three ways), <code>expected/</code> (what each fixture must return, committed before the run), <code>rounds/</code> (the office's recorded rounds, the author's fixture runs, two controls and the refusal, each with what it does not prove) and <code>tools/</code>. <code>tools/README.md</code> lists each claim this folder makes, the command that breaks it if it is false, and how to break it on purpose.</p>
+<p><strong>Measured against the model alone</strong> (<code>rounds/control-bare-model/</code>): given the same notes with no folder and web search on, the model alone covers more of the law than these checks do. Four things it never did, in any run: give a citation that can be checked offline; stop where a fact was missing; hand the decision back; return the same structure twice. Those four are what this folder is for, and the folder did them on Claude Opus 4.8 at low effort in every run. What each run proves and does not prove: <code>rounds/control-bare-model/what-this-shows.md</code>.</p>
+<p><strong>How it was built.</strong> With Claude, in the open: the request for the first round is the first commit; predictions precede reports; nothing in a report was edited after the run. This README was rewritten and cut on 11/09/2026, after round 1 (the measurement is in <code>rounds/round-1-v1/what-changed.md</code>); the version the office received for round 1 is at commit <code>ac96786</code>, the version before the cut at <code>6035cb9</code>.</p>
+</body></html>

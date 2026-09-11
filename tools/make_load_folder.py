@@ -2,6 +2,7 @@
 """make_load_folder.py — builds the operator's folder from this repository. Standard library only.
 
     python3 tools/make_load_folder.py <out-dir>          # writes <out-dir>/nfse-auditor-carregar/ (flat), .zip beside it, and LEIA-PRIMEIRO.html
+    python3 tools/make_load_folder.py --check            # the zip committed in download/ holds exactly the current files, byte for byte (exit 1 if not)
 
 Why it exists: the operator loads the folder into a Claude project, which ignores subfolders and refuses .zip; so the files
 that are loaded (the list in README.md § "What to load") are copied flat, with their names checked unique, and zipped for
@@ -48,8 +49,20 @@ def md_to_html(md):
            "code{background:#f6f8fa;padding:.2em .4em;border-radius:6px;font-size:85%}ol{padding-left:2em}li{margin:.4em 0}")
     return ("<!doctype html><html lang=\"pt-BR\"><head><meta charset=\"utf-8\"><title>nfse-auditor — README</title><style>" + css + "</style></head><body>\n" + "\n".join(out) + "\n</body></html>\n")
 
+def check():
+    """The committed download/nfse-auditor-carregar.zip must hold exactly the files LOAD names, with their current bytes."""
+    zpath = os.path.join(ROOT, "download", "nfse-auditor-carregar.zip")
+    if not os.path.exists(zpath): print("FAIL download/nfse-auditor-carregar.zip missing"); sys.exit(1)
+    want = {os.path.basename(p): open(os.path.join(ROOT, p), "rb").read() for p in LOAD}
+    with zipfile.ZipFile(zpath) as z:
+        have = {os.path.basename(n): z.read(n) for n in z.namelist() if not n.endswith("/")}
+    bad = sorted(n for n in want if n not in have or have[n] != want[n]) + sorted(n for n in have if n not in want)
+    if bad: print("FAIL the zip in download/ differs from the current files (rebuild: python3 tools/make_load_folder.py download):", bad); sys.exit(1)
+    print(f"OK download/nfse-auditor-carregar.zip holds the {len(want)} current files")
+
 def main():
     if len(sys.argv) < 2: print(__doc__); sys.exit(2)
+    if sys.argv[1] == "--check": check(); return
     out = os.path.abspath(sys.argv[1]); flat = os.path.join(out, "nfse-auditor-carregar")
     if os.path.exists(flat): shutil.rmtree(flat)
     os.makedirs(flat)
