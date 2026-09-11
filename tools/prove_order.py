@@ -6,7 +6,7 @@
 
 (i)   order:   rounds/round-0-by-hand/REQUEST.md was first committed before any of identity.md, rules.md, examples.md, reference/;
                for every rounds/round-N-*/ (N>=1): expected.md first-committed before transcript.md; round N before round N+1;
-               expected/ and fixtures/ first-committed before examples.md; rounds/control-*/ and rounds/refusal*/: expected before transcript
+               expected/ and fixtures/ first-committed before examples.md; rounds/control-*/, rounds/refusal*/ and rounds/walk-*/: expected before transcript (a walk is a witness from outside the office; it is checked like a control, not as a numbered round)
 (ii)  remote:  after `git fetch`, HEAD == origin/main and the working tree is clean (nothing pending, nothing unpushed)
 (iii) clone:   a fresh `git clone` of the remote into a new temporary folder reproduces the same first-commit order (i) and
                tools/check_audit.py passes there
@@ -36,7 +36,7 @@ def check_order(cwd):
         for p in ["expected", "fixtures"]:  # the predictions and the inputs are committed before the first report
             t, h = first_commit_time(p, cwd)
             res.append((f"(i) {p}/ ({h}) before first commit of examples.md ({ex_h})", bool(t and ex_t and t < ex_t)))
-    for d in sorted(glob.glob(os.path.join(cwd, "rounds", "control-*")) + glob.glob(os.path.join(cwd, "rounds", "refusal*"))):
+    for d in sorted(glob.glob(os.path.join(cwd, "rounds", "control-*")) + glob.glob(os.path.join(cwd, "rounds", "refusal*")) + glob.glob(os.path.join(cwd, "rounds", "walk-*"))):
         if not os.path.isdir(d): continue
         n = os.path.basename(d)
         ex = first_commit_time(os.path.relpath(os.path.join(d, "expected.md"), cwd), cwd)
