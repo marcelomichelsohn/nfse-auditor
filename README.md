@@ -11,22 +11,29 @@ The instructions come twice: first in Portuguese, for the person who will use th
 **Como montar, uma vez só:**
 
 1. Descompacte o arquivo que você recebeu.
-2. No app do Claude, no menu da esquerda, clique em "Projetos" e crie um projeto novo com o nome `nfse-auditor` (se já existir um com esse nome, use outro nome). Deixe o campo "Pasta" vazio.
-3. Abra o arquivo `CLAUDE.md` da pasta descompactada (se o computador perguntar com que programa abrir, escolha o Bloco de Notas). Selecione tudo e copie.
-4. No projeto, no painel da direita, em "Instruções", cole o que copiou e salve.
-5. No mesmo painel, em "Contexto", adicione todos os outros arquivos da pasta descompactada, selecionando todos de uma vez.
+2. No app do Claude, no menu da esquerda, clique em "Projetos".
+3. Crie um projeto novo com o nome `nfse-auditor` (se já existir um com esse nome, use outro nome).
+4. Deixe o campo "Pasta" vazio.
+5. Abra o arquivo `CLAUDE.md` da pasta descompactada com o Bloco de Notas.
+6. Selecione tudo e copie.
+7. No projeto, no painel da direita, em "Instruções", cole o que copiou e salve.
+8. No mesmo painel, em "Contexto", adicione todos os outros arquivos da pasta descompactada, selecionando todos de uma vez.
 
 **Como usar:**
 
-6. Dentro do projeto, comece uma conversa nova. Na caixa de mensagem, deixe marcado "Chat", não "Cowork".
-7. Ao lado da caixa de mensagem, onde aparece o nome do modelo, escolha "Opus 4.8" (abra a lista completa de modelos se ele não estiver à vista) e o esforço "Baixo".
-8. Anexe um arquivo XML de nota fiscal do padrão nacional. Uma nota por conversa.
-9. Na mesma mensagem, escreva uma linha com três células da sua planilha de controle, da linha desse cliente, cada uma depois do nome da coluna, copiadas do jeito que estão escritas: `Regime tributário = Simples Nacional - Comércio e ou Serviço - Com Pró-labore - Com Funcionários; Anexo = III; Código de Atividade = 702` (exemplo). Se a célula tiver mais de um valor, copie a célula inteira.
-10. Envie. Você recebe de volta uma linha de totais, uma tabela (nota · verificação · dispositivo · resultado · severidade · localização · trecho citado), a lista "Não lidos" e, por último, as mesmas linhas num bloco CSV, com a localização completa, para você copiar e colar numa planilha (não é um arquivo pronto: é texto que você copia). Nada mais. Leva alguns minutos por nota.
+9. Dentro do projeto, comece uma conversa nova.
+10. Na caixa de mensagem, deixe marcado "Chat", não "Cowork".
+11. Ao lado da caixa de mensagem, clique no nome do modelo, abra a lista completa de modelos e escolha "Opus 4.8".
+12. Escolha o esforço "Baixo".
+13. Anexe um só arquivo XML de nota fiscal do padrão nacional por conversa.
+14. Na mesma mensagem, copie três células da linha desse cliente na sua planilha de controle, do jeito que estão escritas, cada uma depois do nome da coluna: `Regime tributário = Simples Nacional - Comércio e ou Serviço - Com Pró-labore - Com Funcionários; Anexo = III; Código de Atividade = 702` (exemplo). Célula com mais de um valor: copie a célula inteira.
+15. Envie.
+
+**O que volta:** uma linha de totais, uma tabela (nota · verificação · dispositivo · resultado · severidade · localização · trecho citado), a lista "Não lidos" e, por último, as mesmas linhas num bloco CSV, com a localização completa, para você copiar e colar numa planilha (não é um arquivo pronto: é texto que você copia). Nada mais. Leva alguns minutos por nota.
 
 Os nomes entre aspas são os da tela do app em português, vistos em 09/09/2026; versões novas do app podem mudá-los.
 
-**Três situações em que ela para em vez de adivinhar:** sem a linha do passo 9, as verificações que dependem dela voltam "não dá para determinar"; um arquivo que não é XML do padrão nacional (o da prefeitura, por exemplo) entra em "Não lidos"; um pedido de decisão ("qual item eu uso?") volta para você, com a nota e a regra ao lado.
+**Três situações em que ela para em vez de adivinhar:** sem a linha do passo 14, as verificações que dependem dela voltam "não dá para determinar"; um arquivo que não é XML do padrão nacional (o da prefeitura, por exemplo) entra em "Não lidos"; um pedido de decisão ("qual item eu uso?") volta para você, com a nota e a regra ao lado.
 
 **O que ela não faz:** não baixa notas, não calcula o DAS, não compara o faturamento declarado com as notas (só soma as notas para você comparar), não lê o XML da prefeitura nem PDF, não valida assinatura digital, não decide nada por você.
 
@@ -37,22 +44,29 @@ Os nomes entre aspas são os da tela do app em português, vistos em 09/09/2026;
 **Set-up, once:**
 
 1. Unpack the file you received.
-2. In the Claude app, open the projects list and create a new project named `nfse-auditor` (if one with that name already exists, use another name). Leave the project's folder field empty.
-3. Open the unpacked folder's `CLAUDE.md` (a plain-text editor will do). Select all and copy.
-4. In the project, paste what you copied into the project's own instructions field (not a conversation) and save.
-5. In the same panel, under the project's context, add every other file of the unpacked folder, selecting them all at once.
+2. In the Claude app, open the projects list.
+3. Create a new project named `nfse-auditor` (if one with that name already exists, use another name).
+4. Leave the project's folder field empty.
+5. Open the unpacked folder's `CLAUDE.md` with Notepad, or any plain-text editor.
+6. Select all and copy.
+7. In the project, paste what you copied into the project's own instructions field (not a conversation) and save.
+8. Under the project's context, add every other file of the unpacked folder, selecting them all at once.
 
 **Use:**
 
-6. Inside the project, start a new conversation. In the message box, keep "Chat" selected, not "Cowork".
-7. Beside the message box, where the model's name shows, choose "Opus 4.8" (open the full list of models if it is not in view) and the effort "Low".
-8. Attach one national-standard NFS-e XML file. One note per conversation.
-9. In the same message, write one line with three cells of the office's control spreadsheet, from that client's row, each after its column name, copied as written: `Regime tributário = Simples Nacional - Comércio e ou Serviço - Com Pró-labore - Com Funcionários; Anexo = III; Código de Atividade = 702` (an example). If a cell holds more than one value, copy the whole cell.
-10. Send. You get back a totals line, a table (note · check · provision · result · severity · location · quoted excerpt), the "Not read" list and, last, the same rows as a CSV block, with the full location, for you to copy into a spreadsheet (not a ready-made file: text you copy). Nothing else. It takes a few minutes per note.
+9. Inside the project, start a new conversation.
+10. In the message box, keep "Chat" selected, not "Cowork".
+11. Beside the message box, click the model's name, open the full list of models and choose "Opus 4.8".
+12. Set the effort to low.
+13. Attach one national-standard NFS-e XML file per conversation, and only one.
+14. In the same message, copy three cells of that client's row in your control spreadsheet, as written, each after its column name: `Regime tributário = Simples Nacional - Comércio e ou Serviço - Com Pró-labore - Com Funcionários; Anexo = III; Código de Atividade = 702` (an example). A cell with more than one value: copy the whole cell.
+15. Send.
 
-The names in quotes are the labels of the app's Portuguese screen, seen on 09/09/2026; the English steps name each field by what it does, because no one has checked the English screen.
+**What comes back:** a totals line, a table (note · check · provision · result · severity · location · quoted excerpt), the "Not read" list and, last, the same rows as a CSV block, with the full location, for you to copy into a spreadsheet (not a ready-made file: text you copy). Nothing else. It takes a few minutes per note.
 
-**Three situations where it stops instead of guessing:** without the line of step 9, the checks that need it return "cannot determine"; a file that is not national-standard XML (a municipality's own, for instance) goes under "Not read"; a request for a decision ("which item should I use?") is handed back, with the note and the rule beside it.
+The names in quotes are the labels of the app's Portuguese screen, seen on 09/09/2026, and the names that are the same in any language (Chat, Cowork, Opus 4.8); the other fields are named by what they do, because no one has checked the English screen.
+
+**Three situations where it stops instead of guessing:** without the line of step 14, the checks that need it return "cannot determine"; a file that is not national-standard XML (a municipality's own, for instance) goes under "Not read"; a request for a decision ("which item should I use?") is handed back, with the note and the rule beside it.
 
 **What it does not do:** it does not fetch notes, compute the monthly tax (DAS), compare the client's declared revenue with the notes (it only sums the notes for you to compare), read a municipality's own XML or a PDF, validate the digital signature, or decide anything for you.
 
