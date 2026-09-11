@@ -22,6 +22,13 @@ Read with `expected.md` (committed before the witness opened anything) and `tran
 ## The part that is worth more than the pass
 **Two corrections made this afternoon are visible working on his screen, hours after they were written.** Round 2 ran in the morning and the operator stopped at step 3 and pasted the CSV block straight into Excel. Both corrections went in at 16:29. At 17:03 the new step 3 is on this witness's screen against the exact Windows behaviour it now names, and the report he receives carries, verbatim, the sentence added to `rules.md` § 3 that afternoon: *"Não cole o bloco direto no Excel: há ponto e vírgula dentro das células, e o Excel quebra a linha em cada um deles, embaralhando as colunas."* Found in the morning, written in the afternoon, tested by a different person the same day.
 
+## The limit that matters most, and it is not in the prediction
+**The answer to his note was inside the folder he uploaded.** The fixture he was given, `m1-codigo-servico`, has a worked report in `examples.md` — Example 5, the same note, the same profile line, the same eight rows, including the FAIL on the service code. And `examples.md` is one of the files the operator loads into the project: it is on the load list in `CLAUDE.md`, so he uploaded it himself at step 9 without knowing what was in it.
+
+So this walk measures **the door** — can a person from outside the trade follow seventeen written commands and reach a report — and it measures nothing about whether the auditor reasoned its way to that report. On this note it did not have to. Nobody noticed this when the fixture was chosen, the prediction did not name it, and it is written here rather than left for a reader to find: a run whose answer is in the loaded context is not evidence about the checks, and treating it as if it were is the kind of defect this competition's feedback has called out by name before.
+
+What would have made it a test of the report as well is a note with no worked example in the loaded set, which every fixture of `fixtures/client/` now is. That run has not happened.
+
 ## What this walk does not prove
 Written before the run, in `expected.md`, and not restated here: one person, one afternoon, one note, fifteen minutes, the author's son, in training in the author's method, on the author's account, told which note to use and handed the profile line.
 

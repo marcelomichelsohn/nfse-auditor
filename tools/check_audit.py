@@ -20,7 +20,7 @@ Checks (each names the file and the line when it fails):
       others: expected.md + transcript.md)
   C5  README.md's "what to load" list AND the entry file CLAUDE.md name the five things + reference/pt/excerpts/ + reference/tables/
       and never fixtures/, expected/, rounds/, tools/, reference/pt/full/; the entry file is at most twelve lines and holds no rule
-  C6  no real identifier leaks: check-digit-valid CNPJ/CPF (except the anonymiser's synthetic ones, i.e. those present in fixtures/), e-mails, phone numbers, X509Certificate, and the names
+  C6  no real identifier leaks: check-digit-valid CNPJ/CPF (except the anonymiser's synthetic ones, i.e. those present in fixtures/), e-mails, X509Certificate, and the names
       in an optional private list (--names <file>, kept OUTSIDE the repo) — over every file in the folder
 A checker that never fails is decoration: --selftest runs C1/C2 on tools/selftest/bad-report.md (must FAIL on named
 checks) and tools/selftest/good-report.md (must PASS), and C0 on a planted edited excerpt.
@@ -222,6 +222,9 @@ def c6(names_file=None):
             for m in re.finditer(r"\b\d{2}\.?\d{3}\.?\d{3}/?\d{4}-?\d{2}\b", line):
                 digits = re.sub(r"\D", "", m.group(0))
                 if cnpj_ok(digits) and not rel.startswith("fixtures/") and digits not in allowed: fail("C6", f"{rel}:{i}", f"check-digit-valid CNPJ in text: {m.group(0)}")
+            for m in re.finditer(r"\b\d{3}\.?\d{3}\.?\d{3}-?\d{2}\b", line):
+                digits = re.sub(r"\D", "", m.group(0))
+                if cpf_ok(digits) and not rel.startswith("fixtures/"): fail("C6", f"{rel}:{i}", f"check-digit-valid CPF in text: {m.group(0)}")
             if "X509Certificate" in line or "SignatureValue" in line: fail("C6", f"{rel}:{i}", "signature/certificate block present")
             for m in re.finditer(r"[\w.+-]+@[\w-]+\.[\w.-]+", line):
                 if "noreply" not in m.group(0) and not m.group(0).endswith(".invalid"): fail("C6", f"{rel}:{i}", f"e-mail: {m.group(0)}")  # .invalid is the reserved placeholder TLD the anonymiser writes
