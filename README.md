@@ -9,17 +9,19 @@ This README is written in two languages: first in Portuguese, for the person who
 **Como montar, uma vez só:**
 
 1. Descompacte o arquivo que você recebeu. Todos os arquivos ficam soltos dentro da pasta, sem subpastas.
-2. No app do Claude, crie um Projeto novo. Dê o nome `nfse-auditor`.
-3. Nas instruções do Projeto (o campo de texto do próprio Projeto, não uma conversa), cole o conteúdo do arquivo `CLAUDE.md`: abra o arquivo (se o computador perguntar com que programa abrir, escolha o Bloco de Notas), selecione tudo, copie e cole ali.
-4. Adicione ao Projeto todos os outros arquivos da pasta, selecionando todos de uma vez. Não precisa ler nenhum deles.
+2. No app do Claude, crie um Projeto novo com o nome `nfse-auditor`. O app tem dois modos de conversa, Chat e Cowork; esta pasta foi testada no Chat, com os arquivos subidos ao Projeto. Se o app oferecer "Adicionar pasta" ou pedir acesso ao seu disco, esse é o outro caminho: não use.
+3. No painel do Projeto, clique no lápis "Edit instructions" (editar instruções). Abra o arquivo `CLAUDE.md` da pasta (na lista de arquivos ele pode aparecer só como `CLAUDE`; se o computador perguntar com que programa abrir, escolha o Bloco de Notas), selecione tudo, copie, cole na caixa "Set project instructions" e clique em "Save instructions" (salvar).
+4. No mesmo painel, em "Context" (contexto), clique em "+" e depois em "Add files" (adicionar arquivos). Selecione todos os outros arquivos da pasta de uma vez e confirme; a lista mostra cada arquivo que subiu. Não precisa ler nenhum deles.
 
 **Como usar:**
 
-5. Abra uma conversa nova dentro do Projeto e escolha o modelo Opus com esforço alto (High). Anexe um arquivo XML do emissor nacional: uma nota por conversa, que é como o sistema foi testado.
-6. Na mesma mensagem, escreva uma linha com o perfil do cliente dessa nota, copiada da sua planilha de controle, neste formato: `perfil: CNAE 6920-6/01; regime Simples optante; anexo III; município 2800308; item LC 116 17.19; exporta não`. CNAE e item da lista de serviços como estão no cadastro; regime: Simples optante, MEI ou não optante; anexo: I a V, ou "fixo"; município: o código IBGE; exporta: sim ou não, e se você não souber, deixe esse pedaço de fora.
+5. Abra uma conversa nova dentro do Projeto e confira que o botão do compositor está em "Chat", não em "Cowork". No seletor de modelo, abra "More models" (mais modelos) e escolha **Opus 4.8**; em "Effort" (esforço), escolha **Low** (baixo). Foi com esse modelo e esse esforço que a pasta foi testada. Anexe um arquivo XML do emissor nacional, e só um: para a nota seguinte, abra outra conversa.
+6. Na mesma mensagem, escreva uma linha com três células da sua planilha de controle, as da linha desse cliente, cada uma depois do nome da coluna, neste formato: `Regime tributário = Simples Nacional - Comércio e ou Serviço - Com Pró-labore - Com Funcionários; Anexo = III; Código de Atividade = 702`. Isso é só um exemplo: copie o que está na sua planilha, do jeito que está escrito, sem traduzir. Se a célula tiver mais de um valor, copie a célula inteira (por exemplo `Anexo = III - V` ou `Código de Atividade = 1008 / 106 / 2301`).
 7. Envie. Volta uma linha de totais, uma tabela (nota · verificação · dispositivo · resultado · severidade · localização · trecho citado), a lista "Não lidos" e, por último, as mesmas linhas num bloco CSV, com a localização completa, para você copiar e colar numa planilha (não é um arquivo pronto: é texto que você copia). Nada mais. Leva alguns minutos por nota.
 
-**Três situações em que ela para em vez de adivinhar:** sem a linha de perfil, as verificações que dependem dela voltam "não dá para determinar"; um arquivo que não é XML do padrão nacional (o da prefeitura, por exemplo, que começa com `<CompNfse>`) entra em "Não lidos" e não é conferido; um pedido de decisão ("qual item eu uso?") volta para você, com a nota, o perfil e a regra ao lado.
+Os nomes dos botões acima foram conferidos no app do Claude aberto no navegador (claude.ai), em 10/09/2026, numa conta em inglês. No aplicativo instalado no Windows, ou numa conta em português, eles podem aparecer com outro nome ou em outro lugar.
+
+**Três situações em que ela para em vez de adivinhar:** sem a linha do passo 6, as verificações que dependem dela voltam "não dá para determinar"; um arquivo que não é XML do padrão nacional (o da prefeitura, por exemplo, que começa com `<CompNfse>`) entra em "Não lidos" e não é conferido; um pedido de decisão ("qual item eu uso?") volta para você, com a nota, a linha do passo 6 e a regra ao lado.
 
 **O que ela não faz:** não baixa notas, não calcula o DAS, não compara o faturamento declarado com as notas (só soma as notas para você comparar), não lê o XML da prefeitura nem PDF, não valida assinatura digital, não decide nada por você.
 
@@ -30,17 +32,19 @@ This README is written in two languages: first in Portuguese, for the person who
 **Set-up, once:**
 
 1. Unpack the file you received. Every file sits loose inside the folder, no subfolders.
-2. In the Claude app, create a new project. Name it `nfse-auditor`.
-3. In the project's instructions (the project's own text field, not a conversation), paste the content of `CLAUDE.md`: open the file (a plain-text editor will do), select all, copy, paste.
-4. Add every other file of the folder to the project, selecting them all at once. There is no need to read any of them.
+2. In the Claude app, create a new project named `nfse-auditor`. The app has two conversation modes, Chat and Cowork; this folder was tested in Chat, with the files uploaded to the project. If the app offers "Add folder" or asks for access to your disk, that is the other path: do not take it.
+3. In the project's panel, click the pencil "Edit instructions". Open the folder's `CLAUDE.md` (the file list may show it as just `CLAUDE`; a plain-text editor will do), select all, copy, paste into the "Set project instructions" box and click "Save instructions".
+4. In the same panel, under "Context", click "+" and then "Add files". Select every other file of the folder at once and confirm; the list shows each file that went up. There is no need to read any of them.
 
 **Use:**
 
-5. Open a new conversation inside the project and choose the Opus model with high effort. Attach one national-standard XML file: one note per conversation, which is how the folder was tested.
-6. In the same message, write one line with the profile of that note's client, copied from the office's control spreadsheet, in this form: `perfil: CNAE 6920-6/01; regime Simples optante; anexo III; município 2800308; item LC 116 17.19; exporta não`. CNAE and service-list item as registered; regime: Simples optante, MEI or não optante; annex: I to V, or "fixo" (fixed-amount ISS); municipality: the IBGE code; exporta: sim or não, and if you do not know, leave that part out.
+5. Open a new conversation inside the project and check that the composer's switch is on "Chat", not "Cowork". In the model selector, open "More models" and choose **Opus 4.8**; under "Effort", choose **Low**. That is the model and the effort the folder was tested on. Attach one national-standard XML file, and only one: for the next note, open another conversation.
+6. In the same message, write one line with three cells of the office's control spreadsheet, from that client's row, each after its column name, in this form: `Regime tributário = Simples Nacional - Comércio e ou Serviço - Com Pró-labore - Com Funcionários; Anexo = III; Código de Atividade = 702`. That is only an example: copy what the sheet says, as written, without translating. If a cell holds more than one value, copy the whole cell (for instance `Anexo = III - V` or `Código de Atividade = 1008 / 106 / 2301`).
 7. Send. You get back a totals line, a table (note · check · provision · result · severity · location · quoted excerpt), the "Not read" list and, last, the same rows as a CSV block, with the full location, for you to copy into a spreadsheet (not a ready-made file: text you copy). Nothing else. It takes a few minutes per note.
 
-**Three situations where it stops instead of guessing:** without the profile line, the checks that need it return "cannot determine"; a file that is not national-standard XML (a municipality's own, for instance, starting with `<CompNfse>`) goes under "Not read" and is not audited; a request for a decision ("which item should I use?") is handed back, with the note, the profile and the rule beside it.
+The button names above were checked in the Claude app in the browser (claude.ai) on 10/09/2026, on an account in English. In the app installed on Windows, or on an account in Portuguese, they may carry another name or sit elsewhere.
+
+**Three situations where it stops instead of guessing:** without the line of step 6, the checks that need it return "cannot determine"; a file that is not national-standard XML (a municipality's own, for instance, starting with `<CompNfse>`) goes under "Not read" and is not audited; a request for a decision ("which item should I use?") is handed back, with the note, the line of step 6 and the rule beside it.
 
 **What it does not do:** it does not fetch notes, compute the monthly tax (DAS), compare the client's declared revenue with the notes (it only sums the notes for you to compare), read a municipality's own XML or a PDF, validate the digital signature, or decide anything for you.
 
