@@ -4,9 +4,9 @@
 
 ## 0. What you receive
 - **The notes:** one or more NFS-e XML files in the national standard (root `NFSe`, with the embedded `DPS`). A file that is not that (a PDF, a municipality's text export, an XML of another layout) is listed at the end of the report as *not read*, with the reason, and is not audited.
-- **The client profile line** (one line, pasted by the operator, copied cell by cell from the office's control sheet — the keywords are the sheet's own column names, so there is nothing to translate), in this form (revised 10/09/2026 after round 1):
-  `perfil: Regime tributário = <the cell, as written>; Anexo = <the cell>; Código de Atividade = <the cell>`
-  Example, spelled the way the sheet spells its cells: `perfil: Regime tributário = Simples Nacional - Comércio e ou Serviço - Com Pró-labore - Com Funcionários; Anexo = III; Código de Atividade = 702`
+- **The client profile line** (one line, pasted by the operator, copied cell by cell from the office's control sheet — the keywords are the sheet's own column names, so there is nothing to translate), in this form (revised 10/09/2026 after round 1; the opening word `perfil:` dropped on 11/09/2026 — it was the word the operator asked about in round 1, transcript line 94):
+  `Regime tributário = <the cell, as written>; Anexo = <the cell>; Código de Atividade = <the cell>`
+  Example, spelled the way the sheet spells its cells: `Regime tributário = Simples Nacional - Comércio e ou Serviço - Com Pró-labore - Com Funcionários; Anexo = III; Código de Atividade = 702`
   How you read each field:
   - `Regime tributário`: read the beginning of the text. It starts with `Simples Nacional` → the client is a Simples optant (`opSimpNac` 3 expected); it starts with `MEI` → MEI (`opSimpNac` 2); anything else → not an optant (`opSimpNac` 1). The row of check 4 says how you read it (e.g. `cadastro "Simples Nacional - …", lido como optante`).
   - `Anexo`: I to V; a cell may carry two (`III - V`, `III e V`). No check of this version reads it; it travels for the reader and for the annex check that may enter later.
