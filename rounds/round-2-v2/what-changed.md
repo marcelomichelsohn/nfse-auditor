@@ -35,6 +35,6 @@ Each row is a change the author decided, after `transcript.md`.
 | 5 | Report 2 wrote the taker's registered company name into check 3's location; report 1, same check, same conversation, same model, wrote nothing there | `rules.md` § 3 forbids the taker's name in the table and in the CSV block: the field and the word `Tomador`, never the name. A rule the model keeps on one note and drops on the next is not a rule | *(this commit)* |
 | 6 | The two reports she sent to the group existed only in the group | They enter as `report-1.md` and `report-2.md`, as they came, masked by the round-1 convention: file name, values and the taker's name replaced, nothing else | *(this commit)* |
 
-The four went in together, in one commit, and the folder the operator downloads was rebuilt from them (`download/`, 49 files). Because they change the v2 folder **after** the timing control ran on it, `../control-timing-v1-v2/what-this-shows.md` carries a dated section saying so.
+Rows 1 to 4 went in together, in one commit, and the folder the operator downloads was rebuilt from them; rows 5 and 6 followed the same evening, in the commit each row names. Because they change the v2 folder **after** the timing control ran on it, `../control-timing-v1-v2/what-this-shows.md` carries a dated section saying so.
 
 **Still on the table (the author decides, dated when decided):** the open question to the office — 7.02 or 31.01 — now asked by her own reading, which only the office can close.

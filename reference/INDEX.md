@@ -29,6 +29,8 @@ The English texts are machine translations by parallel agents, accepted as they 
 | **LC116 art. 8** | `pt/excerpts/lc116_art8-8A.txt` | `en/excerpts/lc116_art8-8A.en.txt` | maximum rates |
 | **LC116 art. 8-A** | `pt/excerpts/lc116_art8-8A.txt` | `en/excerpts/lc116_art8-8A.en.txt` | minimum rate 2% |
 | **LC116 list item 17** | `pt/excerpts/lc116_lista_item17.txt` | `en/excerpts/lc116_lista_item17.en.txt` | item 17 group (17.01–17.25), incl. 17.19 accounting |
+| **LC116 list item 7** | `pt/excerpts/lc116_lista_item7.txt` | `en/excerpts/lc116_lista_item7.en.txt` | subitem 7.02, construction works and the installation and assembly of products, parts and equipment (added 11/09/2026, for the real FAIL of `fixtures/client/`) |
+| **LC116 list item 31** | `pt/excerpts/lc116_lista_item31.txt` | `en/excerpts/lc116_lista_item31.en.txt` | item 31 and subitem 31.01, technical services in construction, electronics, electrical engineering, mechanics and telecommunications (added 11/09/2026, for the real FAIL of `fixtures/client/`) |
 | **LC123 art. 13** | `pt/excerpts/lc123_art13.txt` | `en/excerpts/lc123_art13.en.txt` | Simples = single monthly document; VIII: ISS inside the DAS |
 | **LC123 art. 18 §5º-B** | `pt/excerpts/lc123_art18_par5B.txt` | `en/excerpts/lc123_art18_par5B.en.txt` | activities taxed under Anexo III — XIV: accounting services |
 | **LC123 art. 18 §22-A** | `pt/excerpts/lc123_art18_par22A.txt` | `en/excerpts/lc123_art18_par22A.en.txt` | accounting activity pays ISS at a fixed amount under municipal law |
@@ -53,6 +55,6 @@ The English texts are machine translations by parallel agents, accepted as they 
 | Office working table — LC 116 item → NBS → indOp → cClassTrib | `tables/working/02_lc116_para_nbs_cclasstrib.csv` | compiled by the office — see `tables/TABLES.md` | lookup only (v2); never cited as a provision |
 
 ## Not in this folder, on purpose
-- The full municipal rate extraction (277 MB, 5,571 municipalities): only the rows of the municipality of the tested notes are here, with the source and date of the official file.
+- The full municipal rate extraction, which covers the national municipality table and is far too large to ship: only the rows of the municipality of the tested notes are here, with the source and date of the official file. The municipality table itself is here, official and whole, at `tables/official/csv/oficial_anexo_a-municipio_ibge-paises_iso2-v1-00-snnfse-20251210__TAB_MUN_IBGE.csv`, where a reader can count the rows instead of trusting a number typed into this sentence.
 - Any client document. Fixtures live in `../fixtures/`, anonymised; expected results in `../expected/`.
 - Any summary of a law written by the authors: what is cited is the text.
