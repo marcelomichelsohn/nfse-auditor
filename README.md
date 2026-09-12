@@ -1,10 +1,10 @@
 # nfse-auditor
 
-**Observation on idioms.** This file has instructions in Portuguese for the Brazilian operator and in English for jurors and international users, rendering it bigger than the average.
+**A note on languages.** This file carries the instructions twice: in Portuguese for the operator at the accounting firm, and in English for everyone else. That makes it longer than most.
 
 **What this is.** An instruction folder that turns an LLM into an auditor of Brazilian electronic service invoices (NFS-e). You give it one invoice and one line with your client's information. It returns one row per check per invoice, naming the provision word for word, and giving the value it read in the invoice. It doesn't correct, decide or guess.
 
-**What comes back.** Two rows from a recorded run, copied exactly as the folder returned them. The columns are: invoice, check, provision, result, severity, where it was found, and the provision quoted word for word. The four complete audits are in [`examples.md`](https://github.com/marcelomichelsohn/nfse-auditor/blob/main/examples.md).
+**What comes back.** Two rows from a recorded run, copied exactly as the folder returned them. The columns are: invoice, check, which provision, result, severity, where it was found, and the provision's exact words. The four complete audits are in [`examples.md`](https://github.com/marcelomichelsohn/nfse-auditor/blob/main/examples.md).
 
 | nota | check | dispositivo | resultado | severidade | localização | trecho citado |
 |---|---|---|---|---|---|---|
@@ -15,14 +15,14 @@ The second row is the one that matters most: when a check needs a fact about the
 
 **Three places where it stops instead of guessing:** without the client's line, the checks that need it return "cannot determine"; a file that is not national-standard XML goes under "Not read"; a request for a decision is handed back. What each one does, and the full list of what this auditor does not check, are [`rules.md`](https://github.com/marcelomichelsohn/nfse-auditor/blob/main/rules.md) § 4 and § 5.
 
-**What is behind it.** Every row here is a folder a reader opens to check a claim on this page.
+**What is behind it.** Each row points to something in this repository a reader opens to check a claim on this page.
 
 | | |
 |---|---|
 | The law it cites, in full, in Portuguese and in English, each file with its SHA-256 beside it | [`reference/`](https://github.com/marcelomichelsohn/nfse-auditor/tree/main/reference) |
-| The recorded rounds with a real accounting office, and a walk by someone from outside the trade who ran the folder alone | [`rounds/`](https://github.com/marcelomichelsohn/nfse-auditor/tree/main/rounds) |
-| What the folder must return on each test invoice. The author's own were committed before the run, which `prove_order.py` checks in a fresh clone; the four for the office's real invoices were written **after** the office had already audited them, and are gabaritos, not predictions | [`expected/`](https://github.com/marcelomichelsohn/nfse-auditor/tree/main/expected) |
-| The commands that fail if any claim on this page is false, each stating what it does not cover | [`tools/`](https://github.com/marcelomichelsohn/nfse-auditor/tree/main/tools) |
+| The recorded rounds with a real accounting office, and a session in which someone from outside the trade ran the folder alone | [`rounds/`](https://github.com/marcelomichelsohn/nfse-auditor/tree/main/rounds) |
+| What the folder must return on each test invoice. The author's own were committed before the run, which `prove_order.py` checks in a fresh clone; the four for the office's real invoices were written **after** the office had already audited them, and are gabaritos (answer keys), not predictions | [`expected/`](https://github.com/marcelomichelsohn/nfse-auditor/tree/main/expected) |
+| The commands that check the claims on this page, each one saying what it does not cover | [`tools/`](https://github.com/marcelomichelsohn/nfse-auditor/tree/main/tools) |
 | The four questions of the competition brief, answered one by one | [`BRIEF.md`](https://github.com/marcelomichelsohn/nfse-auditor/blob/main/BRIEF.md) |
 
 
