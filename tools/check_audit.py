@@ -204,7 +204,7 @@ def cpf_ok(d):
     def dv(nums, start): s = sum(int(n) * k for n, k in zip(nums, range(start, 1, -1))); r = (s * 10) % 11; return "0" if r == 10 else str(r)
     return dv(d[:9], 10) == d[9] and dv(d[:10], 11) == d[10]
 
-SYNTHETIC = "99000000"  # the prefix every identifier the anonymiser writes starts with (tools/anonymise.py, Mapper.cnpj and Mapper.cpf)
+SYNTHETIC = "99000000"  # the prefix every CNPJ the anonymiser writes starts with (tools/anonymise.py, Mapper.cnpj). CPF has no exemption: see c6.
 # The two signature markers are built, never written as literals: with the self-exemption gone (11/09/2026) a literal
 # here would make this file fail its own check. Same reason tools/sabotage_check.py builds its CNPJ instead of typing it.
 SIG_MARKERS = ("X509" + "Certificate", "Signature" + "Value")
@@ -225,7 +225,7 @@ def c6(names_file=None):
                 if cnpj_ok(digits) and not digits.startswith(SYNTHETIC): fail("C6", f"{rel}:{i}", f"check-digit-valid CNPJ in text: {m.group(0)}")
             for m in re.finditer(r"\b\d{3}\.?\d{3}\.?\d{3}-?\d{2}\b", line):
                 digits = re.sub(r"\D", "", m.group(0))
-                if cpf_ok(digits) and not digits.startswith(SYNTHETIC): fail("C6", f"{rel}:{i}", f"check-digit-valid CPF in text: {m.group(0)}")
+                if cpf_ok(digits): fail("C6", f"{rel}:{i}", f"check-digit-valid CPF in text: {m.group(0)}")  # no prefix exemption: a CPF never belongs in this repository, synthetic or not
             if any(mk in line for mk in SIG_MARKERS): fail("C6", f"{rel}:{i}", "signature/certificate block present")
             for m in re.finditer(r"[\w.+-]+@[\w-]+\.[\w.-]+", line):
                 if "noreply" not in m.group(0) and not m.group(0).endswith(".invalid"): fail("C6", f"{rel}:{i}", f"e-mail: {m.group(0)}")  # .invalid is the reserved placeholder TLD the anonymiser writes

@@ -12,7 +12,7 @@ structure; this folder is only how it is delivered. Nothing from fixtures/, expe
 import os, re, sys, glob, shutil, html, zipfile
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
-LOAD = ["README.md", "CLAUDE.md", "identity.md", "rules.md", "examples.md", "reference/INDEX.md",
+LOAD = ["README.md", "CLAUDE.md", "identity.md", "rules.md", "output-contract.md", "examples.md", "reference/INDEX.md",
         "reference/tables/required-fields.md", "reference/tables/TABLES.md",
         "reference/tables/municipal-rates_2800308-aracaju-se_extract-20260903.csv"]
 LOAD += sorted(glob.glob("reference/pt/excerpts/*.txt", root_dir=ROOT)) + sorted(glob.glob("reference/en/excerpts/*.txt", root_dir=ROOT))
