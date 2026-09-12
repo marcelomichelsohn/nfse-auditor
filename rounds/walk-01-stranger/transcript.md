@@ -1,6 +1,6 @@
 # Walk 1 — what the recording shows (11/09/2026, 17:01–17:12)
 
-**What the witness said, and when.** The instruction (`instruction.md`) asked him to work in silence and to speak **only** when he did not understand something or was confused. The recording carries one stretch of speech, at the end, around 10:25–10:56 of the video (17:12 by the clock on his screen). What he says there is the whole of it:
+**What the witness said, and when.** The instruction (`instruction.md`) asked him to work in silence and to speak **only** when he did not understand something or was confused. The recording carries one stretch of speech, at the end, around 10:25 to the end of the track at 10:53.6 of the video (17:12 by the clock on his screen). What he says there is the whole of it:
 
 > Eu acabei não falando nada porque eu não tive nenhuma dúvida, não travei em nenhum lugar. Agora vou mandar esse resultado para o meu pai e foi isso, deu tudo certo.
 

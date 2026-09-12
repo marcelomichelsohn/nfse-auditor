@@ -14,7 +14,7 @@ Read with `expected.md` (committed before the first counted run). Everything bel
 | v1 · 1 | v1 | 938e8510… | ≈14:19:26 — **an estimate**: the click itself was not stamped; the page clock was read at 14:19:34, about 8 s after it (the other three runs have the clock read just before the click) | between 14:22:45.6 and 14:22:56.5 (corrected, see below) | 3 min 19 s – 3 min 30 s | Ran 7 commands, read 5 files (rules.md, identity.md, examples.md ×2, INDEX.md, the XML) | ≈3.9k |
 | v1 · 2 | v1 | 7e871701… | 14:25:47 | between 14:29:20 and 14:29:30 | 3 min 33 s – 3 min 43 s | Read 5 files (same five), ran 4 commands | ≈3.9k |
 | v2 · 1 | v2 | 1018ddc3… | 14:32:24 | between 14:35:38 and 14:36:48 (the session was reading the round-2 transcript; coarser, declared) | 3 min 14 s – 4 min 24 s | Read 6 files, ran 2 commands | ≈8.6k |
-| v2 · 2 | v2 | ce13e359… | 14:46:27 | between 14:49:14 and 14:49:24 | 2 min 47 s – 3 min 00 s | Read 4 files, ran 4 commands | ≈8.6k |
+| v2 · 2 | v2 | ce13e359… | 14:46:27 | between 14:49:14 and 14:49:27 | 2 min 47 s – 3 min 00 s | Read 4 files, ran 4 commands | ≈8.6k |
 
 **Correction, 11/09/2026, after the first push of this file.** The v1 · 1 row first said "Done between 14:22:30 and 14:22:40 → 3 min 05 s – 3 min 15 s". That was the session's arithmetic on its own polling, not a read of the log; the author's assistant read the session's trace line by line: at 14:22:34.6 and 14:22:45.6 the tab title still had no "Done", the first "Done" is at 14:22:56.5. The window published was one in which the run had not yet ended. Corrected to 3 min 19 s – 3 min 30 s, with the t0 of that run marked as the estimate it is. The verdict in `what-this-shows.md` does not change.
 

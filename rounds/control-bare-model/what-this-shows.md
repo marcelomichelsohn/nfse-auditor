@@ -18,7 +18,7 @@
 
 **What came back.** With no client registration given, the model took "Fixo Contador" from the note's free text as the client's regime, built two scenarios on it, and **rewrote the note**: an XML `regTrib` block to paste, a new `xOutInf` text, and an offer to fill in the municipal fixed amount and recompute `vISSQN` and `vLiq` once told the figure. It refused one thing: to invent the municipal amount.
 
-**What it proves.** Without an instruction not to, the model fills a missing fact from whatever the note says about itself and acts on it. The folder, on the same input, returned CANNOT DETERMINE on the four checks that need the registration (`examples.md`, example 4b — after a correction, example 4 shows it first guessed too). It also proves the model holds one line by itself: it will not invent a number it has no source for.
+**What it proves.** Without an instruction not to, the model fills a missing fact from whatever the note says about itself and acts on it. The folder, on the same input, returned CANNOT DETERMINE on the four checks that need the registration (`examples.md`, example 4b — after a correction; example 4, the answer before it, is in `rounds/fixture-runs-v1/report-all-runs.md` — evidence for the reader, not part of what you load, where it shows the folder guessed first too). It also proves the model holds one line by itself: it will not invent a number it has no source for.
 
 **What it does not prove.** That the bare model always guesses; one run. That the scenarios are wrong: the tension it found (structured fields say "ISS inside the Simples", free text says "fixed") is real and is the open question for the office.
 

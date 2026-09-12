@@ -1,6 +1,6 @@
 # All fixture runs of v1, in order, as the auditor returned them (2026-09-09)
 
-This is the evidence file: every run of the folder on its fixtures, verbatim, including the answers that broke a rule (kept inside `kept-as-came` fences the checker reports without gating). `../../examples.md` carries three of them (1, 3 and 4b) as the worked examples; the conditions, predictions and English twins follow the same rules as there (examples 1–4b: English by the auditor; from 5 on: English rendering by the author's session). What each run showed and what changed is in `what-changed.md`.
+This is the evidence file: every run of the folder on its fixtures, verbatim, including the answers that broke a rule (kept inside `kept-as-came` fences the checker reports without gating). `../../examples.md` carries four of them (1, 3, 4b and 5) as the worked examples, in Portuguese. **The English twin of each run lives here, in this file, and not there:** it was moved out of `examples.md` on the evening of 11/09/2026 because that file is uploaded into the project on every audit and the twins were a duplicate of what was already in this one. In examples 1 to 4b the English was produced by the auditor itself, on the request to repeat the report in English; from 5 on it is a rendering by the author's session. Conditions and predictions are as stated per run. What each run showed and what changed is in `what-changed.md`.
 
 ## Example 1 — a correct note (nfse-01), with the profile line
 

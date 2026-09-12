@@ -14,7 +14,7 @@ Read with `expected.md` (committed before the round) and `transcript.md`. Each c
 The folder was usable by an outsider on a first contact, on the office's account and a national-standard note, without the author touching anything: a report in the folder's format, on the right provisions, with a FAIL that the prediction had named. What stopped short was not the run but the reading: the report is written for a checker (paths, field names, table ids, a quoted clause per row), and the operator read it as a list of things that are not hers to check. The door held because the app offered a route the README did not describe (the folder), and because the entry file was picked up from the folder when she could not find it. Both are luck, not design, and are the first things to fix.
 
 ## Changes to the folder because of this round
-Each row is one commit, after `transcript.md`. The README's Portuguese block was 446 words before the round (`expected.md`); a rewrite is re-measured here.
+Each row is one commit, after `transcript.md`. The README's Portuguese block was 441 words (`awk` over the Portuguese block, the recipe this repository uses; `expected.md`, which is the prediction committed before the round and is not edited after the fact, carries 436 and 446 for the same two objects — the divergence is declared here rather than corrected there) before the round (`expected.md`); a rewrite is re-measured here.
 
 | # | What she hit (transcript) | What changed | Commit |
 |---|---|---|---|
