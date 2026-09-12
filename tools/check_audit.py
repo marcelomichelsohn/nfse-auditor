@@ -15,14 +15,15 @@ Checks (each names the file and the line when it fails):
       the result is one of the four words; severity is one of the three classes or "—"; the location names an
       XML path that exists in the fixture the row names (when the fixture is in fixtures/)
   C3  every fixture XML in fixtures/ has exactly one expected file in expected/; every fixtures/mutations/<slug>/
-      has CHANGE.md naming the field and the rule, and its expected file has a FAIL on that check
+      has CHANGE.md naming the field and the rule, and its expected file has a FAIL on that check, unless the CHANGE.md carries the **not caught marker
   C4  every rounds/round-*/ folder has the files the protocol requires (round 0: REQUEST.md + transcript.md;
       others: expected.md + transcript.md)
   C5  README.md's "what to load" list AND the entry file CLAUDE.md name the five things + reference/pt/excerpts/ + reference/tables/
       and never fixtures/, expected/, rounds/, tools/, reference/pt/full/; the entry file is at most twelve lines and holds no rule
   C6  no real identifier leaks: a check-digit-valid CNPJ or CPF that does not carry the anonymiser's prefix, anywhere
       in the repository including fixtures/; an e-mail that is not noreply or .invalid; a signature or certificate block; and the names
-      in an optional private list (--names <file>, kept OUTSIDE the repo) — over every file in the folder
+      in an optional private list (--names <file>, kept OUTSIDE the repo) — over every file in the folder except
+      reference/ (law and official tables, minus INDEX.md and TABLES*) and the binary extensions
 A checker that never fails is decoration: --selftest runs C1/C2 on tools/selftest/bad-report.md (must FAIL on named
 checks) and tools/selftest/good-report.md (must PASS), and C0 on a planted edited excerpt.
 """
