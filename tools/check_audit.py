@@ -20,7 +20,8 @@ Checks (each names the file and the line when it fails):
       others: expected.md + transcript.md)
   C5  README.md's "what to load" list AND the entry file CLAUDE.md name the five things + reference/pt/excerpts/ + reference/tables/
       and never fixtures/, expected/, rounds/, tools/, reference/pt/full/; the entry file is at most twelve lines and holds no rule
-  C6  no real identifier leaks: check-digit-valid CNPJ/CPF (except the anonymiser's synthetic ones, i.e. those present in fixtures/), e-mails, X509Certificate, and the names
+  C6  no real identifier leaks: a check-digit-valid CNPJ or CPF that does not carry the anonymiser's prefix, anywhere
+      in the repository including fixtures/; an e-mail that is not noreply or .invalid; a signature or certificate block; and the names
       in an optional private list (--names <file>, kept OUTSIDE the repo) — over every file in the folder
 A checker that never fails is decoration: --selftest runs C1/C2 on tools/selftest/bad-report.md (must FAIL on named
 checks) and tools/selftest/good-report.md (must PASS), and C0 on a planted edited excerpt.
@@ -202,30 +203,29 @@ def cpf_ok(d):
     def dv(nums, start): s = sum(int(n) * k for n, k in zip(nums, range(start, 1, -1))); r = (s * 10) % 11; return "0" if r == 10 else str(r)
     return dv(d[:9], 10) == d[9] and dv(d[:10], 11) == d[10]
 
-def fixture_cnpjs():
-    """The CNPJs that appear in fixtures/ — synthetic by the anonymiser (valid check digits by design), reviewed file by file.
-    A report may repeat them; that is not a leak."""
-    found = set()
-    for p in glob.glob(os.path.join(ROOT, "fixtures", "**", "*.xml"), recursive=True):
-        found |= set(re.findall(r"<CNPJ>(\d{14})</CNPJ>", read(p)))
-    return found
+SYNTHETIC = "99000000"  # the prefix every identifier the anonymiser writes starts with (tools/anonymise.py, Mapper.cnpj and Mapper.cpf)
+# The two signature markers are built, never written as literals: with the self-exemption gone (11/09/2026) a literal
+# here would make this file fail its own check. Same reason tools/sabotage_check.py builds its CNPJ instead of typing it.
+SIG_MARKERS = ("X509" + "Certificate", "Signature" + "Value")
 
 def c6(names_file=None):
+    """Until 11/09/2026 this swept fixtures/ out by path and built its allow-list by reading the CNPJs already in the
+    fixtures — a circular whitelist, over the one folder that holds real clients' notes. Now nothing is exempt by path:
+    an identifier passes only if it carries the anonymiser's prefix, wherever it sits."""
     names = [n.strip() for n in read(names_file).split("\n") if n.strip()] if names_file and os.path.exists(names_file) else []
-    allowed = fixture_cnpjs()
     for p in glob.glob(os.path.join(ROOT, "**", "*"), recursive=True):
-        if os.path.isdir(p) or "/.git/" in p or "__pycache__" in p or p.endswith((".xlsx", ".zip", ".pdf", ".png", ".pyc")) or p.endswith("check_audit.py"): continue
+        if os.path.isdir(p) or "/.git/" in p or "__pycache__" in p or p.endswith((".xlsx", ".zip", ".pdf", ".png", ".pyc")): continue
         rel = os.path.relpath(p, ROOT); t = read(p)
         if rel.startswith("reference/") and not rel.startswith("reference/tables/TABLES") and rel != "reference/INDEX.md":
             continue  # laws and official tables carry public identifiers of public bodies; the sweep is for the folder's own text and fixtures
         for i, line in enumerate(t.split("\n"), 1):
             for m in re.finditer(r"\b\d{2}\.?\d{3}\.?\d{3}/?\d{4}-?\d{2}\b", line):
                 digits = re.sub(r"\D", "", m.group(0))
-                if cnpj_ok(digits) and not rel.startswith("fixtures/") and digits not in allowed: fail("C6", f"{rel}:{i}", f"check-digit-valid CNPJ in text: {m.group(0)}")
+                if cnpj_ok(digits) and not digits.startswith(SYNTHETIC): fail("C6", f"{rel}:{i}", f"check-digit-valid CNPJ in text: {m.group(0)}")
             for m in re.finditer(r"\b\d{3}\.?\d{3}\.?\d{3}-?\d{2}\b", line):
                 digits = re.sub(r"\D", "", m.group(0))
-                if cpf_ok(digits) and not rel.startswith("fixtures/"): fail("C6", f"{rel}:{i}", f"check-digit-valid CPF in text: {m.group(0)}")
-            if "X509Certificate" in line or "SignatureValue" in line: fail("C6", f"{rel}:{i}", "signature/certificate block present")
+                if cpf_ok(digits) and not digits.startswith(SYNTHETIC): fail("C6", f"{rel}:{i}", f"check-digit-valid CPF in text: {m.group(0)}")
+            if any(mk in line for mk in SIG_MARKERS): fail("C6", f"{rel}:{i}", "signature/certificate block present")
             for m in re.finditer(r"[\w.+-]+@[\w-]+\.[\w.-]+", line):
                 if "noreply" not in m.group(0) and not m.group(0).endswith(".invalid"): fail("C6", f"{rel}:{i}", f"e-mail: {m.group(0)}")  # .invalid is the reserved placeholder TLD the anonymiser writes
             for n in names:
