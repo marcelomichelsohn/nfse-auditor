@@ -42,6 +42,13 @@ def sab_c6(d):  # a CNPJ with valid check digits, built here so the literal neve
     def dv(nums, w): s = sum(int(n) * k for n, k in zip(nums, w)); r = s % 11; return "0" if r < 2 else str(11 - r)
     w1 = [5,4,3,2,9,8,7,6,5,4,3,2]; d1 = dv(base, w1); d2 = dv(base + d1, [6] + w1)
     open(os.path.join(d, "rules.md"), "a", encoding="utf-8").write(f"\nCNPJ {base[:2]}.{base[2:5]}.{base[5:8]}/{base[8:]}-{d1}{d2}\n")
+def sab_readme_quote(d):  # a made-up quote in the README's own example table
+    p = os.path.join(d, "README.md"); t = open(p, encoding="utf-8").read()
+    open(p, "w", encoding="utf-8").write(t.replace("17.19 \u2013 Contabilidade, inclusive servi\u00e7os t\u00e9cnicos e auxiliares.", "17.19 - a sentence that is not in the law.", 1))
+def sab_clean_fail(d):  # a clean fixture's prediction made to claim a failure
+    p = os.path.join(d, "expected", "nfse-01.md"); t = open(p, encoding="utf-8").read()
+    open(p, "w", encoding="utf-8").write(t.replace("| PASSA |", "| FALHA |", 1))
+
 def sab_selftest(d): shutil.copy(os.path.join(d, "tools", "selftest", "good-report.md"), os.path.join(d, "tools", "selftest", "bad-report.md"))
 def sab_order(d):  # a new round whose transcript is committed before its prediction
     r = os.path.join(d, "rounds", "round-9-sabotage"); os.makedirs(r)
@@ -67,6 +74,8 @@ CASES = [  # (claim in tools/README.md, sabotage, command run in the copy, what 
     ("no real identifier (C6)", sab_c6, lambda d: run(d, "tools/check_audit.py")),
     ("predictions before reports, from git (prove_order)", sab_order, check_order_fails),
     ("the checker is not decoration (--selftest)", sab_selftest, lambda d: run(d, "tools/check_audit.py", "--selftest")),
+    ("the README's own quotes are the standard's text (C1)", sab_readme_quote, lambda d: run(d, "tools/check_audit.py")),
+    ("a clean fixture's prediction never claims a failure (C7)", sab_clean_fail, lambda d: run(d, "tools/check_audit.py")),
 ]
 
 def main():

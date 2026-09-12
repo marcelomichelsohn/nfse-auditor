@@ -147,6 +147,15 @@ def c3():
             et = read(exp)
             if not re.search(r"\|\s*" + m.group(1) + r"(-[\wáéíóúãõç]+)?(\s*·[^|]*)?\s*\|[^|]*\|\s*(FALHA|FAIL)\s*\|", et): fail("C3", os.path.relpath(exp, ROOT), f"no FAIL row for check {m.group(1)} named in CHANGE.md")
 
+def c7():
+    """The clean half: a prediction for a fixture in fixtures/clean/ may not claim a failure."""
+    for x in sorted(glob.glob(os.path.join(ROOT, "fixtures", "clean", "*.xml"))):
+        e = os.path.join(ROOT, "expected", os.path.basename(x).replace(".xml", ".md"))
+        if not os.path.exists(e): continue
+        for i, line in enumerate(read(e).split("\n"), 1):
+            if line.startswith("|") and re.search(r"\|\s*(FALHA|FAIL)\s*\|", line):
+                fail("C7", f"{os.path.relpath(e, ROOT)}:{i}", "a clean fixture's prediction claims a failure")
+
 def c4():
     for d in sorted(glob.glob(os.path.join(ROOT, "rounds", "round-*"))):
         r0 = os.path.basename(d).startswith("round-0")
@@ -260,8 +269,9 @@ def main():
     allr = [p for p in allr if not ("/rounds/control-" in p and p.endswith(".EN.md"))]
     reports = [p for p in allr if p not in controls]
     reports += [os.path.join(ROOT, "examples.md")] if os.path.exists(os.path.join(ROOT, "examples.md")) else []
+    reports += [os.path.join(ROOT, "README.md")] if os.path.exists(os.path.join(ROOT, "README.md")) else []
     reports += sorted(glob.glob(os.path.join(ROOT, "expected", "*.md")))  # the expected results are report-shaped: their quotes and ids must resolve too
-    c1_c2(reports, ids, corp); c3(); c4(); c5(); c6(names)
+    c1_c2(reports, ids, corp); c3(); c4(); c5(); c6(names); c7()
     if controls:
         global fails
         keep = fails; fails = []
